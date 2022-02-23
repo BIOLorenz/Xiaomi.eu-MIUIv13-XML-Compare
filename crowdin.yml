@@ -1,0 +1,3 @@
+files:
+  - source: /star/
+    translation: /%language%/%original_path%-it/%original_file_name%
