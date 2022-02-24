@@ -170,7 +170,7 @@
         <item>100M</item>
         <item>200M</item>
         <item>500M</item>
-        <item>自定义</item>
+        <item>Personalizzato</item>
     </string-array>
     <string-array name="detailed_am_pms">
         <item>@string/midnight</item>
@@ -232,11 +232,11 @@
         <item>@string/eras_ad</item>
     </string-array>
     <string-array name="gb_adv_touch_custom_level">
-        <item>Lowest</item>
-        <item>Low</item>
-        <item>Regular</item>
-        <item>High</item>
-        <item>Highest</item>
+        <item>Più basso</item>
+        <item>Bassa</item>
+        <item>Normale</item>
+        <item>Alta</item>
+        <item>Migliore</item>
     </string-array>
     <string-array name="gb_gpu_custom_anisotropic">
         <item>1X</item>
@@ -264,7 +264,7 @@
     </string-array>
     <string-array name="gb_gpu_custom_fps">
         <item>30</item>
-        <item>%d</item>
+        <item>45</item>
     </string-array>
     <string-array name="gb_gpu_custom_lod_value">
         <item>-2.0</item>
@@ -274,14 +274,14 @@
         <item>2.0</item>
     </string-array>
     <string-array name="gb_gpu_custom_texture">
-        <item>High speed</item>
-        <item>Balanced</item>
-        <item>High quality</item>
+        <item>Alta velocità</item>
+        <item>Bilanciato</item>
+        <item>Alta qualità</item>
     </string-array>
     <string-array name="gb_gpu_custom_texture_value">
-        <item>Fastest</item>
-        <item>Balanced</item>
-        <item>Default</item>
+        <item>Rapidissimo</item>
+        <item>Bilanciato</item>
+        <item>Predefinita</item>
     </string-array>
     <string-array name="heavenly_stems">
         <item>@string/heavenly_stems_jia</item>
@@ -343,7 +343,7 @@
         <item>网络设置</item>
         <item>安全保护</item>
         <item>护眼模式</item>
-        <item>更多设置</item>
+        <item>Altre impostazioni</item>
     </string-array>
     <string-array name="solar_terms">
         <item>@string/empty</item>
