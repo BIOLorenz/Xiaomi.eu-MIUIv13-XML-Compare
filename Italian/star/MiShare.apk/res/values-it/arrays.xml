@@ -226,24 +226,24 @@
         <item>android.permission-group.LOCATION</item>
     </string-array>
     <string-array name="permissions_desc">
-        <item>For accessing and saving images, apps, and other files, as well as transferring them</item>
-        <item>For transferring files using Bluetooth and Wi-Fi</item>
+        <item>Per accedere e salvare immagini, applicazioni e altri file e per trasferirli</item>
+        <item>Per trasferire file utilizzando Bluetooth e Wi-Fi</item>
     </string-array>
     <string-array name="permissions_desc_china">
-        <item>For accessing and saving images, apps, and other files, as well as transferring them</item>
-        <item>For transferring files using Bluetooth and Wi-Fi</item>
+        <item>Per accedere e salvare immagini, applicazioni e altri file e per trasferirli</item>
+        <item>Per trasferire file utilizzando Bluetooth e Wi-Fi</item>
     </string-array>
     <string-array name="permissions_desc_v12">
-        <item>For sending and receiving files</item>
-        <item>For transferring files using Bluetooth and Wi-Fi</item>
-        <item>For finding available devices nearby using Bluetooth</item>
-        <item>For finding available devices nearby and transferring files using Wi-Fi</item>
+        <item>Per l\'invio e la ricezione dei file</item>
+        <item>Per trasferire file utilizzando Bluetooth e Wi-Fi</item>
+        <item>Per trovare i dispositivi disponibili nelle vicinanze utilizzando il Bluetooth</item>
+        <item>Per trovare dispositivi disponibili nelle vicinanze e trasferire file utilizzando il Wi-Fi</item>
     </string-array>
     <string-array name="permissions_desc_v12_china">
-        <item>For sending and receiving files</item>
-        <item>For transferring files using Bluetooth and Wi-Fi</item>
-        <item>For finding available devices nearby using Bluetooth</item>
-        <item>For finding available devices nearby and transferring files using Wi-Fi</item>
+        <item>Per l\'invio e la ricezione dei file</item>
+        <item>Per trasferire file utilizzando Bluetooth e Wi-Fi</item>
+        <item>Per trovare i dispositivi disponibili nelle vicinanze utilizzando il Bluetooth</item>
+        <item>Per trovare dispositivi disponibili nelle vicinanze e trasferire file utilizzando il Wi-Fi</item>
     </string-array>
     <string-array name="permissions_v12">
         <item>android.permission-group.STORAGE</item>
