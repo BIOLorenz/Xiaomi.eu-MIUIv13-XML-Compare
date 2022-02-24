@@ -168,9 +168,9 @@
         <item>@string/eras_ad</item>
     </string-array>
     <string-array name="hd_record_scenes_entries">
-        <item>Music</item>
-        <item>Voice</item>
-        <item>Interview</item>
+        <item>Musica</item>
+        <item>Voce</item>
+        <item>Intervista</item>
         <item>HD</item>
     </string-array>
     <string-array name="heavenly_stems">
@@ -186,9 +186,9 @@
         <item>@string/heavenly_stems_gui</item>
     </string-array>
     <string-array name="interview_record_scenes_entries">
-        <item>Music</item>
-        <item>Voice</item>
-        <item>Interview</item>
+        <item>Musica</item>
+        <item>Voce</item>
+        <item>Intervista</item>
     </string-array>
     <string-array name="months">
         <item>@string/month_january</item>
@@ -248,9 +248,9 @@
         <item>bn</item>
     </string-array>
     <string-array name="record_quality_entries">
-        <item>High</item>
-        <item>Standard</item>
-        <item>Low</item>
+        <item>Alta</item>
+        <item>Normale</item>
+        <item>Bassa</item>
     </string-array>
     <string-array name="record_quality_summaries">
         <item>MP3, ~192kbit/s, ~90MB/h</item>
@@ -263,20 +263,20 @@
         <item>3</item>
     </string-array>
     <string-array name="record_scenes_entries">
-        <item>Music</item>
-        <item>Voice</item>
+        <item>Musica</item>
+        <item>Voce</item>
     </string-array>
     <string-array name="record_scenes_summaries">
-        <item>Record music with better quality</item>
-        <item>Move the mic closer to the source of the sound for better quality</item>
-        <item>Place the phone between 2 people to record their conversation clearly</item>
-        <item>High dynamic range technology allows the microphone to capture more detailed sound</item>
+        <item>Registra musica con una migliore qualità</item>
+        <item>Sposta il microfono più vicino alla sorgente del suono per una migliore qualità</item>
+        <item>Posiziona il telefono tra 2 persone per registrare chiaramente la loro conversazione</item>
+        <item>La tecnologia ad alta gamma dinamica consente al microfono di registrare un suono più dettagliato</item>
     </string-array>
     <string-array name="record_scenes_summaries_stereo">
-        <item>Record through 2 channels, listen to stereo sound in the earphones</item>
-        <item>Move the mic closer to the source of the sound for better quality</item>
-        <item>Place the phone between 2 people to record their conversation clearly</item>
-        <item>High dynamic range technology allows the microphone to capture more detailed sound</item>
+        <item>Registra attraverso 2 canali, ascolta il suono stereo negli auricolari</item>
+        <item>Sposta il microfono più vicino alla sorgente del suono per una migliore qualità</item>
+        <item>Posiziona il telefono tra 2 persone per registrare chiaramente la loro conversazione</item>
+        <item>La tecnologia ad alta gamma dinamica consente al microfono di registrare un suono più dettagliato</item>
     </string-array>
     <string-array name="record_scenes_values">
         <item>1</item>
