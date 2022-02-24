@@ -1,76 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
-        <item quantity="one">1 hour ago</item>
-        <item quantity="other">1 hour ago</item>
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">1 hour ago</item>
-        <item quantity="other">1 hour ago</item>
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="one">Half an hour ago</item>
-        <item quantity="other">Half an hour ago</item>
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">In 1 hour</item>
-        <item quantity="other">In 1 hour</item>
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="one">In half an hour</item>
-        <item quantity="other">In half an hour</item>
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="one">Immediately</item>
-        <item quantity="other">Immediately</item>
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d mins</item>
-        <item quantity="one">in 1 min</item>
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="one">Just now</item>
-        <item quantity="other">Just now</item>
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins ago</item>
-        <item quantity="one">1 min ago</item>
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
     </plurals>
     <plurals name="comment_model_watch_reply">
-        <item quantity="other">View %d replies</item>
-        <item quantity="one">View %d reply</item>
+        <item quantity="other">Vedi %d risposte</item>
+        <item quantity="one">Vedi %d risposta</item>
     </plurals>
     <plurals name="feed_back_home">
-        <item quantity="other">Going back to the home page in %1$d seconds…</item>
-        <item quantity="one">Going back to the home page in %1$d second…</item>
+        <item quantity="other">Ritorno alla home page tra %1$d secondi…</item>
+        <item quantity="one">Ritorno alla home page tra %1$d secondo…</item>
     </plurals>
     <plurals name="follower">
-        <item quantity="other">%d followers</item>
+        <item quantity="other">%d follower</item>
         <item quantity="one">%d follower</item>
     </plurals>
     <plurals name="half_hour_ago">
-        <item quantity="one">Half an hour ago</item>
-        <item quantity="other">Half an hour ago</item>
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="one">In 1 hour</item>
-        <item quantity="other">In 1 hour</item>
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="one">In half an hour</item>
-        <item quantity="other">In half an hour</item>
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
-        <item quantity="one">Immediately</item>
-        <item quantity="other">Immediately</item>
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">in %d minutes</item>
-        <item quantity="one">in 1 minute</item>
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">Just now</item>
-        <item quantity="other">Just now</item>
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
     </plurals>
     <plurals name="local_video_floder">
         <item quantity="other">%d folders</item>
@@ -85,19 +85,19 @@
         <item quantity="one">%d season</item>
     </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
-        <item quantity="other">Subtitles will be shown %.1f seconds earlier</item>
-        <item quantity="one">Subtitles will be shown %.1f second earlier</item>
+        <item quantity="other">I sottotitoli verranno mostrati %.1f secondi prima</item>
+        <item quantity="one">I sottotitoli verranno mostrati %.1f secondo prima</item>
     </plurals>
     <plurals name="lv_subtitle_offset_delay_times">
-        <item quantity="other">Subtitles will be shown %.1f seconds later</item>
-        <item quantity="one">Subtitles will be shown %.1f second later</item>
+        <item quantity="other">I sottotitoli verranno mostrati %.1f secondi più tardi</item>
+        <item quantity="one">I sottotitoli verranno mostrati %.1f secondo più tardi</item>
     </plurals>
     <plurals name="lv_subtitle_onlinesub_size_float_kb">
-        <item quantity="other">Size: %.2fKB</item>
-        <item quantity="one">Size: %.2fKB</item>
+        <item quantity="other">Dimensione: %.2fKB</item>
+        <item quantity="one">Dimensione: %.2fKB</item>
     </plurals>
     <plurals name="lv_video_count">
-        <item quantity="other">%d videos</item>
+        <item quantity="other">%d video</item>
         <item quantity="one">%d video</item>
     </plurals>
     <plurals name="mangotv_feature_list_title1">
@@ -113,80 +113,80 @@
         <item quantity="one">%d episode total</item>
     </plurals>
     <plurals name="mediation_animate_close_after">
-        <item quantity="other">%s secs left</item>
-        <item quantity="one">%s sec left</item>
+        <item quantity="other">%s sec rimasti</item>
+        <item quantity="one">%s sec rimasto</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d items selected</item>
-        <item quantity="one">%d item selected</item>
+        <item quantity="other">%d elementi selezionati</item>
+        <item quantity="one">%d elemento selezionato</item>
     </plurals>
     <plurals name="notice_user_banned">
-        <item quantity="other">Your content contains items (%1$s) that violate our community standards. Your account is suspended for %2$d days until %3$s.</item>
-        <item quantity="one">Your content contains items (%1$s) that violate our community standards. Your account is suspended for %2$d day until %3$s.</item>
+        <item quantity="other">Il tuo contenuto contiene elementi (%1$s) che violano gli standard della nostra comunità. Il tuo account è sospeso per %2$d giorni fino al %3$s.</item>
+        <item quantity="one">Il tuo contenuto contiene elementi (%1$s) che violano gli standard della nostra comunità. Il tuo account è sospeso per %2$d giorno fino al %3$s.</item>
     </plurals>
     <plurals name="notification_close_tip">
-        <item quantity="other">This feature will be turned off for %s days</item>
-        <item quantity="one">This feature will be turned off for %s day</item>
+        <item quantity="other">Questa funzione sarà disattivata per %s giorni</item>
+        <item quantity="one">Questa funzione sarà disattivata per %s giorno</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d minutes ago</item>
-        <item quantity="one">1 minute ago</item>
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
     </plurals>
     <plurals name="ovp_detail_v_video_count">
-        <item quantity="other">%d videos</item>
+        <item quantity="other">%d video</item>
         <item quantity="one">%d video</item>
     </plurals>
     <plurals name="ovp_home_item_unit">
-        <item quantity="other">%d videos</item>
+        <item quantity="other">%d video</item>
         <item quantity="one">%d video</item>
     </plurals>
     <plurals name="plus_edit_delete_comfire_text">
-        <item quantity="other">Delete %s items now?</item>
-        <item quantity="one">Delete %s item now?</item>
+        <item quantity="other">Eliminare %s elementi?</item>
+        <item quantity="one">Eliminare %s elemento?</item>
     </plurals>
     <plurals name="plus_edit_top_titletext">
-        <item quantity="other">Selected %s items</item>
-        <item quantity="one">Selected %s item</item>
+        <item quantity="other">%s elementi selezionati</item>
+        <item quantity="one">%s elemento selezionato</item>
     </plurals>
     <plurals name="plus_player_subtitle_online_size">
-        <item quantity="other">File size: %.2fKB</item>
-        <item quantity="one">File size: %.2fKB</item>
+        <item quantity="other">Dimensione file: %.2fKB</item>
+        <item quantity="one">Dimensione file: %.2fKB</item>
     </plurals>
     <plurals name="plus_search_result_title">
-        <item quantity="other">%2$s results for \"%1$s\"</item>
-        <item quantity="one">%2$s result for \"%1$s\"</item>
+        <item quantity="other">%2$s risultati per \"%1$s\"</item>
+        <item quantity="one">%2$s risultato per \"%1$s\"</item>
     </plurals>
     <plurals name="plus_serval_pictures">
-        <item quantity="other">%d images</item>
-        <item quantity="one">%d image</item>
+        <item quantity="other">%d immagini</item>
+        <item quantity="one">%d immagine</item>
     </plurals>
     <plurals name="plus_serval_videos">
-        <item quantity="other">%d videos</item>
+        <item quantity="other">%d video</item>
         <item quantity="one">%d video</item>
     </plurals>
     <plurals name="s_double_tap_backward">
-        <item quantity="other">Double tap to rewind by %d seconds</item>
-        <item quantity="one">Double tap to rewind by %d second</item>
+        <item quantity="other">Tocca due volte per riavvolgere di %d secondi</item>
+        <item quantity="one">Tocca due volte per riavvolgere di %d secondo</item>
     </plurals>
     <plurals name="s_double_tap_forward">
-        <item quantity="other">Double tap to fast forward by %d seconds</item>
-        <item quantity="one">Double tap to fast forward by %d second</item>
+        <item quantity="other">Tocca due volte per avanzare di %d secondi</item>
+        <item quantity="one">Tocca due volte per avanzare di %d secondo</item>
     </plurals>
     <plurals name="s_forward_tip">
-        <item quantity="other">%1$s secs</item>
+        <item quantity="other">%1$s sec</item>
         <item quantity="one">%1$s sec</item>
     </plurals>
     <plurals name="subscriber">
-        <item quantity="other">%s subscribers</item>
-        <item quantity="one">%s subscriber</item>
+        <item quantity="other">%s iscritti</item>
+        <item quantity="one">%s iscritto</item>
     </plurals>
     <plurals name="subtitle_offset_advance_times">
-        <item quantity="other">Subtitles are moved %.1f seconds forward</item>
-        <item quantity="one">Subtitles are moved %.1f second forward</item>
+        <item quantity="other">I sottotitoli appariranno %.1f secondi dopo</item>
+        <item quantity="one">I sottotitoli appariranno %.1f secondo dopo</item>
     </plurals>
     <plurals name="subtitle_offset_delay_times">
-        <item quantity="other">Subtitles are delayed for %.1f seconds</item>
-        <item quantity="one">Subtitles are delayed for %.1f second</item>
+        <item quantity="other">I sottotitoli sono ritardati di %.1f secondi</item>
+        <item quantity="one">I sottotitoli sono ritardati di %.1f secondo</item>
     </plurals>
     <plurals name="toast_bookmark_max_size">
         <item quantity="other">Add up to %d bookmarks</item>
