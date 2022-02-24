@@ -232,38 +232,38 @@
     </string-array>
     <string-array name="settings_search_earth">
         <item>Home</item>
-        <item>Wallpaper/Super wallpapers/Home</item>
-        <item>Earth;Super wallpapers;Earth Edition;Wallpaper</item>
+        <item>Sfondo/Super Sfondi/Home</item>
+        <item>Terra;Super Sfondi;Edizione Terra;Sfondo</item>
     </string-array>
     <string-array name="settings_search_geometry">
-        <item>Geometry</item>
-        <item>Wallpaper/Super wallpapers/Geometry</item>
-        <item>Geometry;Abstract;Super wallpaper;Wallpaper</item>
+        <item>Geometria</item>
+        <item>Sfondi/Super Sfondi/Geometria</item>
+        <item>Geometria;Astratto;Super Sfondi;Sfondo</item>
     </string-array>
     <string-array name="settings_search_mars">
-        <item>The red planet</item>
-        <item>Wallpaper/Super wallpapers/The red planet</item>
-        <item>Mars;Mars Edition;Super wallpapers;Wallpaper</item>
+        <item>Il Pianeta Rosso</item>
+        <item>Sfondo/Super Sfondi/Il pianeta rosso</item>
+        <item>Marte;Edizione Marte;Super Sfondi;Sfondo</item>
     </string-array>
     <string-array name="settings_search_saturn">
-        <item>Rings of Saturn</item>
-        <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
-        <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
+        <item>Anelli di Saturno</item>
+        <item>Sfondi/Super Sfondi/Anelli di Saturno</item>
+        <item>Pianeta;Saturno;Super Sfondi;Sfondo</item>
     </string-array>
     <string-array name="settings_search_snowmountain">
-        <item>Snowy peaks</item>
-        <item>Wallpaper/Super wallpapers/Snowy peaks</item>
-        <item>Earth;Mountains;Super wallpaper;Wallpaper</item>
+        <item>Cime innevate</item>
+        <item>Sfondi/Super Sfondi/Picchi nevosi</item>
+        <item>Terra;Montagne;Super Sfondi;Sfondo</item>
     </string-array>
     <string-array name="settings_search_superwp">
-        <item>Super wallpapers</item>
-        <item>Wallpaper/Super wallpapers</item>
-        <item>Super wallpapers;Wallpaper;Dynamic wallpaper;3D wallpaper</item>
+        <item>Super Sfondi</item>
+        <item>Sfondi/Super Sfondi</item>
+        <item>Super Sfondi;Sfondo;Sfondo dinamico;Sfondo 3D</item>
     </string-array>
     <string-array name="settings_search_weather">
-        <item>Weather</item>
-        <item>Wallpaper/Super wallpapers/Weather</item>
-        <item>Weather;Weather info;Super wallpaper;Wallpaper</item>
+        <item>Meteo</item>
+        <item>Sfondo/Super Sfondi/Meteo</item>
+        <item>Meteo;Informazioni meteo;Super Sfondi;Sfondo</item>
     </string-array>
     <string-array name="solar_terms">
         <item>@string/empty</item>
@@ -352,7 +352,7 @@
         <item>thyme</item>
         <item>haydn</item>
         <item>haydnin</item>
-        <item>star</item>
+        <item>asterisco</item>
         <item>starin</item>
         <item>mars</item>
         <item>marsin</item>
@@ -401,7 +401,7 @@
         <item>venus</item>
         <item>haydn</item>
         <item>haydnin</item>
-        <item>star</item>
+        <item>asterisco</item>
         <item>starin</item>
         <item>mars</item>
         <item>marsin</item>
