@@ -339,9 +339,9 @@
         <item>mx</item>
     </string-array>
     <string-array name="other_settings_auto_update_entries">
-        <item>Wi-Fi and mobile data</item>
-        <item>Wi-Fi only</item>
-        <item>Off</item>
+        <item>Wi-Fi e dati mobili</item>
+        <item>Solo Wi-Fi</item>
+        <item>Disattivato</item>
     </string-array>
     <string-array name="popular_language_locales">
         <item>en_IN</item>
