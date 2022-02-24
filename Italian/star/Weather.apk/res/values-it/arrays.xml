@@ -64,12 +64,12 @@
         <item>@string/pm</item>
     </string-array>
     <string-array name="aqi_detail_title">
-        <item>Good</item>
-        <item>Moderate</item>
-        <item>Unhealthy for sensitive groups</item>
-        <item>Unhealthy</item>
-        <item>Very unhealthy</item>
-        <item>Hazardous</item>
+        <item>Normale</item>
+        <item>Moderato</item>
+        <item>Malsano per gruppi sensibili</item>
+        <item>Non salutare</item>
+        <item>Molto malsano</item>
+        <item>Rischiosa</item>
     </string-array>
     <string-array name="aqi_title">
         <item>%1$s</item>
@@ -96,13 +96,13 @@
         <item>AQI %1$s</item>
     </string-array>
     <string-array name="aqi_value">
-        <item>Good</item>
-        <item>Satisfactory</item>
-        <item>Moderately polluted</item>
-        <item>Poor</item>
-        <item>Very poor</item>
-        <item>Severe</item>
-        <item>Beyond index</item>
+        <item>Normale</item>
+        <item>Soddisfacente</item>
+        <item>Moderatamente inquinato</item>
+        <item>Scarsa</item>
+        <item>Molto scarsa</item>
+        <item>Grave</item>
+        <item>Oltre l\'indice</item>
     </string-array>
     <string-array name="big_thunder_1">
         <item>dla_00.png</item>
@@ -403,7 +403,7 @@
         <item>@string/heavenly_stems_gui</item>
     </string-array>
     <string-array name="hot_city">
-        <item>Beijing</item>
+        <item>Pechino</item>
         <item>Shanghai</item>
         <item>Hong Kong</item>
         <item>Taipei City</item>
@@ -416,7 +416,7 @@
         <item>Rio de Janeiro</item>
         <item>Singapore</item>
         <item>Berlin</item>
-        <item>Rome</item>
+        <item>Roma</item>
         <item>New York</item>
         <item>Los Angeles</item>
         <item>Chicago</item>
@@ -427,9 +427,9 @@
         <item>Kuala Lumpur</item>
     </string-array>
     <string-array name="minute_rain_array">
-        <item>Heavy</item>
-        <item>Moderate</item>
-        <item>Light</item>
+        <item>Forte</item>
+        <item>Moderato</item>
+        <item>Leggero</item>
     </string-array>
     <string-array name="months">
         <item>@string/month_january</item>
@@ -568,32 +568,32 @@
         <item>@string/set_fahrenheit</item>
     </string-array>
     <string-array name="weather_type">
-        <item>Clear</item>
-        <item>Cloudy</item>
-        <item>Overcast</item>
-        <item>Foggy</item>
-        <item>Heavy rainstorm</item>
-        <item>Downpour</item>
-        <item>Rainstorm</item>
-        <item>Thunderstorm</item>
-        <item>Rain</item>
-        <item>Heavy rainfall</item>
-        <item>Moderate rain</item>
-        <item>Light rain</item>
-        <item>Rain and snow mixed</item>
-        <item>Blizzard</item>
-        <item>Snow</item>
-        <item>Heavy snow</item>
-        <item>Moderate snow</item>
-        <item>Light snow</item>
-        <item>Strong sandstorm</item>
-        <item>Sand storm</item>
-        <item>Sand</item>
-        <item>Windy</item>
-        <item>Hail</item>
-        <item>Dust</item>
-        <item>Haze</item>
-        <item>Freezing rain</item>
+        <item>Cancella</item>
+        <item>Nuvoloso</item>
+        <item>Coperto</item>
+        <item>Nebbioso</item>
+        <item>Forte temporale</item>
+        <item>Acquazzone</item>
+        <item>Temporale</item>
+        <item>Forte temporale</item>
+        <item>Pioggia</item>
+        <item>Pioggia intensa</item>
+        <item>Pioggia moderata</item>
+        <item>Pioggia leggera</item>
+        <item>Pioggia e neve</item>
+        <item>Tormenta di neve</item>
+        <item>Neve</item>
+        <item>Tormenta di neve</item>
+        <item>Nevicata moderata</item>
+        <item>Nevischio</item>
+        <item>Forte tempesta di sabbia</item>
+        <item>Tempesta di sabbia</item>
+        <item>Sabbia</item>
+        <item>Ventilato</item>
+        <item>Grandine</item>
+        <item>Polvere</item>
+        <item>Foschia</item>
+        <item>Pioggia gelata</item>
         <item></item>
     </string-array>
     <string-array name="week_days">
@@ -624,24 +624,24 @@
         <item>@string/saturday_shortest</item>
     </string-array>
     <string-array name="wind_direction">
-        <item>North</item>
-        <item>Northeast</item>
-        <item>East</item>
-        <item>Southeast</item>
-        <item>South</item>
-        <item>Southwest</item>
-        <item>West</item>
-        <item>Northwest</item>
+        <item>Nord</item>
+        <item>NordEst</item>
+        <item>Est</item>
+        <item>SudEst</item>
+        <item>Sud</item>
+        <item>SudOvest</item>
+        <item>Ovest</item>
+        <item>NordOvest</item>
     </string-array>
     <string-array name="wind_direction_simple">
         <item>N</item>
-        <item>NE</item>
+        <item>NO</item>
         <item>E</item>
-        <item>SE</item>
+        <item>S-E</item>
         <item>S</item>
-        <item>SW</item>
-        <item>W</item>
-        <item>NW</item>
+        <item>SO</item>
+        <item>O</item>
+        <item>NO</item>
     </string-array>
     <string-array name="wind_power">
         <item>0</item>
@@ -666,15 +666,15 @@
         <item>5</item>
     </string-array>
     <string-array name="wind_unit_detail">
-        <item>Beaufort scale</item>
-        <item>Kilometers per hour (km/h)</item>
-        <item>Meters per second (m/s)</item>
-        <item>Miles per hour (mph)</item>
-        <item>Knot (kn)</item>
+        <item>Scala Beaufort</item>
+        <item>Chilometri orari (km/h)</item>
+        <item>Metri al secondo (m/s)</item>
+        <item>Miglia all\'ora (mph)</item>
+        <item>Nodi (kn)</item>
     </string-array>
     <string-array name="wind_unit_replace">
-        <item>Force %1$s</item>
-        <item>%1$skm/h</item>
+        <item>Forza %1$s</item>
+        <item>%1$s km/h</item>
         <item>%1$sm/s</item>
         <item>%1$smph</item>
         <item>%1$skn</item>
