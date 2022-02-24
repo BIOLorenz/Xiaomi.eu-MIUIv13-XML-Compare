@@ -179,9 +179,9 @@
         <item>@string/earthly_branches_hai</item>
     </string-array>
     <string-array name="emode_app_groups">
-        <item>System apps</item>
-        <item>Other apps</item>
-        <item>Selected apps</item>
+        <item>App di sistema</item>
+        <item>Altre app</item>
+        <item>Applicazioni selezionate</item>
     </string-array>
     <string-array name="eras">
         <item>@string/eras_bc</item>
@@ -200,12 +200,12 @@
         <item>@string/heavenly_stems_gui</item>
     </string-array>
     <string-array name="hmode_app_classify1">
-        <item>Custom</item>
-        <item>MIUI battery saver</item>
+        <item>Personalizza</item>
+        <item>Risparmio energetico MIUI</item>
     </string-array>
     <string-array name="hmode_app_classify2">
-        <item>Active apps</item>
-        <item>Sleeping apps</item>
+        <item>App attive</item>
+        <item>App sospese</item>
     </string-array>
     <string-array name="months">
         <item>@string/month_january</item>
@@ -250,12 +250,12 @@
         <item>@string/month_december_shortest</item>
     </string-array>
     <string-array name="pc_manage_active_app_items">
-        <item>Put apps to sleep</item>
-        <item>Save power</item>
+        <item>Sospendi le app</item>
+        <item>Risparmia batteria</item>
     </string-array>
     <string-array name="power_mode_entries">
-        <item>Performance</item>
-        <item>Balanced</item>
+        <item>Prestazioni</item>
+        <item>Bilanciato</item>
     </string-array>
     <string-array name="sleep_white_list">
         <item>android</item>
@@ -309,13 +309,13 @@
         <item>@string/solar_term_winter_solstice</item>
     </string-array>
     <string-array name="thermal_entries">
-        <item>Default temperature control mode</item>
-        <item>Performance mode</item>
+        <item>Modalità predefinita di controllo della temperatura</item>
+        <item>Modalità prestazioni</item>
     </string-array>
     <string-array name="thermal_summaries">
-        <item>Prioritize temperature control</item>
-        <item>Prioritize performance</item>
-        <item>Not supported by Extreme battery saver</item>
+        <item>Priorità al controllo della temperatura</item>
+        <item>Priorità alle prestazioni</item>
+        <item>Non supportato dall\'Ultra Risparmio Energetico</item>
     </string-array>
     <string-array name="time_ticks">
         <item>4</item>
