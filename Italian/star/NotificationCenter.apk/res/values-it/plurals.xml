@@ -1,99 +1,99 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
-        <item quantity="one">1 hour ago</item>
-        <item quantity="other">1 hour ago</item>
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">1 hour ago</item>
-        <item quantity="other">1 hour ago</item>
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="one">Half an hour ago</item>
-        <item quantity="other">Half an hour ago</item>
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">In 1 hour</item>
-        <item quantity="other">In 1 hour</item>
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="one">In half an hour</item>
-        <item quantity="other">In half an hour</item>
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="one">Immediately</item>
-        <item quantity="other">Immediately</item>
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d mins</item>
-        <item quantity="one">in 1 min</item>
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="one">Just now</item>
-        <item quantity="other">Just now</item>
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins ago</item>
-        <item quantity="one">1 min ago</item>
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
     </plurals>
     <plurals name="half_hour_ago">
-        <item quantity="one">Half an hour ago</item>
-        <item quantity="other">Half an hour ago</item>
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="one">In 1 hour</item>
-        <item quantity="other">In 1 hour</item>
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="one">In half an hour</item>
-        <item quantity="other">In half an hour</item>
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
-        <item quantity="one">Immediately</item>
-        <item quantity="other">Immediately</item>
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">in %d minutes</item>
-        <item quantity="one">in 1 minute</item>
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
     </plurals>
     <plurals name="last_sent_time_day">
-        <item quantity="other">%d days ago</item>
-        <item quantity="one">%d day ago</item>
+        <item quantity="other">%d giorni fa</item>
+        <item quantity="one">%d giorno fa</item>
     </plurals>
     <plurals name="last_sent_time_hour">
-        <item quantity="other">%d hours ago</item>
-        <item quantity="one">%d hour ago</item>
+        <item quantity="other">%d ore fa</item>
+        <item quantity="one">%d ora fa</item>
     </plurals>
     <plurals name="last_sent_time_minute">
-        <item quantity="other">%d minutes ago</item>
-        <item quantity="one">%d minute ago</item>
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">%d minuto fa</item>
     </plurals>
     <plurals name="last_sent_time_month">
-        <item quantity="other">%d months ago</item>
-        <item quantity="one">%d month ago</item>
+        <item quantity="other">%d mesi fa</item>
+        <item quantity="one">%d mese fa</item>
     </plurals>
     <plurals name="last_sent_time_week">
-        <item quantity="other">%d weeks ago</item>
-        <item quantity="one">%d week ago</item>
+        <item quantity="other">%d settimane fa</item>
+        <item quantity="one">%d settimana fa</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">Just now</item>
-        <item quantity="other">Just now</item>
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d items selected</item>
-        <item quantity="one">%d item selected</item>
+        <item quantity="other">%d elementi selezionati</item>
+        <item quantity="one">%d elemento selezionato</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d minutes ago</item>
-        <item quantity="one">1 minute ago</item>
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
     </plurals>
     <plurals name="sent_frequency_per_day">
-        <item quantity="other">%d notifications a day</item>
-        <item quantity="one">%d notification a day</item>
+        <item quantity="other">%d notifiche al giorno</item>
+        <item quantity="one">%d notifica al giorno</item>
     </plurals>
     <plurals name="sent_frequency_per_week">
-        <item quantity="other">%d notifications a week</item>
-        <item quantity="one">%d notification a week</item>
+        <item quantity="other">%d notifiche a settimana</item>
+        <item quantity="one">%d notifica a settimana</item>
     </plurals>
 </resources>
