@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="account_user_gender_name">
-        <item>Male</item>
-        <item>Female</item>
+        <item>Maschio</item>
+        <item>Femmina</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>\#</item>
@@ -497,7 +497,7 @@
         <item>Dansk</item>
         <item>Deutsch</item>
         <item>Eesti</item>
-        <item>English</item>
+        <item>Inglese</item>
         <item>Español</item>
         <item>Euskara</item>
         <item>Français</item>
@@ -557,12 +557,12 @@
         <item>繁體中文</item>
     </string-array>
     <string-array name="menu_theme_setting">
-        <item>White</item>
-        <item>Yellow</item>
-        <item>Grey</item>
-        <item>Brown</item>
-        <item>Green</item>
-        <item>Blue</item>
+        <item>Bianco</item>
+        <item>Giallo</item>
+        <item>Grigio</item>
+        <item>Marrone</item>
+        <item>Verde</item>
+        <item>Blu</item>
     </string-array>
     <string-array name="months">
         <item>@string/month_january</item>
@@ -621,18 +621,18 @@
         <item>Fraudulent information</item>
     </string-array>
     <string-array name="nf_feedback_reason">
-        <item>Explicit content</item>
-        <item>Falsehood</item>
-        <item>Old news</item>
-        <item>Extremist views</item>
-        <item>Subliminal advertising</item>
+        <item>Contenuto esplicito</item>
+        <item>Falsità</item>
+        <item>Vecchie notizie</item>
+        <item>Panoramica estremista</item>
+        <item>Pubblicità subliminale</item>
         <item>"I don't like it"</item>
     </string-array>
     <string-array name="only_google">
         <item>Google</item>
         <item>google.com</item>
         <item>https://www.google.com/favicon.ico</item>
-        <item>https://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}&amp;client={clientidbase}</item>
+        <item>https://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}&amp;client=ms-{clientidbase}</item>
         <item>UTF-8</item>
         <item>https://api.bing.com/osjson.aspx?query={searchTerms}&amp;market={language}</item>
     </string-array>
@@ -642,18 +642,18 @@
         <item>@string/pref_data_preload_value_always</item>
     </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
-        <item>Go back/forward</item>
-        <item>Switch tabs</item>
-        <item>None</item>
+        <item>Vai indietro/avanti</item>
+        <item>Cambia scheda</item>
+        <item>Nessuno</item>
     </string-array>
     <string-array name="pref_fling_on_border_gesture_values">
         <item>back_forward</item>
         <item>switch_tabs</item>
-        <item>none</item>
+        <item>smart</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Default start page</item>
-        <item>Custom</item>
+        <item>Pagina iniziale predefinita</item>
+        <item>Personalizza</item>
     </string-array>
     <string-array name="pref_homepage_values">
         <item>miui_home</item>
@@ -670,25 +670,25 @@
         <item>@string/pref_link_prefetch_value_always</item>
     </string-array>
     <string-array name="pref_nav_mode_summary">
-        <item>Phone</item>
-        <item>Pad</item>
+        <item>Telefono</item>
+        <item>Tablet</item>
     </string-array>
     <string-array name="pref_nav_mode_summary_values">
         <item>0</item>
         <item>1</item>
     </string-array>
     <string-array name="pref_navscreen_layoutstate_choices">
-        <item>Vertical view</item>
-        <item>Horizontal view</item>
+        <item>Vista verticale</item>
+        <item>Vista orizzontale</item>
     </string-array>
     <string-array name="pref_navscreen_layoutstate_values">
         <item>0</item>
         <item>1</item>
     </string-array>
     <string-array name="pref_security_do_not_track_keys">
-        <item>On</item>
-        <item>Only in Incognito mode</item>
-        <item>Off</item>
+        <item>Attivata</item>
+        <item>Solo in modalità incognito</item>
+        <item>Spenta</item>
     </string-array>
     <string-array name="pref_security_do_not_track_values">
         <item>@string/pref_security_do_not_track_values_on</item>
@@ -696,11 +696,11 @@
         <item>@string/pref_security_do_not_track_values_off</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
-        <item>Tiny</item>
-        <item>Small</item>
-        <item>Normal</item>
-        <item>Large</item>
-        <item>Huge</item>
+        <item>Testo molto piccolo</item>
+        <item>Piccolo</item>
+        <item>Normale</item>
+        <item>Largo</item>
+        <item>Testo molto grande</item>
     </string-array>
     <string-array name="pref_text_zoom_values">
         <item>70</item>
@@ -728,8 +728,8 @@
     </string-array>
     <string-array name="protection_name">
         <item>Auto</item>
-        <item>None</item>
-        <item>New user</item>
+        <item>Nessuno</item>
+        <item>Nuovo utente</item>
     </string-array>
     <string-array name="protection_value">
         <item>-1</item>
@@ -748,16 +748,16 @@
         <item>News</item>
     </string-array>
     <string-array name="shortcut_dialog_delete">
-        <item>Delete</item>
-        <item>No thanks</item>
+        <item>Elimina</item>
+        <item>Non ora</item>
     </string-array>
     <string-array name="shortcut_dialog_keep">
         <item>OK</item>
-        <item>Follow</item>
+        <item>Segui</item>
     </string-array>
     <string-array name="shortcut_dialog_title">
-        <item>Message from Browser</item>
-        <item>Follow the Olympics with Mi</item>
+        <item>Messaggio dal browser</item>
+        <item>Segui le Olimpiadi con Mi</item>
     </string-array>
     <string-array name="sogou">
         <item>搜狗</item>
@@ -800,21 +800,21 @@
         <item>@string/solar_term_winter_solstice</item>
     </string-array>
     <string-array name="speed_result_tips">
-        <item>"Current network connection is very slow. Looks like you're in an area with poor network coverage."</item>
-        <item>Current network connection is slow.</item>
-        <item>No problems with network connection found.</item>
-        <item>"Current network connection is fast. It's enough for streaming movies!"</item>
-        <item>"Current network connection is very fast! You're at the top of your game."</item>
+        <item>"La connessione di rete attuale è molto lenta. Sembra che tu sia in un'area con scarsa copertura di rete."</item>
+        <item>La connessione di rete è lenta.</item>
+        <item>Nessun problema con la connessione di rete.</item>
+        <item>"La connessione di rete è veloce. È sufficiente per lo streaming di film!"</item>
+        <item>"La connessione di rete è molto veloce! Sei al top."</item>
     </string-array>
     <string-array name="user_guide_info_array">
-        <item>Download videos and photos from social media</item>
-        <item>Save images and videos from WhatsApp statuses</item>
-        <item>Manage files on your device and make them private</item>
+        <item>Scarica video e foto dai social media</item>
+        <item>Salvare immagini e video dagli stati di WhatsApp</item>
+        <item>Gestisci i file sul tuo dispositivo e rendili privati</item>
     </string-array>
     <string-array name="user_guide_title_array">
-        <item>Download videos</item>
-        <item>WhatsApp Status Saver</item>
-        <item>Private files</item>
+        <item>Scarica video</item>
+        <item>Salva Stato WhatsApp</item>
+        <item>File privati</item>
     </string-array>
     <string-array name="week_days">
         <item>@string/sunday</item>
