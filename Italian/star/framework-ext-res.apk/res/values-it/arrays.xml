@@ -89,7 +89,7 @@
         <item>cannong</item>
         <item>venus</item>
         <item>sweet</item>
-        <item>star</item>
+        <item>asterisco</item>
         <item>haydn</item>
         <item>biloba</item>
         <item>rosemary</item>
@@ -1963,7 +1963,7 @@
         <item>com.miui.securitycore</item>
         <item>com.lbe.security.miui</item>
         <item>com.android.soundrecorder</item>
-        <item>com.miui.home</item>
+        <item>com.android.launcher3</item>
         <item>com.miui.personalassistant</item>
         <item>com.miui.packageinstaller</item>
         <item>com.xiaomi.account</item>
@@ -3602,7 +3602,7 @@
     </string-array>
     <string-array name="package_static_white_list_base">
         <item>android</item>
-        <item>com.miui.home</item>
+        <item>com.android.launcher3</item>
         <item>com.mi.android.globallauncher</item>
         <item>com.xiaomi.joyose</item>
         <item>com.android.phone</item>
@@ -3632,13 +3632,13 @@
         <item>com.miui.wmsvc</item>
         <item>com.miui.miwallpaper</item>
         <item>com.xiaomi.mimobile.cloudsim</item>
+        <item>com.miui.tsmclient</item>
         <item>com.magiear.handsfree.assistant</item>
-        <item>com.xiaomi.mi_connect_service</item>
     </string-array>
     <array name="package_static_white_list_lite"></array>
     <string-array name="process_camera_boost_protect_list">
         <item>android.process.media</item>
-        <item>com.miui.gallery</item>
+        <item>com.android.gallery3d</item>
         <item>com.android.systemui:sliderview</item>
         <item>com.android.camera</item>
     </string-array>
@@ -3660,9 +3660,9 @@
         <item>com.miui.securitycore</item>
     </string-array>
     <string-array name="process_disable_trim_list">
-        <item>com.miui.home</item>
+        <item>com.android.launcher3</item>
+        <item>com.android.pcmode</item>
         <item>com.mi.android.globallauncher</item>
-        <item>com.android.systemui</item>
     </string-array>
     <string-array name="process_display_size_black_list">
         <item>com.miui.securitycenter</item>
@@ -3941,8 +3941,8 @@
     </string-array>
     <string-array name="screen_key_long_press_default_action">
         <item>voice_assistant</item>
-        <item>none</item>
-        <item>none</item>
+        <item>smart</item>
+        <item>smart</item>
         <item>show_menu</item>
     </string-array>
     <array name="screen_resolution_supported"></array>
