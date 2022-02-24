@@ -64,8 +64,8 @@
         <item>@string/pm</item>
     </string-array>
     <string-array name="attachment_chooser">
-        <item>Camera</item>
-        <item>Gallery</item>
+        <item>Fotocamera</item>
+        <item>Galleria</item>
     </string-array>
     <string-array name="chinese_days">
         <item>@string/chinese_day_1</item>
@@ -145,22 +145,22 @@
         <item>@string/chinese_symbol_animals_pig</item>
     </string-array>
     <string-array name="common_folder_operations">
-        <item>新建</item>
-        <item>重命名</item>
+        <item>Nuova</item>
+        <item>Rinomina</item>
         <item>删除</item>
     </string-array>
     <string-array name="contact_entries">
-        <item>Name</item>
-        <item>Nickname</item>
-        <item>Phone</item>
+        <item>Nome</item>
+        <item>Soprannome</item>
+        <item>Telefono</item>
         <item>E-mail</item>
-        <item>Company</item>
+        <item>Società</item>
         <item>IM</item>
-        <item>SIP Phone</item>
-        <item>Birthday</item>
-        <item>Website</item>
-        <item>Address</item>
-        <item>Note</item>
+        <item>Telefono SIP</item>
+        <item>Compleanno</item>
+        <item>Sito web</item>
+        <item>Indirizzo</item>
+        <item>Nota</item>
     </string-array>
     <string-array name="contact_values">
         <item>vnd.android.cursor.item/name</item>
@@ -203,14 +203,14 @@
         <item>@string/eras_ad</item>
     </string-array>
     <string-array name="first_guide_contents">
-        <item>Welcome to Notes!</item>
-        <item>Take notes</item>
-        <item>You can use text, images, and voice recordings in your notes. A rich library of styles and fonts will make your simple scribbles look stunning.</item>
-        <item>Checklists and reminders come to help when you need basic and effective tools for planning your next trip or putting together a grocery list.</item>
-        <item>Share notes</item>
-        <item>You can create scrolling screenshots in Notes automatically, and then share them with your friends.</item>
-        <item>Create &amp; switch between folders</item>
-        <item>Press the arrow below to create a new folder or switch between existing ones.</item>
+        <item>Benvenuto in Note!</item>
+        <item>Scrivi note</item>
+        <item>Puoi utilizzare testo, immagini e registrazioni vocali nelle tue note. Una ricca libreria di stili e caratteri renderà sbalorditivi i tuoi basilari scarabocchi.</item>
+        <item>Liste di controllo e promemoria ti verranno in aiuto quando avrai bisogno di strumenti di base ed efficaci per pianificare il tuo prossimo viaggio o mettere insieme una lista della spesa.</item>
+        <item>Condividi le note</item>
+        <item>Potrai generare automaticamente schermate estese sulle tue note e condividerle con i tuoi amici.</item>
+        <item>Crea e passa fra le cartelle</item>
+        <item>Premi la freccia in basso per creare una nuova cartella o passare da una esistente ad un\'altra.</item>
     </string-array>
     <string-array name="first_guide_images">
         <item>guide_first_00</item>
@@ -221,14 +221,14 @@
         <item></item>
     </string-array>
     <string-array name="folder_operations">
-        <item>Rename</item>
-        <item>Delete</item>
+        <item>Rinomina</item>
+        <item>Elimina</item>
     </string-array>
     <string-array name="font_size_names">
-        <item>Small</item>
-        <item>Medium</item>
-        <item>Large</item>
-        <item>Huge</item>
+        <item>Piccolo</item>
+        <item>Medio</item>
+        <item>Largo</item>
+        <item>Testo molto grande</item>
     </string-array>
     <string-array name="heavenly_stems">
         <item>@string/heavenly_stems_jia</item>
@@ -285,16 +285,16 @@
         <item>@string/month_december_shortest</item>
     </string-array>
     <string-array name="note_sort_way">
-        <item>By creation date</item>
-        <item>By modification date</item>
+        <item>Per data di creazione</item>
+        <item>Per data di modifica</item>
     </string-array>
     <string-array name="second_guide_contents">
-        <item>Voice notes</item>
-        <item>Create notes using our built-in speech-to-text engine attaching the original recordings of your voice to the notes.</item>
+        <item>Note vocali</item>
+        <item>Crea note utilizzando il nostro motore di sintesi vocale incorporato che allega registrazioni originali della tua voce.</item>
     </string-array>
     <string-array name="second_guide_contents_pad_or_inter">
-        <item>Voice notes</item>
-        <item>You can create voice notes now. Just tap the icon, record your voice, and save the audio file inside the note.</item>
+        <item>Note vocali</item>
+        <item>Puoi creare note vocali ora. Basterà toccare l\'icona, registrare la tua voce e salvare il file audio all\'interno della nota.</item>
     </string-array>
     <string-array name="second_guide_images">
         <item>guide_second_00</item>
@@ -328,7 +328,7 @@
         <item>@string/solar_term_winter_solstice</item>
     </string-array>
     <string-array name="system_folder_operations">
-        <item>新建</item>
+        <item>Nuova</item>
     </string-array>
     <string-array name="week_days">
         <item>@string/sunday</item>
