@@ -64,13 +64,13 @@
         <item>@string/pm</item>
     </string-array>
     <string-array name="auto_process_mode">
-        <item>Notify</item>
-        <item>Clear</item>
-        <item>Clear and notify</item>
+        <item>Chiedi sempre</item>
+        <item>Cancella</item>
+        <item>Cancella e notifica</item>
     </string-array>
     <string-array name="cache_sort_type">
-        <item>Size</item>
-        <item>Name</item>
+        <item>Dimensione</item>
+        <item>Nome</item>
     </string-array>
     <string-array name="chinese_days">
         <item>@string/chinese_day_1</item>
@@ -223,12 +223,12 @@
         <item>/Android/data/com.tencent.KiHan</item>
     </string-array>
     <string-array name="installed_app_sort_type">
-        <item>Frequently used</item>
-        <item>Size</item>
+        <item>Utilizzati di frequente</item>
+        <item>Dimensione</item>
     </string-array>
     <string-array name="large_file_sort_type">
-        <item>Size</item>
-        <item>Name</item>
+        <item>Dimensione</item>
+        <item>Nome</item>
     </string-array>
     <string-array name="months">
         <item>@string/month_january</item>
@@ -300,13 +300,13 @@
         <item>@string/solar_term_winter_solstice</item>
     </string-array>
     <string-array name="uninstalled_app_sort_type">
-        <item>Size</item>
-        <item>Usage frequency</item>
-        <item>Installation time</item>
+        <item>Dimensione</item>
+        <item>Frequenza di utilizzo</item>
+        <item>Data di installazione</item>
     </string-array>
     <string-array name="wechat_sort">
-        <item>Date</item>
-        <item>Size</item>
+        <item>Data</item>
+        <item>Dimensione</item>
     </string-array>
     <string-array name="week_days">
         <item>@string/sunday</item>
