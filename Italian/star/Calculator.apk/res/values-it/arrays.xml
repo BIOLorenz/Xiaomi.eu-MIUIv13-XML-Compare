@@ -180,10 +180,10 @@
         <item>@string/heavenly_stems_gui</item>
     </string-array>
     <string-array name="height_array">
-        <item>Centimeters</item>
-        <item>Meters</item>
-        <item>Feet</item>
-        <item>Inches</item>
+        <item>Centimetri</item>
+        <item>Metri</item>
+        <item>Piedi</item>
+        <item>Pollici</item>
     </string-array>
     <string-array name="loan_rulers">
         <item>@string/loan_type_summary_lpr</item>
@@ -232,27 +232,27 @@
         <item>@string/month_december_shortest</item>
     </string-array>
     <string-array name="mortgage_repayment">
-        <item>Equal installments</item>
-        <item>Decreasing installments</item>
+        <item>Rate costanti</item>
+        <item>Rate decrescenti</item>
     </string-array>
     <string-array name="operatorDescs">
-        <item>left parenthesis</item>
-        <item>right parenthesis</item>
-        <item>factorial</item>
-        <item>natural logarithm</item>
-        <item>logarithm</item>
-        <item>square root</item>
-        <item>divided by</item>
-        <item>multiplied by</item>
-        <item>plus</item>
-        <item>minus</item>
-        <item> point </item>
-        <item>power</item>
-        <item>tangent</item>
-        <item>sine</item>
-        <item>cosine</item>
+        <item>parentesi sinistra</item>
+        <item>parentesi destra</item>
+        <item>fattoriale</item>
+        <item>logaritmo naturale</item>
+        <item>logaritmo</item>
+        <item>radice quadrata</item>
+        <item>diviso per</item>
+        <item>moltiplicato per</item>
+        <item>Plus</item>
+        <item>meno</item>
+        <item> punto </item>
+        <item>potenza</item>
+        <item>tangente</item>
+        <item>seno</item>
+        <item>coseno</item>
         <item>pi</item>
-        <item>equals</item>
+        <item>uguale</item>
     </string-array>
     <string-array name="operators">
         <item>(</item>
@@ -311,9 +311,9 @@
         <item>sq.km</item>
         <item>ha</item>
         <item>are</item>
-        <item>sq.m</item>
+        <item>m²</item>
         <item>sq.dm</item>
-        <item>sq.cm</item>
+        <item>cm²</item>
         <item>sq.mm</item>
         <item>sq.um</item>
         <item>acre</item>
@@ -330,7 +330,7 @@
     <string-array name="unit_data_order_currency_">
         <item>USD</item>
         <item>EUR</item>
-        <item>JPY</item>
+        <item>HKD</item>
     </string-array>
     <string-array name="unit_data_order_data_">
         <item>b</item>
@@ -341,7 +341,7 @@
         <item>pb</item>
     </string-array>
     <string-array name="unit_data_order_length_">
-        <item>km</item>
+        <item>Km</item>
         <item>m</item>
         <item>dm</item>
         <item>cm</item>
@@ -363,7 +363,7 @@
         <item>chi</item>
         <item>cun</item>
         <item>fen</item>
-        <item>lii</item>
+        <item>li</item>
         <item>hao</item>
         <item>pc</item>
         <item>ld</item>
@@ -385,8 +385,8 @@
     </string-array>
     <string-array name="unit_data_order_time_">
         <item>yr</item>
-        <item>week</item>
-        <item>day</item>
+        <item>settimana</item>
+        <item>giorno</item>
         <item>h</item>
         <item>min</item>
         <item>s</item>
@@ -397,20 +397,20 @@
     <string-array name="unit_data_order_velocity_">
         <item>c</item>
         <item>mach</item>
-        <item>mps</item>
+        <item>m/s</item>
         <item>kmph</item>
-        <item>kmps</item>
+        <item>km/s</item>
         <item>nmiph</item>
         <item>mileph</item>
-        <item>fps</item>
-        <item>ips</item>
+        <item>ft/s</item>
+        <item>in/s</item>
     </string-array>
     <string-array name="unit_data_order_volume_">
-        <item>cu.m</item>
+        <item>m³</item>
         <item>cu.dm</item>
-        <item>cu.cm</item>
+        <item>cm³</item>
         <item>cu.mm</item>
-        <item>hl</item>
+        <item>hl³</item>
         <item>l</item>
         <item>dl</item>
         <item>cl</item>
@@ -471,7 +471,7 @@
         <item>@string/saturday_shortest</item>
     </string-array>
     <string-array name="weight_array">
-        <item>Kilograms</item>
-        <item>Pounds</item>
+        <item>Chilogrammi</item>
+        <item>Libbre</item>
     </string-array>
 </resources>
