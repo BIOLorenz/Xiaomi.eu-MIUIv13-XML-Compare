@@ -179,9 +179,9 @@
         <item>@string/earthly_branches_hai</item>
     </string-array>
     <string-array name="editing_mode_entries">
-        <item>Wallpaper</item>
-        <item>Widgets</item>
-        <item>Settings</item>
+        <item>Sfondo</item>
+        <item>Widget</item>
+        <item>Impostazioni</item>
     </string-array>
     <string-array name="editing_mode_values">
         <item>0</item>
@@ -206,35 +206,35 @@
         <item>@string/eras_ad</item>
     </string-array>
     <string-array name="gadget_weather_image">
-        <item>Clear</item>
-        <item>Cloudy</item>
-        <item>Hazy</item>
-        <item>Foggy</item>
-        <item>Severe rainstorm</item>
-        <item>Rainstorm</item>
-        <item>Very heavy rainfall</item>
-        <item>Thunderstorm</item>
-        <item>Shower</item>
-        <item>Heavy rainfall</item>
-        <item>Rain</item>
-        <item>Drizzle</item>
-        <item>Sleet</item>
-        <item>Snowstorm</item>
-        <item>Patches of snowfall</item>
-        <item>Heavy snowfall</item>
-        <item>Snowfall</item>
-        <item>Light snowfall</item>
-        <item>Strong sandstorm</item>
-        <item>Sandstorm</item>
-        <item>Light sandstorm</item>
-        <item>Sandstorm</item>
-        <item>Hail</item>
-        <item>Floating dust</item>
-        <item>Haze</item>
+        <item>Cancella</item>
+        <item>Nuvoloso</item>
+        <item>Nebbioso</item>
+        <item>Nebbioso</item>
+        <item>Forte pioggia</item>
+        <item>Temporale</item>
+        <item>Temporale</item>
+        <item>Forte temporale</item>
+        <item>Acquazzoni</item>
+        <item>Pioggia intensa</item>
+        <item>Pioggia</item>
+        <item>Pioggerella</item>
+        <item>Nevischio</item>
+        <item>Bufera di neve</item>
+        <item>Neve a tratti</item>
+        <item>Nevicata Intensa</item>
+        <item>Nevicata</item>
+        <item>Nevicata leggera</item>
+        <item>Forte tempesta di sabbia</item>
+        <item>Tempesta di sabbia</item>
+        <item>Tempesta di sabbia leggera</item>
+        <item>Tempesta di sabbia</item>
+        <item>Grandine</item>
+        <item>Polveroso</item>
+        <item>Foschia</item>
     </string-array>
     <string-array name="gadget_weather_theme_type_entries">
-        <item>Default</item>
-        <item>Classic</item>
+        <item>Predefinita</item>
+        <item>Classico</item>
     </string-array>
     <string-array name="global_elderly_man_like_apps">
         <item>com.whatsapp</item>
@@ -391,13 +391,13 @@
         <item>@string/solar_term_winter_solstice</item>
     </string-array>
     <string-array name="transformation_entries">
-        <item>Slide</item>
-        <item>Crossfade</item>
-        <item>Tumble</item>
-        <item>Page</item>
-        <item>Cascade</item>
-        <item>Rotate</item>
-        <item>Cube</item>
+        <item>Classico 2</item>
+        <item>Dissolvenza</item>
+        <item>Inclinazione</item>
+        <item>Pagina</item>
+        <item>Cascata</item>
+        <item>Ruotare</item>
+        <item>Cubo</item>
     </string-array>
     <string-array name="transformation_values">
         <item>1</item>
@@ -417,16 +417,16 @@
         <item>content://com.miui.home.none_provider</item>
     </string-array>
     <string-array name="wallpaper_scroll_entries">
-        <item>Theme default</item>
-        <item>Center</item>
-        <item>Left</item>
-        <item>Right</item>
+        <item>Tema predefinito</item>
+        <item>Centro</item>
+        <item>Sinistra</item>
+        <item>Destra</item>
     </string-array>
     <string-array name="wallpaper_scroll_values">
-        <item>byTheme</item>
-        <item>center</item>
-        <item>left</item>
-        <item>right</item>
+        <item>per Tema</item>
+        <item>centro</item>
+        <item>sinistra</item>
+        <item>destra</item>
     </string-array>
     <string-array name="week_days">
         <item>@string/sunday</item>
