@@ -69,15 +69,15 @@
         <item quantity="one">%d new notification</item>
     </plurals>
     <plurals name="notification_missedCallTitle_miui">
-        <item quantity="other">Missed calls</item>
-        <item quantity="one">Missed call</item>
+        <item quantity="other">Chiamate perse</item>
+        <item quantity="one">Chiamata persa</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutes ago</item>
         <item quantity="one">1 minute ago</item>
     </plurals>
     <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d devices connected</item>
-        <item quantity="one">%1$d device connected</item>
+        <item quantity="other">%1$d dispositivi connessi</item>
+        <item quantity="one">%1$d dispositivo connesso</item>
     </plurals>
 </resources>
