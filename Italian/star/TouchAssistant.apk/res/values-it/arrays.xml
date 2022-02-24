@@ -222,8 +222,8 @@
         <item>@string/month_december_shortest</item>
     </string-array>
     <string-array name="motion_behavior_entries">
-        <item>Swipe</item>
-        <item>Tap</item>
+        <item>Scorrimento</item>
+        <item>Tocca</item>
     </string-array>
     <string-array name="motion_behavior_entry_values">
         <item>0</item>
