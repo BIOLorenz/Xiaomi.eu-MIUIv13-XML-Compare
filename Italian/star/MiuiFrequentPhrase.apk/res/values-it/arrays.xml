@@ -141,13 +141,13 @@
         <item>@string/chinese_symbol_animals_pig</item>
     </string-array>
     <string-array name="default_phrases">
-        <item>Invoice header: *** Inc.</item>
-        <item>Address: Street, Apt, City, Country/Region, Province, Postal code</item>
-        <item>Please leave the package by the door. Thanks!</item>
-        <item>"Wait a minute, I'll be right back."</item>
-        <item>"I'm in a meeting. Please send a text message."</item>
-        <item>"I can't talk now. I'll call you back as soon as possible."</item>
-        <item>Thanks!</item>
+        <item>Intestazione fattura: *** Inc.</item>
+        <item>Indirizzo: Strada, Apt, Città, Paese/Regione, Provincia, CAP</item>
+        <item>Si prega di lasciare il pacco davanti alla porta. Grazie!</item>
+        <item>"Aspettate un minuto, tornerò presto."</item>
+        <item>"Sono in riunione. Per favore, invia un messaggio di testo."</item>
+        <item>"Non posso parlare ora. Ti richiamerò il prima possibile."</item>
+        <item>Grazie.</item>
     </string-array>
     <string-array name="detailed_am_pms">
         <item>@string/midnight</item>
