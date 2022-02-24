@@ -236,7 +236,7 @@
         <item>200</item>
         <item>100</item>
         <item>50</item>
-        <item>32</item>
+        <item>32s</item>
         <item>24</item>
         <item>16</item>
         <item>8</item>
@@ -257,8 +257,8 @@
     </string-array>
     <string-array name="screenrecorder_settings_orientation">
         <item>Auto</item>
-        <item>Portrait</item>
-        <item>Landscape</item>
+        <item>Ritratto</item>
+        <item>Orizzontale</item>
     </string-array>
     <string-array name="screenrecorder_settings_orientation_values">
         <item>0</item>
@@ -301,9 +301,9 @@
         <item>480</item>
     </string-array>
     <string-array name="screenrecorder_settings_sound">
-        <item>Mute</item>
-        <item>Mic</item>
-        <item>System sounds</item>
+        <item>Silenzioso</item>
+        <item>Microfono</item>
+        <item>Suoni di sistema</item>
     </string-array>
     <string-array name="screenrecorder_settings_sound_values">
         <item>0</item>
@@ -311,8 +311,8 @@
         <item>2</item>
     </string-array>
     <string-array name="screenrecorder_settings_storage_location">
-        <item>Internal storage</item>
-        <item>External storage</item>
+        <item>Memoria interna</item>
+        <item>Memoria esterna</item>
     </string-array>
     <string-array name="screenrecorder_settings_storage_location_values">
         <item>0</item>
