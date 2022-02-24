@@ -141,8 +141,8 @@
         <item>@string/chinese_symbol_animals_pig</item>
     </string-array>
     <string-array name="color_mode_labels">
-        <item>Black &amp; White</item>
-        <item>Color</item>
+        <item>Bianco e nero</item>
+        <item>Colore</item>
     </string-array>
     <string-array name="detailed_am_pms">
         <item>@string/midnight</item>
@@ -154,9 +154,9 @@
         <item>@string/night</item>
     </string-array>
     <string-array name="duplex_mode_labels">
-        <item>None</item>
-        <item>Long edge</item>
-        <item>Short edge</item>
+        <item>Nessuno</item>
+        <item>Bordo lungo</item>
+        <item>Bordo corto</item>
     </string-array>
     <string-array name="earthly_branches">
         <item>@string/earthly_branches_zi</item>
@@ -329,8 +329,8 @@
         <item>@string/month_december_shortest</item>
     </string-array>
     <string-array name="orientation_labels">
-        <item>Portrait</item>
-        <item>Landscape</item>
+        <item>Ritratto</item>
+        <item>Orizzontale</item>
     </string-array>
     <string-array name="solar_terms">
         <item>@string/empty</item>
