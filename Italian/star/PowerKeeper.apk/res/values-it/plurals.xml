@@ -73,7 +73,7 @@
         <item quantity="one">1 minute ago</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
-        <item quantity="other">Search %d apps</item>
-        <item quantity="one">Search %d app</item>
+        <item quantity="other">Cerca %d app</item>
+        <item quantity="one">Cerca %d app</item>
     </plurals>
 </resources>
