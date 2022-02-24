@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
-        <item quantity="one">1 hour ago</item>
-        <item quantity="other">1 hour ago</item>
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">1 hour ago</item>
-        <item quantity="other">1 hour ago</item>
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="one">Half an hour ago</item>
-        <item quantity="other">Half an hour ago</item>
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">In 1 hour</item>
-        <item quantity="other">In 1 hour</item>
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="one">In half an hour</item>
-        <item quantity="other">In half an hour</item>
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="one">Immediately</item>
-        <item quantity="other">Immediately</item>
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d mins</item>
-        <item quantity="one">in 1 min</item>
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="one">Just now</item>
-        <item quantity="other">Just now</item>
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins ago</item>
-        <item quantity="one">1 min ago</item>
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
     </plurals>
     <plurals name="aod_dual_togother_city">
-        <item quantity="other">" %1$shours %2$s"</item>
-        <item quantity="one">" %1$shour %2$s"</item>
+        <item quantity="other">" %1$ore %2$s"</item>
+        <item quantity="one">" %1$ora %2$s"</item>
     </plurals>
     <plurals name="character_pitch_minus">
         <item quantity="other">Reduced character spacing. Character spacing %s.</item>
@@ -55,32 +55,32 @@ Longer animations will be stopped at this point."</item>
 Longer animations will be stopped at this point."</item>
     </plurals>
     <plurals name="count_selected">
-        <item quantity="other">Selected %d items</item>
-        <item quantity="one">Selected %d item</item>
+        <item quantity="other">Selezionati %d elementi</item>
+        <item quantity="one">Selezionato %d elemento</item>
     </plurals>
     <plurals name="half_hour_ago">
-        <item quantity="one">Half an hour ago</item>
-        <item quantity="other">Half an hour ago</item>
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="one">In 1 hour</item>
-        <item quantity="other">In 1 hour</item>
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="one">In half an hour</item>
-        <item quantity="other">In half an hour</item>
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
-        <item quantity="one">Immediately</item>
-        <item quantity="other">Immediately</item>
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">in %d minutes</item>
-        <item quantity="one">in 1 minute</item>
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">Just now</item>
-        <item quantity="other">Just now</item>
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
     </plurals>
     <plurals name="line_spacing_puls">
         <item quantity="other">Increased line spacing. Line spacing %s.</item>
@@ -91,15 +91,15 @@ Longer animations will be stopped at this point."</item>
         <item quantity="one">Reduced line spacing. Line spacing %s.</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d items selected</item>
-        <item quantity="one">%d item selected</item>
+        <item quantity="other">%d elementi selezionati</item>
+        <item quantity="one">%d elemento selezionato</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d new notifications</item>
-        <item quantity="one">%d new notification</item>
+        <item quantity="other">%d nuove notifiche</item>
+        <item quantity="one">%d nuova notifica</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d minutes ago</item>
-        <item quantity="one">1 minute ago</item>
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
     </plurals>
 </resources>
