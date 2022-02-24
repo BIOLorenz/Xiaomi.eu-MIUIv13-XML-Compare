@@ -141,9 +141,9 @@
         <item>@string/chinese_symbol_animals_pig</item>
     </string-array>
     <string-array name="choose_ask_type">
-        <item>Always ask</item>
-        <item>Default app</item>
-        <item>Dual app</item>
+        <item>Chiedi sempre</item>
+        <item>App predefinita</item>
+        <item>App clonate</item>
     </string-array>
     <string-array name="detailed_am_pms">
         <item>@string/midnight</item>
@@ -254,19 +254,19 @@
         <item>@string/solar_term_winter_solstice</item>
     </string-array>
     <string-array name="switch_apps_entries">
-        <item>Used in First space</item>
-        <item>Used in the current space</item>
-        <item>Used in both spaces</item>
+        <item>Utilizzata nel Primo Spazio</item>
+        <item>Utilizzata nello spazio attuale</item>
+        <item>Utilizzata in entrambi gli spazi</item>
     </string-array>
     <string-array name="switch_apps_msg_confirms">
-        <item>App data will be lost after apps are moved to First space.</item>
-        <item>App data will be lost after apps are moved to the current space.</item>
-        <item>Apps are used in both spaces.</item>
+        <item>I dati dell\'app verranno persi dopo che le app saranno spostate nel Primo Spazio.</item>
+        <item>I dati dell\'app verranno persi dopo che le app verranno spostate nello spazio attuale.</item>
+        <item>Le app sono utilizzate in entrambi gli spazi.</item>
     </string-array>
     <string-array name="switch_apps_title_confirms">
-        <item>App data will be lost</item>
-        <item>App data will be lost</item>
-        <item>Attention</item>
+        <item>I dati dell\'app verranno persi</item>
+        <item>I dati dell\'app verranno persi</item>
+        <item>Attenzione</item>
     </string-array>
     <string-array name="week_days">
         <item>@string/sunday</item>
