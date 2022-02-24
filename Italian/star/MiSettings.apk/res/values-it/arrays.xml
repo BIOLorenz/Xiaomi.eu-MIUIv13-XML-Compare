@@ -359,7 +359,6 @@
         <item>@string/solar_term_winter_solstice</item>
     </string-array>
     <string-array name="steady_on_screen_time">
-        <item>20</item>
         <item>30</item>
         <item>40</item>
         <item>50</item>
@@ -369,6 +368,7 @@
         <item>90</item>
         <item>100</item>
         <item>110</item>
+        <item>120</item>
         <item>120</item>
     </string-array>
     <string-array name="usagestats_app_category_list">
@@ -3801,7 +3801,7 @@
     </string-array>
     <string-array name="usagestats_app_category_miui_photo">
         <item>com.android.camera</item>
-        <item>com.miui.gallery</item>
+        <item>com.android.gallery3d</item>
         <item>com.smile.gifmaker</item>
         <item>com.mt.mtxx.mtxx</item>
         <item>com.lemon.faceu</item>
@@ -5339,7 +5339,7 @@
         <item>com.miui.accessibility</item>
         <item>com.miui.miservice</item>
         <item>com.android.settings</item>
-        <item>com.miui.home</item>
+        <item>com.android.launcher3</item>
         <item>com.android.contacts</item>
         <item>com.android.mms</item>
         <item>com.miui.securitycenter</item>
