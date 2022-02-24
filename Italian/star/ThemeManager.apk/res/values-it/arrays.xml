@@ -162,7 +162,7 @@
         <item>@string/night</item>
     </string-array>
     <string-array name="disable_package_replacement">
-        <item>disable package name</item>
+        <item>disabilita nome pacchetto</item>
     </string-array>
     <string-array name="earthly_branches">
         <item>@string/earthly_branches_zi</item>
