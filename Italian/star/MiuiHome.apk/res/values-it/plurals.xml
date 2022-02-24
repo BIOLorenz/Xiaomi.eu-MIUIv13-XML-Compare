@@ -1,107 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
-        <item quantity="one">1 hour ago</item>
-        <item quantity="other">1 hour ago</item>
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">1 hour ago</item>
-        <item quantity="other">1 hour ago</item>
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="one">Half an hour ago</item>
-        <item quantity="other">Half an hour ago</item>
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">In 1 hour</item>
-        <item quantity="other">In 1 hour</item>
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="one">In half an hour</item>
-        <item quantity="other">In half an hour</item>
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="one">Immediately</item>
-        <item quantity="other">Immediately</item>
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d mins</item>
-        <item quantity="one">in 1 min</item>
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="one">Just now</item>
-        <item quantity="other">Just now</item>
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins ago</item>
-        <item quantity="one">1 min ago</item>
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
     </plurals>
     <plurals name="announce_for_drag">
-        <item quantity="other">Dragging %1$d items</item>
-        <item quantity="one">Dragging %1$d item</item>
+        <item quantity="other">spostamento di %1$d elementi</item>
+        <item quantity="one">spostamento</item>
     </plurals>
     <plurals name="announce_for_unread">
-        <item quantity="one">%2$s unread from %1$s</item>
-        <item quantity="other">%2$s unread from %1$s</item>
+        <item quantity="one">%2$s non letto da %1$s</item>
+        <item quantity="other">%2$s non letti da %1$s</item>
     </plurals>
     <plurals name="delete_wallpapers_message">
-        <item quantity="other">Delete %1$d wallpapers?</item>
-        <item quantity="one">Delete %1$d wallpaper?</item>
+        <item quantity="other">Eliminare %1$d sfondi?</item>
+        <item quantity="one">Eliminare %1$d sfondo?</item>
     </plurals>
     <plurals name="editing_mode_title">
-        <item quantity="other">Selected %1$d items</item>
-        <item quantity="one">Selected %1$d item</item>
+        <item quantity="other">%1$d selezionati</item>
+        <item quantity="one">%1$d selezionato</item>
     </plurals>
     <plurals name="half_hour_ago">
-        <item quantity="one">Half an hour ago</item>
-        <item quantity="other">Half an hour ago</item>
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="one">In 1 hour</item>
-        <item quantity="other">In 1 hour</item>
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="one">In half an hour</item>
-        <item quantity="other">In half an hour</item>
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
-        <item quantity="one">Immediately</item>
-        <item quantity="other">Immediately</item>
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">in %d minutes</item>
-        <item quantity="one">in 1 minute</item>
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">Just now</item>
-        <item quantity="other">Just now</item>
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d items selected</item>
-        <item quantity="one">%d item selected</item>
+        <item quantity="other">%d elementi selezionati</item>
+        <item quantity="one">%d elemento selezionato</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d minutes ago</item>
-        <item quantity="one">1 minute ago</item>
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
     </plurals>
     <plurals name="remove_dialog_title_multi_format">
-        <item quantity="other">Remove %1$d apps from Home screen?</item>
-        <item quantity="one">Remove %1$d app from Home screen?</item>
+        <item quantity="other">Rimuovere %1$d app dalla schermata Home?</item>
+        <item quantity="one">Rimuovere %1$d app dalla schermata Home?</item>
     </plurals>
     <plurals name="scroll_tip_format_when_announce_accessibility">
-        <item quantity="other">Page %1$d, %2$d apps.</item>
-        <item quantity="one">Page %1$d, %2$d app.</item>
+        <item quantity="other">pagina %1$d, %2$d app</item>
+        <item quantity="one">pagina %1$d, %2$d app</item>
     </plurals>
     <plurals name="uninstall_dialog_title_multi_format">
-        <item quantity="other">Uninstall %1$d apps?</item>
-        <item quantity="one">Uninstall %1$d app?</item>
+        <item quantity="other">Disinstalla %1$d app?</item>
+        <item quantity="one">Disinstalla %1$d app?</item>
     </plurals>
     <plurals name="uninstall_result_multi_failed">
-        <item quantity="other">"Can't uninstall %1$d apps"</item>
-        <item quantity="one">"Can't uninstall %1$d app"</item>
+        <item quantity="other">"Impossibile disinstallare %1$d app"</item>
+        <item quantity="one">"Impossibile disinstallare %1$d app"</item>
     </plurals>
     <plurals name="uninstall_result_multi_succeeded">
-        <item quantity="other">Uninstalled %1$d apps</item>
-        <item quantity="one">Uninstalled %1$d app</item>
+        <item quantity="other">%1$d app disinstallate</item>
+        <item quantity="one">%1$d app disinstallata</item>
     </plurals>
 </resources>
