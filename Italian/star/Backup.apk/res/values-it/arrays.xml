@@ -268,24 +268,24 @@
         <item>@string/solar_term_winter_solstice</item>
     </string-array>
     <string-array name="trans_cancel_survey_title">
-        <item>Overall experience</item>
-        <item>Transfer duration</item>
-        <item>Simplicity of the process</item>
-        <item>Clarity of instructions</item>
-        <item>This feature is useful</item>
+        <item>Esperienza complessiva</item>
+        <item>Durata del trasferimento</item>
+        <item>Semplicità</item>
+        <item>Chiarezza della guida</item>
+        <item>Questa funzione è utile</item>
     </string-array>
     <string-array name="trans_succeed_rating_hint">
-        <item>Very dissatisfied</item>
-        <item>Somewhat dissatisfied</item>
-        <item>Neutral</item>
-        <item>Somewhat satisfied</item>
-        <item>Very satisfied</item>
+        <item>Molto insoddisfatto</item>
+        <item>Insoddisfatto</item>
+        <item>Neutrale</item>
+        <item>Soddisfatto</item>
+        <item>Molto soddisfatto</item>
     </string-array>
     <string-array name="trans_succeed_survey_title">
-        <item>Overall rating</item>
-        <item>Duration of transfer</item>
-        <item>Simplicity of the process</item>
-        <item>Clarity of instructions</item>
+        <item>Valutazione complessiva</item>
+        <item>Durata del trasferimento</item>
+        <item>Semplicità</item>
+        <item>Chiarezza della guida</item>
     </string-array>
     <string-array name="week_days">
         <item>@string/sunday</item>
