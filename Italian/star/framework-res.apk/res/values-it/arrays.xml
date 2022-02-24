@@ -374,48 +374,48 @@
   <array name="disallowed_apps_managed_profile"></array>
   <array name="disallowed_apps_managed_user"></array>
   <string-array name="emailAddressTypes">
-    <item>Home</item>
-    <item>Work</item>
-    <item>Other</item>
-    <item>Custom</item>
+    <item>Casa</item>
+    <item>Lavoro</item>
+    <item>Altro</item>
+    <item>Personalizzato</item>
   </string-array>
   <array name="face_acquired_vendor"></array>
   <array name="face_error_vendor"></array>
   <string-array name="fingerprint_acquired_vendor">
-    <item>Try again</item>
+    <item>Riprova</item>
     <item></item>
     <item></item>
-    <item>Cover the fingerprint scanner completely and apply pressure</item>
+    <item>Coprire completamente lo scanner di impronte digitali e premere</item>
     <item></item>
-    <item>Cover the fingerprint scanner completely and apply pressure</item>
-    <item>Cover the fingerprint scanner completely and apply pressure</item>
-    <item></item>
-    <item></item>
-    <item></item>
-    <item></item>
-    <item>Cover the fingerprint scanner completely and apply pressure</item>
-    <item>Cover the fingerprint scanner completely and apply pressure</item>
-    <item>"Too fast! Couldn't recognize fingerprint"</item>
-    <item>Move your finger a bit and try again</item>
-    <item>Lift your finger and put it back on the scanner again</item>
-    <item>Keep your finger on the scanner a bit longer</item>
+    <item>Coprire completamente lo scanner di impronte digitali e premere</item>
+    <item>Coprire completamente lo scanner di impronte digitali e premere</item>
     <item></item>
     <item></item>
     <item></item>
+    <item></item>
+    <item>Coprire completamente lo scanner di impronte digitali e premere</item>
+    <item>Coprire completamente lo scanner di impronte digitali e premere</item>
+    <item>"Troppo veloce! Impossibile riconoscere l'impronta digitale"</item>
+    <item>Muovi un po\' il dito e riprova</item>
+    <item>Solleva il dito e rimettilo nuovamente sullo scanner</item>
+    <item>Mantieni il dito sullo scanner un po\' più a lungo</item>
     <item></item>
     <item></item>
     <item></item>
     <item></item>
     <item></item>
-    <item>Move your finger slightly</item>
-    <item>This fingerprint has been added, use a different finger</item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item>Sposta leggermente il dito</item>
+    <item>Questa impronta digitale è già stata aggiunta, cambia dito</item>
   </string-array>
   <array name="fingerprint_error_vendor"></array>
   <string-array name="imAddressTypes">
-    <item>Home</item>
-    <item>Work</item>
-    <item>Other</item>
-    <item>Custom</item>
+    <item>Casa</item>
+    <item>Lavoro</item>
+    <item>Altro</item>
+    <item>Personalizzato</item>
   </string-array>
   <string-array name="imProtocols">
     <item>AIM</item>
@@ -441,10 +441,10 @@
     <item>ethernet,9,9,4,-1,true</item>
   </string-array>
   <string-array name="network_switch_type_name">
-    <item>mobile data</item>
+    <item>dati mobili</item>
     <item>Wi-Fi</item>
     <item>Bluetooth</item>
-    <item>Ethernet</item>
+    <item>LAN</item>
     <item>VPN</item>
   </string-array>
   <string-array name="networks_not_clear_data">
@@ -458,26 +458,26 @@
   </string-array>
   <array name="non_removable_euicc_slots"></array>
   <string-array name="organizationTypes">
-    <item>Work</item>
-    <item>Other</item>
-    <item>Custom</item>
+    <item>Lavoro</item>
+    <item>Altro</item>
+    <item>Personalizzato</item>
   </string-array>
   <string-array name="phoneTypes">
-    <item>Home</item>
-    <item>Mobile</item>
-    <item>Work</item>
-    <item>Work Fax</item>
-    <item>Home Fax</item>
-    <item>Pager</item>
-    <item>Other</item>
-    <item>Custom</item>
+    <item>Casa</item>
+    <item>Cellulare</item>
+    <item>Lavoro</item>
+    <item>Fax lavoro</item>
+    <item>Fax casa</item>
+    <item>Cercapersone</item>
+    <item>Altro</item>
+    <item>Personalizzato</item>
   </string-array>
   <array name="policy_exempt_apps"></array>
   <string-array name="postalAddressTypes">
-    <item>Home</item>
-    <item>Work</item>
-    <item>Other</item>
-    <item>Custom</item>
+    <item>Casa</item>
+    <item>Lavoro</item>
+    <item>Altro</item>
+    <item>Personalizzato</item>
   </string-array>
   <array name="preloaded_color_state_lists"></array>
   <string-array name="radioAttributes">
@@ -1138,10 +1138,10 @@
   <array name="vendor_required_apps_managed_profile"></array>
   <array name="vendor_required_apps_managed_user"></array>
   <string-array name="wfcOperatorErrorAlertMessages">
-    <item>To make calls and send messages over Wi-Fi, first ask your carrier to set up this service. Then turn on Wi-Fi calling again from Settings. (Error code: %1$s)</item>
+    <item>Per effettuare chiamate e inviare messaggi tramite Wi-Fi, chiedi prima al tuo operatore di impostare questo servizio. Dopodiché, attiva di nuovo la funzione Chiamate Wi-Fi nelle impostazioni. (Codice di errore: %1$s)</item>
   </string-array>
   <string-array name="wfcOperatorErrorNotificationMessages">
-    <item>Issue registering Wi‑Fi calling with your carrier: %1$s</item>
+    <item>Si è verificato un problema con la registrazione delle chiamate Wi‑Fi con l\'operatore: %1$s</item>
   </string-array>
   <string-array name="wfcSpnFormats">
     <item>@string/wfcSpnFormat_spn</item>
