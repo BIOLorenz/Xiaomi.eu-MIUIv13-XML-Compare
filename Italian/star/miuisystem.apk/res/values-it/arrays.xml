@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="cta_permission_names">
-        <item>access network</item>
-        <item>read SMS</item>
-        <item>modify SMS</item>
-        <item>receive SMS</item>
-        <item>send SMS</item>
-        <item>call phone</item>
-        <item>read contacts</item>
-        <item>modify contacts</item>
-        <item>read call log</item>
-        <item>modify call log</item>
-        <item>access camera</item>
-        <item>access location</item>
+        <item>accesso alla rete</item>
+        <item>lettura SMS</item>
+        <item>modifica SMS</item>
+        <item>ricezione SMS</item>
+        <item>invio SMS</item>
+        <item>chiamata telefonica</item>
+        <item>lettura contatti</item>
+        <item>modifica contatti</item>
+        <item>lettura del registro chiamate</item>
+        <item>modifica del registro chiamate</item>
+        <item>accesso alla fotocamera</item>
+        <item>accesso alla posizione</item>
     </string-array>
     <string-array name="cta_permissions">
         <item>PERMISSION_ACCESS_NETWORK</item>
@@ -29,18 +29,18 @@
         <item>PERMISSION_ACCESS_LOCATION</item>
     </string-array>
     <string-array name="di_zhi">
-        <item>子</item>
-        <item>丑</item>
-        <item>寅</item>
-        <item>卯</item>
-        <item>辰</item>
-        <item>巳</item>
-        <item>午</item>
-        <item>未</item>
-        <item>申</item>
-        <item>酉</item>
-        <item>戌</item>
-        <item>亥</item>
+        <item>Zi</item>
+        <item>Chou</item>
+        <item>Yin</item>
+        <item>Mao</item>
+        <item>Chen</item>
+        <item>Si</item>
+        <item>Wu</item>
+        <item>Wei</item>
+        <item>Shen</item>
+        <item>You</item>
+        <item>Xu</item>
+        <item>Hai</item>
     </string-array>
     <string-array name="eu_regions">
         <item>AT</item>
@@ -64,11 +64,11 @@
         <item>LU</item>
         <item>LV</item>
         <item>MT</item>
-        <item>NL</item>
+        <item>N</item>
         <item>PL</item>
         <item>PT</item>
         <item>RO</item>
-        <item>SE</item>
+        <item>S-E</item>
         <item>SI</item>
         <item>SK</item>
     </string-array>
@@ -135,20 +135,20 @@
         <item>癸亥</item>
     </string-array>
     <string-array name="miui_nature_sound_array">
-        <item>/system/media/audio/ui/WaterDrop_preview.ogg</item>
-        <item>/system/media/audio/ui/BirdCicada_preview.ogg</item>
+        <item>/system/media/audio/ui/AmazonAnimals_preview.ogg</item>
+        <item>/system/media/audio/ui/AfricaAnimals_preview.ogg</item>
     </string-array>
     <string-array name="mobile_operator_display_names">
-        <item>China Mobile</item>
-        <item>China Unicom</item>
-        <item>China Mobile</item>
-        <item>China Telecom</item>
-        <item>China Telecom</item>
-        <item>China Unicom</item>
-        <item>China Mobile</item>
-        <item>China Mobile</item>
-        <item>China Unicom</item>
-        <item>China Telecom</item>
+        <item>Cina Mobile</item>
+        <item>Cina Unicom</item>
+        <item>Cina Mobile</item>
+        <item>Cina Telecom</item>
+        <item>Cina Telecom</item>
+        <item>Cina Unicom</item>
+        <item>Cina Mobile</item>
+        <item>Cina Mobile</item>
+        <item>Cina Unicom</item>
+        <item>Cina Telecom</item>
         <item>FarEasTone</item>
         <item>Asia Pacific</item>
         <item>T Star</item>
@@ -165,12 +165,12 @@
         <item>3</item>
         <item>3 (2G)</item>
         <item>SmarTone MAC</item>
-        <item>China Telecom</item>
+        <item>Cina Telecom</item>
         <item>Singtel</item>
         <item>Singtel</item>
         <item>M1</item>
         <item>M1</item>
-        <item>Circles</item>
+        <item>Cerchi</item>
         <item>MY CELCOM</item>
         <item>MY CELCOM</item>
         <item>MY CELCOM</item>
@@ -184,7 +184,7 @@
         <item>Alibaba</item>
         <item>China Mcom</item>
         <item>SOSHARE MOBILE</item>
-        <item>Mi Mobile</item>
+        <item>Telefono Mi</item>
     </string-array>
     <string-array name="mobile_operator_numeric_equivalencies">
         <item>46000</item>
@@ -218,7 +218,7 @@
         <item>52502</item>
         <item>52503</item>
         <item>52504</item>
-        <item>Circles</item>
+        <item>Cerchi</item>
         <item>50213</item>
         <item>502145</item>
         <item>502148</item>
@@ -266,7 +266,7 @@
         <item>52502</item>
         <item>52503</item>
         <item>52504</item>
-        <item>Circles</item>
+        <item>Cerchi</item>
         <item>50213</item>
         <item>502145</item>
         <item>502148</item>
@@ -285,15 +285,15 @@
     <array name="religious_languages"></array>
     <array name="religious_regions"></array>
     <string-array name="tian_gan">
-        <item>甲</item>
-        <item>乙</item>
-        <item>丙</item>
-        <item>丁</item>
-        <item>戊</item>
-        <item>己</item>
-        <item>庚</item>
-        <item>辛</item>
-        <item>壬</item>
-        <item>癸</item>
+        <item>Jia</item>
+        <item>Yi</item>
+        <item>Bing</item>
+        <item>Ding</item>
+        <item>Wu</item>
+        <item>Ji</item>
+        <item>Geng</item>
+        <item>Xin</item>
+        <item>Ren</item>
+        <item>Gui</item>
     </string-array>
 </resources>
