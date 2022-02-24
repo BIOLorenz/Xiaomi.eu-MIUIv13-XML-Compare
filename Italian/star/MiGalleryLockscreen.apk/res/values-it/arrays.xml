@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="account_user_gender_name">
-        <item>Male</item>
-        <item>Female</item>
+        <item>Maschio</item>
+        <item>Femmina</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>\#</item>
@@ -172,7 +172,7 @@
         <item>@string/eras_ad</item>
     </string-array>
     <string-array name="feature_desc">
-        <item>Optimized for international users by Xiaomi.eu</item>
+        <item>Ottimizzato per utenti internazionali da Xiaomi.eu</item>
     </string-array>
     <string-array name="heavenly_stems">
         <item>@string/heavenly_stems_jia</item>
@@ -187,18 +187,18 @@
         <item>@string/heavenly_stems_gui</item>
     </string-array>
     <string-array name="month12">
-        <item>January</item>
-        <item>February</item>
-        <item>March</item>
-        <item>April</item>
-        <item>May</item>
-        <item>June</item>
-        <item>July</item>
-        <item>August</item>
-        <item>September</item>
-        <item>October</item>
-        <item>November</item>
-        <item>December</item>
+        <item>Gennaio</item>
+        <item>Febbraio</item>
+        <item>Marzo</item>
+        <item>Aprile</item>
+        <item>Maggio</item>
+        <item>Giugno</item>
+        <item>Luglio</item>
+        <item>Agosto</item>
+        <item>Settembre</item>
+        <item>Ottobre</item>
+        <item>Novembre</item>
+        <item>Dicembre</item>
     </string-array>
     <string-array name="months">
         <item>@string/month_january</item>
