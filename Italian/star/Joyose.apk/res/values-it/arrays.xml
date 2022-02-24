@@ -151,7 +151,7 @@
         <item>@string/chinese_symbol_animals_pig</item>
     </string-array>
     <string-array name="deepclean_lock_screen_white_list">
-        <item>com.miui.home</item>
+        <item>com.android.launcher3</item>
         <item>com.kugou.android</item>
         <item>com.tencent.qqmusic</item>
         <item>com.sds.android.ttpod</item>
@@ -183,7 +183,7 @@
         <item>cld.navi.mainframe</item>
     </string-array>
     <string-array name="deepclean_normal_white_list">
-        <item>com.miui.home</item>
+        <item>com.android.launcher3</item>
         <item>com.android.systemui</item>
         <item>android</item>
         <item>com.miui.whetstone</item>
@@ -208,7 +208,7 @@
     </string-array>
     <string-array name="disable_trim_apps">
         <item>android</item>
-        <item>com.miui.home</item>
+        <item>com.android.launcher3</item>
     </string-array>
     <string-array name="earthly_branches">
         <item>@string/earthly_branches_zi</item>
@@ -330,7 +330,7 @@
         <item>com.xiaomi.hm.health</item>
     </string-array>
     <string-array name="sleepclean_system_forcestop_list">
-        <item>com.miui.gallery</item>
+        <item>com.android.gallery3d</item>
         <item>com.android.email</item>
     </string-array>
     <string-array name="sleepclean_white_list">
@@ -338,7 +338,7 @@
         <item>com.android.systemui</item>
         <item>com.miui.miwallpaper</item>
         <item>com.android.mms</item>
-        <item>com.miui.home</item>
+        <item>com.android.launcher3</item>
         <item>com.miui.touchassistant</item>
         <item>com.google.android.marvin.talkback</item>
         <item>com.miui.powerkeeper</item>
