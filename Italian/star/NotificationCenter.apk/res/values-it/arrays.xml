@@ -150,10 +150,10 @@
         <item>@string/night</item>
     </string-array>
     <string-array name="drop_down_menu">
-        <item>Sort by time received</item>
-        <item>Sort by number of notifications</item>
-        <item>Apps that can show notifications</item>
-        <item>"Apps that can't show notifications"</item>
+        <item>Ordina per orario di ricezione</item>
+        <item>Ordina per numero di notifiche</item>
+        <item>App che possono mostrare le notifiche</item>
+        <item>"App che non possono mostrare notifiche"</item>
     </string-array>
     <string-array name="earthly_branches">
         <item>@string/earthly_branches_zi</item>
@@ -186,13 +186,13 @@
         <item>@string/heavenly_stems_gui</item>
     </string-array>
     <string-array name="lock_screen_display_rules_no_password">
-        <item>Show notification content</item>
-        <item>"Don't show Lock screen notifications"</item>
+        <item>Mostra contenuto notifica</item>
+        <item>"Non mostrare le notifiche nella schermata di blocco"</item>
     </string-array>
     <string-array name="lock_screen_display_rules_with_password">
-        <item>Show notification content</item>
-        <item>Show notifications but hide content</item>
-        <item>"Don't show Lock screen notifications"</item>
+        <item>Mostra contenuto notifica</item>
+        <item>Mostra notifiche ma nascondi il contenuto</item>
+        <item>"Non mostrare le notifiche nella schermata di blocco"</item>
     </string-array>
     <string-array name="months">
         <item>@string/month_january</item>
