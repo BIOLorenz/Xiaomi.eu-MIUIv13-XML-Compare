@@ -76,17 +76,17 @@
         <item>com.xiaomi.wearable</item>
     </string-array>
     <string-array name="ble_profile_mi_band">
-        <item>Vibrate when ringing</item>
-        <item>Vibrate when receiving message</item>
-        <item>Vibrate when alarm</item>
+        <item>Vibra quando suona</item>
+        <item>Vibra quando ricevi un messaggio</item>
+        <item>Vibra con le sveglie</item>
     </string-array>
     <string-array name="ble_profile_mi_key">
-        <item>Take photo</item>
-        <item>Find phone</item>
-        <item>Find Mi-key</item>
+        <item>Scatta foto</item>
+        <item>Trova telefono</item>
+        <item>Trova Mi-key</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
-        <item>Use System Selection (Default)</item>
+        <item>Usa impostazione di sistema (Predefinito)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Qualcomm® aptX™ audio</item>
@@ -95,9 +95,9 @@
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
-        <item>, active</item>
-        <item>, active (media)</item>
-        <item>, active (phone)</item>
+        <item> | Attivo</item>
+        <item> | Attivo (media)</item>
+        <item> | Attivo (telefono)</item>
     </string-array>
     <string-array name="chinese_days">
         <item>@string/chinese_day_1</item>
