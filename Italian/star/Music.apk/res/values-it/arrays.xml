@@ -87,7 +87,7 @@
         <item>all</item>
         <item>male</item>
         <item>female</item>
-        <item>group</item>
+        <item>gruppo</item>
     </string-array>
     <string-array name="chinese_days">
         <item>@string/chinese_day_1</item>
@@ -288,13 +288,13 @@
         <item>@string/month_december_shortest</item>
     </string-array>
     <string-array name="recommendation_desc_week">
-        <item>Sunday recommendations</item>
-        <item>Monday recommendations</item>
-        <item>Tuesday recommendations</item>
-        <item>Wednesday recommendations</item>
-        <item>Thursday recommendations</item>
-        <item>Friday recommendations</item>
-        <item>Saturday recommendations</item>
+        <item>Consigli Domenicali</item>
+        <item>Consigli del Lunedì</item>
+        <item>Consigli del Martedì</item>
+        <item>Consigli del Mercoledì</item>
+        <item>Consigli del Giovedì</item>
+        <item>Consigli del Venerdì</item>
+        <item>Consigli del Sabato</item>
     </string-array>
     <string-array name="solar_terms">
         <item>@string/empty</item>
