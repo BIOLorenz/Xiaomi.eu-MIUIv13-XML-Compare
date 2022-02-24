@@ -275,7 +275,7 @@
         <item>@string/month_december_shortest</item>
     </string-array>
     <string-array name="pref_camera_focusmode_default_array">
-        <item>continuous-picture</item>
+        <item>Immagine continua</item>
         <item>auto</item>
     </string-array>
     <string-array name="solar_terms">
