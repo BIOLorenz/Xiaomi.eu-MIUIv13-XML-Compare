@@ -3357,7 +3357,7 @@ Puoi vedere i log generati in File Manager."</string>
     <string name="emergency_gesture_switchbar_title">Use Emergency SOS</string>
     <string name="emergency_info_summary">Info e contatti per %1$s</string>
     <string name="emergency_info_title">Informazioni di emergenza</string>
-    <string name="emergency_settings_preference_title">Safety &amp; emergency</string>
+    <string name="emergency_settings_preference_title">Sicurezza e emergenza</string>
     <string name="emergency_sos_title">SOS di Emergenza</string>
     <string name="emergency_tone_alert">Toni</string>
     <string name="emergency_tone_silent">Silenzia</string>
