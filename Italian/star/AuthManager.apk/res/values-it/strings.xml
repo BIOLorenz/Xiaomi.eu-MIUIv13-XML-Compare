@@ -45,8 +45,8 @@
     <string name="HIPS_Perm_Intl_group_name_storage">Archiviazione</string>
     <string name="HIPS_Perm_Location">Posizione</string>
     <string name="HIPS_Perm_Location_Desc">Localizzare il dispositivo tramite la rete o il GPS</string>
-    <string name="HIPS_Perm_NEARBY_DEVICES">Connect to nearby devices</string>
-    <string name="HIPS_Perm_NEARBY_DEVICES_Desc">Discover and connect to the devices nearby</string>
+    <string name="HIPS_Perm_NEARBY_DEVICES">Connettiti ai dispositivi vicini</string>
+    <string name="HIPS_Perm_NEARBY_DEVICES_Desc">Trova e connettiti ai dispositivi nelle vicinanze</string>
     <string name="HIPS_Perm_PhoneID">ID Telefono</string>
     <string name="HIPS_Perm_PhoneID_Desc">Visualizza l\'ID del tuo telefono, compresi IMEI, IMSI, etc</string>
     <string name="HIPS_Perm_PhoneID_Desc_Q">Accesso al numero di telefono e allo stato del devices</string>
@@ -92,10 +92,10 @@
     <string name="HIPS_Perm_install_shortcut_Desc">Aggiungere collegamenti alla Home</string>
     <string name="HIPS_Perm_mediaVolume">Regola volume multimediale</string>
     <string name="HIPS_Perm_mediaVolume_Desc">Consenti all\'applicazione di regolare il volume multimediale</string>
-    <string name="HIPS_Perm_operator_get_phonenumbner">Access phone number for signing in</string>
-    <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Acquire phone number from the carrier for signing in</string>
-    <string name="HIPS_Perm_operator_get_phonenumbner_Hint">"If you weren't able to sign in with one tap now, go back to the sign-in page and try again."</string>
-    <string name="HIPS_Perm_operator_get_phonenumbner_Message">This app wants to acquire your phone number from the carrier for signing in. Allow?</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner">Accedi al numero di telefono per accedere</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Acquisisci numero di telefono dall\'operatore per accedere</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Hint">"Se non sei stato in grado di accedere con un solo tocco, torna alla pagina di accesso e riprova."</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Message">Questa applicazione vuole acquisire il tuo numero di telefono dall\'operatore per accedere. Consentirlo?</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">Accesso hardware Near Field Communication (NFC)</string>
     <string name="HIPS_Perm_process_outgoing_calls">Accesso all\'applicazione Telefono</string>
@@ -248,7 +248,7 @@
     <string name="clipboard_read_allow_once">%1$s ha acceduto agli appunti</string>
     <string name="clipboard_read_deny_dialog_title">L\'IA ha negato a %1$s di leggere gli appunti</string>
     <string name="close">Chiudi</string>
-    <string name="copy">Copy</string>
+    <string name="copy">Copia</string>
     <string name="current_permission_template">%1$s(%2$d/%3$d)</string>
     <string name="date_picker_label_day"></string>
     <string name="date_picker_label_month"></string>
@@ -273,7 +273,7 @@
     <string name="eras_ad">AC</string>
     <string name="eras_bc">DC</string>
     <string name="evening">Pomeriggio</string>
-    <string name="expand_button_title">Advanced</string>
+    <string name="expand_button_title">Avanzate</string>
     <string name="fmt_chinese_date">dd/MM</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
@@ -362,8 +362,8 @@
     <string name="location_settings">Impostazioni posizione</string>
     <string name="location_warning">%1$s è un fornitore di servizi di geolocalizzazione per questo dispositivo. È possibile modificare l\'accesso alla posizione dalle impostazioni sulla posizione.</string>
     <string name="midnight">Notte</string>
-    <string name="miuix_access_state_desc">Selected</string>
-    <string name="miuix_alphabet_indexer_name">Index bar</string>
+    <string name="miuix_access_state_desc">Selezionato</string>
+    <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleziona elementi</string>
@@ -378,8 +378,8 @@
     <string name="miuix_appcompat_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
-    <string name="miuix_indexer_collect">Collections</string>
-    <string name="miuix_indexer_selected">Selected %s</string>
+    <string name="miuix_indexer_collect">Raccolte</string>
+    <string name="miuix_indexer_selected">Selezionato %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
@@ -433,7 +433,7 @@
     <string name="night">Sera</string>
     <string name="no">No</string>
     <string name="noon">Mezzogiorno</string>
-    <string name="not_set">Not set</string>
+    <string name="not_set">Non impostato</string>
     <string name="notification_click_tip">Tocca per vedere i dettagli</string>
     <string name="ok">OK</string>
     <string name="perm_action_allow">Consenti</string>
@@ -476,8 +476,8 @@
     <string name="permission_warning_template_ask">Concedere a %1$s i seguenti permessi?</string>
     <string name="permisson_reject_notice_toast_text2">"non hai il permesso per %1$s."</string>
     <string name="pm">PM</string>
-    <string name="pp_privacy_lab_operator_introduction">Attention</string>
-    <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
+    <string name="pp_privacy_lab_operator_introduction">Attenzione</string>
+    <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="real_location_off">Il servizio di localizzazione è abilitato</string>
     <string name="real_location_on">Posizione reale: Disattiva</string>
     <string name="saturday">Sabato</string>
