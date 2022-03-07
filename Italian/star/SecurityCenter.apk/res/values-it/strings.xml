@@ -3239,7 +3239,7 @@ dall'operatore"</string>
     <string name="pc_fast_charge_notifi_switch_title">Notify about boosting</string>
     <string name="pc_fast_charge_notifi_title">%dW charging</string>
     <string name="pc_fast_charge_notifi_title_on">Stop boosting charging speed</string>
-    <string name="pc_fast_charge_switch_summary">"Turn on to speed up the charging process. MIUI will prioritize charging speed while ensuring your device's safety. The lower your battery is, the faster it will be charged. This feature might heat up your device."</string>
+    <string name="pc_fast_charge_switch_summary">"Attiva per velocizzare il processo di ricarica. MIUI darà priorità alla velocità di ricarica garantendo la sicurezza del dispositivo. Più bassa è la batteria, più velocemente sarà caricata. Questa funzione potrebbe surriscaldare il dispositivo."</string>
     <string name="pc_fast_charge_switch_title">Boost charging speed</string>
     <string name="pc_fast_charge_switch_toast_message">Changes will be applied next time you charge this device</string>
     <string name="pc_fast_charge_title">Boost charging speed</string>
@@ -4594,7 +4594,7 @@ Withdraw consent now?"</string>
     <string name="sp_guard_title">Family Guard</string>
     <string name="sp_lock_screen_password_summary">Set screen lock</string>
     <string name="sp_lock_screen_password_title">Screen lock</string>
-    <string name="sp_micare_summary">Personal safety</string>
+    <string name="sp_micare_summary">Sicurezza personale</string>
     <string name="sp_micare_title">MIUI Warning Center</string>
     <string name="sp_monitored_apps_count_zero">Nessuna app di pagamento protetta</string>
     <string name="sp_monitored_apps_list_title">Impostazioni di monitoraggio</string>
@@ -4603,7 +4603,7 @@ Withdraw consent now?"</string>
     <string name="sp_network_privacy_dialog_title">"Impossibile utilizzare la scansione di sicurezza"</string>
     <string name="sp_payment_protect_summary">Protect online payment environment</string>
     <string name="sp_payment_protect_title">Payment security</string>
-    <string name="sp_person_security_title">Personal safety</string>
+    <string name="sp_person_security_title">Sicurezza personale</string>
     <string name="sp_phone_scan_summary">Detect security risks</string>
     <string name="sp_phone_scan_title">Scan</string>
     <string name="sp_power_off_password_summary">Require password before the device is powered off</string>
