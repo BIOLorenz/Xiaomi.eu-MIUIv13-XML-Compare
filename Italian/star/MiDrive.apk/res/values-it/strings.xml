@@ -419,7 +419,7 @@ Make sure you're using the current Mi Account as your MIUI system account."</str
     <string name="month_august">August</string>
     <string name="month_august_short">Aug</string>
     <string name="month_august_shortest">Aug</string>
-    <string name="month_day_format">MM/dd</string>
+    <string name="month_day_format">dd/MM</string>
     <string name="month_december">December</string>
     <string name="month_december_short">Dec</string>
     <string name="month_december_shortest">Dec</string>
