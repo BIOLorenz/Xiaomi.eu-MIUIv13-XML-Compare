@@ -39,10 +39,10 @@
     <string name="aod_dual_togother">HH:mm</string>
     <string name="aod_hours_12">hh</string>
     <string name="aod_hours_24">HH</string>
-    <string name="aod_lock_screen_date">EEE MM/dd</string>
-    <string name="aod_lock_screen_date_signature">MM/dd</string>
+    <string name="aod_lock_screen_date">EEE dd/MM</string>
+    <string name="aod_lock_screen_date_signature">dd/MM</string>
     <string name="aod_lock_screen_date_v">"EEE
-MM/dd"</string>
+dd/MM"</string>
     <string name="aod_show_date_and_time">Time</string>
     <string name="aod_signature_12">hh:mm aa</string>
     <string name="aod_signature_horizontal_12">hh:mm</string>
@@ -381,7 +381,7 @@ MM/dd"</string>
     <string name="page_detail_publish_time_gallery_label">"Added: "</string>
     <string name="page_detail_publish_time_label">"Published: "</string>
     <string name="page_detail_version_label">"Version: "</string>
-    <string name="page_time_format_string">MM/dd/yyyy</string>
+    <string name="page_time_format_string">dd/MM/yyyy</string>
     <string name="password_toggle_content_description">Show password</string>
     <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
