@@ -1626,16 +1626,16 @@ d MMMM"</string>
     <string name="miui_keyboard_shortcut_system_dock">Show app dock</string>
     <string name="miui_keyboard_shortcut_system_quickly_recent">Switch between recent apps</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Sbloccato da dispositivo Bluetooth</string>
-    <string name="miui_lock_screen_date">EEEE MM/dd</string>
-    <string name="miui_lock_screen_date_12">EEEE MM/dd</string>
+    <string name="miui_lock_screen_date">EEEE dd/MM</string>
+    <string name="miui_lock_screen_date_12">EEEE dd/MM</string>
     <string name="miui_lock_screen_date_two_lines">"EEEE
-MM/dd"</string>
+dd/MM"</string>
     <string name="miui_lock_screen_date_two_lines_12">"EEEE
-MM/dd"</string>
+dd/MM"</string>
     <string name="miui_lock_screen_large_date">"EEE
-MM/dd"</string>
+dd/MM"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
-MM/dd"</string>
+dd/MM"</string>
     <string name="miui_notification_menu_aggregate_feedback">Segnalazione</string>
     <string name="miui_notification_menu_allow">Consenti</string>
     <string name="miui_notification_menu_feedback_success">Grazie per la segnalazione!</string>
