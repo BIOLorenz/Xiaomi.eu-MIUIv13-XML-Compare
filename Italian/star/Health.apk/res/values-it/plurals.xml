@@ -44,10 +44,6 @@
         <item quantity="other">%1$d-%2$d volte</item>
         <item quantity="one">%1$d-%2$d volta</item>
     </plurals>
-    <plurals name="cousume_unit_format">
-        <item quantity="other">%1$d Cal</item>
-        <item quantity="one">%1$d Cal</item>
-    </plurals>
     <plurals name="daily_suggestions_steps">
         <item quantity="other">Cammina almeno %1$d passi ogni giorno</item>
         <item quantity="one">Cammina almeno %1$d passo ogni giorno</item>
@@ -72,10 +68,6 @@
         <item quantity="other">Eliminare %1$d elementi?</item>
         <item quantity="one">Eliminare %1$d elemento?</item>
     </plurals>
-    <plurals name="distance_unit_kilometre">
-        <item quantity="other">%1$.1f km</item>
-        <item quantity="one">%1$.1f km</item>
-    </plurals>
     <plurals name="dream_talk_segment">
         <item quantity="other">%1$d registrazioni</item>
         <item quantity="one">%1$d registrazione</item>
@@ -87,14 +79,6 @@
     <plurals name="duration_unit_hour_format">
         <item quantity="other">%1$d ore</item>
         <item quantity="one">%1$d ora</item>
-    </plurals>
-    <plurals name="duration_unit_minute_format">
-        <item quantity="other">%1$d min</item>
-        <item quantity="one">%1$d min</item>
-    </plurals>
-    <plurals name="duration_unit_second_format">
-        <item quantity="other">%1$d sec</item>
-        <item quantity="one">%1$d sec</item>
     </plurals>
     <plurals name="goal_format_with_unit">
         <item quantity="other">Obiettivo: %1$d passi</item>
@@ -175,10 +159,6 @@
     <plurals name="mesens_card_title_predict_date">
         <item quantity="other">Prossimo ciclo tra %1$d giorni</item>
         <item quantity="one">Prossimo ciclo tra %1$d giorno</item>
-    </plurals>
-    <plurals name="minutes">
-        <item quantity="other">%1$d min</item>
-        <item quantity="one">%1$d min</item>
     </plurals>
     <plurals name="minutes_ago">
         <item quantity="other">%1$d minuti fa</item>
@@ -264,10 +244,6 @@
         <item quantity="other">%1$d Calorie</item>
         <item quantity="one">%1$d Caloria</item>
     </plurals>
-    <plurals name="sporting_unit_km">
-        <item quantity="other">%1$s km</item>
-        <item quantity="one">%1$s km</item>
-    </plurals>
     <plurals name="sporting_unit_step">
         <item quantity="other">passi</item>
         <item quantity="one">passo</item>
@@ -275,10 +251,6 @@
     <plurals name="step_num_format">
         <item quantity="other">%1$d passi</item>
         <item quantity="one">%1$d passo</item>
-    </plurals>
-    <plurals name="steps_format">
-        <item quantity="other">%1$d</item>
-        <item quantity="one">%1$d</item>
     </plurals>
     <plurals name="subtitle_add_record">
         <item quantity="other">"Non hai registrato per %1$d giorni. Registra i tuoi cicli per ottenere previsioni più accurate."</item>
@@ -360,17 +332,9 @@
         <item quantity="other">" ore "</item>
         <item quantity="one">" ora "</item>
     </plurals>
-    <plurals name="unit_mins">
-        <item quantity="other">" min "</item>
-        <item quantity="one">" min "</item>
-    </plurals>
     <plurals name="unit_mins2">
         <item quantity="other">" minuti "</item>
         <item quantity="one">" minuto "</item>
-    </plurals>
-    <plurals name="unit_seconds">
-        <item quantity="other">" sec "</item>
-        <item quantity="one">" sec "</item>
     </plurals>
     <plurals name="unit_times">
         <item quantity="other">" ore"</item>
