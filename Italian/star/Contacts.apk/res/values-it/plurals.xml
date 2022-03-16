@@ -48,10 +48,6 @@
         <item quantity="other">" ore"</item>
         <item quantity="one">" ora"</item>
     </plurals>
-    <plurals name="bh_minute">
-        <item quantity="other">" min"</item>
-        <item quantity="one">" min"</item>
-    </plurals>
     <plurals name="btn_delete_multi_contacts">
         <item quantity="other">Elimina %1$d contatti</item>
         <item quantity="one">Elimina %1$d contatto</item>
@@ -159,10 +155,6 @@
     <plurals name="in_num_minutes">
         <item quantity="other">tra %d minuti</item>
         <item quantity="one">tra 1 minuto</item>
-    </plurals>
-    <plurals name="label_duplicate_count_plurals">
-        <item quantity="other">(%1$d)</item>
-        <item quantity="one">(%1$d)</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Proprio adesso</item>
