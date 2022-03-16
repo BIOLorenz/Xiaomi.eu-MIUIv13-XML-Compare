@@ -8,15 +8,10 @@
     <string name="abc_activitychooserview_choose_application">Scegli un\'app</string>
     <string name="abc_capital_off">DISATTIVATO</string>
     <string name="abc_capital_on">ATTIVATO</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">elimina</string>
     <string name="abc_menu_enter_shortcut_label">invio</string>
     <string name="abc_menu_function_shortcut_label">Funzione+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">Spazio</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menù+</string>
     <string name="abc_search_hint">Ricerca…</string>
     <string name="abc_searchview_description_clear">Cancella campo</string>
@@ -30,7 +25,6 @@
     <string name="about_to_recover">Attendi…</string>
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="afternoon">Pomeriggio</string>
-    <string name="am">AM</string>
     <string name="app_is_running">App in esecuzione…</string>
     <string name="app_name">Backup Cloud</string>
     <string name="arrange_restore_order">Riorganizzazione app…</string>
@@ -44,19 +38,13 @@
     <string name="backup_action_buy_cloud_space">Aumenta lo spazio</string>
     <string name="backup_action_check_network">Mostra le impostazioni di rete</string>
     <string name="backup_action_clean_disk_space">Libera spazio</string>
-    <string name="backup_action_no_space_with_wechat_off_content">Not enough cloud storage space to back up items from this device. Tap to view cloud storage options available to you.</string>
-    <string name="backup_action_no_space_with_wechat_off_title">"Couldn't back up items"</string>
-    <string name="backup_action_no_space_with_wechat_on_content">Not enough cloud storage space to back up WeChat data. Upgrade your storage plan to back up items.</string>
-    <string name="backup_action_no_space_with_wechat_on_title">"Couldn't back up WeChat data"</string>
     <string name="backup_action_retry_now">Riprova</string>
-    <string name="backup_failed_reason_app_data_error">"Couldn't back up WeChat data"</string>
     <string name="backup_failed_reason_app_usage_denied">Concedi i permessi necessari per eseguire il backup degli elementi</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Spazio di archiviazione insufficiente in Xiaomi Cloud. Effettua l\'upgrade del piano o libera spazio di archiviazione.</string>
     <string name="backup_failed_reason_disk_space_not_enough">Spazio di archiviazione insufficiente. Liberare la memoria.</string>
     <string name="backup_failed_reason_network_error">Controlla le tue impostazioni di rete e prova di nuovo</string>
     <string name="backup_finished_notification_content">Backup eseguito per app schermate Home, impostazione di sistema, etc.</string>
     <string name="backup_now">Esegui backup adesso</string>
-    <string name="backup_progress_percent_unit">%</string>
     <string name="backup_remind_buy_cloud_space">Aggiorna il piano di archiviazione cloud</string>
     <string name="backup_remind_clean_disk_space">Libera spazio di archiviazione</string>
     <string name="backup_remind_cloud_space_cost">Dimensione backup: %s</string>
@@ -194,7 +182,6 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="cloud_back_up_frequence_choice_title">Programmazione backup</string>
     <string name="cloud_back_up_frequence_long">Ogni 7 giorni</string>
     <string name="cloud_back_up_frequence_short">Ogni giorno</string>
-    <string name="cloud_back_up_ok_btn">OK</string>
     <string name="cloud_back_up_opening">Attendi…</string>
     <string name="cloud_back_up_subscribe_vip_confirm">Aggiorna</string>
     <string name="cloud_back_up_subscribe_vip_discription">Ottini più spazio di archiviazione, backup giornalieri ed altro.</string>
@@ -231,9 +218,6 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="copy">Copia</string>
     <string name="customization"><u>Personalizza</u></string>
     <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
-    <string name="date_picker_label_day"></string>
-    <string name="date_picker_label_month"></string>
-    <string name="date_picker_label_year"></string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
     <string name="deskclock_backup">Backup sveglie</string>
@@ -243,8 +227,6 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="desktop_wait_network">In attesa…</string>
     <string name="desktop_waiting">In attesa</string>
     <string name="device_delete_prompt">Eliminare il backup di %s?</string>
-    <string name="dialog_app_usage_consent_message">This feature needs to access app usage data to be able to estimate the size of WeChat backups.</string>
-    <string name="dialog_app_usage_consent_title">Allow accessing app usage data</string>
     <string name="dialog_app_usage_denied">Dare il permesso \"Accesso all\'utilizzo\" nelle impostazioni per essere in grado di eseguire il backup degli elementi.</string>
     <string name="dialog_backup_failed">"Backup incompleto"</string>
     <string name="dialog_btn_cancel_backup">Annulla</string>
@@ -253,11 +235,8 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="dialog_btn_next">Successivo</string>
     <string name="dialog_btn_overwrite_backup">Sovrascrivi</string>
     <string name="dialog_btn_restore_skip">Ripristina più tardi</string>
-    <string name="dialog_button_agree">Allow</string>
-    <string name="dialog_button_disagree">"Don't allow"</string>
     <string name="dialog_buy_cloud_space">Aggiorna</string>
     <string name="dialog_cancel_backup_cancel">Annulla</string>
-    <string name="dialog_cancel_backup_confirm">OK</string>
     <string name="dialog_cancel_backup_msg">Lo spostamento dello switch terminerà il backup in corso.</string>
     <string name="dialog_cancel_backup_title">Annullare il backup in corso?</string>
     <string name="dialog_cloud_space_not_enough">Questo backup richiede %1$s di memoria cloud libera. Aggiorna il tuo piano di archiviazione per eseguire il backup.</string>
@@ -276,12 +255,6 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="download_meta_failed">"Impossibile caricare i dati."</string>
     <string name="download_settings">Download impostazioni Home: %s%%</string>
     <string name="download_settings_fail">"Download impostazioni Home fallito"</string>
-    <string name="dump_app_data_record_complete_msg">File locations: %s</string>
-    <string name="dump_app_data_record_complete_title">Backed up WeChat data successfully</string>
-    <string name="dump_app_data_record_not_found_msg">"Looks like you haven't backed up WeChat data before"</string>
-    <string name="dump_app_data_record_not_found_title">"Couldn't find WeChat backups"</string>
-    <string name="dump_app_data_record_running_msg"></string>
-    <string name="dump_app_data_record_running_title">Backing up WeChat data…</string>
     <string name="early_morning">Mattina</string>
     <string name="earthly_branches_chen">Chen</string>
     <string name="earthly_branches_chou">Chou</string>
@@ -295,10 +268,8 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="earthly_branches_yin">Yin</string>
     <string name="earthly_branches_you">You</string>
     <string name="earthly_branches_zi">Zi</string>
-    <string name="empty"></string>
     <string name="eras_ad">AC</string>
     <string name="eras_bc">DC</string>
-    <string name="error_num_placeholder">--</string>
     <string name="error_retry_later">"Errore, riprova più tardi per favore."</string>
     <string name="error_unknown">Si è verificato un errore</string>
     <string name="evening">Pomeriggio</string>
@@ -324,35 +295,20 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
     <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">"hh"</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
-    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
     <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
     <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
-    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
-    <string name="fmt_time_12hour_pm">ha</string>
     <string name="fmt_time_24hour">"HH"</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
-    <string name="fmt_time_millis">"S'ms'"</string>
-    <string name="fmt_time_minute">"m'min'"</string>
     <string name="fmt_time_minute_second">"m:s"</string>
     <string name="fmt_time_minute_second_millis">"m:s.S"</string>
-    <string name="fmt_time_second">"s's'"</string>
     <string name="fmt_time_second_millis">"s.S"</string>
     <string name="fmt_time_timezone">zT</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
     <string name="fmt_weekday_date">DW</string>
     <string name="fmt_weekday_date_time">DW T</string>
     <string name="fmt_weekday_date_time_timezone">zDW T</string>
     <string name="fmt_weekday_date_timezone">zDW</string>
-    <string name="fmt_weekday_long">EEEE</string>
-    <string name="fmt_weekday_short">E</string>
-    <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
     <string name="friday">Venerdì</string>
@@ -385,9 +341,6 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="menu_item_sort_name">Nome</string>
     <string name="menu_item_sort_size">Dimensione</string>
     <string name="midnight">Notte</string>
-    <string name="miui_device_name">Android</string>
-    <string name="miuix_access_state_desc">Selected</string>
-    <string name="miuix_alphabet_indexer_name">Index bar</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleziona elementi</string>
@@ -402,8 +355,6 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="miuix_appcompat_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
-    <string name="miuix_indexer_collect">Collections</string>
-    <string name="miuix_indexer_selected">Selected %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
@@ -416,8 +367,6 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
     <string name="month_april">Aprile</string>
-    <string name="month_april_short">Apr</string>
-    <string name="month_april_shortest">Apr</string>
     <string name="month_august">Agosto</string>
     <string name="month_august_short">Ago</string>
     <string name="month_august_shortest">Ago</string>
@@ -425,8 +374,6 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="month_december_short">Dic</string>
     <string name="month_december_shortest">Dic</string>
     <string name="month_february">Febbraio</string>
-    <string name="month_february_short">Feb</string>
-    <string name="month_february_shortest">Feb</string>
     <string name="month_january">Gennaio</string>
     <string name="month_january_short">Gen</string>
     <string name="month_january_shortest">Gen</string>
@@ -437,14 +384,10 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="month_june_short">Giu</string>
     <string name="month_june_shortest">Giu</string>
     <string name="month_march">Marzo</string>
-    <string name="month_march_short">Mar</string>
-    <string name="month_march_shortest">Mar</string>
     <string name="month_may">Maggio</string>
     <string name="month_may_short">Maggio</string>
     <string name="month_may_shortest">Maggio</string>
     <string name="month_november">Novembre</string>
-    <string name="month_november_short">Nov</string>
-    <string name="month_november_shortest">Nov</string>
     <string name="month_october">Ottobre</string>
     <string name="month_october_short">Ott</string>
     <string name="month_october_shortest">Ott</string>
@@ -469,10 +412,7 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="open_backup_switch">Attiva lo switch backup</string>
     <string name="other_device_main_space">Primo spazio</string>
     <string name="other_device_second_space">Secondo spazio</string>
-    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
-    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">"Impossibile ripristinare gli elementi in modalità PC. Disattiva la modalità PC e riprova."</string>
-    <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="process_whole_recovery">Ripristino di \"%s\"</string>
     <string name="provision_back">Indietro</string>
@@ -481,7 +421,6 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="provision_error_connect_title">"Impossibile connettersi"</string>
     <string name="provision_next">Successivo</string>
     <string name="provision_restore_data">Ripristino elementi</string>
-    <string name="provision_restore_item_backup_name_with_size">%1$s %2$s</string>
     <string name="provision_skip_underline">Salta</string>
     <string name="query_restore_description">Ripristina le app sulla Schermata Home e le impostazioni con questo backup. Verranno sovrascritti i dati delle app già installate. Le app non incluse in questo backup verranno spostate nell\'ultima schermata.</string>
     <string name="query_restore_summary">Trovato un backup su Mi Cloud per questo dispositivo. Vuoi utilizzare il backup o vuoi continuare configurando il dispositivo come nuovo e cancellare i backup precedenti su Mi Cloud?</string>
@@ -499,7 +438,6 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="restore_app_order_retry_desc">"Impossibile collegarsi alla rete.
 Controlla le tue impostazioni di rete e prova di nuovo."</string>
     <string name="restore_app_order_search_hint">Cerca elementi di cui impostare la priorità</string>
-    <string name="restore_app_order_search_input_high_light">"&lt;font color='#ff0800'&gt;%s&lt;/font&gt;"</string>
     <string name="restore_app_order_search_installed">App sul dispositivo</string>
     <string name="restore_app_order_search_normal">App con priorità normale</string>
     <string name="restore_app_order_search_prior">App con priorità alta</string>
@@ -512,7 +450,6 @@ Controlla le tue impostazioni di rete e prova di nuovo."</string>
     <string name="restore_detail_category_settings">Impostazioni</string>
     <string name="restore_detail_more">Altro</string>
     <string name="restore_detail_title">Seleziona gli elementi e ripristina</string>
-    <string name="restore_failed_reason_app_data_error">"Couldn't restore WeChat data"</string>
     <string name="restore_failed_reason_disk_space_not_enough">Spazio di archiviazione insufficiente. Liberare la memoria.</string>
     <string name="restore_failed_reason_network_error">Errore di rete. Attendi un minuto o due e riprova.</string>
     <string name="restore_finish_description">Ripristino completato</string>
@@ -525,8 +462,6 @@ Controlla le tue impostazioni di rete e prova di nuovo."</string>
     <string name="restore_init_description">Avvio ripristino</string>
     <string name="restore_network_pause">In pausa per risparmiare dati mobili. Tocca per riprendere.</string>
     <string name="restore_network_unconnect">%s (in attesa di connessione)</string>
-    <string name="restore_prepare_item_type_enable">Available backups</string>
-    <string name="restore_prepare_item_type_other">Other backups</string>
     <string name="restore_task_cancelling">Annullamento…</string>
     <string name="restore_task_in_process">Ripristina</string>
     <string name="restore_task_unfinished">"Impossibile ripristinare"</string>
@@ -573,11 +508,7 @@ Controlla le tue impostazioni di rete e prova di nuovo."</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
     <string name="start_backup_to_micloud">Esegui backup su Mi Cloud</string>
     <string name="start_recover">Ripristino %s</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="storage_unit_gb">%s GB</string>
-    <string name="storage_unit_mb">%s MB</string>
     <string name="success_open_cloudbackup">Backup applicazioni Schermata Home attivato</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
@@ -625,8 +556,6 @@ Controlla le tue impostazioni di rete e prova di nuovo."</string>
     <string name="thursday_short">Gio</string>
     <string name="thursday_shortest">Gio</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
-    <string name="time_picker_label_hour">H</string>
-    <string name="time_picker_label_minute">M</string>
     <string name="title_alert_cancel_restore">Interrompi ripristino</string>
     <string name="title_alert_restore_error">"Impossibile ripristinare"</string>
     <string name="title_restore_with_current_network">Usa la connessine attuale per il download dei file</string>
@@ -646,6 +575,5 @@ Controlla le tue impostazioni di rete e prova di nuovo."</string>
     <string name="wednesday">Mercoledì</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
-    <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="yesterday">Ieri</string>
 </resources>
