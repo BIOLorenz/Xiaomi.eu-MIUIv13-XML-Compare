@@ -13,7 +13,6 @@
     <string name="certificate">Certificato</string>
     <string name="certificate_capabilities_warning">Nota: l\'autore di questo certificato potrebbe monitorare tutto il traffito in entrata e in unsita dal dispositivo.</string>
     <string name="certificate_name">Nome Certificato</string>
-    <string name="config_system_install_component">com.android.settings/com.android.settings.security.CredentialStorage</string>
     <string name="credential_info">Il pacchetto contiene:</string>
     <string name="credential_password">Digita la password per l\'estrazione dei certificati.</string>
     <string name="credential_usage_label">Utilizzo della credenziale: </string>
@@ -69,8 +68,6 @@ Metodo aut: EAP-%5$s
     <string name="wifi_installer_fail_title">"Impossibile installare"</string>
     <string name="wifi_installing_label">Installazione</string>
     <string name="wifi_no_config">Nessuno</string>
-    <string name="wifi_sim_config_text">"SIM: %s
-"</string>
     <string name="wifi_title">Profilo Wi-Fi</string>
     <string name="wifi_tls_config_text">"Certificato:
 %1$s
