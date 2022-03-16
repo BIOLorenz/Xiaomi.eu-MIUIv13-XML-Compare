@@ -122,10 +122,6 @@
         <item quantity="other">Eliminare %1$s foto da tutti i dispositivi?</item>
         <item quantity="one">Eliminare %1$s foto da tutti i dispositivi?</item>
     </plurals>
-    <plurals name="every_x_day">
-        <item quantity="other">Every %d days</item>
-        <item quantity="one">Every %d day</item>
-    </plurals>
     <plurals name="global_wa_clean_finish_audio">
         <item quantity="other">&lt;Data&gt;Liberati &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (abbastanza per  &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; canzoni)&lt;/Data&gt;</item>
         <item quantity="one">&lt;Data&gt;Liberati &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (abbastanza per &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; canzone)&lt;/Data&gt;</item>
@@ -181,10 +177,6 @@
     <plurals name="install_find_application_num">
         <item quantity="other">Trovate %d app</item>
         <item quantity="one">Trovata %d app</item>
-    </plurals>
-    <plurals name="last_x_day">
-        <item quantity="other">Last %d days</item>
-        <item quantity="one">Last %d day</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Proprio adesso</item>
@@ -245,14 +237,6 @@
     <plurals name="wechat_empty_files">
         <item quantity="other">(%1$d file vuoti) %2$s</item>
         <item quantity="one">(%1$d file vuoti) %2$s</item>
-    </plurals>
-    <plurals name="wechat_video_time_p1">
-        <item quantity="other">%1$s:</item>
-        <item quantity="one">%1$s:</item>
-    </plurals>
-    <plurals name="wechat_video_time_p2">
-        <item quantity="other">%1$s</item>
-        <item quantity="one">%1$s</item>
     </plurals>
     <plurals name="whatsapp_delete_files">
         <item quantity="other">Vuoi eliminare %1$d file?</item>
