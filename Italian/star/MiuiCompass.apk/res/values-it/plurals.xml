@@ -36,10 +36,6 @@
         <item quantity="other">%d minuti fa</item>
         <item quantity="one">1 minuto fa</item>
     </plurals>
-    <plurals name="current_page_number">
-        <item quantity="other">Viewing page %d</item>
-        <item quantity="one">Viewing page %d</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">mezz\'ora fa</item>
         <item quantity="other">mezz\'ora fa</item>
@@ -71,9 +67,5 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuti fa</item>
         <item quantity="one">1 minuto fa</item>
-    </plurals>
-    <plurals name="total_pages">
-        <item quantity="other">Total %d pages</item>
-        <item quantity="one">Total %d page</item>
     </plurals>
 </resources>
