@@ -56,22 +56,6 @@
         <item quantity="other">Puoi creare fino a %d cloni alla volta.</item>
         <item quantity="one">Puoi creare fino a %d clone alla volta.</item>
     </plurals>
-    <plurals name="exit_camera_hint">
-        <item quantity="other">&lt;Data&gt;\"Can\'t connect to the camera.&lt;br&gt;This app will be closed in &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d secs&lt;/b&gt;&lt;/font&gt;. After this, wait a minute or two and try again.\"&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;\"Can\'t connect to the camera.&lt;br&gt;This app will be closed in &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d sec&lt;/b&gt;&lt;/font&gt;. After this, wait a minute or two and try again.\"&lt;/Data&gt;</item>
-    </plurals>
-    <plurals name="exit_thermal_hint">
-        <item quantity="other">&lt;Data&gt;This device is too hot now.&lt;br&gt;The app will be closed in &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d secs&lt;/b&gt;&lt;/font&gt;. Current progress was saved automatically.&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;This device is too hot now.&lt;br&gt;The app will be closed in &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d sec&lt;/b&gt;&lt;/font&gt;. Current progress was saved automatically.&lt;/Data&gt;</item>
-    </plurals>
-    <plurals name="fastmotion_pro_min_unit">
-        <item quantity="other">%1$d min</item>
-        <item quantity="one">%1$d min</item>
-    </plurals>
-    <plurals name="fastmotion_pro_sec_unit">
-        <item quantity="other">%1$d sec</item>
-        <item quantity="one">%1$d sec</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">mezz\'ora fa</item>
         <item quantity="other">mezz\'ora fa</item>
@@ -107,14 +91,6 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuti fa</item>
         <item quantity="one">1 minuto fa</item>
-    </plurals>
-    <plurals name="pad_ccc_temperature_warning_msg">
-        <item quantity="other">Your device is overheated. Camera will be closed in %d seconds. Your photos or videos will be saved automatically.</item>
-        <item quantity="one">Your device is overheated. Camera will be closed in %d second. Your photos or videos will be saved automatically.</item>
-    </plurals>
-    <plurals name="pref_camera_fastmotion_duration_unit">
-        <item quantity="other">%1$s min</item>
-        <item quantity="one">%1$s min</item>
     </plurals>
     <plurals name="pref_live_duration_prompt">
         <item quantity="other">Registrazione %d secondi</item>
