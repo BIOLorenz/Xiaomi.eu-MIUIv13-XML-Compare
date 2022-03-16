@@ -8,15 +8,10 @@
     <string name="abc_activitychooserview_choose_application">Scegli un\'app</string>
     <string name="abc_capital_off">DISATTIVATO</string>
     <string name="abc_capital_on">ATTIVATO</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">elimina</string>
     <string name="abc_menu_enter_shortcut_label">invio</string>
     <string name="abc_menu_function_shortcut_label">Funzione+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">Spazio</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menù+</string>
     <string name="abc_search_hint">Ricerca…</string>
     <string name="abc_searchview_description_clear">Cancella campo</string>
@@ -32,9 +27,7 @@
     <string name="about_item_function">Nuove funzionalità</string>
     <string name="about_net_error">Verifica le tue impostazioni di rete e riprova.</string>
     <string name="about_newest">Sfondi Carousel è aggiornato.</string>
-    <string name="about_permission">Permissions</string>
     <string name="about_update">Aggiorna</string>
-    <string name="access_denied_info">Too many attempts. Wait a minute or two and try again.</string>
     <string name="account_bind_secure_email_title">Aggiungi email di ripristino</string>
     <string name="account_bind_secure_phone_title">Aggiungi numero di telefono di ripristino</string>
     <string name="account_crop_user_avatar">Ritaglia foto</string>
@@ -78,7 +71,6 @@
     <string name="ad_btn_open">Apri</string>
     <string name="ad_btn_pending">In attesa</string>
     <string name="ad_download_now">Scarica</string>
-    <string name="ad_feed_badge">AD</string>
     <string name="ad_pop_btn_hidden">Nascondi</string>
     <string name="ad_pop_des">Scaricamento app:</string>
     <string name="add">Aggiungi</string>
@@ -96,8 +88,6 @@
     <string name="add_wallpaper">Aggiungi sfondi</string>
     <string name="addcw_apply_btn_txt">Aggiungi sfondo</string>
     <string name="afternoon">Pomeriggio</string>
-    <string name="allowed">Granted</string>
-    <string name="am">AM</string>
     <string name="app_name">Sfondi Carousel</string>
     <string name="app_self_upgrade_dlg_checkbox_ignore_version">Ignora questa versione</string>
     <string name="app_self_upgrade_dlg_content">È disponibile una nuova versione. Aggiornare ora?</string>
@@ -105,7 +95,6 @@
     <string name="app_self_upgrade_dlg_postive_btn">Aggiorna ora</string>
     <string name="app_self_upgrade_dlg_title">Aggiornamento disponibile</string>
     <string name="app_self_upgrade_toast_downloading_install">Inizio aggiornamento…</string>
-    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="apply">Applica</string>
     <string name="apply_to_above_all">Imposta su entrambi</string>
     <string name="apply_to_screenlock">Imposta su Schermata di blocco</string>
@@ -116,16 +105,10 @@
     <string name="auto_interval">Dopo ogni sblocco del dispositivo</string>
     <string name="back_icon_content_description">Indietro</string>
     <string name="bind_sign_in_title">Aggiungi Mi Account</string>
-    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="cancel">Annulla</string>
-    <string name="cancel_button">Yes</string>
     <string name="cancel_international">Annulla</string>
     <string name="cancel_lockscreen">Annulla</string>
-    <string name="cancel_mfashiongallery_service">Cancel Wallpaper Carousel services</string>
     <string name="cancel_network">Esci</string>
-    <string name="cancel_service">Cancel services</string>
-    <string name="cancel_service_running">Canceling services…</string>
-    <string name="cancel_service_summary">"If you continue, you'll cancel Wallpaper Carousel services. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. Cancel services anyway?"</string>
     <string name="carousel_declaration_btn_text">Attiva Sfondi Carousel</string>
     <string name="carousel_declaration_cta">"Sfondi Carousel richiede una connessione ad Internet per funzionare normalmente. Per ottenere l'accesso ai contenuti online, è necessario concordare con la nostra &lt;a href='http://www.miui.com/res/doc/privacy/cn.html'&gt;Informativa sulla Privacy&lt;/a&gt;. Procedere?"</string>
     <string name="carousel_declaration_cta_btn_text">Accetta e attiva</string>
@@ -143,7 +126,6 @@
     <string name="change_time">Cambia sfondo</string>
     <string name="character_counter_content_description">Limite caratteri superato %1$d di %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
-    <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
     <string name="chinese_day_11">11</string>
@@ -231,7 +213,6 @@
     <string name="confirm_bundled_phone_dialog_title">Conferma numero di telefono associato</string>
     <string name="confirm_new_pwd">Conferma nuova password</string>
     <string name="confirm_unbundled_phone_dialog_message">Questo numero di telefono è associato al Mi Account %2$s on %1$s. Non sarà più associato al Mi Account %3$s si  desidera continuare?</string>
-    <string name="copy">Copy</string>
     <string name="create_shortcut">Crea scorciatoia sulla schermata Home</string>
     <string name="create_shortcut_btn">Crea</string>
     <string name="create_shortcut_title">Crea collegamento schermata Home</string>
@@ -273,9 +254,6 @@
     <string name="cw_wallpaper_empty_dlg_content">"Non hai aggiunto alcun elemento alla presentazione. Passaggio si consigliati."</string>
     <string name="cw_wallpaper_empty_dlg_title">Nessun elemento</string>
     <string name="cw_wallpaper_manager">Gestisci sfondi</string>
-    <string name="date_picker_label_day"></string>
-    <string name="date_picker_label_month"></string>
-    <string name="date_picker_label_year"></string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
     <string name="day">Ogni giorno</string>
@@ -284,7 +262,6 @@
     <string name="declaration_title">Termini e condizioni</string>
     <string name="delete_pic">Elimina immagine</string>
     <string name="deny_des">Sfondi Carousel richiede l\'accesso alla Galleria per poter funzionare normalmente.</string>
-    <string name="detail_ad_type_ad">AD</string>
     <string name="detail_ad_type_video">Video popolari</string>
     <string name="detail_add_cw">Aggiungi sfondo</string>
     <string name="detail_add_shortcut">Aggiungi alla schermata Home</string>
@@ -307,10 +284,6 @@
     <string name="detail_recomm_fail">"Impossibile ottenere consigli"</string>
     <string name="detail_recomm_load_tip">Abbinamento dei tuoi interessi…</string>
     <string name="detail_share_moment">Momenti</string>
-    <string name="detail_share_qq">QQ</string>
-    <string name="detail_share_qzone">Qzone</string>
-    <string name="detail_share_wechat">WeChat</string>
-    <string name="detail_share_weibo">Weibo</string>
     <string name="detail_toast_deny_apply">"Impossibile applicare."</string>
     <string name="detail_toast_deny_dislike">"Impossibile eliminare"</string>
     <string name="detail_toast_deny_favor">"Impossibile aggiungere ai preferiti."</string>
@@ -326,10 +299,6 @@ Invia questo codice al supervisore."</string>
     <string name="disable_dlg_title">Disattivare Carosello Sfondi?</string>
     <string name="dislike">Elimina</string>
     <string name="dlg_cancel">Annulla</string>
-    <string name="doing_login">Signing in…</string>
-    <string name="doing_query_account">Checking account info…</string>
-    <string name="doing_register">Creating account…</string>
-    <string name="dot_and_space">• </string>
     <string name="double_click_to_exit_activity">Tocca nuovamente per uscire</string>
     <string name="early_morning">Mattina</string>
     <string name="earthly_branches_chen">Chen</string>
@@ -345,7 +314,6 @@ Invia questo codice al supervisore."</string>
     <string name="earthly_branches_you">You</string>
     <string name="earthly_branches_zi">Zi</string>
     <string name="edit_wallpaper">Gestisci sfondi</string>
-    <string name="empty"></string>
     <string name="enable_toast_ar">Passato ai consigliati</string>
     <string name="enable_toast_cw">Passato a presentazione</string>
     <string name="enable_toast_cwo">Attivato Carosello Sfondi e avviata la presentazione</string>
@@ -357,72 +325,43 @@ Invia questo codice al supervisore."</string>
     <string name="error_invalid_bind_address">Questo indirizzo email non è valido.</string>
     <string name="evening">Pomeriggio</string>
     <string name="exceed_binded_phone_times_notice">Questo numero di telefono è già associato ad un altro MI account.</string>
-    <string name="expand_button_title">Advanced</string>
     <string name="explorer_activity_title">Sfondi Carousel</string>
     <string name="exposed_dropdown_menu_content_description">Mostra menu a tendina</string>
-    <string name="external_storage_permission">Access storage</string>
-    <string name="external_storage_permission_summary">For selecting custom wallpapers and saving downloaded items</string>
-    <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
-    <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
-    <string name="facebook_application_id"></string>
-    <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="failed_dup_secure_phone_number">Questo numero di telefono è già associato ad un altro MI account</string>
     <string name="favor_list_no_data">Nessun elemento trovato.</string>
     <string name="favor_list_title">Preferiti</string>
     <string name="favor_success">Aggiunto con successo ai preferiti</string>
     <string name="feed_article_entrance_about">A proposito di \"%s\"</string>
     <string name="find_psw">Password dimenticata</string>
-    <string name="fixable_behavior">com.mfashiongallery.emag.app.detail.ui.FixableAppBarLayoutBehavior</string>
     <string name="fmt_chinese_date">dd/MM</string>
-    <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
-    <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month">MMMM, yyyy</string>
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
-    <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
-    <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">"hh"</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
-    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
     <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
     <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
-    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
-    <string name="fmt_time_12hour_pm">ha</string>
     <string name="fmt_time_24hour">"HH"</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
-    <string name="fmt_time_millis">"S'ms'"</string>
-    <string name="fmt_time_minute">"m'min'"</string>
     <string name="fmt_time_minute_second">"m:s"</string>
     <string name="fmt_time_minute_second_millis">"m:s.S"</string>
-    <string name="fmt_time_second">"s's'"</string>
     <string name="fmt_time_second_millis">"s.S"</string>
     <string name="fmt_time_timezone">zT</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
     <string name="fmt_weekday_date">DW</string>
     <string name="fmt_weekday_date_time">DW T</string>
     <string name="fmt_weekday_date_time_timezone">zDW T</string>
     <string name="fmt_weekday_date_timezone">zDW</string>
-    <string name="fmt_weekday_long">EEEE</string>
-    <string name="fmt_weekday_short">E</string>
-    <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
     <string name="for_diagnosis_usage_only">I log sono utilizzati solo per la diagnostica.</string>
@@ -435,11 +374,7 @@ Invia questo codice al supervisore."</string>
     <string name="get_ph_ticket">Ottieni codice</string>
     <string name="get_phone_bind_exceed_limit">"È possibile associare fino a 3 Mi Account a un numero di telefono. Impossibile aggiungere nuovi account."</string>
     <string name="get_phone_verifycode_exceed_limit">Troppi codici di verifica sono stati inviati a questo numero. Attendere 24 ore e riprovare.</string>
-    <string name="getverifycode_seconde">s</string>
-    <string name="google_application_id"></string>
-    <string name="goto_confirm">Settings</string>
     <string name="goto_sign_up">Crea account</string>
-    <string name="header_help">Help</string>
     <string name="heavenly_stems_bing">Bing</string>
     <string name="heavenly_stems_ding">Ding</string>
     <string name="heavenly_stems_geng">Geng</string>
@@ -450,39 +385,24 @@ Invia questo codice al supervisore."</string>
     <string name="heavenly_stems_wu">Wu</string>
     <string name="heavenly_stems_xin">Xin</string>
     <string name="heavenly_stems_yi">Yi</string>
-    <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="history_list_no_data">Nessun elemento trovato</string>
-    <string name="homepaperchanged">@string/theme_apply_success</string>
     <string name="hour_1">Ogni ora</string>
     <string name="hour_3">Ogni 3 ore</string>
-    <string name="i_know">Got it</string>
     <string name="icon_content_description">Icona di dialogo</string>
     <string name="idbct_desc">Personalizza Sfondi Carousel in base al tipo di rete</string>
     <string name="idbct_opt_auto_select_desc_text">Scarica immagini standard utilizzando dati mobili e immagini HD tramite Wi-Fi</string>
-    <string name="idbct_opt_auto_select_main_text">Auto</string>
     <string name="idbct_opt_high_def_desc_text">Scarica sempre immagini HD</string>
-    <string name="idbct_opt_high_def_main_text">HD</string>
     <string name="idbct_opt_low_dev_desc_text">Scarica sempre le immagini in qualità standard</string>
     <string name="idbct_opt_low_dev_main_text">Normale</string>
     <string name="idbct_title">Tipologia di rete</string>
     <string name="identity">Identificazione</string>
     <string name="inconsistent_pwd">"Le password non corrispondono"</string>
     <string name="input_email_address_notice">"Useremo questa email per verificare il tuo account"</string>
-    <string name="input_length_exceeds_limit">The text you entered is too long</string>
     <string name="input_new_pwd">Inserisci una nuova password</string>
     <string name="isornot_your_mi_account">È questo il tuo Mi Account?</string>
     <string name="just_a_second">Attendi…</string>
     <string name="later">"Non disattivare"</string>
     <string name="launch_bg_permission_exception">Consenti a Carosello Sfondi di visualizzare finestre pop-up mentre viene eseguito in background su Sicurezza</string>
-    <string name="library_android_database_sqlcipher_author">Zetetic, LLC</string>
-    <string name="library_android_database_sqlcipher_authorWebsite">https://www.zetetic.net/sqlcipher/</string>
-    <string name="library_android_database_sqlcipher_isOpenSource">true</string>
-    <string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API based on SQLCipher</string>
-    <string name="library_android_database_sqlcipher_libraryName">SQLCipher for Android</string>
-    <string name="library_android_database_sqlcipher_libraryVersion">${clientVersionNumber}</string>
-    <string name="library_android_database_sqlcipher_libraryWebsite">https://www.zetetic.net/sqlcipher/</string>
-    <string name="library_android_database_sqlcipher_licenseLink">https://www.zetetic.net/sqlcipher/license/</string>
-    <string name="library_android_database_sqlcipher_repositoryLink">https://github.com/sqlcipher/android-database-sqlcipher</string>
     <string name="like">Aggiungi ai preferiti</string>
     <string name="liked">Aggiunto ai preferiti</string>
     <string name="lks_left_net_deny">La connessione di rete è limitata</string>
@@ -514,11 +434,7 @@ Invia questo codice al supervisore."</string>
     <string name="llks_subscribe">Iscriviti</string>
     <string name="llks_subscribe_sucess">Iscritto correttamente</string>
     <string name="llks_tools_gallery_name">Sfondi Carousel</string>
-    <string name="llks_tools_mipay_wallet_name">Mi Wallet</string>
-    <string name="llks_tools_nfc_data">%s CNY</string>
-    <string name="llks_tools_nfc_name">NFC</string>
     <string name="llks_tools_remote_control_name">Telecomando Mi</string>
-    <string name="llks_tools_smart_devices_name">Mi Home</string>
     <string name="llks_try_it">Prova</string>
     <string name="llks_whole_cate">Tutte le categorie</string>
     <string name="load_hdpicture_complete">Immagine originale caricata con successo</string>
@@ -534,37 +450,18 @@ Invia questo codice al supervisore."</string>
     <string name="lockscreen_magazine_summary">Seleziona categorie</string>
     <string name="lockscreen_magazine_system_title">Predefinita</string>
     <string name="lockscreen_magazine_title">Sfondi Carousel</string>
-    <string name="lockscreen_wallpaper_changed">@string/theme_apply_success</string>
-    <string name="login_app">Sign in</string>
-    <string name="login_app_cancel">Cancel</string>
-    <string name="login_app_confirm">Sign in</string>
-    <string name="login_by_local_phone_long_text">Sign in now</string>
-    <string name="login_by_local_phone_short_text">Sign in</string>
-    <string name="login_other">Another Mi Account</string>
-    <string name="login_register_by_local_phone_long_text">Create account</string>
-    <string name="login_with_sns">Other ways to sign in</string>
-    <string name="login_xiaomi_account_summary">"I've read and agreed to Mi Account &lt;font color ='#0D84FF'&gt;&lt;a href='%1$s'&gt;User Agreement&lt;/font&gt;&lt;/a&gt; and &lt;font color ='#0D84FF'&gt;&lt;a href='%2$s'&gt;Privacy Policy&lt;/font&gt;&lt;/a&gt;."</string>
-    <string name="logout">Sign out</string>
     <string name="logout_account">Disconetti</string>
-    <string name="logout_cancel">Cancel</string>
-    <string name="logout_confirm">OK</string>
-    <string name="logout_summary">"You won't be able to sync your subscriptions and customized settings across devices after you sign out. Sign out anyway?"</string>
-    <string name="logout_title">Sign out now?</string>
     <string name="look_str">Popolari</string>
     <string name="main_fragment_title_discover">Scopri</string>
     <string name="main_fragment_title_home">Consigliati</string>
     <string name="main_fragment_title_search">Migliori</string>
     <string name="main_fragment_title_user">Impostazioni</string>
     <string name="manage">Gestisci</string>
-    <string name="marketSdkVersion">3.2.9</string>
     <string name="midnight">Notte</string>
     <string name="minutes_15">Ogni 15 minuti</string>
     <string name="minutes_5">Ogni 5 minuti</string>
-    <string name="mishop_login_other">Another Account</string>
     <string name="miui_clock_city_name_local">Dispositivo</string>
     <string name="miui_clock_city_name_second">Secondo orologio</string>
-    <string name="miui_clock_fancy_colon"></string>
-    <string name="miui_digital_clock_dot">:</string>
     <string name="miui_lock_screen_date">EEEE, d MMMM</string>
     <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
     <string name="miui_lock_screen_date_two_lines">"EEEE
@@ -575,10 +472,6 @@ d MMMM"</string>
 dd/M"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
 dd/M"</string>
-    <string name="miui_vertical_time_format_12">"hh
-mm"</string>
-    <string name="miui_vertical_time_format_24">"HH
-mm"</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleziona elementi</string>
@@ -615,8 +508,6 @@ mm"</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
     <string name="month_april">Aprile</string>
-    <string name="month_april_short">Apr</string>
-    <string name="month_april_shortest">Apr</string>
     <string name="month_august">Agosto</string>
     <string name="month_august_short">Ago</string>
     <string name="month_august_shortest">Ago</string>
@@ -624,8 +515,6 @@ mm"</string>
     <string name="month_december_short">Dic</string>
     <string name="month_december_shortest">Dic</string>
     <string name="month_february">Febbraio</string>
-    <string name="month_february_short">Feb</string>
-    <string name="month_february_shortest">Feb</string>
     <string name="month_january">Gennaio</string>
     <string name="month_january_short">Gen</string>
     <string name="month_january_shortest">Gen</string>
@@ -636,14 +525,10 @@ mm"</string>
     <string name="month_june_short">Giu</string>
     <string name="month_june_shortest">Giu</string>
     <string name="month_march">Marzo</string>
-    <string name="month_march_short">Mar</string>
-    <string name="month_march_shortest">Mar</string>
     <string name="month_may">Maggio</string>
     <string name="month_may_short">Maggio</string>
     <string name="month_may_shortest">Maggio</string>
     <string name="month_november">Novembre</string>
-    <string name="month_november_short">Nov</string>
-    <string name="month_november_shortest">Nov</string>
     <string name="month_october">Ottobre</string>
     <string name="month_october_short">Ott</string>
     <string name="month_october_shortest">Ott</string>
@@ -660,13 +545,9 @@ mm"</string>
     <string name="morning_picture_tab">Immagine</string>
     <string name="mtrl_badge_numberless_content_description">Nuove notifiche</string>
     <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
-    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_a11y_next_month">Passa al mese successivo</string>
     <string name="mtrl_picker_a11y_prev_month">Passa al mese precedente</string>
     <string name="mtrl_picker_announce_current_selection">Selezione corrente: %1$s</string>
-    <string name="mtrl_picker_cancel">@android:string/cancel</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
-    <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Scegli una data</string>
     <string name="mtrl_picker_date_header_unselected">Seleziona data</string>
     <string name="mtrl_picker_day_of_week_column_header">Giorno: %1$s</string>
@@ -678,23 +559,17 @@ mm"</string>
     <string name="mtrl_picker_out_of_range">Intervallo non valido: %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Data di inizio – %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s – Data di fine</string>
-    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
     <string name="mtrl_picker_range_header_title">Seleziona un intervallo di date</string>
     <string name="mtrl_picker_range_header_unselected">Data di inizio – Data di fine</string>
     <string name="mtrl_picker_save">Salva</string>
     <string name="mtrl_picker_text_input_date_hint">Data</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
-    <string name="mtrl_picker_text_input_day_abbr">d</string>
-    <string name="mtrl_picker_text_input_month_abbr">m</string>
-    <string name="mtrl_picker_text_input_year_abbr">y</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambia a modalità inserimento calendario</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tocca cambia per scegliere un giorno</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passa a modalità inserimento testo</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tocca per selezionare un anno</string>
     <string name="need_open_gallery">Attiva Sfondi Carousel</string>
-    <string name="network_error_info">A network error occurred. Check your network settings and try again.</string>
-    <string name="network_timeout_info">"Couldn't connect to the network. Try again."</string>
     <string name="new_feature_title">"Novità"</string>
     <string name="nick_name">Soprannome</string>
     <string name="night">Sera</string>
@@ -704,12 +579,6 @@ mm"</string>
     <string name="no_phone">Nessun numero di telefono</string>
     <string name="no_pic_data">"Impossibile trovare immagini"</string>
     <string name="noon">Mezzogiorno</string>
-    <string name="not_agree_summary">Agree to our terms and conditions first</string>
-    <string name="not_allowed">Not granted</string>
-    <string name="not_cancel_button">No</string>
-    <string name="not_revoke_button">Cancel</string>
-    <string name="not_set">Not set</string>
-    <string name="ok">OK</string>
     <string name="ok_enable_network_prov">Accetto</string>
     <string name="ok_enable_network_prov2">Accetto</string>
     <string name="ok_international">Accetto</string>
@@ -723,7 +592,6 @@ mm"</string>
     <string name="open_gallery">Sfondi Carousel</string>
     <string name="open_gallery_tips">Tocca qui per attivare il Carosello Sfondi</string>
     <string name="open_guid_des">Vai su Impostazioni &gt; Permessi &gt; Altri permessi &gt; Sfondi Carousel e fornisci tutti i necessari permessi all\'app</string>
-    <string name="open_settings">Settings</string>
     <string name="open_sub_title">Seleziona categorie</string>
     <string name="open_title">Sfondi Carousel</string>
     <string name="open_unable">"Sfondi Carousel funziona solo con la Schermata di blocco predefinita della MIUI."</string>
@@ -734,11 +602,9 @@ mm"</string>
     <string name="passport_account_name">"Account: %1$s"</string>
     <string name="passport_activate_token_expired">Codice dii verifica scaduto. Perfavore riprova.</string>
     <string name="passport_area_code_title">Codice regionale</string>
-    <string name="passport_auth_title"></string>
     <string name="passport_bad_authentication">Nome utente o password non validi</string>
     <string name="passport_barcode_add_account_prompt">Per connettere un account, scansiona il codice QR dopo aver completato l\'accesso.</string>
     <string name="passport_can_not_receive_verification_code">"Non riesci a ricevere il codice di verifica?"</string>
-    <string name="passport_captcha_title">Captcha</string>
     <string name="passport_checking_account">Controlla la password…</string>
     <string name="passport_close">Chiudi</string>
     <string name="passport_delete_account">Disconetti</string>
@@ -821,15 +687,9 @@ mm"</string>
     <string name="passport_wrong_vcode">Il captcha inserito non è corretto</string>
     <string name="passport_wrong_voice">Il captcha inserito non è corretto</string>
     <string name="password_toggle_content_description">Mostra password</string>
-    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
-    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
     <string name="permission_account_tip">Accesso alle informazioni dell\'account</string>
-    <string name="permission_manager">Permissions details</string>
     <string name="permission_storage_read_tip">Accesso alle foto memorizzate sul dispositivo</string>
     <string name="permission_storage_tip">Salva elementi scaricati sul dispositivo</string>
-    <string name="personalized">Personalization</string>
     <string name="phone_bind_too_many">Questo telefono è stato associato a diversi Mi Account in un breve periodo di tempo. Prova ad utilizzare un altro numero di telefono.</string>
     <string name="phone_hint">Numero di telefono</string>
     <string name="phone_num_use_for">Il numero di telefono viene utilizzato per:</string>
@@ -840,35 +700,16 @@ mm"</string>
     <string name="platform_unavailable_wechat">Installa WeChat</string>
     <string name="platform_unavailable_wechatmoment">Installa WeChat</string>
     <string name="platform_unavailable_weibo">Installa Weibo</string>
-    <string name="please_agree_protocal">Please Agree Protocal</string>
-    <string name="pm">PM</string>
-    <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
-    <string name="privacy_policy">Privacy Policy</string>
     <string name="privacy_setting">Impostazioni sulla privacy</string>
-    <string name="privacy_update_cancel">Cancel</string>
-    <string name="privacy_update_confirm">Agree</string>
-    <string name="privacy_update_quit">Exit</string>
-    <string name="privacy_update_summary1">Wallpaper Carousel Privacy Policy was updated:</string>
-    <string name="privacy_update_summary2">"Read and agree to the new version of &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Privacy Policy&lt;/font&gt;&lt;/a&gt; before you continue."</string>
-    <string name="privacy_update_summary3">"You won't be able to keep using Wallpaper Carousel unless you agree to the new version of its &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Privacy Policy&lt;/font&gt;&lt;/a&gt;. Agree to the updated Privacy Policy now?"</string>
-    <string name="privacy_update_title1">Updated privacy policy</string>
-    <string name="privacy_update_title2">Attention</string>
-    <string name="progressbar_title">Checking for security issues…</string>
-    <string name="protocal_dialog_cancel">Cancel</string>
-    <string name="protocal_dialog_confirm">Agree</string>
-    <string name="protocal_dialog_title">Attention</string>
     <string name="prv_end">Questo è tutto per ora.</string>
     <string name="prv_loading"><CDATA>Attendi…</CDATA></string>
     <string name="prv_nodata">&lt;CDATA&gt;Nessun dato&lt;/CDATA&gt;</string>
-    <string name="psw_hint">Password</string>
     <string name="psw_sign_in">Accedi con password</string>
     <string name="pull_to_refresh_loading_label">Attendi…</string>
     <string name="pull_to_refresh_pull_down_label">Tira in giù per aggiornare</string>
     <string name="pull_to_refresh_pull_up_label">Tira verso l\'alto per aggiornare</string>
     <string name="pull_to_refresh_refreshing_label">Aggiornamento…</string>
     <string name="pull_to_refresh_release_label">Rilascia per aggiornare</string>
-    <string name="qq_application_id"></string>
-    <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="recommend_switch_desc">Ricevi consigli sui contenuti in base alle tue preferenze</string>
     <string name="recommend_switch_dlg_close">Disattiva</string>
     <string name="recommend_switch_dlg_desc">"Non sarai in grado di ricevere consigli in base alle tue preferenze se disattivi questa funzione."</string>
@@ -876,19 +717,8 @@ mm"</string>
     <string name="recommend_switch_dlg_title">Disattivare i consigli?</string>
     <string name="recommend_switch_title">Consigli personalizzati</string>
     <string name="refresh_network">Aggiorna</string>
-    <string name="register_by_local_phone_long_text">Create account</string>
-    <string name="register_by_local_phone_short_text">Create account</string>
     <string name="remove">Rimuovi</string>
     <string name="req_permission_dis_tip">Permessi richiesti</string>
-    <string name="request_agree">Allow</string>
-    <string name="request_camera_permission_message">"We shall protect your personal information in accordance with the relevant laws and regulations. This app needs the following permissions to work normally:&lt;br&gt;&lt;br&gt;&lt;b&gt;Using camera (for setting your profile photo)&lt;/b&gt;&lt;br&gt;&lt;br&gt;If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always restrict permissions or revoke your authorization in the Settings."</string>
-    <string name="request_cancel">Cancel</string>
-    <string name="request_error_invalid_token">"Couldn't verify"</string>
-    <string name="request_error_network">A network error occurred. Check your network settings and try again.</string>
-    <string name="request_error_unknown">A system error occurred. Go back and try again.</string>
-    <string name="request_gallery_permission_message">Allow access to Gallery:&lt;br /&gt;For setting profile photos</string>
-    <string name="require_permission">Permissions required</string>
-    <string name="require_permission_text">To be able save and view items, allow Wallpaper Carousel to access storage.</string>
     <string name="resend_active_email">Invia di nuovo</string>
     <string name="resend_email_reach_limit_message">"Hai richiesto troppe email di verifica. Assicurati che l'email di verifica non sia nella cartella Spam."</string>
     <string name="resend_email_reach_limit_title">Troppi tentativi</string>
@@ -898,16 +728,6 @@ mm"</string>
     <string name="restart_action">Riavvia</string>
     <string name="restart_phone_bind_message">È necessario un po\' di tempo per la ricezione dell\'SMS, sei sicuro di voler cambiare il recapito telefonico di ripristino?</string>
     <string name="restart_phone_bind_title">Modifica il numero di telefono di ripristino</string>
-    <string name="revoke_button">Withdraw</string>
-    <string name="revoke_failed1">Error</string>
-    <string name="revoke_failed2">Error</string>
-    <string name="revoke_failed_internet">A network error occurred. Wait a minute or two and try again.</string>
-    <string name="revoke_failed_internet_confirm">Got it</string>
-    <string name="revoke_failed_service">A server error occurred. Wait a minute or two and try again.</string>
-    <string name="revoke_failed_service_confirm">Got it</string>
-    <string name="revoke_privacy">Withdrawal of consent</string>
-    <string name="revoke_privacy_running">Withdrawing consent…</string>
-    <string name="revoke_privacy_summary">"If you continue, you'll withdraw your consent to the Privacy Policy of Wallpaper Carousel. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As Wallpaper Carousel provides its services based on the collection of the necessary personal information, your withdrawal of consent will be held as refusing to accept Wallpaper Carousel services. Withdraw consent now?"</string>
     <string name="rv_with_footer_empty">Nessun elemento trovato.</string>
     <string name="rv_with_footer_loading"><CDATA>Attendi…</CDATA></string>
     <string name="rv_with_footer_pull_load_more">Tira verso il basso per mostrare altro</string>
@@ -966,7 +786,6 @@ mm"</string>
     <string name="sign_in">Accesso in corso</string>
     <string name="sign_in_progress">Accesso…</string>
     <string name="sign_in_title">Accedi con il tuo Mi Account</string>
-    <string name="skip_query_account">Skip</string>
     <string name="sliding_on_unlock">Scorri verso l\'alto per sbloccare</string>
     <string name="sms_send_success">Inviato correttamente</string>
     <string name="sns_access_token_expired_warning">Sessione scaduta. Effettua nuovamente l\'accesso per ricollegare questo account.</string>
@@ -1059,7 +878,6 @@ mm"</string>
     <string name="sst_wallpaper_history_title">Cronologia</string>
     <string name="sst_wifi_only_desc">Disattiva per aggiornare gli sfondi solo tramite Wi-Fi</string>
     <string name="sst_wifi_only_title">Aggiorna gli sfondi utilizzando i dati mobili</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_wallpaper_loop_not_start">Spenta</string>
     <string name="status_wallpaper_loop_start">Attivata</string>
     <string name="subscribe_apply_wp">Sfondo schermata di blocco applicato correttamente</string>
@@ -1081,10 +899,6 @@ mm"</string>
     <string name="subscribe_update_time_setting">Imposta un intervallo diverso</string>
     <string name="summary">"Concorda con la nostra &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Informativa sulla Privacy&lt;/a&gt; per visualizzare i contenuti online. Se non concorderai, potrai comunque usufruire degli sfondi locali."</string>
     <string name="summary2">"Usando questa funzione, accetti il nostro &lt;font color='#0D84FF'&gt;&lt;a href ='%1$s'&gt;Accordo utente&lt;/font&gt;&lt;/a&gt; e &lt;font color='#0D84FF'&gt;&lt;a href='%2$s'&gt;Informativa sulla privacy&lt;/font&gt;&lt;/a&gt;. Questa funzione deve connettersi a internet per funzionare normalmente."</string>
-    <string name="summary3">"Welcome to Wallpaper Carousel! Here you can subscribe to your favorite wallpaper categories and get new images delivered to your Lock screen regularly. This app needs to connect to the internet and collect the required personal data to be able to work normally.&lt;br&gt;To provide additional services, we might ask for the permission to access and save items to this device's storage.&lt;br&gt;To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;User Agreement&lt;/font&gt;&lt;/a&gt; and &lt;font color ='#37A5FF'&gt;&lt;a href='%2$s'&gt;Privacy Policy&lt;/font&gt;&lt;/a&gt; before using this app."</string>
-    <string name="summary4">"Welcome to Wallpaper Carousel! Here you can subscribe to your favorite wallpaper categories and get new images delivered to your Lock screen regularly. "</string>
-    <string name="summary5">"To provide additional services, we might ask for the permission to access and save items to this device's storage. "</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_international">"Utilizzando questa funzione, concorderai con il ​​nostro &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Accordo Utente&lt;/a&gt; e &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Informativa sulla Privacy&lt;/a&gt;. Questa funzionalità necessiterà di una connessione ad Internet per funzionare normalmente.​"</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
@@ -1092,7 +906,6 @@ mm"</string>
     <string name="sure_close_gallery">Disattivare Carosello Sfondi?</string>
     <string name="sure_close_gallery_des">"Non sarai in grado di avere nuove immagini sulla schermata Home e sulla schermata di blocco se si disattiva il Carosello Sfondi. Disattivarlo comunque?"</string>
     <string name="system_default">Predefinita</string>
-    <string name="system_error_info">System is busy. Wait a minute or two and try again.</string>
     <string name="tab_user_title_bar_text">Impostazioni</string>
     <string name="tb_collapse_desc">Nascondi il menu \"Condividi\"</string>
     <string name="temporary_not_available">"Questa funzione non è ancora disponibile"</string>
@@ -1160,8 +973,6 @@ mm"</string>
     <string name="time_interval_dialog_content1">Carosello Sfondi consente di vedere una nuova immagine ogni volta che si sblocca il dispositivo.</string>
     <string name="time_interval_dialog_content2">È possibile modificare la frequenza di cambio dello sfondo in \"Impostazioni presentazione\".</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
-    <string name="time_picker_label_hour">H</string>
-    <string name="time_picker_label_minute">M</string>
     <string name="toast_ad_down_tip">Scaricamento app…</string>
     <string name="toast_ad_down_tip2">Scaricamento %s…</string>
     <string name="toast_connect_failed_tip">"Impossibile connettersi. Attendere un minuto o due e riprovare."</string>
@@ -1183,44 +994,23 @@ mm"</string>
     <string name="uninstall_introduction_text_title">A proposito di Wallpaper Carousel</string>
     <string name="uninstall_warning_text_desc">"Senza Sfondi Carousel non potrai ricevere regolarmente nuovi sfondi sulla Schermata di blocco. Tuttavia, sarai comunque in grado di scaricare e installare nuovamente l'app. Eliminare Sfondi Carousel?"</string>
     <string name="uninstall_warning_text_title">Eliminazione Sfondi Carousel</string>
-    <string name="unknown_error_info">Unknown error</string>
     <string name="update_email_address_dialog_message">Devi verificare la tua identità prima di aggiornare l\'email di recupero.</string>
     <string name="update_email_address_dialog_title">Aggiorna email di recupero</string>
     <string name="update_phone_notice">Modifica impostazioni di sicurezza</string>
     <string name="upload_error_log">Carica log</string>
     <string name="user_ac_click_to_login">Tocca per accedere</string>
     <string name="user_ac_not_login">Accesso non eseguito</string>
-    <string name="user_agreement_hint_3rd_app"><Data>\"I\'ve read and agreed to &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt; and Mi Account\'s &lt;a href=%3$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%4$s&gt;Privacy Policy&lt;/a&gt;.\"</Data></string>
-    <string name="user_agreement_hint_3rd_app_mobile"><Data>\"I\'ve read and agreed to &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt;, Mi Account\'s &lt;a href=%3$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%4$s&gt;Privacy Policy&lt;/a&gt;, as well as &lt;a href=%5$s&gt;Terms and conditions of China Mobile verification services&lt;/a&gt;.\"</Data></string>
-    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>\"I\'ve read and agreed to &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt;, Mi Account\'s &lt;a href=%3$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%4$s&gt;Privacy Policy&lt;/a&gt;, as well as &lt;a href=%5$s&gt;Terms and conditions of eSurfing account verification services&lt;/a&gt;.\"</Data></string>
-    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>\"I\'ve read and agreed to &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt;, Mi Account\'s &lt;a href=%3$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%4$s&gt;Privacy Policy&lt;/a&gt;, as well as &lt;a href=%5$s&gt;Terms and conditions of China Unicom verification services&lt;/a&gt;.\"</Data></string>
-    <string name="user_agreement_hint_default"><Data>\"I\'ve read and agreed to Mi Account\'s &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt;.\"</Data></string>
-    <string name="user_agreement_hint_default_1"><Data>Read and agreed to the &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy.&lt;/a&gt;</Data></string>
-    <string name="user_agreement_hint_default_extra"><Data>\"I\'ve read and agreed to the &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy.&lt;/a&gt; The first login will automatically create a Xiaomi account\"</Data></string>
-    <string name="user_agreement_hint_first_login">"We'll create an account automatically if you're using your phone number for the first time."</string>
-    <string name="user_agreement_hint_with_mobile"><Data>\"I\'ve read and agreed to Mi Account\'s &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt;, as well as &lt;a href=%3$s&gt;Terms and conditions of China Mobile verification services&lt;/a&gt;.\"</Data></string>
-    <string name="user_agreement_hint_with_telecom"><Data>\"I\'ve read and agreed to Mi Account\'s &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt;, as well as &lt;a href=%3$s&gt;Terms and conditions of eSurfing account verification services&lt;/a&gt;.\"</Data></string>
-    <string name="user_agreement_hint_with_unicom"><Data>\"I\'ve read and agreed to Mi Account\'s &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt;, as well as &lt;a href=%3$s&gt;Terms and conditions of China Unicom verification services&lt;/a&gt;.\"</Data></string>
-    <string name="user_agreement_protocal_dialog_hint_default"><Data>\"Read and agreed to &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt; and Mi Account\'s &lt;a href=%3$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%4$s&gt;Privacy Policy&lt;/a&gt;.\"</Data></string>
     <string name="user_avatar_update_title">Aggiorna immagine profilo</string>
     <string name="user_avatar_uploading">Attendi…</string>
     <string name="user_id_hint">Email/Telefono</string>
-    <string name="user_name_phone_number">Phone number</string>
-    <string name="v7_preference_off">OFF</string>
-    <string name="v7_preference_on">ON</string>
     <string name="v_code_title">Inserisci il codice di verifica</string>
     <string name="view_privacy_policy">Informativa sulla Privacy</string>
     <string name="wallpaper">Sfondo</string>
     <string name="wallpaper_feed_title">Potrebbe piacerti anche</string>
     <string name="wallpaper_relations_title">Consigliato</string>
-    <string name="wechat_application_id"></string>
-    <string name="wechat_scope"></string>
-    <string name="wechat_state"></string>
     <string name="wednesday">Mercoledì</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
-    <string name="weibo_application_id"></string>
-    <string name="weibo_redirect_uri"></string>
     <string name="wlan_download">Aggiorna solo tramite Wi-Fi</string>
     <string name="wlan_download_cn">Aggiorna solo tramite Wi-Fi</string>
     <string name="wm_storage_left">"Rimanente: "</string>
@@ -1230,6 +1020,5 @@ mm"</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Annulla</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Ok</string>
     <string name="xiaomi_market_sdk_update_dialog_title">%s nuova versione</string>
-    <string name="xw_subscribe"></string>
     <string name="yesterday">Ieri</string>
 </resources>
