@@ -822,6 +822,7 @@
     <string name="button_text_trust">Fidati di questa rete</string>
     <string name="button_text_update_now">Aggiorna</string>
     <string name="button_to_setting">Impostazioni</string>
+    <string name="byteShort">B</string>
     <string name="call_address">Blacklist Località</string>
     <string name="call_and_contact">Chiamate e contatti</string>
     <string name="call_blacklist">Blacklist Chiamate</string>
@@ -3665,6 +3666,7 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="sim_not_ready_toast">"La SIM non è pronta"</string>
     <string name="sim_state_exception_summary">Lo stato della SIM indica che potrebbero esserci problemi con la tua scheda SIM.</string>
     <string name="sip_phone">Telefono SIP</string>
+    <string name="size_byte">B</string>
     <string name="skin_change_close_toast">Le modifiche verranno apportate al prossimo avvio dell\'app Sicurezza</string>
     <string name="sms_address">Blacklist Località</string>
     <string name="sms_blacklist">Blacklist Messaggi</string>
