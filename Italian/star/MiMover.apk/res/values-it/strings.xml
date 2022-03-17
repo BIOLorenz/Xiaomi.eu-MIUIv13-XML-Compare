@@ -648,6 +648,10 @@ Libera almeno %s."</string>
     <string name="settings_sms">Impostazioni messaggi</string>
     <string name="settings_system">Impostazioni di sistema</string>
     <string name="settings_wifi">Impostazioni Wi-Fi</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
     <string name="skip_underline">Salta questo passaggio</string>
     <string name="soft_ap_create_failed">"Impossibile creare un hotspot"</string>
     <string name="soft_ap_creating">Creazione hotspot…</string>
