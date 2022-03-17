@@ -1323,6 +1323,12 @@ Attendi che sia completamente sincronizzata o visualizza il messaggio sul comput
     <string name="sign_in_graph_error">"È possibile accedere utilizzando i protocolli IMAP o EXCHANGE solo quando la vostra organizzazione non ha cambiato la configurazione generale del server. Se l'indirizzo del server è personalizzato dall'organizzazione o i relativi protocolli sono disabilitati, accedi utilizzando il nuovo protocollo di Microsoft."</string>
     <string name="sign_in_no_useful_provider_error">"Impossibile ottenere le configurazioni di protocollo da Microsoft. Usa un protocollo diverso o aggiorna il protocollo da Microsoft."</string>
     <string name="signature_black_shark">Inviato dal mio telefono Blackshark</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_tera_byte">TB</string>
     <string name="sms_not_found_tip">"Impossibile aprire l'app di messaggistica SMS predefinita. Apri l'app e invia manualmente l'SMS di verifica."</string>
     <string name="smtp_password_error">La password per il server di posta in uscita non è corretta</string>
     <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
