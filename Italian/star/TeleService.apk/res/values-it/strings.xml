@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="antispam_notification_title">Numero sconosciuto</string>
+    <string name="incall_error_supp_service_unknown">Servizio non supportato</string>
+    <string name="user_setup_button_setup_later">Non ora</string>
+</resources>
