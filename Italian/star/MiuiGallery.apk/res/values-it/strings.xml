@@ -320,6 +320,7 @@
     <string name="buy_member_tip">Diventa un utente</string>
     <string name="by_email">E-mail</string>
     <string name="by_others">Altro</string>
+    <string name="byteShort">B</string>
     <string name="camera_needs_auto_backup_tip">Backup album fotocamera eseguito</string>
     <string name="can_authorize_owner_albums_share_to_tv">Autorizza la visualizzazione degli album sulla tua TV</string>
     <string name="can_not_transfer_when_screening">"Impossibile proiettare durante i trasferimenti"</string>
@@ -1972,6 +1973,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="signature_view_max_signature_limit_string">Elimina gli elementi più vecchi per poterne aggiungere di nuovi</string>
     <string name="signature_view_signature_with_finger">Firma qui</string>
     <string name="similar_keep_clear">Mantieni gli scatti migliori</string>
+    <string name="size_byte">B</string>
     <string name="sky_dynamic">Dinamico</string>
     <string name="sky_night">Sera</string>
     <string name="sky_nocturne">Notte</string>
