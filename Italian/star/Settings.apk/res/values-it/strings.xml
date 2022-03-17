@@ -1493,6 +1493,7 @@ Questa funzione può essere disattivata in [Settings]</string>
     <string name="button_text_next_step_timer">Avanti (%d)</string>
     <string name="button_text_reboot_now">Riavvia adesso</string>
     <string name="button_text_reject">Limitazione</string>
+    <string name="byteShort">B</string>
     <string name="ca_certificate">Certificato CA</string>
     <string name="ca_certificate_warning_description">"I certificati CA sono utilizzati da siti web, app e VPN per la crittografia. Installare solo i certificati CA dalle organizzazioni di cui ti fidi. 
 
@@ -2564,6 +2565,8 @@ Se il problema continua a verificarsi, potrebbe essere necessario disinstallare 
     <string name="dndm_wristband_detailed">"Attiva la modalità Non disturbare se Mi Band rileva che stai dormendo entro un'ora prima dell'orario programmato"</string>
     <string name="do_disclosure_generic">Questo dispositivo è gestito dalla tua organizzazione.</string>
     <string name="do_disclosure_with_name">Questo dispositivo è gestito da %s.</string>
+    <string name="do_not_disturb_main_switch_title_off">Attiva ora</string>
+    <string name="do_not_disturb_main_switch_title_on">Disattiva ora</string>
     <string name="do_not_disturb_mode">Non disturbare</string>
     <string name="dock_audio_media_disabled">Tutti gli audio</string>
     <string name="dock_audio_media_enabled">Solo audio media</string>
@@ -6635,6 +6638,7 @@ Il PIN potrebbe essere errato."</string>
     <string name="single_key_use">Utilizzo tasto singolo</string>
     <string name="single_key_use_summary">"Il tasto Home, a differenza degli altri due tasti per le normali operazioni"</string>
     <string name="single_press_AI_button">Premi il pulsante IA</string>
+    <string name="size_byte">B</string>
     <string name="skip_anyway_button_label">Salta comunque</string>
     <string name="skip_label">Salta</string>
     <string name="skip_lock_screen_confirm_msg">"Le seguenti funzionalità verranno disattivate per la Schermata di blocco: notifiche, controllo musica, slide sinistro per la Fotocamera e slide destro per Mi Home."</string>
