@@ -600,6 +600,7 @@
     <string name="setting_privacy">Informativa sulla Privacy</string>
     <string name="single_link_excerpt_saving">Salvataggio elementi…</string>
     <string name="single_new_excerpt_title">Estratti</string>
+    <string name="size_byte">B</string>
     <string name="snippet_audio_stub">Nota Vocale</string>
     <string name="snippet_image_stub">Nota con immagine</string>
     <string name="sns_action_send">Invia</string>
