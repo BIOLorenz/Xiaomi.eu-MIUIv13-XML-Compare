@@ -613,6 +613,12 @@ Controlla le impostazioni di rete e riprova."</string>
     <string name="show_indic_date_summary">Il calendario indiano è disponibile quando una delle lingue dell\'India è impostata come lingua di sistema</string>
     <string name="simple_date_format">dd/MM/yyyy</string>
     <string name="single_selected_holiday">%1$s è un giorno di riposo</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_tera_byte">TB</string>
     <string name="skip">Salta</string>
     <string name="small_week_date_format">EEE dd/MM/yyyy</string>
     <string name="spring_begins">Inizio primavera</string>
