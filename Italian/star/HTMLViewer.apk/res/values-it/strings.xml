@@ -256,6 +256,12 @@ visita %s"</string>
     <string name="settings_safetylegal_activity_title">Informazioni di sicurezza</string>
     <string name="settings_safetylegal_activity_unreachable">"Non hai una connessione di rete. Per vedere adesso le informazioni, vai su %s da un qualsiasi computer collegato ad internet."</string>
     <string name="settings_safetylegal_title">Informazioni di sicurezza</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_tera_byte">TB</string>
     <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
     <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>
     <string name="solar_term_clear_and_bright">Chiaro e luminoso</string>
