@@ -44,6 +44,7 @@
     <string name="app_name_miuiwallpaper">Sfondi</string>
     <string name="app_name_screenshot">Screenshot</string>
     <string name="big5_summary">Codifica predefinita del sistema Windows in Cinese tradizionale</string>
+    <string name="byteShort">B</string>
     <string name="can_not_send_with_too_many">"Impossibile inviare così tanti elementi"</string>
     <string name="cancel">Annulla</string>
     <string name="cancel_error">"Impossibile rimuovere, riprova"</string>
@@ -323,6 +324,7 @@
     <string name="function_set_private">Per visualizzare e crittografare i file; </string>
     <string name="function_use_imei">Per accedere a IMEI e crittografare i file; </string>
     <string name="gbk_summary">Codifica che migliora la visualizzazione del testo cinese semplificato</string>
+    <string name="gigabyteShort">GB</string>
     <string name="go_ahead">Apri</string>
     <string name="grid_mode">Griglia</string>
     <string name="group_title">%2$s da %1$s</string>
@@ -358,6 +360,7 @@
     <string name="instruction_pre_phone">Tocca per avviare il server FTP</string>
     <string name="item_view_role_description">Tocca</string>
     <string name="just_now">adesso</string>
+    <string name="kilobyteShort">KB</string>
     <string name="launcher_icon_add_description">Aggiungi collegamento sulla Home</string>
     <string name="launcher_icon_remove_description_content">"File Manager è un'app di sistema. Non sarai in grado di gestire i file sul tuo dispositivo dopo aver rimosso il collegamento dalla schermata Home."</string>
     <string name="launcher_icon_remove_description_title">Rimuovere \"File Manager\" dalla schermata Home?</string>
@@ -374,6 +377,7 @@
     <string name="make_private_msg_3">Tutti i file in questa cartella verranno nascosti.</string>
     <string name="material_slider_range_end">Fine intervallo,</string>
     <string name="material_slider_range_start">Inizio intervallo,</string>
+    <string name="megabyteShort">MB</string>
     <string name="menu_item_cleanup">Pulizia</string>
     <string name="menu_item_router">Gateway</string>
     <string name="menu_item_search">Cerca</string>
@@ -570,6 +574,7 @@
     <string name="path_name_email">E-mail</string>
     <string name="permission_denial">"Impossibile accedere ai file. Consenti ad Explorer di accedere ai file nelle impostazioni."</string>
     <string name="permission_required">"Impossibile accedere ai file. Concedi ad Explorer di accedere ai file nelle impostazioni."</string>
+    <string name="petabyteShort">PB</string>
     <string name="phone">Memoria interna</string>
     <string name="phone_storage">Archiviazione</string>
     <string name="phone_storage_apk_title">APK: </string>
@@ -715,6 +720,7 @@
     <string name="tab_local">Locale</string>
     <string name="tab_more">Altro</string>
     <string name="tab_source">Applicazioni</string>
+    <string name="terabyteShort">TB</string>
     <string name="text_select_all">Seleziona tutto</string>
     <string name="text_select_nothing">Deseleziona tutto</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversario dell\'abolizione della legge marziale</string>
