@@ -156,6 +156,7 @@
     <string name="buy_a_new_phone">Aumenta lo spazio</string>
     <string name="buy_immediately">Acquista</string>
     <string name="buy_traffic_pack">Acquista dati aggiuntivi</string>
+    <string name="byteShort">B</string>
     <string name="cache_title_empty_folder">Cartella vuota (%d)</string>
     <string name="cache_title_empty_folder2">Cartella vuota</string>
     <string name="cache_title_system_cache">Cache di sistema</string>
@@ -430,6 +431,7 @@
     <string name="garbage_month">Pulito %s questo mese</string>
     <string name="gb_global_icon_ad_card_btn">OTTIENI</string>
     <string name="gb_global_icon_ad_card_title">Suggerito per te</string>
+    <string name="gigabyteShort">GB</string>
     <string name="global_wa_audio_item_title">Messaggi vocali</string>
     <string name="global_wa_backend_alert_dialog_content">Libera spazio cancellando gli elementi di WhatsApp</string>
     <string name="global_wa_backend_alert_dialog_title">Pulizia WhatsApp</string>
@@ -598,6 +600,7 @@
     <string name="junk_tag_system_fixed_cache_item_sd_pushLog_title">Registro push GDC</string>
     <string name="junk_temporary_file">File temporanei</string>
     <string name="just_now">Un momento fa</string>
+    <string name="kilobyteShort">KB</string>
     <string name="label_image_list_none">Nessuno</string>
     <string name="label_preserve_the_best_image">Salva le foto a risoluzione maggiore</string>
     <string name="last_check_canceled">La scansione precedente è stata annullata</string>
@@ -617,6 +620,7 @@
     <string name="mainbtn_text_no_trash">Salta</string>
     <string name="mainbtn_text_quick_cleanup">Pulisci %s</string>
     <string name="mainbtn_text_quick_cleanup_default">Pulizia</string>
+    <string name="megabyteShort">MB</string>
     <string name="memeory_check_content">%1$d app, memoria %2$s</string>
     <string name="memory_clean_icon_text">Velocizza</string>
     <string name="memory_clean_no_trash_tip">Sembra tutto OK</string>
@@ -772,6 +776,7 @@
     <string name="permission_dialog_storage_btn2">Annulla</string>
     <string name="permission_dialog_storage_content">Pulizia ha bisogno dell\'autorizzazione per accedere alla memoria interna per poter funzionare normalmente. Premi \"Impostazioni\" per gestire i permessi di archiviazione.</string>
     <string name="permission_dialog_storage_title">Permessi richiesti</string>
+    <string name="petabyteShort">PB</string>
     <string name="phone_search">Ricerca Google</string>
     <string name="powerful_acceleration">Deframmentazione</string>
     <string name="powerful_acceleration_after">Dopo</string>
@@ -872,6 +877,12 @@
     <string name="similar_image_empty">Nessun duplicato trovato</string>
     <string name="similar_image_scaning">Verifica…</string>
     <string name="similar_image_title">Foto</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_tera_byte">TB</string>
     <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
     <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>
     <string name="solar_term_clear_and_bright">Chiaro e luminoso</string>
@@ -908,6 +919,7 @@
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="sys_cache_on_sdcard_item_name">Nascosto</string>
+    <string name="terabyteShort">TB</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversario dell\'abolizione della legge marziale</string>
     <string name="the_anti_aggression_day">Giornata della pace</string>
     <string name="the_arbor_day">Giorno dei mestieri</string>
