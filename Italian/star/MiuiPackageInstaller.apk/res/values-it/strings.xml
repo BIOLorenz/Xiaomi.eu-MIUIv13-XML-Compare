@@ -488,6 +488,7 @@ In alternativa, puoi disattivare la modalità Semplificata e riprovare."</string
  \"&lt;li&gt;Se il pacchetto di installazione proviene da una fonte sconosciuta.&lt;/li&gt;</string>
     <string name="settings_warning_dialog_msg">"Il telefono è soggetto a rischi per la sicurezza. Non ti verrà richiesto di installare versioni sicure dell'applicazione se disattivi questa funzione. Disattivarla?"</string>
     <string name="settings_warning_dialog_title">Attenzione</string>
+    <string name="size_byte">B</string>
     <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
     <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>
     <string name="solar_term_clear_and_bright">Chiaro e luminoso</string>
