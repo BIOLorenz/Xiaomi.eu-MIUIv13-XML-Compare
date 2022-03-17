@@ -528,6 +528,7 @@
     <string name="shortcut_records">Registrazioni</string>
     <string name="shortcut_start_record">Avvia registrazione</string>
     <string name="shortcut_stop_record">Interrompi registrazione</string>
+    <string name="size_byte">B</string>
     <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
     <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>
     <string name="solar_term_clear_and_bright">Chiaro e luminoso</string>
