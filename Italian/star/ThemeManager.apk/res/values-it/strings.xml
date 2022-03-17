@@ -306,6 +306,7 @@
     <string name="detail_reward_user_limited_to_display">Vengono visualizzate solo le prime 100 persone</string>
     <string name="dev_options">Opzioni sviluppatore</string>
     <string name="dev_options_summary">Risorse web</string>
+    <string name="dialog_negative_button_text">Non ora</string>
     <string name="dialog_show_never">"Non mostrare più"</string>
     <string name="display">Schermo</string>
     <string name="download_failed">"Impossibile scaricare"</string>
