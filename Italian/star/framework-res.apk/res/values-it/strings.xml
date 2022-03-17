@@ -341,6 +341,7 @@ Puoi associare questa scorciatoia a un'altra funzionalità in Impostazioni &gt; 
     <string name="bugreport_screenshot_failure_toast">Impossibile acquisire screenshot con segnalazione di bug</string>
     <string name="bugreport_screenshot_success_toast">Screenshot con segnalazione di bug effettuato correttamente</string>
     <string name="bugreport_title">Segnalazione di bug</string>
+    <string name="byteShort">B</string>
     <string name="cancel">Annulla</string>
     <string name="candidates_style"><u>candidati</u></string>
     <string name="capability_desc_canCaptureFingerprintGestures">"È in grado di rilevare i gesti compiuti con il sensore di impronte dei dispositivi."</string>
