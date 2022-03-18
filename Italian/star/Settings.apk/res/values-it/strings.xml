@@ -2685,6 +2685,7 @@ Puoi vedere i log generati in File Manager."</string>
     <string name="elastic_text">Prompt e menu a discesa appaiono con un pop che porta maggiore attenzione su questi elementi</string>
     <string name="emergency_address_summary">Indirizzo utilizzato dai servizi di emergenza come tua posizione se effettui una chiamata di emergenza (911) usando rete Wi-Fi</string>
     <string name="emergency_address_title">Aggiorna indirizzo di emergenza</string>
+    <string name="emergency_gesture_call_for_help_title">Chiama aiuto</string>
     <string name="emergency_info_summary">Info e contatti per %1$s</string>
     <string name="emergency_info_title">Informazioni di emergenza</string>
     <string name="emergency_settings_preference_title">Sicurezza e emergenza</string>
