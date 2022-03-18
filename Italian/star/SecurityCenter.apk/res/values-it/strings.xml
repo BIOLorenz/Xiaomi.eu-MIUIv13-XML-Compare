@@ -3741,6 +3741,7 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="sp_settings_info_input_method">Utilizza la tastiera di sistema nelle app di pagamento</string>
     <string name="sp_settings_info_monitor">Monitora il sistema quando vengono avviate le app di pagamento</string>
     <string name="sp_settings_title_input_method">Metodo d\'inserimento sicuro</string>
+    <string name="sp_sos_title">SOS di Emergenza</string>
     <string name="sp_toast_removed_from_sign_white_list">Rimossa dalle eccezioni. La prossima volta verrà scansionata.</string>
     <string name="special_number_group">Blocca i numeri segnalati</string>
     <string name="special_perm_above_msg">Consenti alle app di mostrare elementi su altre applicazioni</string>
