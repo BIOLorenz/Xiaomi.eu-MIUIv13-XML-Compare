@@ -268,6 +268,7 @@ Selezione"</string>
     <string name="disabled_by_admin">Disattivata dall\'amministratore</string>
     <string name="disabled_by_admin_summary_text">Gestita dall\'amministratore</string>
     <string name="edit_info">Modifica informazioni per le emergenze</string>
+    <string name="emergency_action_title">SOS di Emergenza</string>
     <string name="emergency_contacts_title">Contatti di emergenza</string>
     <string name="emergency_info_footer">"Aggiungendo informazioni mediche e contatti di emergenza puoi aiutare i soccorritori in caso di emergenze.
 
