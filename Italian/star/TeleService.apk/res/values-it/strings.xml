@@ -2,5 +2,6 @@
 <resources>
     <string name="antispam_notification_title">Numero sconosciuto</string>
     <string name="incall_error_supp_service_unknown">Servizio non supportato</string>
+    <string name="kr_emergency_112">Polizia (112)</string>
     <string name="user_setup_button_setup_later">Non ora</string>
 </resources>
