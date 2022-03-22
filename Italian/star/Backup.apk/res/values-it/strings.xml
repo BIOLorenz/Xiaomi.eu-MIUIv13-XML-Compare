@@ -291,6 +291,7 @@ https://appleid.apple.com/#!&amp;page=signin per chiudere"</string>
     <string name="feature_title_antispam">Blacklist</string>
     <string name="feature_title_call_log">Registro chiamate</string>
     <string name="feature_title_contacts">Contatti</string>
+    <string name="feature_title_mms">MMS</string>
     <string name="feature_title_mms_setting">Impostazioni messaggi</string>
     <string name="feature_title_sms">SMS</string>
     <string name="file_uploading">Caricamento…</string>
@@ -346,6 +347,7 @@ Non cambiare o rinominare i file di backup."</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
     <string name="gallery_summary">Impostaizoni galleria (foto non incluse)</string>
+    <string name="grant_all_permission_title">Permessi richiesti</string>
     <string name="guarded_mode_dialog_backup_message">"I backup non sono consentiti in modalità Ospite"</string>
     <string name="guarded_mode_dialog_title">"Sei in modalità Ospite"</string>
     <string name="guarded_mode_dialog_transfer_message">"Impossibile utilizzare Mi Mover in modalità Ospite"</string>
@@ -449,6 +451,8 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
     <string name="midnight">Notte</string>
     <string name="miliao_account_guide">Utilizza il tuo Mi Account per accedere a Mi Cloud e agli altri servizi.</string>
     <string name="miliao_account_login">Login Mi Talk</string>
+    <string name="miuix_access_state_desc">Selezionato</string>
+    <string name="miuix_alphabet_indexer_name">Barra dell\'indice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleziona elementi</string>
@@ -463,6 +467,8 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
     <string name="miuix_appcompat_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
+    <string name="miuix_indexer_collect">Raccolte</string>
+    <string name="miuix_indexer_selected">Selezionato %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
@@ -614,6 +620,7 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
     <string name="old_soft_name">Collega tramite QR code</string>
     <string name="old_way">Puoi collegarti anche tramite QR code. Tocca per generare il codice.</string>
     <string name="page_loading">Attendi…</string>
+    <string name="password">Password</string>
     <string name="password_null">"La password non può essere vuota"</string>
     <string name="pause">Pausa</string>
     <string name="perm_camera">Fotocamera</string>
@@ -623,12 +630,29 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
     <string name="perm_read_phone_state">"Visualizza stato del telefono"</string>
     <string name="perm_read_sms">Visualizza SMS</string>
     <string name="perm_storage">Leggi e scrivi su memoria esterna</string>
+    <string name="permission_admitted">Concesso</string>
+    <string name="permission_backup_file">Per il backup dei file</string>
+    <string name="permission_content_title">Permessi richiesti</string>
+    <string name="permission_dialog_positive_btn">Impostazioni</string>
+    <string name="permission_intro">Dettagli permessi</string>
+    <string name="permission_management_entrance">Gestisci permessi</string>
+    <string name="permission_not_admit">Non concesso</string>
+    <string name="permission_read_calllog">Accesso alla cronologia chiamate</string>
+    <string name="permission_read_contacts">Accesso ai contatti</string>
+    <string name="permission_read_sms">Accesso ai messaggi</string>
+    <string name="permission_read_storage_global">Accesso alla memoria</string>
+    <string name="permission_related">Permessi</string>
+    <string name="permission_write_calllog">Modifica cronologia chiamate</string>
+    <string name="permission_write_contacts">Modifica contatti</string>
     <string name="phone_title">Impostazioni telefono</string>
     <string name="platform_chooser_item_android_mi">Telefono Mi</string>
     <string name="platform_chooser_item_android_others">Altri brand</string>
     <string name="platform_chooser_item_ios">Importa da dispositivo Apple</string>
     <string name="platform_chooser_title">Scegli vecchio dispositivo</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
+    <string name="privacy_settings">Privacy</string>
+    <string name="privacy_settings_title">Informativa sulla Privacy</string>
+    <string name="private_policy_text">Informativa sulla Privacy</string>
     <string name="progress_backup_hint">Backup in corso</string>
     <string name="progress_restore_hint">Ripristina</string>
     <string name="prompt_reading">Lettura…</string>
@@ -647,6 +671,7 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
     <string name="restore_counts">Ripristino:</string>
     <string name="restore_data">Ripristina dati</string>
     <string name="restore_failed">"Impossibile ripristinare"</string>
+    <string name="restore_files">Per il ripristino degli elementi</string>
     <string name="restore_finished">Ripristino completato</string>
     <string name="restore_is_running">Dispositivo in fase di ripristino</string>
     <string name="restore_launcher_layout_hit">(Nota: Ripristina il layout della Schermata Home)</string>
@@ -932,6 +957,7 @@ per scaricare ed installare Mi Mover."</string>
   Liberare spazio o trasferire solo gli elementi importanti."</string>
     <string name="trans_old_phone_low_space_msg">"Mi Mover necessita di un pò di spazio di archiviazione per comprimere i dati trasferiti, ma sembra che non ci sia abbastanza spazio disponibile sul vecchio dispositivo. Libera spazio in \"Sicurezza\" o trasferisci solo gli elementi importanti."</string>
     <string name="trans_old_phone_low_space_title">Spazio di archiviazione insufficiente</string>
+    <string name="trans_one_key_migrate">Mi Mover</string>
     <string name="trans_open_camera_failed_message">Riavvia il dispositivo o verifica che Mi Mover sia autorizzato ad utilizzare la &lt;b&gt;Camera&lt;/b&gt;.</string>
     <string name="trans_open_camera_failed_title">"Impossible connettersi alla Camera"</string>
     <string name="trans_open_location_button">Attiva</string>
@@ -1033,6 +1059,7 @@ Libera spazio o effettua trasferimenti multipli più piccoli."</string>
     <string name="usb_trans_select_data_no_space">"Solo %s è disponibile sulla tua memoria USB.
 Libera spazio o trasferisci solo gli elementi più importanti."</string>
     <string name="user_feedback">Segnalazione</string>
+    <string name="user_know_button_text">Ok</string>
     <string name="user_name">Apple ID o email</string>
     <string name="user_name_null">"Il nome utente non può essere vuoto"</string>
     <string name="user_notice_declaration_ignore">"Non mostrare più"</string>
@@ -1050,6 +1077,10 @@ Non uscire da quea pagina finché non è stata stabilita una connessione."</stri
     <string name="wifi_title">Impostazioni Wi-Fi</string>
     <string name="xiaomi_connect_download_manager_fail">"Connessione Download Manager fallita, controlla lo stato del Download Manager nella Gestione Applicazioni."</string>
     <string name="xiaomi_external_storage_unavailable">"Memoria non disponibile, verifica la scheda SD."</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
+    <string name="xiaomi_router">Mi Router</string>
+    <string name="xiaomi_router_location">Mi Router %s</string>
     <string name="xiaomi_update_dialog_message">"Presentazione versione %1$s
 Size: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Nuova versione %1$s
