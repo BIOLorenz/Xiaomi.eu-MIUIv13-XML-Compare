@@ -240,6 +240,7 @@ https://appleid.apple.com/#!&amp;page=signin per chiudere"</string>
     <string name="disable_encrypt_title">Crittografia disabilitata</string>
     <string name="disable_local_backup">Disattiva backup locale</string>
     <string name="disable_local_backup_and_restore">Disattiva backup locale</string>
+    <string name="disable_local_backup_tips">"Dopo aver disattivato questa funzionalità, tutti i backup locali verranno eliminati. Le impostazioni di backup verranno cancellate e gli elementi non verranno più salvati automaticamente. Sarai ancora in grado di utilizzare il tuo dispositivo come al solito. Spegnilo comunque?"</string>
     <string name="early_morning">Mattina</string>
     <string name="earthly_branches_chen">Chen</string>
     <string name="earthly_branches_chou">Chou</string>
@@ -262,6 +263,8 @@ https://appleid.apple.com/#!&amp;page=signin per chiudere"</string>
     <string name="enable_encrypt_title">Crittografia abilitata</string>
     <string name="enable_local_backup">Attiva backup locale</string>
     <string name="enable_local_backup_and_restore">Attiva backup locale</string>
+    <string name="enable_local_backup_tips">Attivare questa funzione per poter salvare i backup su questo dispositivo e copiarli sul computer o sul dispositivo di archiviazione USB. Attivarla ora?</string>
+    <string name="enable_local_backup_tips_global">Attivare questa funzione per poter salvare i backup su questo dispositivo e copiarli sul computer. Attivarla ora?</string>
     <string name="eras_ad">AC</string>
     <string name="eras_bc">DC</string>
     <string name="err_acquire_system_service">"Impossibile eseguire servizio di sistema."</string>
@@ -347,6 +350,7 @@ Non cambiare o rinominare i file di backup."</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
     <string name="gallery_summary">Impostaizoni galleria (foto non incluse)</string>
+    <string name="grant_all_permission_content">Concedi tutti i permessi obbligatori per poter eseguire il backup e ripristinare gli elementi.</string>
     <string name="grant_all_permission_title">Permessi richiesti</string>
     <string name="guarded_mode_dialog_backup_message">"I backup non sono consentiti in modalità Ospite"</string>
     <string name="guarded_mode_dialog_title">"Sei in modalità Ospite"</string>
@@ -539,6 +543,10 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
     <string name="new_local_detail_description">"Avviso:
 %1$d. Copia i backup sul tuo computer per evitare perdite di dati. %2$s.
 %3$d. I backup verranno salvati in MIUI-Backup-AllBackup."</string>
+    <string name="new_local_detail_description_global">"Nota:
+%1$d. Copiare i backup sul computer per evitare la perdita di dati. %2$s.
+%3$d. I backup verranno salvati su MIUI-Backup-AllBackup.
+%4$d. Alcune applicazioni potrebbero non supportare i backup."</string>
     <string name="new_local_tab_backup">Backup</string>
     <string name="new_local_tab_backup_pad">Backup</string>
     <string name="new_local_tab_restore">Ripristina</string>
@@ -631,25 +639,49 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
     <string name="perm_read_sms">Visualizza SMS</string>
     <string name="perm_storage">Leggi e scrivi su memoria esterna</string>
     <string name="permission_admitted">Concesso</string>
+    <string name="permission_backup_calendar">Per eseguire il backup degli eventi del calendario</string>
+    <string name="permission_backup_calendar_desc">Per essere in grado di eseguire il backup degli eventi del calendario, consentire a questa app di modificare gli eventi del calendario.</string>
+    <string name="permission_backup_calllog">Per il backup della cronologia chiamate</string>
+    <string name="permission_backup_calllog_desc">Per essere in grado di eseguire il backup della cronologia chiamate, consentire a questa app di accedere alla cronologia chiamate.</string>
+    <string name="permission_backup_contacts">Per il backup dei contatti</string>
+    <string name="permission_backup_contacts_desc">Per essere in grado di eseguire il backup dei contatti, consentire a questa app di accedere ai tuoi contatti.</string>
     <string name="permission_backup_file">Per il backup dei file</string>
+    <string name="permission_backup_sms">Per il backup dei messaggi</string>
+    <string name="permission_backup_sms_desc">Per essere in grado di eseguire il backup dei messaggi, consentire a questa app di accedere ai messaggi.</string>
     <string name="permission_content_title">Permessi richiesti</string>
     <string name="permission_dialog_positive_btn">Impostazioni</string>
     <string name="permission_intro">Dettagli permessi</string>
     <string name="permission_management_entrance">Gestisci permessi</string>
     <string name="permission_not_admit">Non concesso</string>
+    <string name="permission_purpose">Questa funzione consente di eseguire il backup e ripristinare gli elementi utilizzando il dispositivo mobile, computer e unità USB.</string>
+    <string name="permission_read_apps">Accedi alla lista delle app installate su questo dispositivo</string>
+    <string name="permission_read_calendar">Accedere agli eventi del calendario</string>
     <string name="permission_read_calllog">Accesso alla cronologia chiamate</string>
     <string name="permission_read_contacts">Accesso ai contatti</string>
     <string name="permission_read_sms">Accesso ai messaggi</string>
+    <string name="permission_read_storage">Accedi e salva gli oggetti nella memoria</string>
     <string name="permission_read_storage_global">Accesso alla memoria</string>
+    <string name="permission_read_write_storage">Per essere in grado di eseguire il backup degli elementi, consentire a questa funzione di accedere alla memoria.</string>
+    <string name="permission_read_write_sys_app">Per essere in grado di eseguire il backup e ripristinare messaggi, contatti e cronologia chiamate, consentire a questa funzione di accedere a questi elementi.</string>
     <string name="permission_related">Permessi</string>
+    <string name="permission_restore_calendar">Per ripristinare gli eventi del calendario</string>
+    <string name="permission_restore_calendar_desc">Per essere in grado di ripristinare gli eventi del calendario, consentire a questa app di modificare gli eventi del calendario.</string>
+    <string name="permission_restore_calllog">Per ripristinare la cronologia chiamate</string>
+    <string name="permission_restore_calllog_desc">Per essere in grado di ripristinare la cronologia delle chiamate, consentire a questa app di modificare la cronologia delle chiamate.</string>
+    <string name="permission_restore_contacts">Per ripristinare i contatti</string>
+    <string name="permission_restore_contacts_desc">Per essere in grado di ripristinare i contatti, consentire a questa app di modificare i contatti.</string>
+    <string name="permission_show_all_apps">Per visualizzare le app che possono essere salvate</string>
+    <string name="permission_show_all_apps_desc">Per essere in grado di visualizzare le applicazioni che possono essere backup, consentire a questa app di accedere all\'elenco delle applicazioni installate su questo dispositivo.</string>
     <string name="permission_write_calllog">Modifica cronologia chiamate</string>
     <string name="permission_write_contacts">Modifica contatti</string>
+    <string name="permission_write_storage">Salva gli elementi nella memoria</string>
     <string name="phone_title">Impostazioni telefono</string>
     <string name="platform_chooser_item_android_mi">Telefono Mi</string>
     <string name="platform_chooser_item_android_others">Altri brand</string>
     <string name="platform_chooser_item_ios">Importa da dispositivo Apple</string>
     <string name="platform_chooser_title">Scegli vecchio dispositivo</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
+    <string name="privacy_policy_link"><Data>\"Per saperne di più sulle nostre pratiche di trattamento dei dati e sui tuoi diritti di utente, leggi e accetta la nostra &lt;a href=\'%1s\'&gt;Informativa sulla privacy&lt;/a&gt; prima di continuare.</Data></string>
     <string name="privacy_settings">Privacy</string>
     <string name="privacy_settings_title">Informativa sulla Privacy</string>
     <string name="private_policy_text">Informativa sulla Privacy</string>
@@ -680,6 +712,7 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
     <string name="restore_telephony_hit">(Nota: Il processo di ripristino riavvierà l\'applicazione Telefono)</string>
     <string name="retry">Riprova</string>
     <string name="reverse_all">Cancella tutto</string>
+    <string name="revoke_permission_dialog_content">"Non sarai in grado di eseguire il backup o ripristinare gli oggetti senza tutti i permessi obbligatori. Ritirare i permessi comunque?"</string>
     <string name="router_backup_hint">Non spegnere il dispositivo</string>
     <string name="saturday">Sabato</string>
     <string name="saturday_short">Sab</string>
