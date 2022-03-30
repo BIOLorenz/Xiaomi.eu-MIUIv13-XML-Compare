@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="add_frequent_phrases">Aggiungi frase</string>
+    <string name="chinese_month_april">4</string>
+    <string name="chinese_month_august">8</string>
+    <string name="chinese_month_december">12</string>
+    <string name="chinese_month_february">2</string>
+    <string name="chinese_month_january">1</string>
+    <string name="chinese_month_july">7</string>
+    <string name="chinese_month_june">6</string>
+    <string name="chinese_month_march">3</string>
+    <string name="chinese_month_may">5</string>
+    <string name="chinese_month_november">11</string>
+    <string name="chinese_month_october">10</string>
+    <string name="chinese_month_september">9</string>
     <string name="delete_frequent_phrases">Elimina frasi frequenti</string>
     <string name="delete_frequent_phrases_confirm">Eliminare le frasi frequenti selezionate?</string>
     <string name="edit_frequent_phrases">Modifica le frasi frequenti</string>
@@ -47,5 +59,7 @@
     <string name="menu_add_frequent_phrases">Aggiungi</string>
     <string name="menu_delete">Elimina</string>
     <string name="menu_edit">Modifica</string>
+    <string name="month_march_short">Mar</string>
+    <string name="month_march_shortest">Mar</string>
     <string name="sync_phrase_label">Frasi frequenti</string>
 </resources>
