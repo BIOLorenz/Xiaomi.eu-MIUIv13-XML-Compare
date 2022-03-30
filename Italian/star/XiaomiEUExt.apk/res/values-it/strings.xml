@@ -2,6 +2,18 @@
 <resources>
     <string name="add">Aggiungi</string>
     <string name="app_name">Estensione Xiaomi.eu</string>
+    <string name="chinese_month_april">4</string>
+    <string name="chinese_month_august">8</string>
+    <string name="chinese_month_december">12</string>
+    <string name="chinese_month_february">2</string>
+    <string name="chinese_month_january">1</string>
+    <string name="chinese_month_july">7</string>
+    <string name="chinese_month_june">6</string>
+    <string name="chinese_month_march">3</string>
+    <string name="chinese_month_may">5</string>
+    <string name="chinese_month_november">11</string>
+    <string name="chinese_month_october">10</string>
+    <string name="chinese_month_september">9</string>
     <string name="confirm_reset">Conferma il ripristino</string>
     <string name="confirm_reset_message">Ripristinare le applicazioni predefinite?</string>
     <string name="contributors">Collaboratori</string>
