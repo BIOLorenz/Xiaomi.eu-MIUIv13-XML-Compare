@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="chinese_month_april">4</string>
+    <string name="chinese_month_august">8</string>
+    <string name="chinese_month_december">12</string>
+    <string name="chinese_month_february">2</string>
+    <string name="chinese_month_january">1</string>
+    <string name="chinese_month_july">7</string>
+    <string name="chinese_month_june">6</string>
+    <string name="chinese_month_march">3</string>
+    <string name="chinese_month_may">5</string>
+    <string name="chinese_month_november">11</string>
+    <string name="month_april_short">Apr</string>
+    <string name="month_april_shortest">Apr</string>
+    <string name="month_august_short">Ago</string>
+    <string name="month_august_shortest">Ago</string>
     <string name="month_day_format">dd/MM</string>
+    <string name="month_december_short">Dic</string>
+    <string name="month_december_shortest">Dic</string>
+    <string name="month_february_short">Feb</string>
+    <string name="month_february_shortest">Feb</string>
+    <string name="month_january_short">Gen</string>
+    <string name="month_january_shortest">Gen</string>
     <string name="update_dialog_button_cancel">Non ora</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Non ora</string>
 </resources>
