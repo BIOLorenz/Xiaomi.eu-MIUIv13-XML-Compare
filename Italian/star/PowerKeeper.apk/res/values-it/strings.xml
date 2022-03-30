@@ -38,6 +38,12 @@
     <string name="atrace_start">Registrazione log atrace…</string>
     <string name="base_info">Informazioni di base</string>
     <string name="checking_intranet">Controllo connessione intranet, attendere...</string>
+    <string name="chinese_month_april">4</string>
+    <string name="chinese_month_august">8</string>
+    <string name="chinese_month_december">12</string>
+    <string name="chinese_month_february">2</string>
+    <string name="chinese_month_january">1</string>
+    <string name="chinese_month_july">7</string>
     <string name="cloud_addr_info">Informazioni cloud</string>
     <string name="cloud_china_addr">Aggiorna dati del server Cinese</string>
     <string name="cloud_international_addr">Aggiorna dati del server Internazionale</string>
