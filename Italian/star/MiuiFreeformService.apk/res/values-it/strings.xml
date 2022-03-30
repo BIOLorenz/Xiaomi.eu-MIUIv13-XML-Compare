@@ -2,6 +2,18 @@
 <resources>
     <string name="app_name">Finestre fluttuanti</string>
     <string name="bottom_bar_smallwindow_text">Rilascia per fissare</string>
+    <string name="chinese_month_april">4</string>
+    <string name="chinese_month_august">8</string>
+    <string name="chinese_month_december">12</string>
+    <string name="chinese_month_february">2</string>
+    <string name="chinese_month_january">1</string>
+    <string name="chinese_month_july">7</string>
+    <string name="chinese_month_june">6</string>
+    <string name="chinese_month_march">3</string>
+    <string name="chinese_month_may">5</string>
+    <string name="chinese_month_november">11</string>
+    <string name="chinese_month_october">10</string>
+    <string name="chinese_month_september">9</string>
     <string name="contentDescription">Spostamento della finestra</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
