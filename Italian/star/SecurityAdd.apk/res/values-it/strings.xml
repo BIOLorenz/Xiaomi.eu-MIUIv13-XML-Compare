@@ -107,6 +107,7 @@
     <string name="chip_text">Testo Chip</string>
     <string name="clear_text_end_icon_content_description">Cancella testo</string>
     <string name="clearable_edittext_clear_description">Cancella</string>
+    <string name="close">Chiudi</string>
     <string name="cta_main_purpose">Benvenuto su Game Turbo!</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="dialog_market_score_cancel">Annulla</string>
@@ -307,6 +308,12 @@
     <string name="miuishare_title_share">Condividi</string>
     <string name="miuishare_wechat_timeline_title">Momenti WeChat</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Lascia per aggiornare</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"È tutto per ora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"È tutto per ora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
     <string name="monday">Lunedì</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
@@ -374,6 +381,7 @@
     <string name="night">Sera</string>
     <string name="no_network_btn">Riprova</string>
     <string name="noon">Mezzogiorno</string>
+    <string name="not_set">Non impostato</string>
     <string name="open_browser">Apri nel browser</string>
     <string name="parent_center_app_sure">Determina</string>
     <string name="parent_center_app_time_range_2">Fine settimana</string>
