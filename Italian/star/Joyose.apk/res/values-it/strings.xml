@@ -17,6 +17,7 @@
     <string name="chinese_month_november">11</string>
     <string name="chinese_month_october">10</string>
     <string name="chinese_month_september">9</string>
+    <string name="close">Chiudi</string>
     <string name="connect_wifi">Nessuna connessione WiFi disponibile</string>
     <string name="detect_fakecell">Riconosce gli SMS provenienti da celle fasulle</string>
     <string name="end_title">Game Over</string>
@@ -29,6 +30,12 @@
     <string name="hello_world">Ciao mondo!</string>
     <string name="joyose_name">Celle Fake</string>
     <string name="lab_switch_server">Cambia server</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Lascia per aggiornare</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"È tutto per ora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"È tutto per ora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
     <string name="month_may_shortest">Mag</string>
     <string name="month_november_short">Nov</string>
     <string name="month_november_shortest">Nov</string>
@@ -37,6 +44,7 @@
     <string name="month_september_short">Set</string>
     <string name="month_september_shortest">Set</string>
     <string name="not_resurge_title">Resurrezione</string>
+    <string name="not_set">Non impostato</string>
     <string name="not_support_forbidden_fakecell">"Il tuo dispositivo non supporta la protezione a livello chip dalle celle fasulle."</string>
     <string name="open_cta">\"Apri l\'app Sicurezza e \"Consenti connessione Internet\" nelle Impostazioni</string>
     <string name="permstep_description">\"Consenti all\'applicazione di leggere le informazioni sui passi dal telefono</string>
