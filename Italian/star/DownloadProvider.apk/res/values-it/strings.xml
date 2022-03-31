@@ -23,6 +23,7 @@
     <string name="chinese_month_november">11</string>
     <string name="chinese_month_october">10</string>
     <string name="chinese_month_september">9</string>
+    <string name="close">Chiudi</string>
     <string name="dialog_button_cancel">Annulla</string>
     <string name="dialog_content_limit0">Limita download</string>
     <string name="dialog_content_limit_max">Illimitato</string>
@@ -69,6 +70,12 @@
     <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="insufficient_space">Spazio insufficiente sulla memoria interna</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Lascia per aggiornare</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"È tutto per ora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"È tutto per ora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
     <string name="mobile_recommended_title">Utilizzo dati rete cellulare</string>
     <string name="month_august_shortest">Ago</string>
     <string name="month_december_short">Dic</string>
@@ -92,6 +99,7 @@
     <string name="month_october_shortest">Ott</string>
     <string name="month_september_short">Set</string>
     <string name="month_september_shortest">Set</string>
+    <string name="not_set">Non impostato</string>
     <string name="notif_text_engine_off">Acceleratore Xunlei disattivato.</string>
     <string name="notif_text_engine_on">Accelerazione…</string>
     <string name="notif_title_file_size">%1$d totale</string>
@@ -122,6 +130,7 @@
     <string name="permlab_downloadManagerAdvanced">Funzionalità avanzate di gestione dei download.</string>
     <string name="permlab_downloadWithoutNotification">download file senza notifica</string>
     <string name="permlab_seeAllExternal">Tutti i download in archivio USB</string>
+    <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="privacy_notif_content">Tocca per vedere i dettagli.</string>
     <string name="privacy_notif_title">Xunlei Download Accelerator attivato</string>
     <string name="privacy_tip_cancel">Annulla</string>
