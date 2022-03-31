@@ -28,6 +28,7 @@
     <string name="chinese_month_november">11</string>
     <string name="chinese_month_october">10</string>
     <string name="chinese_month_september">9</string>
+    <string name="close">Chiudi</string>
     <string name="complete_with">"Completa con"</string>
     <string name="confirm_pairing">Sei sicuro di voler abbinare il dispositivo Bluetooth %1$s?</string>
     <string name="connect_peripheral_failed">"Impossibile connettersi a %1$s"</string>
@@ -41,6 +42,12 @@
     <string name="failed_to_enable_bt">"Impossibile abilitare il Bluetooth"</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Lascia per aggiornare</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"È tutto per ora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"È tutto per ora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
     <string name="nfc_blocking_alert_message">Tocca per risolvere.</string>
     <string name="nfc_blocking_alert_title">NFC potrebbe essere bloccato</string>
     <string name="pair_yes">Sì</string>
