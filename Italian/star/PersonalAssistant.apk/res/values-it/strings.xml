@@ -175,7 +175,7 @@
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"E' tutto per ora"</string>
@@ -226,6 +226,11 @@
     <string name="pa_base_time_month">dd/MM</string>
     <string name="pa_base_time_year">dd/MM/yyyy</string>
     <string name="pa_base_year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
+    <string name="pa_picker_detail_preview_load_fail_can_not_add_widget">Attendi…</string>
+    <string name="pa_picker_list_loading">Attendi…</string>
+    <string name="pa_picker_loading">Attendi…</string>
+    <string name="pa_scan_app">Scanner</string>
+    <string name="pa_stock_search_loading">Attendi…</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="saturday">Sabato</string>
     <string name="saturday_short">Sab</string>
