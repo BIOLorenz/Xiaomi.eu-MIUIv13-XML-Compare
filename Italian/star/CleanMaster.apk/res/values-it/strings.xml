@@ -646,7 +646,7 @@
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"E' tutto per ora"</string>
@@ -835,6 +835,7 @@
     <string name="privacy_cache_title">Info personali</string>
     <string name="privacy_clipboard_desc">Contenuto degli appunti</string>
     <string name="privacy_clipboard_type">Appunti</string>
+    <string name="privacy_format">https://privacy.mi.com/all/%1$s_%2$s</string>
     <string name="privacy_search_desc">Cronologia di ricerca</string>
     <string name="privacy_search_type">Ricerca Google</string>
     <string name="promotion">AD</string>
