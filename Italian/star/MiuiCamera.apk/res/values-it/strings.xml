@@ -1079,7 +1079,7 @@ più grandi nelle foto"</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"E' tutto per ora"</string>
@@ -1106,6 +1106,7 @@ più grandi nelle foto"</string>
     <string name="module_name_new_slow_motion">Slow Motion</string>
     <string name="module_name_panorama">Panoramica</string>
     <string name="module_name_portrait">Ritratto</string>
+    <string name="module_name_scanner">Scanner</string>
     <string name="module_name_square">Quadrato</string>
     <string name="module_name_super_moon">Superluna</string>
     <string name="moive_frame">Cornice</string>
