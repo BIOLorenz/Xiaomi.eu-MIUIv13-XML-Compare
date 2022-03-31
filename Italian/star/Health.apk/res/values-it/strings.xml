@@ -935,7 +935,7 @@ Inizia da capo."</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"E' tutto per ora"</string>
@@ -1002,6 +1002,7 @@ Inizia da capo."</string>
     <string name="need_auto_start_permission">Per ottenere statistiche più precise, consenti a Xiaomi Health di avviarsi automaticamente.</string>
     <string name="need_unrestricted_permission">Per ottenere statistiche più precise, permetti a Xiaomi Health di funzionare sempre in background.</string>
     <string name="network_connect_failure">"Impossibile connettersi alla rete. Verifica le impostazioni di rete e riprova."</string>
+    <string name="network_name_china">Wi-Fi</string>
     <string name="network_not_available">"Impossibile connettersi alla rete. Verifica le impostazioni di rete e riprova."</string>
     <string name="network_not_available2">"Impossibile connettersi alla rete"</string>
     <string name="next_step">Successivo</string>
