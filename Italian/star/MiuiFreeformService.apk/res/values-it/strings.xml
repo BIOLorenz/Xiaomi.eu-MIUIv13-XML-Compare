@@ -14,6 +14,7 @@
     <string name="chinese_month_november">11</string>
     <string name="chinese_month_october">10</string>
     <string name="chinese_month_september">9</string>
+    <string name="close">Chiudi</string>
     <string name="contentDescription">Spostamento della finestra</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
@@ -43,4 +44,11 @@
     <string name="how_to_slide_up_to_close">Chiude la finestra fluttuante</string>
     <string name="how_to_slide_up_to_close_summary">Scorri verso l\'alto dalla barra azione di una finestra fluttuante</string>
     <string name="how_to_use_freeform">Come utilizzare finestre fluttuanti</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Lascia per aggiornare</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"È tutto per ora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"È tutto per ora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
+    <string name="not_set">Non impostato</string>
 </resources>
