@@ -351,6 +351,7 @@
     <string name="managed_user_title">Tutte le app attive</string>
     <string name="max_long_trace_duration">Durata massima traccia lunga</string>
     <string name="max_long_trace_size">Dimensione massima traccia lunga</string>
+    <string name="media_category">Media</string>
     <string name="media_transfer_this_device_name">Questo dispositivo</string>
     <string name="media_transfer_wired_device_name">Dispositivo audio cablato</string>
     <string name="media_transfer_wired_usb_device_name">Cuffie cablate</string>
@@ -385,6 +386,7 @@
     <string name="mr_user_route_category_name">Dispositivi</string>
     <string name="no_application">Nessuna</string>
     <string name="no_debuggable_apps">Nessuna applicazione disponibile per il debug</string>
+    <string name="not_default_data_content_description">Non impostato per usare i dati</string>
     <string name="not_set">Non impostato</string>
     <string name="oem_unlock_enable">Sblocco OEM</string>
     <string name="oem_unlock_enable_summary">Permetti lo sblocco del bootloader</string>
@@ -659,6 +661,7 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="wifi_wapi_fail_to_init">"Impossibile aprire i certificati WAPI L'archivio credenziali potrebbe non essere attivato"</string>
     <string name="wifi_wapi_psk_type">Tip di password</string>
     <string name="wifi_wapi_user_certificate">Certificato utente</string>
+    <string name="wifitrackerlib_wifi_remembered">Salvato</string>
     <string name="window_animation_scale_title">Scala animazioni finestra</string>
     <string name="zen_alarm_warning">"Non sentirai la tua prossima sveglia %1$s"</string>
     <string name="zen_alarm_warning_indef">"Non sentirai la tua prossima sveglia %1$s a meno che non venga disattivata prima di allora"</string>
