@@ -368,6 +368,7 @@ Chiunque può leggere queste informazioni dalla schermata di blocco e chiamare i
     <string name="mr_controller_stop">Interrompi</string>
     <string name="mr_controller_stop_casting">Interrompi trasmissione</string>
     <string name="mr_controller_volume_slider">Dispositivo di scorrimento del volume</string>
+    <string name="mr_dialog_default_group_name">Gruppo</string>
     <string name="mr_dialog_groupable_header">Aggiungi un dispositivo</string>
     <string name="mr_dialog_transferable_header">Riproduci su un gruppo</string>
     <string name="mr_system_route_name">Sistema</string>
@@ -375,6 +376,7 @@ Chiunque può leggere queste informazioni dalla schermata di blocco e chiamare i
     <string name="name">Nome</string>
     <string name="no_application">Nessuna</string>
     <string name="no_info_provided">"Nessuna informazione sul proprietario del telefono"</string>
+    <string name="not_default_data_content_description">Non impostato per usare i dati</string>
     <string name="not_set">Non impostato</string>
     <string name="o_negative">O negativo</string>
     <string name="o_positive">O positivo</string>
@@ -600,6 +602,7 @@ Qualsiasi utente può aggiornare le app per tutti gli altri."</string>
     <string name="wifi_unmetered_label">Non a consumo</string>
     <string name="wifi_verbose_logging">Attiva logging dettagliato Wi-Fi</string>
     <string name="wifi_verbose_logging_summary">Aumenta livello di logging Wi-Fi, mostra SSID RSSI nel selettore Wi-Fi</string>
+    <string name="wifitrackerlib_wifi_remembered">Salvato</string>
     <string name="window_animation_scale_title">Scala animazione finestra</string>
     <string name="yes">Sì</string>
     <string name="zen_alarm_warning">"Non sentirai la prossima sveglia %1$s"</string>
