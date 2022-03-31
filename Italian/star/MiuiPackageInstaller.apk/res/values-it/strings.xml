@@ -372,7 +372,7 @@ In alternativa, puoi disattivare la modalità Semplificata e riprovare."</string
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"E' tutto per ora"</string>
@@ -446,6 +446,7 @@ In alternativa, puoi disattivare la modalità Semplificata e riprovare."</string
     <string name="permission_action_prompt">Avvisa</string>
     <string name="permission_action_reject">Nega</string>
     <string name="permission_group_title_charges_related">Telefono</string>
+    <string name="permission_group_title_media_related">Media</string>
     <string name="permission_group_title_others">Altri</string>
     <string name="permission_group_title_settings_related">Impostazioni</string>
     <string name="permission_request_title">Richiesta di autorizzazione</string>
