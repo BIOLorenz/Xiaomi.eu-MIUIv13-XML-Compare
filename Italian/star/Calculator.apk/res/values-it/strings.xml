@@ -22,6 +22,7 @@
     <string name="abc_shareactionprovider_share_with">Condividi con</string>
     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
     <string name="abc_toolbar_collapse_description">Riduci</string>
+    <string name="actionbar_button_up_description">Indietro</string>
     <string name="afternoon">PM</string>
     <string name="age_label_add_to_calendar">Aggiungi al Calendario</string>
     <string name="age_label_dob">Data di nascita</string>
@@ -140,6 +141,8 @@
     <string name="city">Città</string>
     <string name="clearDesc">cancella</string>
     <string name="clear_history">Cancella cronologia</string>
+    <string name="clearable_edittext_clear_description">Cancella</string>
+    <string name="close">Chiudi</string>
     <string name="combine_loan">Mutuo combinato</string>
     <string name="commercial_loan">Mutuo commerciale</string>
     <string name="convert_currency">Convertitore valuta</string>
@@ -153,6 +156,7 @@
     <string name="convertion_unit_velocity">Conversione velocità</string>
     <string name="convertion_unit_volume">Conversione volume</string>
     <string name="convertion_unit_weight">Conversione peso</string>
+    <string name="copy">Copia</string>
     <string name="cosDesc">coseno</string>
     <string name="currency_dialog_privacy_content"><Data>Il convertitore di valuta deve connettersi a Internet per ottenere i tassi di cambio più recenti. Leggi e accetta il nostro &lt;a href=\"%1$s\"&gt;Contratto utente&lt;/a&gt; e &lt;a href=\"%2$s\"&gt;Informativa sulla privacy&lt;/a&gt; prima di utilizzare questa funzionalità.</Data></string>
     <string name="currency_update_connect_to_get_data">I tassi di scambio vengono forniti da Webull. Connettiti alla rete per ottenere le ultime info.</string>
@@ -209,6 +213,7 @@
     <string name="error_fomrat">Errore formato</string>
     <string name="evening">PM</string>
     <string name="exit">Esci</string>
+    <string name="expand_button_title">Avanzate</string>
     <string name="extra_deduction_instruction">Dettagli detrazioni</string>
     <string name="extra_deduction_tips">Tocca il tasto nell\'angolo alto dello schermo per vedere i dettagli delle detrazioni.</string>
     <string name="extra_deduction_title">Detrazioni aggiuntive</string>
@@ -292,6 +297,7 @@
     <string name="item_page_title_investment">Calcola investimento</string>
     <string name="item_title_aa_payment">Dividi il conto</string>
     <string name="item_title_age">Età</string>
+    <string name="item_title_area_conversion">Area</string>
     <string name="item_title_calculator">Calcolatrice</string>
     <string name="item_title_currency">Valuta</string>
     <string name="item_title_data_conversion">Dati</string>
@@ -313,6 +319,7 @@
     <string name="item_title_time_conversion">Ora</string>
     <string name="item_title_tip">Mancia</string>
     <string name="item_title_vel_conversion">Velocità</string>
+    <string name="item_title_volume_conversion">Volume</string>
     <string name="item_title_weight_conversion">Peso</string>
     <string name="l_name_discount">Sconto (%s di sconto)</string>
     <string name="label_about">Informazioni</string>
@@ -324,8 +331,10 @@
     <string name="label_from_date">Da</string>
     <string name="label_history">Cronologia</string>
     <string name="label_interest">Interessi (percentuale)</string>
+    <string name="label_investment_disclaimer">Utilizziamo un periodo di tre mesi per i calcoli ricorrenti</string>
     <string name="label_investment_duration">Durata</string>
     <string name="label_loan_tenure">Durata del prestito</string>
+    <string name="label_monthly_investment">Investimento mensile</string>
     <string name="label_months">Mesi</string>
     <string name="label_no_history">Nessun oggetto</string>
     <string name="label_powered_by">Fornito da Calcolatrice Mi</string>
@@ -377,6 +386,28 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
     <string name="menuDesc">menù</string>
     <string name="midnight">AM</string>
     <string name="minusDesc">meno</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
+    <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Seleziona elementi</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Altro</string>
+    <string name="miuix_appcompat_cancel_description">Annulla</string>
+    <string name="miuix_appcompat_confirm_description">Conferma</string>
+    <string name="miuix_appcompat_delete_description">Elimina</string>
+    <string name="miuix_appcompat_deselect_all">Deseleziona</string>
+    <string name="miuix_appcompat_deselect_all_description">Deseleziona tutto</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Annulla</string>
+    <string name="miuix_appcompat_search_input_description">Cerca</string>
+    <string name="miuix_appcompat_select_all">Seleziona tutto</string>
+    <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
+    <string name="miuix_appcompat_select_item">Seleziona elementi</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira giù per aggiornare</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Lascia per aggiornare</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"È tutto per ora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"È tutto per ora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare gli elementi"</string>
     <string name="monday">Lunedì</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
@@ -473,6 +504,7 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
     <string name="night">PM</string>
     <string name="none">Nessuno</string>
     <string name="noon">PM</string>
+    <string name="not_set">Non impostato</string>
     <string name="not_supported_due_to_language">Questa funzionalitá è disponibile solo per la lingua Cinese</string>
     <string name="ok">OK</string>
     <string name="percentDesc">percentuale</string>
@@ -486,11 +518,16 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
     <string name="preference_check_update_summary_current_version">Aggiornamento attuale: %s</string>
     <string name="preference_check_update_summary_new_version">Aggiornamento disponibile: %s</string>
     <string name="preference_check_update_title">Ricerca aggiornamenti</string>
+    <string name="preference_copied">\"%1$s\"copiato negli appunti.</string>
     <string name="preference_feedback_title">Domande frequenti</string>
     <string name="preference_follow_qq_group">Gruppo QQ:523274279</string>
     <string name="preference_follow_us">Seguici</string>
     <string name="preference_follow_web_summary">www.miui.it</string>
     <string name="preference_follow_web_title">Sito ufficiale</string>
+    <string name="preference_follow_wechat_summary">MIUI</string>
+    <string name="preference_follow_wechat_title">WeChat</string>
+    <string name="preference_follow_weibo_summary">\@MIUI</string>
+    <string name="preference_follow_weibo_title">Sina Weibo</string>
     <string name="preference_help">Aiuto e segnalazione bug</string>
     <string name="preference_other">Altro</string>
     <string name="preference_privacy_title">Informativa sulla Privacy</string>
@@ -502,6 +539,7 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
     <string name="preference_use_voice_summary">Attiva per utilizzare l\'output vocale durante i calcoli</string>
     <string name="preference_use_voice_title">Output vocale</string>
     <string name="preference_user_feedback_title">Segnalazione</string>
+    <string name="privacy_dialog_title">Privacy</string>
     <string name="privacy_policy">Informativa sulla Privacy</string>
     <string name="privacy_revoke_error">"Impossibile ritirare. Riprova."</string>
     <string name="privacy_revoke_progress">Ritiro…</string>
@@ -515,6 +553,7 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
     <string name="saturday">Sabato</string>
     <string name="saturday_short">Sab</string>
     <string name="saturday_shortest">Sab</string>
+    <string name="scannerDesc">Scanner</string>
     <string name="scanner_had_been_uninstalled">Scanner non installato</string>
     <string name="search_menu_title">Cerca</string>
     <string name="secondFunction">2°</string>
@@ -661,6 +700,7 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
     <string name="thursday">Giovedì</string>
     <string name="thursday_short">Gio</string>
     <string name="thursday_shortest">Gio</string>
+    <string name="time_picker_dialog_title">Imposta ora</string>
     <string name="title_bar">Conversione lunghezza</string>
     <string name="today">Oggi</string>
     <string name="tomorrow">domani</string>
@@ -900,6 +940,7 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
     <string name="wednesday_shortest">Mer</string>
     <string name="weight_prompt">Peso</string>
     <string name="wf_word_figure">Personaggi finanziari</string>
+    <string name="wife">Moglie</string>
     <string name="withdraw_network_error">Impossibile collegarsi alla rete. Controlla le impostazioni e riprova.</string>
     <string name="word_figure_big_unit_wan">"Decine di migliaia "</string>
     <string name="word_figure_big_unit_yi">"Miliardi "</string>
@@ -919,6 +960,10 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
     <string name="word_figure_unit_qian">qian</string>
     <string name="word_figure_unit_shi">shi</string>
     <string name="word_figure_zheng">Totale</string>
+    <string name="xiaomi_calculator_delete_description">"Calcolatrice è un'app di sistema. Non potrai utilizzare più convertitori e funzionalità aggiuntive dopo aver disinstallato l'app."</string>
+    <string name="xiaomi_calculator_delete_title">Disinstallare Calcolatrice?</string>
+    <string name="xiaomi_calculator_remove_icon_description">"Calcolatrice è un'app di sistema. Non potrai utilizzare più convertitori e funzionalità aggiuntive dopo aver rimosso il collegamento dalla schermata home."</string>
+    <string name="xiaomi_calculator_remove_icon_title">Rimuovere \"Calcolatrice\" dalla schermata Home?</string>
     <string name="xiaomi_connect_download_manager_fail">"Connessione a Download Manager fallita, controlla lo stato del Download Manager in Gestione Applicazioni."</string>
     <string name="xiaomi_external_storage_unavailable">"Archivio non disponibile, verifica la scheda SD."</string>
     <string name="xiaomi_update_dialog_message">"Presentazione versione %1$s
