@@ -161,6 +161,7 @@
     <string name="city_exceeded_warning">"Puoi aggiungere fino a 10 città"</string>
     <string name="clear_net_mock_success">Pulizia simulazione rete completata</string>
     <string name="clearable_edittext_clear_description">Cancella</string>
+    <string name="close">Chiudi</string>
     <string name="common_google_play_services_enable_button">Attiva</string>
     <string name="common_google_play_services_enable_text">"%1$s non funzionerà se non attiverai i servizi di Google Play."</string>
     <string name="common_google_play_services_enable_title">Attiva i servizi di Google Play</string>
@@ -246,6 +247,7 @@
     <string name="exo_download_removing">Rimozione download</string>
     <string name="exo_track_selection_none">Nessuno</string>
     <string name="exo_track_selection_title_text">Testo</string>
+    <string name="exo_track_stereo">Stereo</string>
     <string name="exo_track_surround">Suono surround</string>
     <string name="exo_track_surround_5_point_1">Surround 5.1</string>
     <string name="exo_track_surround_7_point_1">Surround 7.1</string>
@@ -350,7 +352,7 @@
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"E' tutto per ora"</string>
