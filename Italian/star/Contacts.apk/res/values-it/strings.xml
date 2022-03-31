@@ -843,7 +843,7 @@ Motivo: \"%s\""</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"E' tutto per ora"</string>
@@ -901,6 +901,10 @@ Motivo: \"%s\""</string>
     <string name="name_phonetic_middle">Secondo nome fonetico</string>
     <string name="name_prefix">Prefisso nome</string>
     <string name="name_suffix">Suffisso nome</string>
+    <string name="new_saf_permission_dialog_content">"I permessi dei contatti sono stati aggiornati. Consenti a Contatti di accedere alla registrazione delle chiamate.
+
+Come concedere l'autorizzazione
+Tocca \"%1$s\", quindi seleziona \"%2$s\"."</string>
     <string name="next">Successivo</string>
     <string name="next_birthday">Prossimo compleanno: %s</string>
     <string name="nfc_vcard_file_name">Contatto via NFC</string>
