@@ -147,6 +147,7 @@
     <string name="clear_and_bright_tradition">Qingming Festival</string>
     <string name="clear_net_mock_success">Pulizia simulazione rete completata</string>
     <string name="click_to_share">Tocca per condividere</string>
+    <string name="close">Chiudi</string>
     <string name="close_alarm">Disattiva</string>
     <string name="cold_dews">Giornata della rugiada fredda</string>
     <string name="cold_dews_tradition">Giornata della rugiada fredda</string>
@@ -456,6 +457,12 @@
     <string name="mesens_card_title_tomorrow_begin">Le mestruazioni potrebbero iniziare domani</string>
     <string name="missing_name">(Nessun nome)</string>
     <string name="missing_required_permission">Hai disattivato un permesso richiesto.</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Lascia per aggiornare</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"È tutto per ora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"È tutto per ora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
     <string name="modify_all">Cambia tutti gli eventi in serie.</string>
     <string name="modify_all_following">Cambia questo e tutti gli eventi futuri.</string>
     <string name="modify_end_date">Modifica data di fine</string>
@@ -503,6 +510,7 @@
     <string name="movie_card_title">Film</string>
     <string name="movie_cast">Attore:</string>
     <string name="movie_state_upcoming">Prossimamente</string>
+    <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
     <string name="name_title_menstruation_today_end">Le mestruazioni dovrebbero terminare oggi</string>
     <string name="national_father_day">Festa del Papà</string>
     <string name="national_father_day_tradition">Festa del Papà</string>
@@ -531,6 +539,7 @@ Controlla le impostazioni di rete e riprova."</string>
     <string name="no_visiable_calendar_title">Aggiungi account</string>
     <string name="none">Nessuno</string>
     <string name="not_more_than_three_weekday">Puoi selezionare fino a 3 giorni</string>
+    <string name="not_set">Non impostato</string>
     <string name="notes_hint">Tocca per aggiungere un\'attività</string>
     <string name="notes_reminders_channel">Promemoria note</string>
     <string name="notes_settings_summary">Aggiungi le tue attività giornaliere e note nel calendario</string>
@@ -567,6 +576,7 @@ Controlla le impostazioni di rete e riprova."</string>
     <string name="pref_title_alarm_remind">Promemoria sveglia</string>
     <string name="pref_title_no_remind">Nessun avviso</string>
     <string name="pref_title_notification_remind">Promemoria di notifica</string>
+    <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="preferences_alerts_ringtone_title">Suono</string>
     <string name="preferences_alerts_vibrateWhen_title">Vibrazione</string>
     <string name="preferences_alerts_vibrate_title">Vibrazione e suoneria</string>
