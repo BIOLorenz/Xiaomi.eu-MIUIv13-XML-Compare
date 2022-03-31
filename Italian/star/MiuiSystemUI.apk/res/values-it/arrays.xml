@@ -355,6 +355,19 @@
         <item>wifi</item>
         <item>demo_wifi</item>
     </string-array>
+    <string-array name="config_xmsfNotificationChannel">
+        <item>84</item>
+        <item>61</item>
+        <item>72</item>
+        <item>213</item>
+        <item>102</item>
+        <item>233</item>
+        <item>54</item>
+        <item>96</item>
+        <item>VoIP</item>
+        <item>Reminder</item>
+        <item>FloatAndKeyguard</item>
+    </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Spenta</item>
         <item>Mostra aree sovradisegnate</item>
