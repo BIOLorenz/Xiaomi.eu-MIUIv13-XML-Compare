@@ -176,6 +176,10 @@
         <item quantity="one">Settimana %d</item>
         <item quantity="other">Settimane %d</item>
     </plurals>
+    <plurals name="widget_countdown_day">
+        <item quantity="other">%1$s giorni</item>
+        <item quantity="one">%1$s giorno</item>
+    </plurals>
     <plurals name="work_days">
         <item quantity="other">%d giorni lavorativi</item>
         <item quantity="one">%d giorno lavorativo</item>
