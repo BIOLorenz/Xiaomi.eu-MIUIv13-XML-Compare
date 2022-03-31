@@ -535,6 +535,7 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
     <string name="apn_name">Nome</string>
     <string name="apn_new">Nuovo punto d\'accesso</string>
     <string name="apn_not_set">Non impostato</string>
+    <string name="apn_not_set_for_mvno">Non impostato</string>
     <string name="apn_ppp_number">Numero di telefono APN PPP</string>
     <string name="apn_protocol">Protocollo APN</string>
     <string name="apn_roaming_protocol">Protocollo roaming APN</string>
@@ -619,6 +620,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="app_usage_cycle">Ciclo di utilizzo dati dell\'app</string>
     <string name="app_usage_preference">Preferenze sui dati di utilizzo delle app</string>
     <string name="app_version">Versione</string>
+    <string name="app_wifi">Wi-Fi</string>
     <string name="application_data">Applicazioni</string>
     <string name="application_forbid_auto_startup">Impedisci a %s di avviarsi in background</string>
     <string name="application_info_label">Info app</string>
@@ -951,6 +953,7 @@ I backup sono archiviati in Xiaomi Cloud e possono essere accessibili in modalit
     <string name="battery_stats_phone_signal_label">Segnale rete mobile</string>
     <string name="battery_stats_screen_on_label">Schermo attivo</string>
     <string name="battery_stats_wake_lock_label">Sveglio</string>
+    <string name="battery_stats_wifi_running_label">Wi-Fi</string>
     <string name="battery_status_title">Stato batteria</string>
     <string name="battery_sugg_apps_gps">Seleziona modalità a basso consumo</string>
     <string name="battery_sugg_apps_info">Interrompi o disinstalla l\'applicazione</string>
@@ -1437,6 +1440,7 @@ Questa funzione può essere disattivata in [Settings]</string>
     <string name="bt_ldac_dialog_title">Il dispositivo attuale collegato per impostazione predefinita, che supporta la funzionalità LDAC:</string>
     <string name="bt_ldac_open_dialog_summary">LDAC fornisce un\'esperienza audio di alta qualità ma a discapito del consumo energetico. La riproduzione potrebbe non verificarsi a causa delle limitazioni dell\'hardware Bluetooth</string>
     <string name="bt_ldac_open_dialog_title">Sei sicuro di voler attivare la funzionalità LDAC?</string>
+    <string name="bt_ldac_pre_title">LDAC</string>
     <string name="bt_ldac_property">Proprietà</string>
     <string name="bt_leaudio_open_dialog_summary">"Non sarai in grado di collegare più dispositivi alle cuffie quando LC3 è attivo. Altri dispositivi connessi saranno disconnessi se attivi questa funzionalità. Attivare comunque LC3?"</string>
     <string name="bt_leaudio_open_dialog_title">Attenzione</string>
@@ -2221,6 +2225,7 @@ avviso</string>
     <string name="data_usage_tab_3g">2G/3G</string>
     <string name="data_usage_tab_ethernet">LAN</string>
     <string name="data_usage_tab_mobile">Cellulare</string>
+    <string name="data_usage_tab_wifi">Wi-Fi</string>
     <string name="data_usage_template">%1$s usati tra %2$s</string>
     <string name="data_usage_title">Dati primari</string>
     <string name="data_usage_total_during_range">%2$s: utilizzati circa %1$s.</string>
@@ -3053,6 +3058,7 @@ Per maggiori dettagli contatta l'amministratore."</string>
     <string name="firewall_set_bg_firewall_default_dialog_summary">"Se si limita la connessione in background, le nuove app non saranno in grado di connettersi ad Internet in background dopo l'installazione. Potrebbero non essere in grado di ricevere messaggi o scaricare contenuti dopo questa operazione. Limitare comunque?"</string>
     <string name="firewall_set_bg_firewall_default_dialog_title">Limita connessione in background per le nuove app</string>
     <string name="firewall_temp_rule_reason">%2$s limitazioni connessione Internet per %1$s</string>
+    <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">"L'app installata non sarà in grado di connettersi a internet utilizzando il Wi-Fi quando questa opzione è spenta."</string>
     <string name="firmware_version">Versione di Android</string>
     <string name="flash_drive_backup_disable">Prima connetti l\'unità USB</string>
@@ -3230,6 +3236,7 @@ Quando si accende il backup automatico, i dati del dispositivo e dell'app vengon
     <string name="fullbackup_erase_dialog_message">Interrompere il backup dei dati del dispositivo (come password Wi‑Fi e cronologia chiamate) e dei dati delle app (quali impostazioni e file memorizzati nelle app), oltre a cancellare tutte le copie sui server remoti?</string>
     <string name="gadget_picker_title">Scegli gadget</string>
     <string name="gadget_toggle_wifi">Aggiornamento impostazioni Wi-Fi</string>
+    <string name="gadget_wifi">Wi-Fi</string>
     <string name="gallery_privacy_password_role_instruction">Le tue foto private verranno archiviate qui.</string>
     <string name="game_booster">Gioco;Giochi;Turbo;Gaming;Modalità Gioco</string>
     <string name="game_booster_title">Turbo videogiochi</string>
@@ -3283,6 +3290,7 @@ Quando si accende il backup automatico, i dati del dispositivo e dell'app vengon
     <string name="graphics_driver_dashboard_summary">Modifica impostazioni driver grafici</string>
     <string name="graphics_driver_dashboard_title">Modifica impostazioni driver grafici</string>
     <string name="graphics_driver_footer_text">Quando ci sono più driver grafici, è possibile scegliere per utilizzare il driver grafico aggiornato per le applicazioni installate sul dispositivo.</string>
+    <string name="group_settings">Gruppo</string>
     <string name="gsm_to_wifi_connect_type_title">Da GSM a Wi-Fi</string>
     <string name="gsm_umts_network_preferences_dialogtitle">Modalità Rete</string>
     <string name="gsm_umts_network_preferences_title">Modalità Rete</string>
@@ -3738,6 +3746,7 @@ Apri Xiaomi Cloud e ripristina gli elementi da lì."</string>
     <string name="keywords_lock_screen_notif">notifiche sulla schermata di blocco, notifiche</string>
     <string name="keywords_lockscreen">PIN password sequenza scorrimento</string>
     <string name="keywords_lockscreen_bypass">Schermata di blocco, Schermata blocco, Salta, Ignora</string>
+    <string name="keywords_media_controls">Media</string>
     <string name="keywords_model_and_hardware">numero di serie, versione hardware</string>
     <string name="keywords_more_default_sms_app">SMS</string>
     <string name="keywords_more_mobile_networks">operatore cellulare wireless</string>
@@ -4233,6 +4242,8 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
     <string name="max_fingerprint_reached_toast">Puoi aggiungere fino a 5 impronte digitali</string>
     <string name="maximum_memory_use">Massimo memoria utilizzata</string>
     <string name="media_button">Pulsante multimediale</string>
+    <string name="media_category">Media</string>
+    <string name="media_controls_title">Media</string>
     <string name="media_feedback_enable_title">Vibra a ritmo</string>
     <string name="media_out_summary_ongoing_call_state">Non disponibile durante le chiamate</string>
     <string name="media_output_default_summary">Questo dispositivo</string>
@@ -4253,7 +4264,9 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
     <string name="media_transfer_this_device_name">Questo dispositivo</string>
     <string name="media_transfer_wired_device_name">Dispositivo audio cablato</string>
     <string name="media_transfer_wired_usb_device_name">Cuffie cablate</string>
+    <string name="media_volume_option_title">Media</string>
     <string name="media_volume_summary">Imposta il volume di musica e video</string>
+    <string name="media_volume_title">Media</string>
     <string name="megabyte_per_second">M/s</string>
     <string name="meid_multi_sim">MEID (slot sim %1$d)</string>
     <string name="mem_details_title">Dettagli memoria</string>
@@ -4273,6 +4286,7 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
     <string name="memory_maximum_usage">Massimo utilizzo</string>
     <string name="memory_media_cache_usage">Dati nella cache</string>
     <string name="memory_media_misc_usage">Vari</string>
+    <string name="memory_media_usage">Media</string>
     <string name="memory_music_usage">Audio (musica, suonerie, podcast…)</string>
     <string name="memory_performance">Prestazioni</string>
     <string name="memory_rightvalue">Totale: %s</string>
@@ -4404,6 +4418,7 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
     <string name="miui_accessibility_asr_summary">Trascrivi l\'audio e salva il testo</string>
     <string name="miui_allow_alarm">Sveglie</string>
     <string name="miui_allow_light">LED Notifica</string>
+    <string name="miui_allow_music">Media</string>
     <string name="miui_allow_vibrate">Vibra</string>
     <string name="miui_data_usage_menu_metered">Hotspot portatile</string>
     <string name="miui_experience_optimization">Attiva ottimizzazione MIUI</string>
@@ -4508,7 +4523,7 @@ Continua ad accedere alle impostazioni aggiuntive."</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"E' tutto per ora"</string>
@@ -4645,6 +4660,7 @@ Passare a %1$s non annullerà il servizio %2$s."</string>
     <string name="mr_controller_stop">Interrompi</string>
     <string name="mr_controller_stop_casting">Ferma proiezione</string>
     <string name="mr_controller_volume_slider">Barra del volume</string>
+    <string name="mr_dialog_default_group_name">Gruppo</string>
     <string name="mr_dialog_groupable_header">Aggiungi dispositivo</string>
     <string name="mr_dialog_transferable_header">Riproduci in un gruppo</string>
     <string name="mr_system_route_name">Sistema</string>
@@ -4919,6 +4935,7 @@ ed esegui il software.</string>
     <string name="normal_smartcover_title">Copertura frontale opaca</string>
     <string name="not_allowed">La tua SIM non consente una connessione a questa rete.</string>
     <string name="not_battery_optimizing">Ottimizzazione batteria non utilizzata</string>
+    <string name="not_default_data_content_description">Non impostato per usare i dati</string>
     <string name="not_enabled">Spenta</string>
     <string name="not_installed">Non installata</string>
     <string name="not_set">Non impostato</string>
@@ -5366,6 +5383,7 @@ Leggi e accetta %s prima di utilizzare questo servizio."</string>
     <string name="power_usage_summary">Consumo batteria</string>
     <string name="power_usage_summary_title">Batteria e prestazioni</string>
     <string name="power_usage_summary_title_new">Batteria</string>
+    <string name="power_wifi">Wi-Fi</string>
     <string name="pre_installed_application">App pre-installate</string>
     <string name="pref_bg_network_title">Connessione in background</string>
     <string name="pref_button_light">Luce tasti</string>
@@ -5734,6 +5752,7 @@ Leggi e accetta %s prima di utilizzare questo servizio."</string>
     <string name="reset_network_final_desc">"Ripristinare le impostazioni di rete? Quest'azione è irreversibile!"</string>
     <string name="reset_network_final_desc_esim">Ripristinare tutte le impostazioni di rete e cancellare le SIM scaricate? Non è possibile annullare questa azione.</string>
     <string name="reset_network_title">Reimposta Wi-Fi, reti mobili e Bluetooth</string>
+    <string name="reset_network_wifi">Wi-Fi</string>
     <string name="reset_remove_data_hint">Tutti gli elementi elencati sopra verranno cancellati in modo permanente. Eseguire il backup di tutti gli elementi importanti sul computer o su Xiaomi Cloud prima di continuare.</string>
     <string name="reset_second_space_passwd">Reimpostazione password Secondo Spazio</string>
     <string name="reset_second_space_passwd_cancel">Annulla</string>
@@ -7143,6 +7162,7 @@ Prova ad utilizzare una ^3 più veloce, o usa questa ^4 come memoria portatile"<
 L\'approccio di Google alla sincronizzazione di dati per consentirti l\'accesso ai tuoi contatti, appuntamenti e altro ancora, ovunque tu sia.</string>
     <string name="sync_settings">Sincronizzazione</string>
     <string name="sync_success">Sincronizzazione riuscita</string>
+    <string name="sync_wifi_label">Wi-Fi</string>
     <string name="sync_wifi_only">Solo Wi-Fi</string>
     <string name="system">Sistema</string>
     <string name="system_alert_window_access_title">Visualizza sopra altre app</string>
@@ -8054,6 +8074,7 @@ Controlla la politica sulla privacy del tuo fornitore di servizi."</string>
     <string name="whetstone_level_reboot_OK">Riavvia adesso</string>
     <string name="whetstone_level_title">Ottimizzazione memoria di sistema</string>
     <string name="widget_picker_title">Scegli widget</string>
+    <string name="wifi">Wi-Fi</string>
     <string name="wifi_access_points">Reti Wi-Fi</string>
     <string name="wifi_add_app_network_save_failed_summary">Impossibile salvare. Riprova.</string>
     <string name="wifi_add_app_networks_saved_summary">Reti salvate</string>
@@ -8236,6 +8257,7 @@ Controlla la politica sulla privacy del tuo fornitore di servizi."</string>
     <string name="wifi_eap_sim_simcard">Scegli la SIM</string>
     <string name="wifi_eap_user_cert">Certificato utente</string>
     <string name="wifi_empty_list_user_restricted">"Non disponi dell'autorizzazione per cambiare la rete Wi-Fi."</string>
+    <string name="wifi_enable">Wi-Fi</string>
     <string name="wifi_enable_watchdog_service_summary">Evita connessioni di scarsa qualità</string>
     <string name="wifi_enhanced_mac_randomization">Casualizzazione MAC potenziata da Wi-Fi</string>
     <string name="wifi_enhanced_mac_randomization_summary">Quando questa modalità è abilitata, l\'indirizzo MAC di questo dispositivo può cambiare ogni volta che si connette a una rete con MAC Casuale abilitato.</string>
@@ -8366,6 +8388,7 @@ L'impostazione della rete come nascosta non cambierà le impostazioni del router
     <string name="wifi_privacy_settings_ephemeral_summary">Indirizzo MAC casuale</string>
     <string name="wifi_protection_on">Attivata</string>
     <string name="wifi_quick_toggle_summary">Attiva il Wi-Fi</string>
+    <string name="wifi_quick_toggle_title">Wi-Fi</string>
     <string name="wifi_remembered">Salvato</string>
     <string name="wifi_remembered_disabled_auto_connect">"Salvato. Auto-connessione disattivata."</string>
     <string name="wifi_sap_no_channel_error">Banda 5GHz non disponibile in questa nazione</string>
@@ -8401,6 +8424,7 @@ Consentire questo per tutte le applicazioni che vogliono scansionare?"</string>
     <string name="wifi_setting_frequency_band_summary">Specifica la frequenza in cui operare</string>
     <string name="wifi_setting_on_during_sleep_title">Wi-Fi attivo durante la sospensione</string>
     <string name="wifi_setting_sleep_policy_error">Si è verificato un problema durante la modifica dell\'impostazione</string>
+    <string name="wifi_settings">Wi-Fi</string>
     <string name="wifi_settings_category">Impostazioni Wi-Fi</string>
     <string name="wifi_settings_scanning_required_enabled">Scansione Wi-Fi attivata</string>
     <string name="wifi_settings_scanning_required_info">La scansione Wi-Fi consente ad app e servizi di cercare reti Wi-Fi in qualsiasi momento, anche quando il Wi-Fi è disattivato. Questo può essere utilizzato, ad esempio, per migliorare le caratteristiche ed i servizi basati sulla posizione.</string>
@@ -8408,6 +8432,7 @@ Consentire questo per tutte le applicazioni che vogliono scansionare?"</string>
     <string name="wifi_settings_scanning_required_title">Attivare la scansione Wi-Fi?</string>
     <string name="wifi_settings_scanning_required_turn_on">Attiva</string>
     <string name="wifi_settings_summary">Configura e gestisci punti di accesso wireless</string>
+    <string name="wifi_settings_title">Wi-Fi</string>
     <string name="wifi_setup_cancel">Annulla</string>
     <string name="wifi_setup_detail">Dettagli rete</string>
     <string name="wifi_setup_title_connected_network">Connesso alla rete Wi-Fi %s</string>
@@ -8531,6 +8556,7 @@ Sembra che l'archiviazione delle credenziali non sia stato attivato."</string>
     <string name="wifi_wps_available_first_item">WPS disponibile</string>
     <string name="wifi_wps_available_second_item">" (WPS disponibile)"</string>
     <string name="wifi_wps_onstart_pbc">Premi il pulsante Wi-Fi Protected Setup del router. Il pulsante potrebbe essere denominato \"WPS\" o contenere questo simbolo:</string>
+    <string name="wifitrackerlib_wifi_remembered">Salvato</string>
     <string name="window_animation_scale_title">Scala animazioni finestra</string>
     <string name="winscope_trace_quick_settings_title">Traccia Winscope</string>
     <string name="wireless_connected">Connesso</string>
@@ -8733,6 +8759,8 @@ Sembra che l'archiviazione delle credenziali non sia stato attivato."</string>
     <string name="zen_mode_important_category">Impostazioni</string>
     <string name="zen_mode_lockscreen">Quando bloccato</string>
     <string name="zen_mode_media">Media</string>
+    <string name="zen_mode_media_list">Media</string>
+    <string name="zen_mode_media_list_first">Media</string>
     <string name="zen_mode_media_summary">Suoni da video, giochi e altri media</string>
     <string name="zen_mode_messages">SMS</string>
     <string name="zen_mode_messages_footer">Per assicurarti che la suoneria dei messaggi sia attiva, controlla se sul dispositivo è impostata la suoneria, la vibrazione o la modalità silenziosa.</string>
