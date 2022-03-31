@@ -144,6 +144,7 @@
     <string name="album_rubbish_clear_all_item_description">Svuota il cestino</string>
     <string name="album_rubbish_page_title">Cestino</string>
     <string name="album_rubbish_tip_title">Possibile album duplicato</string>
+    <string name="album_scanner">Scanner</string>
     <string name="album_screen_recorder">Registrazione Schermo</string>
     <string name="album_screenshot_name">Screenshot</string>
     <string name="album_share_cant_move_to_rubbish_tip">"Impossibile spostare gli album condivisi nel cestino"</string>
@@ -1301,7 +1302,7 @@ per personalizzare la Galleria"</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"E' tutto per ora"</string>
