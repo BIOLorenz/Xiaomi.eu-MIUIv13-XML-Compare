@@ -356,10 +356,17 @@
     <string name="local_backup_password_toast_success">Imposta nuova password di backup</string>
     <string name="local_backup_password_toast_validation_failure">Impostazione nuova password per backup locali fallita</string>
     <string name="managed_user_title">Tutte le app attive</string>
+    <string name="media_category">Media</string>
     <string name="media_transfer_this_device_name">Questo dispositivo</string>
     <string name="media_transfer_wired_device_name">Dispositivo audio cablato</string>
     <string name="media_transfer_wired_usb_device_name">Cuffie cablate</string>
     <string name="missedcall_notification_public_version_title">Telefono</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Lascia per aggiornare</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"È tutto per ora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"È tutto per ora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
     <string name="mobile_data_always_on">Dati cellulare sempre attivi</string>
     <string name="mobile_data_always_on_summary">Mantieni i dati mobili attivi, anche quando il Wi-Fi é attivo (per un cambio di rete rapido).</string>
     <string name="mock_location_app">Seleziona app per false localizzazioni</string>
@@ -385,6 +392,7 @@
     <string name="mr_controller_stop">Interrompi</string>
     <string name="mr_controller_stop_casting">Ferma proiezione</string>
     <string name="mr_controller_volume_slider">Barra del volume</string>
+    <string name="mr_dialog_default_group_name">Gruppo</string>
     <string name="mr_dialog_groupable_header">Aggiungi dispositivo</string>
     <string name="mr_dialog_transferable_header">Riproduci in un gruppo</string>
     <string name="mr_system_route_name">Sistema</string>
@@ -393,6 +401,7 @@
     <string name="no_vm_number">Numero della segreteria assente</string>
     <string name="no_vm_number_msg">Nella tua SIM non è presente il numero della segreteria telefonica.</string>
     <string name="non_primary_user">Soltanto il proprietario del dispositivo può visualizzare e gestire i numeri bloccati.</string>
+    <string name="not_default_data_content_description">Non impostato per usare i dati</string>
     <string name="not_set">Non impostato</string>
     <string name="notification_AllMissedCallTitle">Tutte le chiamate perse</string>
     <string name="notification_audioProcessing_body">%s ha effettuato una chiamata in background. Questa app può accedere e riprodurre audio durante la chiamata.</string>
@@ -706,6 +715,7 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="wifi_wapi_fail_to_init">"Impossibile aprire i certificati WAPI L'archivio credenziali potrebbe non essere attivato"</string>
     <string name="wifi_wapi_psk_type">Tip di password</string>
     <string name="wifi_wapi_user_certificate">Certificato utente</string>
+    <string name="wifitrackerlib_wifi_remembered">Salvato</string>
     <string name="window_animation_scale_title">Scala animazioni finestra</string>
     <string name="zen_alarm_warning">"Non sentirai la tua prossima sveglia %1$s"</string>
     <string name="zen_alarm_warning_indef">"Non sentirai la tua prossima sveglia %1$s a meno che non venga disattivata prima di allora"</string>
