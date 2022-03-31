@@ -112,6 +112,10 @@
         <item quantity="other">%1$s minuti</item>
         <item quantity="one">%1$s minuto</item>
     </plurals>
+    <plurals name="sleep_duration_min_avg">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
+    </plurals>
     <plurals name="snooze_duration_changed_info">
         <item quantity="other">Cambiato intervallo di sospensione a %d minuti</item>
         <item quantity="one">Cambiato intervallo di sospensione a %d minuto</item>
