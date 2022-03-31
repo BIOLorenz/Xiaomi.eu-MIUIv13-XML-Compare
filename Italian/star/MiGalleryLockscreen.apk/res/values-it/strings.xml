@@ -487,7 +487,7 @@ dd/M"</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"E' tutto per ora"</string>
@@ -579,6 +579,7 @@ dd/M"</string>
     <string name="no_phone">Nessun numero di telefono</string>
     <string name="no_pic_data">"Impossibile trovare immagini"</string>
     <string name="noon">Mezzogiorno</string>
+    <string name="not_set">Non impostato</string>
     <string name="ok_enable_network_prov">Accetto</string>
     <string name="ok_enable_network_prov2">Accetto</string>
     <string name="ok_international">Accetto</string>
