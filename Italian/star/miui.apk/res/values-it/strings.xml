@@ -102,6 +102,7 @@
     <string name="com_xiaomi_drivemode">Modalità Auto</string>
     <string name="com_xiaomi_gamecenter">Giochi</string>
     <string name="com_xiaomi_jr">Mi Finanza</string>
+    <string name="com_xiaomi_scanner">Scanner</string>
     <string name="confirm_description">Conferma</string>
     <string name="date_picker_dialog_title">Imposta data</string>
     <string name="date_picker_lunar">Calendario cinese tradizionale</string>
