@@ -44,6 +44,7 @@
     <string name="chinese_month_february">2</string>
     <string name="chinese_month_january">1</string>
     <string name="chinese_month_july">7</string>
+    <string name="close">Chiudi</string>
     <string name="cloud_addr_info">Informazioni cloud</string>
     <string name="cloud_china_addr">Aggiorna dati del server Cinese</string>
     <string name="cloud_international_addr">Aggiorna dati del server Internazionale</string>
@@ -95,7 +96,7 @@ Il Risparmio Batteria tratterà le app importanti in modo selettivo."</string>
     <string name="lasttime_feature_cloud">Funzioni aggiornate:</string>
     <string name="message_i_know">Ok</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"E' tutto per ora"</string>
