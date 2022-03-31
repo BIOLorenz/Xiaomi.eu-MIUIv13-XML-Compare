@@ -4,6 +4,13 @@
     <string name="aod_lock_screen_date_signature">dd/MM</string>
     <string name="aod_lock_screen_date_v">"EEE
 dd/MM"</string>
+    <string name="close">Chiudi</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Lascia per aggiornare</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"È tutto per ora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"È tutto per ora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
     <string name="month_april_short">Apr</string>
     <string name="month_april_shortest">Apr</string>
     <string name="month_august_short">Ago</string>
@@ -16,5 +23,6 @@ dd/MM"</string>
     <string name="month_january_shortest">Gen</string>
     <string name="month_july_short">Lug</string>
     <string name="month_july_shortest">Lug</string>
+    <string name="not_set">Non impostato</string>
     <string name="page_time_format_string">dd/MM/yyyy</string>
 </resources>
