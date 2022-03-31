@@ -98,6 +98,7 @@
     <string name="chinese_symbol_animals_snake">Serpente</string>
     <string name="chinese_symbol_animals_tiger">Tigre</string>
     <string name="clearable_edittext_clear_description">Cancella</string>
+    <string name="close">Chiudi</string>
     <string name="copy">Copia</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="download_failed">"Impossibile scaricare"</string>
@@ -210,7 +211,7 @@ dd/M"</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"E' tutto per ora"</string>
