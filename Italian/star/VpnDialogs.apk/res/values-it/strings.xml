@@ -16,6 +16,7 @@
     <string name="chinese_month_november">11</string>
     <string name="chinese_month_october">10</string>
     <string name="chinese_month_september">9</string>
+    <string name="close">Chiudi</string>
     <string name="configure">Configura</string>
     <string name="data_received">Ricevuti:</string>
     <string name="data_transmitted">Inviati:</string>
@@ -24,6 +25,12 @@
     <string name="dismiss">Rifiuta</string>
     <string name="duration">Durata:</string>
     <string name="legacy_title">VPN connessa</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Lascia per aggiornare</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"È tutto per ora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"È tutto per ora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
     <string name="open_app">Apri app</string>
     <string name="prompt">Richiesta connessione</string>
     <string name="session">Sessione:</string>
