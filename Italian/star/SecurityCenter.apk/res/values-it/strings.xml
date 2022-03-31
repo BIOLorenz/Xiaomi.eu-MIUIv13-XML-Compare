@@ -437,6 +437,7 @@
     <string name="app_manager_mobile_slot2">Dati mobili (SIM 2)</string>
     <string name="app_manager_net_control_title">Utilizzo dati</string>
     <string name="app_manager_net_mobile">Dati Mobili</string>
+    <string name="app_manager_net_wifi">Wi-Fi</string>
     <string name="app_manager_open_show_all_apps_immediate">Mostra tutti i risultati</string>
     <string name="app_manager_perm">Permessi</string>
     <string name="app_manager_permission_dcimcontrol_title">Accesso alla Galleria</string>
@@ -540,6 +541,7 @@
     <string name="app_usage_never">Non utilizzata di recente</string>
     <string name="app_usage_recently">Utilizzata di recente</string>
     <string name="app_version">Versione\u0020</string>
+    <string name="app_wifi">Wi-Fi</string>
     <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Svuota %s dalla cache di WeChat per liberare spazio di archiviazione</string>
     <string name="appcleaner_wechat_notification_garbage_cleanup_title">"Non dimenticare di pulire la cache"</string>
     <string name="application_item_already_permission">Permesso</string>
@@ -684,7 +686,9 @@
     <string name="auto_task_operation_string_etc">, ecc.</string>
     <string name="auto_task_operation_sync">Sincronizza</string>
     <string name="auto_task_operation_vibration">Vibrazione</string>
+    <string name="auto_task_operation_wifi">Wi-Fi</string>
     <string name="auto_task_result_summary_text">Imposta operazioni pianificate per il Risparmio batteria</string>
+    <string name="auto_task_select_address_no_set">Non impostato</string>
     <string name="back_app_name">Torna al Blocco app</string>
     <string name="back_description_securitycenter">Indietro</string>
     <string name="back_modifypassword">Torna alla modifica password</string>
@@ -997,6 +1001,7 @@
     <string name="confirm_upgrade">Opzioni</string>
     <string name="connect_internet_by_mobiledata">Connessione dati</string>
     <string name="connect_internet_by_usbshare">Connessione condivisa tramite USB</string>
+    <string name="connect_internet_by_wifi">Wi-Fi</string>
     <string name="connecting">Connessione…</string>
     <string name="continue_install">Installa</string>
     <string name="continue_set">Continua</string>
@@ -1448,6 +1453,7 @@ terremoti"</string>
     <string name="exo_track_role_supplementary">Supplementare</string>
     <string name="exo_track_selection_none">Nessuno</string>
     <string name="exo_track_selection_title_text">Testo</string>
+    <string name="exo_track_stereo">Stereo</string>
     <string name="exo_track_surround">Suono surround</string>
     <string name="exo_track_surround_5_point_1">Surround 5.1</string>
     <string name="exo_track_surround_7_point_1">Surround 7.1</string>
@@ -1505,6 +1511,7 @@ terremoti"</string>
     <string name="firewall_rule_group_title_roaming">Roaming estero</string>
     <string name="firewall_system_title">Utilizzo dati per app di sistema</string>
     <string name="firewall_temp_rule_reason">%2$s connessione limitata per %1$s​</string>
+    <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">"L'app installata non potrà collegarsi a internet utilizzando la rete Wi-Fi quanto questa funzionalità è disattivata.​"</string>
     <string name="first_aid_activity_title">Risolvi problemi</string>
     <string name="first_aid_card_airplane_button">Disattiva</string>
@@ -1704,6 +1711,7 @@ terremoti"</string>
     <string name="gamebox_type_gesture">Scorri per mostrare</string>
     <string name="gamebox_voicechanger">Cambia voce</string>
     <string name="gamebox_wechat_not_find">Installa WeChat e riprova.</string>
+    <string name="gamebox_wifi">Wi-Fi</string>
     <string name="gamecenter_install_fail">"Impossibile installare"</string>
     <string name="gamecenter_install_sucessfull">App installata</string>
     <string name="gateway_exception_summary">Controlla il tuo router e riprova.</string>
@@ -2327,7 +2335,7 @@ dall'operatore"</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"E' tutto per ora"</string>
@@ -2685,6 +2693,7 @@ dall'operatore"</string>
     <string name="pc_abnormal_scan_reason_use_GPS">Usa troppo spesso servizi di localizzazione</string>
     <string name="pc_abnormal_scan_reason_wake_system">Attiv ail sistema troppo spesso</string>
     <string name="pc_activity_title">Ottimizza batteria</string>
+    <string name="pc_battery_chart_loading">Attendi…</string>
     <string name="pc_battery_detail_curve_reference_now">Adesso</string>
     <string name="pc_battery_detail_device_item_title">Statistiche utilizzo batteria</string>
     <string name="pc_battery_history_battery_detail_menu_item">Dettagli</string>
@@ -3083,6 +3092,7 @@ dall'operatore"</string>
     <string name="power_settings_top">Barra in alto</string>
     <string name="power_superpower_title_systemui_highpower">Tempo rimanente</string>
     <string name="power_superpower_title_systemui_lowpower">Collega l\'alimentatore</string>
+    <string name="power_wifi">Wi-Fi</string>
     <string name="power_wireless_need_update_text">Aggiornamento…</string>
     <string name="power_wireless_update_button_text">Aggiorna</string>
     <string name="power_wireless_update_dialog_button">Ok</string>
@@ -3617,6 +3627,7 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="set_pattern_password_name">Imposta sequenza</string>
     <string name="set_traffic_tips">设置套餐能够帮助您更有效的查看和管理流量的使用，防止超出套餐产生额外的费用。</string>
     <string name="setting">Impostazioni</string>
+    <string name="setting_back_sound_loading_msg">Attendi…</string>
     <string name="setting_online_service">Servizi online</string>
     <string name="setting_privacy_password">Imposta password di protezione privacy</string>
     <string name="setting_wireless_reverse_charging_fg_control_summary">Interrompi la ricarica wireless inversa quando la batteria di questo dispositivo raggiunge il %s</string>
@@ -3736,6 +3747,7 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="sp_settings_check_item_title_sign_exception">Eccezioni firme</string>
     <string name="sp_settings_check_item_title_update">Aggiornamenti di sistema</string>
     <string name="sp_settings_check_item_title_virus_exception">Eccezioni</string>
+    <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
     <string name="sp_settings_exception_count_zero">Nessun elemento</string>
     <string name="sp_settings_group_title_check_item">Elementi multipli</string>
     <string name="sp_settings_info_input_method">Utilizza la tastiera di sistema nelle app di pagamento</string>
@@ -4259,6 +4271,7 @@ La formattazione cancellerà il contenuto esistente sulla ^2. Per evitare di per
     <string name="title_cloud_space_almost_full">Lo spazio Mi Cloud è quasi pieno, gli elementi potrebbero non sincronizzarsi</string>
     <string name="title_cloud_space_full">Archiviazione Mi Cloud piena, impossibile sincronizzare le foto</string>
     <string name="title_cmcc_app_check">"Verifica non completa"</string>
+    <string name="title_condition_wlan">Wi-Fi</string>
     <string name="title_consume_power_rank">Utilizzo batteria</string>
     <string name="title_dark_mode">"Alcuni elementi non sono visualizzati correttamente"</string>
     <string name="title_data_flow">Imposta avviso utilizzo dati</string>
@@ -4302,6 +4315,7 @@ La formattazione cancellerà il contenuto esistente sulla ^2. Per evitare di per
     <string name="title_realname_verify">Verifica ID</string>
     <string name="title_reply">Commenta</string>
     <string name="title_restrict_data_usage">"\"%s non riesce a connettersi ad Internet?"</string>
+    <string name="title_result_wlan">Wi-Fi</string>
     <string name="title_show_notification">Widget pannello notifiche</string>
     <string name="title_system_auto_download">Gli aggiornamenti verranno scaricati automaticamente</string>
     <string name="title_telecom_operator">Utilizza il conteggio del gestore</string>
