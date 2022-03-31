@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="antispam_notification_title">Numero sconosciuto</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Codec LDAC Bluetooth: Qualità di Riproduzione</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Seleziona il codec LDAC Bluetooth:
+Qualità di riproduzione"</string>
+    <string name="close">Chiudi</string>
+    <string name="close_profile">Chiudi</string>
+    <string name="default_preference_summary_domain_address">&lt;Non impostato&gt;</string>
+    <string name="default_preference_summary_password">&lt;Non impostato&gt;</string>
+    <string name="default_preference_summary_username">&lt;Non impostato&gt;</string>
+    <string name="enable_video_calling_dialog_close">Chiudi</string>
     <string name="incall_error_supp_service_unknown">Servizio non supportato</string>
     <string name="kr_emergency_112">Polizia (112)</string>
+    <string name="media_category">Media</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Lascia per aggiornare</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"È tutto per ora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"È tutto per ora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
+    <string name="mr_controller_close_description">Chiudi</string>
+    <string name="mr_dialog_default_group_name">Gruppo</string>
+    <string name="msim_apn_not_set">Non impostato</string>
+    <string name="msim_not_set_summary">Non impostato</string>
+    <string name="msim_setting_no_sim_number">Non impostato</string>
+    <string name="not_default_data_content_description">Non impostato per usare i dati</string>
+    <string name="not_set">Non impostato</string>
     <string name="user_setup_button_setup_later">Non ora</string>
+    <string name="voicemail_number_not_set">&lt;Non impostato&gt;</string>
+    <string name="wifi_remembered">Salvato</string>
+    <string name="wifitrackerlib_wifi_remembered">Salvato</string>
 </resources>
