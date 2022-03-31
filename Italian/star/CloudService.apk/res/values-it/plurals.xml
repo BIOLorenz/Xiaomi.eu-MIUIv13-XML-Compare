@@ -164,4 +164,8 @@
         <item quantity="other">%1$s ore</item>
         <item quantity="one">%1$s ora</item>
     </plurals>
+    <plurals name="time_format_min">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
+    </plurals>
 </resources>
