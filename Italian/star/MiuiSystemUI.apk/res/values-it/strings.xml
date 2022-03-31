@@ -47,6 +47,7 @@
     <string name="accessibility_action_divider_top_70">Sopra 70%</string>
     <string name="accessibility_action_divider_top_full">Schermo intero superiore</string>
     <string name="accessibility_action_pip_resize">Ridimensiona</string>
+    <string name="accessibility_action_pip_stash">Recesso</string>
     <string name="accessibility_airplane_mode">Modalità aereo.</string>
     <string name="accessibility_ambient_display_charging">Ricarica</string>
     <string name="accessibility_back">Indietro</string>
@@ -78,6 +79,7 @@
     <string name="accessibility_control_favorite_position">Preferito, posizione %d</string>
     <string name="accessibility_control_move">Sposta in posizione %d</string>
     <string name="accessibility_control_not_favorite">Preferito rimosso</string>
+    <string name="accessibility_data_connection_wifi">Wi-Fi</string>
     <string name="accessibility_data_one_bar">Dati: una barra.</string>
     <string name="accessibility_data_saver_off">Risparmio dati disattivato</string>
     <string name="accessibility_data_saver_on">Risparmio dati attivato</string>
@@ -113,6 +115,7 @@
     <string name="accessibility_fingerprint_dialog_fingerprint_icon">Icona impronta</string>
     <string name="accessibility_gps_acquiring">GPS acquisito.</string>
     <string name="accessibility_gps_enabled">GPS attivato.</string>
+    <string name="accessibility_home">Home</string>
     <string name="accessibility_ime_switch_button">Cambia pulsante tastiera.</string>
     <string name="accessibility_key">Pulsante di navigazione personalizzato</string>
     <string name="accessibility_keyboard_delete_button">Elimina</string>
@@ -256,6 +259,7 @@
     <string name="accessibility_volume_settings">Impostazioni audio</string>
     <string name="accessibility_vpn_on">VPN attivata.</string>
     <string name="accessibility_waiting_for_fingerprint">Attendi per l\'impronta</string>
+    <string name="accessibility_wallet_button">Portafoglio</string>
     <string name="accessibility_wifi_name">Connesso a %s.</string>
     <string name="accessibility_wifi_off">Il Wi-Fi è spento.</string>
     <string name="accessibility_wifi_one_bar">Wi-Fi una barra.</string>
@@ -674,6 +678,8 @@ Frequenza Campione"</string>
     <string name="controls_media_dismiss_button">Nascondi</string>
     <string name="controls_media_resume">Riprendi</string>
     <string name="controls_media_settings_button">Impostazioni</string>
+    <string name="controls_media_smartspace_rec_title">Riproduci</string>
+    <string name="controls_media_title">Media</string>
     <string name="controls_menu_add">Aggiungi controlli</string>
     <string name="controls_menu_edit">Modifica controlli</string>
     <string name="controls_open_app">Apri app</string>
@@ -701,6 +707,10 @@ Frequenza Campione"</string>
     <string name="daltonizer_mode_protanomaly">Protonomalia (rosso-verde)</string>
     <string name="daltonizer_mode_tritanomaly">Tritanomalia (blu-giallo)</string>
     <string name="daltonizer_type_overridden">Sovrascritto da %1$s</string>
+    <string name="data_connection_edge">EDGE</string>
+    <string name="data_connection_gprs">GPRS</string>
+    <string name="data_connection_hspa">HSPA</string>
+    <string name="data_connection_lte_plus">LTE+</string>
     <string name="data_connection_no_internet">Non connesso ad Internet</string>
     <string name="data_saver">Risparmio dati</string>
     <string name="data_usage_disabled_dialog">"Hai raggiunto il limite di utilizzo dei dati specificato.
@@ -813,6 +823,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
     <string name="eras_bc">DC</string>
     <string name="error_disable_esim_msg">La eSIM non può essere disabilitata a causa di un errore.</string>
     <string name="error_disable_esim_title">Impossibile disattivare eSIM</string>
+    <string name="error_icon_content_description">Errore</string>
     <string name="ethernet_label">LAN</string>
     <string name="evening">Pomeriggio</string>
     <string name="expand_button_title">Avanzate</string>
@@ -927,6 +938,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
     <string name="guest_notification_remove_action">RIMUOVI OSPITE</string>
     <string name="guest_notification_text">Per eliminare app  e dati, rimuovere l\'utente ospite</string>
     <string name="guest_notification_title">Utente Ospite</string>
+    <string name="guest_reset_guest_confirm_button">Resetta</string>
     <string name="guest_wipe_session_dontwipe">Sì, continua</string>
     <string name="guest_wipe_session_message">Vuoi continuare la tua sessione?</string>
     <string name="guest_wipe_session_title">Ben tornato Ospite!</string>
@@ -939,13 +951,20 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
     <string name="gxzw_quick_open_add_note">Aggiungi nota</string>
     <string name="gxzw_quick_open_add_note_sub">Note</string>
     <string name="gxzw_quick_open_alipay_pay">Codice di pagamento</string>
+    <string name="gxzw_quick_open_alipay_pay_sub">Alipay</string>
+    <string name="gxzw_quick_open_alipay_scan">Scanner</string>
+    <string name="gxzw_quick_open_alipay_scan_sub">Alipay</string>
     <string name="gxzw_quick_open_dialer">Tastierino numerico</string>
     <string name="gxzw_quick_open_dialer_sub">Telefono</string>
     <string name="gxzw_quick_open_qr_code">Codice QR</string>
+    <string name="gxzw_quick_open_qr_code_sub">Scanner</string>
     <string name="gxzw_quick_open_search">Cerca</string>
     <string name="gxzw_quick_open_skip_teach">Salta esercitazione</string>
     <string name="gxzw_quick_open_title">Menu collegamenti aperto</string>
     <string name="gxzw_quick_open_wechat_pay">Codice di pagamento</string>
+    <string name="gxzw_quick_open_wechat_pay_sub">WeChat</string>
+    <string name="gxzw_quick_open_wechat_scan">Scanner</string>
+    <string name="gxzw_quick_open_wechat_scan_sub">WeChat</string>
     <string name="gxzw_quick_open_xiaoai_sub">Mi IA</string>
     <string name="gxzw_quick_open_xiaoai_title1">Dì il nome dell\'app che vuoi aprire</string>
     <string name="gxzw_quick_open_xiaoai_title2">Dì il nome della funzione che desideri utilizzare</string>
@@ -1069,6 +1088,7 @@ Utilizza solo l'alimentatore in dotazione."</string>
     <string name="keyboard_key_dpad_up">Su</string>
     <string name="keyboard_key_enter">Invio</string>
     <string name="keyboard_key_forward_del">Elimina</string>
+    <string name="keyboard_key_home">Home</string>
     <string name="keyboard_key_insert">Inserisci</string>
     <string name="keyboard_key_media_fast_forward">Avanza</string>
     <string name="keyboard_key_media_next">Successivo</string>
@@ -1077,6 +1097,7 @@ Utilizza solo l'alimentatore in dotazione."</string>
     <string name="keyboard_key_media_rewind">Riavvolgi</string>
     <string name="keyboard_key_media_stop">Interrompi</string>
     <string name="keyboard_key_move_end">Fine</string>
+    <string name="keyboard_key_move_home">Home</string>
     <string name="keyboard_key_num_lock">Bloc Num</string>
     <string name="keyboard_key_numpad_template">Num %1$s</string>
     <string name="keyboard_key_page_down">Pagina giù</string>
@@ -1085,12 +1106,15 @@ Utilizza solo l'alimentatore in dotazione."</string>
     <string name="keyboard_key_tab">Tocca</string>
     <string name="keyboard_shortcut_group_applications">Applicazioni</string>
     <string name="keyboard_shortcut_group_applications_assist">Assistente</string>
+    <string name="keyboard_shortcut_group_applications_browser">Browser</string>
     <string name="keyboard_shortcut_group_applications_calendar">Calendario</string>
     <string name="keyboard_shortcut_group_applications_contacts">Contatti</string>
     <string name="keyboard_shortcut_group_applications_email">E-mail</string>
     <string name="keyboard_shortcut_group_applications_music">Musica</string>
+    <string name="keyboard_shortcut_group_applications_youtube">YouTube</string>
     <string name="keyboard_shortcut_group_system">Sistema</string>
     <string name="keyboard_shortcut_group_system_back">Indietro</string>
+    <string name="keyboard_shortcut_group_system_home">Home</string>
     <string name="keyboard_shortcut_group_system_notifications">Notifiche</string>
     <string name="keyboard_shortcut_group_system_recents">Recenti</string>
     <string name="keyboard_shortcut_group_system_shortcuts_helper">Scorciatoie tastiera</string>
@@ -1294,6 +1318,10 @@ d MMMM"</string>
     <string name="manage_notifications_history_text">Cronologia</string>
     <string name="manage_notifications_text">Gestisci</string>
     <string name="managed_user_title">Tutte le app attive</string>
+    <string name="material_timepicker_hour">Hour</string>
+    <string name="material_timepicker_minute">Minuti</string>
+    <string name="media_category">Media</string>
+    <string name="media_output_dialog_group">Gruppo</string>
     <string name="media_projection_action_text">Avvia adesso</string>
     <string name="media_projection_dialog_service_text">Il servizio che fornisce questa funzione avrà accesso a tutte le informazioni visibili sullo schermo o riprodotte dal dispositivo durante la registrazione o il lancio. Questo include informazioni come password, dettagli di pagamento, foto, messaggi e audio che si riproduce.</string>
     <string name="media_projection_dialog_service_title">Avviare la registrazione o la proiezione?</string>
@@ -1355,7 +1383,7 @@ dd/MM"</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"E' tutto per ora"</string>
@@ -1428,6 +1456,8 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="monitoring_title_device_owned">Gestione del dispositivo</string>
     <string name="monitoring_title_profile_owned">Monitoraggio profilo</string>
     <string name="month_april">Aprile</string>
+    <string name="month_april_short">Apr</string>
+    <string name="month_april_shortest">Apr</string>
     <string name="month_august">Agosto</string>
     <string name="month_august_short">Ago</string>
     <string name="month_august_shortest">Ago</string>
@@ -1435,6 +1465,8 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="month_december_short">Dic</string>
     <string name="month_december_shortest">Dic</string>
     <string name="month_february">Febbraio</string>
+    <string name="month_february_short">Feb</string>
+    <string name="month_february_shortest">Feb</string>
     <string name="month_january">Gennaio</string>
     <string name="month_january_short">Gen</string>
     <string name="month_january_shortest">Gen</string>
@@ -1445,10 +1477,14 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="month_june_short">Giu</string>
     <string name="month_june_shortest">Giu</string>
     <string name="month_march">Marzo</string>
+    <string name="month_march_short">Mar</string>
+    <string name="month_march_shortest">Mar</string>
     <string name="month_may">Maggio</string>
     <string name="month_may_short">Maggio</string>
     <string name="month_may_shortest">Maggio</string>
     <string name="month_november">Novembre</string>
+    <string name="month_november_short">Nov</string>
+    <string name="month_november_shortest">Nov</string>
     <string name="month_october">Ottobre</string>
     <string name="month_october_short">Ott</string>
     <string name="month_october_shortest">Ott</string>
@@ -1477,6 +1513,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="mr_controller_stop">Interrompi</string>
     <string name="mr_controller_stop_casting">Ferma proiezione</string>
     <string name="mr_controller_volume_slider">Barra del volume</string>
+    <string name="mr_dialog_default_group_name">Gruppo</string>
     <string name="mr_dialog_groupable_header">Aggiungi dispositivo</string>
     <string name="mr_dialog_transferable_header">Riproduci in un gruppo</string>
     <string name="mr_system_route_name">Sistema</string>
@@ -1485,6 +1522,8 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="mtrl_picker_cancel">Annulla</string>
     <string name="mtrl_picker_confirm">Salva</string>
     <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
+    <string name="mtrl_picker_save">Salva</string>
+    <string name="mtrl_picker_text_input_date_hint">Data</string>
     <string name="music_controls_no_title">Nessun titolo</string>
     <string name="nav_bar">Barra di navigazione</string>
     <string name="nav_bar_default">(predefinito)</string>
@@ -1555,6 +1594,8 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="oem_unlock_enable">Sblocco OEM</string>
     <string name="oem_unlock_enable_summary">Permetti lo sblocco del bootloader</string>
     <string name="okay">OK</string>
+    <string name="ongoing_privacy_dialog_enterprise">(lavoro)</string>
+    <string name="ongoing_privacy_dialog_last_separator">" e "</string>
     <string name="open_camera_hint_text">Scorri a sinistra per avviare la Fotocamera</string>
     <string name="open_lock_screen_magazine_hint_text">Scorri a destra per altre opzioni</string>
     <string name="open_remote_center_hint_text">Scorri a destra per avviare Mi Remote</string>
@@ -1570,6 +1611,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="output_none_found">Nessun dispositivo trovato</string>
     <string name="output_none_found_service_off">Nessun dispositivo trovato. Prova ad attivare %1$s</string>
     <string name="output_service_bt_wifi">Bluetooth e Wi-Fi</string>
+    <string name="output_service_wifi">Wi-Fi</string>
     <string name="output_title">Uscita contenuti multimediali</string>
     <string name="overlay_display_devices_title">Simula schermi secondari</string>
     <string name="overview">Applicazioni recenti</string>
@@ -1672,6 +1714,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="qs_control_expand_detail_title">I miei dati</string>
     <string name="qs_control_header_tiles_title">Centro di controllo</string>
     <string name="qs_customize">Consenti personalizzazione a pressione prolungata sulle Impostazioni Rapide</string>
+    <string name="qs_customize_info">Info</string>
     <string name="qs_customize_remove">Rimuovi</string>
     <string name="qs_customize_title">Modifica</string>
     <string name="qs_dnd_keep">Mantieni</string>
@@ -1693,6 +1736,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="quick_settings_bluetooth_detail_empty_text">Nessun dispositivo abbinato disponibile</string>
     <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d dispositivi)</string>
     <string name="quick_settings_bluetooth_off_label">Bluetooth disattivato</string>
+    <string name="quick_settings_bluetooth_secondary_label_audio">Audio</string>
     <string name="quick_settings_bluetooth_secondary_label_battery_level">%s batteria</string>
     <string name="quick_settings_bluetooth_secondary_label_headset">Cuffie</string>
     <string name="quick_settings_bluetooth_secondary_label_hearing_aids">Apparecchio Acustico</string>
@@ -1718,6 +1762,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="quick_settings_cellular_detail_remaining_data">Dati rimanenti</string>
     <string name="quick_settings_cellular_detail_title">Dati Mobili</string>
     <string name="quick_settings_cellular_detail_unable_change">"Non puoi impostarlo durante una chiamata"</string>
+    <string name="quick_settings_close_user_panel">Chiudi</string>
     <string name="quick_settings_color_space_label">Modalità correzione colore</string>
     <string name="quick_settings_connected">Connesso</string>
     <string name="quick_settings_connected_battery_level">Connesso, batteria %1$s</string>
@@ -1783,6 +1828,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="quick_settings_rotation_unlocked_label">Rotazione</string>
     <string name="quick_settings_rotationlock_label">Rotazione disabilitata</string>
     <string name="quick_settings_rssi_emergency_only">Solo chiamate di emergenza</string>
+    <string name="quick_settings_rssi_label">RSSI</string>
     <string name="quick_settings_screen_record_label">Registrazione schermo</string>
     <string name="quick_settings_screen_record_start">Avvia</string>
     <string name="quick_settings_screen_record_stop">Interrompi</string>
@@ -1808,6 +1854,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">Cambio della rete</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Il potenziamento della velocità Wi-Fi a doppia banda deve utilizzare due diverse bande Wi-Fi. Se ti connetti a una rete principale diversa, la connessione ausiliaria andrà persa.</string>
     <string name="quick_settings_wifi_detail_empty_text">Nessuna rete Wi-Fi disponibile</string>
+    <string name="quick_settings_wifi_label">Wi-Fi</string>
     <string name="quick_settings_wifi_no_network">Nessuna rete</string>
     <string name="quick_settings_wifi_not_connected">Non connesso</string>
     <string name="quick_settings_wifi_off_label">Wi-Fi spento</string>
@@ -1886,6 +1933,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="screenrecord_stop_label">Interrompi</string>
     <string name="screenrecord_stop_text">Tocca per fermare</string>
     <string name="screenrecord_taps_label">Mostra tocchi sullo schermo</string>
+    <string name="screenshot_edit_label">Modifica</string>
     <string name="screenshot_failed_title">"Impossibile catturare schermata."</string>
     <string name="screenshot_failed_to_capture_text">"Gli screenshot non sono consentiti dall'app o dalla tua organizzazione"</string>
     <string name="screenshot_failed_to_save_text">"Impossibile salvare schermata a causa di limitato spazio di archiviazione."</string>
@@ -2007,6 +2055,7 @@ d MMM"</string>
     <string name="status_bar_settings_mute_label">Silenzioso</string>
     <string name="status_bar_settings_notifications">Notifiche</string>
     <string name="status_bar_settings_settings_button">Impostazioni</string>
+    <string name="status_bar_settings_wifi_button">Wi-Fi</string>
     <string name="status_bar_use_physical_keyboard">Tastiera fisica</string>
     <string name="status_bar_work">Profilo di lavoro</string>
     <string name="status_unavailable">Non disponibile</string>
@@ -2014,6 +2063,7 @@ d MMM"</string>
     <string name="stream_accessibility">Accessibilità</string>
     <string name="stream_alarm">Sveglia</string>
     <string name="stream_dtmf">Doppia frequenza multitono</string>
+    <string name="stream_music">Media</string>
     <string name="stream_notification">Notifiche</string>
     <string name="stream_ring">Anello</string>
     <string name="stream_system">Sistema</string>
@@ -2354,6 +2404,10 @@ Assicurati che i certificati siano validi."</string>
 Sembra che l'archiviazione delle credenziali non sia stato attivato."</string>
     <string name="wifi_wapi_psk_type">Tip di password</string>
     <string name="wifi_wapi_user_certificate">Certificato utente</string>
+    <string name="wifitrackerlib_speed_label_fast">Veloce</string>
+    <string name="wifitrackerlib_speed_label_slow">Lento</string>
+    <string name="wifitrackerlib_wifi_remembered">Salvato</string>
+    <string name="wifitrackerlib_wifi_security_none">Nessuno</string>
     <string name="window_animation_scale_title">Scala animazioni finestra</string>
     <string name="wireless_change_to_ac_charging">Sei passato alla ricarica con filo</string>
     <string name="wireless_charge_current">Ricarica</string>
