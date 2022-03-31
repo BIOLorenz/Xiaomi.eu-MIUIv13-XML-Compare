@@ -106,6 +106,7 @@
     <string name="chip_text">Testo Chip</string>
     <string name="clear_text_end_icon_content_description">Cancella testo</string>
     <string name="clearable_edittext_clear_description">Cancella</string>
+    <string name="close">Chiudi</string>
     <string name="controls_confirmation_message">Conferma modifica per %s</string>
     <string name="controls_dialog_confirmation">Controlli aggiornati</string>
     <string name="controls_dialog_message">%s ha suggerito questo controllo da aggiungere ai tuoi preferiti.</string>
@@ -253,7 +254,7 @@
     <string name="miui_toast_zen_to_standard_when_shield_media">ND attivato. Le suonerie, così come suoni di notifica e multimediali, verranno silenziati.</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"E' tutto per ora"</string>
@@ -339,6 +340,7 @@
     <string name="quick_settings_pcmode_label">Modalità PC</string>
     <string name="quick_settings_pcmode_turn_off_description">"Il display del telefono verrà mostrato su un monitor esterno. Disattivare la modalità PC?"</string>
     <string name="quick_settings_pcmode_turn_on_description">"Il display del computer verrà mostrato su un monitor esterno. Attivare la modalità PC?"</string>
+    <string name="quick_settings_scanner_label">Scanner</string>
     <string name="quick_settings_wireless_label">Ricarica wireless inversa</string>
     <string name="reboot_info_auto_boot">%s Sveglia in arrivo</string>
     <string name="reboot_info_shutdown_alarm">Allarme di spegnimento: %s</string>
