@@ -233,6 +233,7 @@
     <string name="slavewifi_disconnect">Disconnetti</string>
     <string name="slavewifi_notification_title">Wi-Fi dual band in uso</string>
     <string name="slavewifi_settings">Tocca per cambiare le impostazioni</string>
+    <string name="small_freeform_check_memory_exception_positive_message">Chiudi</string>
     <string name="softap_notifif_summary">%d connesso</string>
     <string name="softap_notifif_title">Hotspot \"%s\" attivo</string>
     <string name="standard">Silenzioso</string>
@@ -257,6 +258,7 @@
     <string name="status_bar_toggle_sync">Sincronizza</string>
     <string name="status_bar_toggle_torch">Torcia</string>
     <string name="status_bar_toggle_vibrate">Vibrazione</string>
+    <string name="status_bar_toggle_wifi">Wi-Fi</string>
     <string name="status_bar_toggle_wifi_ap">Hotspot Wi-Fi</string>
     <string name="stop_operate_camera_frequently">"Stai aprendo la fotocamera frontale troppo spesso."</string>
     <string name="stylus_pen_mask_screenshot">Tocca lo schermo per fare uno screenshot</string>
