@@ -46,6 +46,7 @@
     <string name="always">Sempre</string>
     <string name="app_description_content">Scanner può scansionare codici QR, biglietti da visita, e documenti. Assicurati di poter fare ciò che ti occorre senza quest\'app prima di rimuoverla.</string>
     <string name="app_description_title">Info su Scanner</string>
+    <string name="app_name">Scanner</string>
     <string name="back">Indietro</string>
     <string name="barcode_into_rectangle">Posiziona il Codice QR all\'interno del riquadro</string>
     <string name="birthday">Compleanno:</string>
@@ -419,7 +420,7 @@
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"E' tutto per ora"</string>
@@ -759,6 +760,7 @@
     <string name="weixin_qrcode_process_type_tip">"Scegli come elaborare questo codice WeChat"</string>
     <string name="weixinqrcode_process_fail_tip">"Impossibile elaborare il codice WeChat"</string>
     <string name="welcome_to_thesweepversion">Benvenuto in Scanner Beta!</string>
+    <string name="wifi">Wi-Fi</string>
     <string name="wifi_exist_fail">L\'hotspot Wi-Fi \"%1$s\" é già esistente. Eliminalo e riprova.</string>
     <string name="wifi_low_version_prompt">Il Wi-Fi deve essere attivato manualmente</string>
     <string name="wifi_open_fail">"Impossibile attivare il Wi-Fi"</string>
