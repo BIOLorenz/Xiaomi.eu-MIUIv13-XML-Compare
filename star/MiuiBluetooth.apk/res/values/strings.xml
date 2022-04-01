@@ -103,6 +103,14 @@
     <string name="bluetooth_talkback_imaging">Imaging</string>
     <string name="bluetooth_talkback_input_peripheral">Input Peripheral</string>
     <string name="bluetooth_talkback_phone">Phone</string>
+    <string name="bt_plugin_update_dialog_cancle">Not now</string>
+    <string name="bt_plugin_update_dialog_title">Bluetooth update</string>
+    <string name="bt_plugin_update_dialog_update">Update</string>
+    <string name="bt_plugin_update_done_dialog_exit">Apply</string>
+    <string name="bt_plugin_update_done_dialog_msg">To apply changes, Settings will be closed and Bluetooth will be disconnected.</string>
+    <string name="bt_plugin_update_done_dialog_title">Apply changes</string>
+    <string name="bt_plugin_update_done_toast">Updated successfully</string>
+    <string name="bt_plugin_update_notification_updating">Bluetooth update</string>
     <string name="cancel">取消</string>
     <string name="chinese_day_1">初一</string>
     <string name="chinese_day_10">初十</string>
@@ -174,6 +182,12 @@
     <string name="chinese_symbol_animals_tiger">虎</string>
     <string name="clearable_edittext_clear_description">Clear</string>
     <string name="close">Close</string>
+    <string name="config_net_device_connect">Connect</string>
+    <string name="config_net_device_find">Connect device</string>
+    <string name="config_net_not_my_device">Cancel</string>
+    <string name="confignet_app_download">Install</string>
+    <string name="confignet_cancel">Cancel</string>
+    <string name="confignet_download_title">Install Mi Fitness to continue</string>
     <string name="confirm">确认</string>
     <string name="copy">Copy</string>
     <string name="date_picker_label_day" />
