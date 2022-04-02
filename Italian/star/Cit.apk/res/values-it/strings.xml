@@ -496,6 +496,7 @@ test fallito!"</string>
     <string name="cit_usb_OTG_plug_re_plugin">Test OTG USB completato, nessun ulteriore test necessario</string>
     <string name="cit_usb_charger_in">Ricarica via USB</string>
     <string name="cit_usb_charger_out">Alimentazione USB scollegata</string>
+    <string name="cit_uwb_calibrate_color_white">Bianco</string>
     <string name="cit_version_check_summary">Di seguito troverai la versione del SO. Verifica che le informazioni evidenziate in verde siano corrette.</string>
     <string name="cit_version_check_title">Test versione</string>
     <string name="cit_vga_camera_cameralist_fail">Errore: fotocamera non corrispondente</string>
@@ -571,6 +572,7 @@ Prego scollega il caricabatterie dal dispositivo e inseriscilo nella presa a mur
     <string name="radio_info_entry">Info rete mobile</string>
     <string name="radio_info_gprs_service_label">Servizio Dati:</string>
     <string name="radio_info_gsm_service_label">Servizio voce:</string>
+    <string name="radio_info_imei_label">IMEI:</string>
     <string name="radio_info_neighboring_location_label">Informazione cella vicina:</string>
     <string name="radio_info_phone_idle">Inattivo</string>
     <string name="radio_info_phone_number_label">Numero di telefono:</string>
