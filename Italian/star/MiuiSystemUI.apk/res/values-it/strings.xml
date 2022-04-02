@@ -51,6 +51,7 @@
     <string name="accessibility_airplane_mode">Modalità aereo.</string>
     <string name="accessibility_ambient_display_charging">Ricarica</string>
     <string name="accessibility_back">Indietro</string>
+    <string name="accessibility_banner_message_dismiss">Rifiuta</string>
     <string name="accessibility_battery_details">Apri dettagli batteria</string>
     <string name="accessibility_battery_full">Batteria piena.</string>
     <string name="accessibility_battery_level">Batteria al %d percento.</string>
@@ -79,6 +80,8 @@
     <string name="accessibility_control_favorite_position">Preferito, posizione %d</string>
     <string name="accessibility_control_move">Sposta in posizione %d</string>
     <string name="accessibility_control_not_favorite">Preferito rimosso</string>
+    <string name="accessibility_control_zoom_in">Aumenta zoom</string>
+    <string name="accessibility_control_zoom_out">Riduci zoom</string>
     <string name="accessibility_data_connection_wifi">Wi-Fi</string>
     <string name="accessibility_data_one_bar">Dati: una barra.</string>
     <string name="accessibility_data_saver_off">Risparmio dati disattivato</string>
@@ -160,6 +163,7 @@
     <string name="accessibility_phone_two_bars">Telefono: due barre.</string>
     <string name="accessibility_qs_edit_add_tile_label">%1$s. Doppio tocco per aggiungere.</string>
     <string name="accessibility_qs_edit_move_tile">Sposta %1$s</string>
+    <string name="accessibility_qs_edit_position">Posizione %1$d</string>
     <string name="accessibility_qs_edit_position_label">Posizione %1$d. Doppio tocco per selezionare.</string>
     <string name="accessibility_qs_edit_remove_tile">Rimuovi %1$s</string>
     <string name="accessibility_qs_edit_tile_add">Aggiungi %1$s in posizione %2$d</string>
@@ -325,6 +329,7 @@
     <string name="always_use_accessory">Usa per impostazione predef. per accessorio USB</string>
     <string name="always_use_device">Usa per impostazione predef. per accessorio USB</string>
     <string name="animator_duration_scale_title">Scala durata animatore</string>
+    <string name="anniversary_status">Anniversario</string>
     <string name="apn_settings_not_available">Le opzioni Nomi Punto di Accesso non sono disponibili per questo utente</string>
     <string name="app_accessed_mic">%1$s ha avuto accesso al microfono</string>
     <string name="app_info">Info app</string>
@@ -406,6 +411,7 @@ Riprova tra %d secondi."</string>
     <string name="biometric_dialog_wrong_password">Password errata</string>
     <string name="biometric_dialog_wrong_pattern">Sequenza errata</string>
     <string name="biometric_dialog_wrong_pin">PIN errato</string>
+    <string name="birthday_status">Compleanno</string>
     <string name="blob_expires_text">Scade alle %s</string>
     <string name="blob_id_text">ID dati condivisi: %d</string>
     <string name="block">Blocca tutte le notifiche</string>
@@ -495,6 +501,7 @@ Frequenza Campione"</string>
     <string name="bluetooth_select_map_version_string">Versione MAP Bluetooth</string>
     <string name="bluetooth_show_devices_without_names">Mostra i dispositivi Bluetooth senza nomi</string>
     <string name="bluetooth_show_devices_without_names_summary">Verranno mostrati i dispositivi Bluetooth senza nome (solo indirizzo MAC)</string>
+    <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
     <string name="bluetooth_talkback_headphone">Cuffie</string>
     <string name="bluetooth_talkback_headset">Cuffie</string>
     <string name="bluetooth_talkback_imaging">Immagine</string>
@@ -640,6 +647,9 @@ Frequenza Campione"</string>
     <string name="compat_mode_off">Allunga per riempire lo schermo</string>
     <string name="compat_mode_on">Ingrandisci per riempire lo schermo</string>
     <string name="config_navBarLayout">sinistra,indietro;home;recenti, destra</string>
+    <string name="config_navBarLayout_left">sinistra,indietro;home;recenti, destra</string>
+    <string name="config_navBarLayout_right">sinistra,indietro;home;recenti, destra</string>
+    <string name="confirm">OK</string>
     <string name="confirm_enable_oem_unlock_text">ATTENZIONE: La protezione dispositivo non funzionerà su questo dispositivo mentre questa opzione sarà attiva.</string>
     <string name="confirm_enable_oem_unlock_title">Permettere sblocco OEM?</string>
     <string name="confirm_pin_msg">Immetti di nuovo il PIN</string>
@@ -678,6 +688,7 @@ Frequenza Campione"</string>
     <string name="controls_media_dismiss_button">Nascondi</string>
     <string name="controls_media_resume">Riprendi</string>
     <string name="controls_media_settings_button">Impostazioni</string>
+    <string name="controls_media_smartspace_rec_description">Apri %1$s</string>
     <string name="controls_media_smartspace_rec_title">Riproduci</string>
     <string name="controls_media_title">Media</string>
     <string name="controls_menu_add">Aggiungi controlli</string>
@@ -774,6 +785,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
     <string name="dnd_suppressing_shade_text">Notifiche messe in pausa dalla modalità Non disturbare</string>
     <string name="do_disclosure_generic">Questo dispositivo è gestito dalla tua organizzazione</string>
     <string name="do_disclosure_with_name">Questo dispositivo è gestito da %s</string>
+    <string name="do_financed_disclosure_with_name">Dispositivo fornito da %1$s</string>
     <string name="do_not_silence">"Non silenziare"</string>
     <string name="do_not_silence_block">"Non silenziare o bloccare"</string>
     <string name="dock_alignment_not_charging">Riallinea il telefono per ricaricare in modalità wireless</string>
@@ -800,6 +812,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
     <string name="earthly_branches_zi">Zi</string>
     <string name="emergency_call_string">Emergenza</string>
     <string name="empty_shade_text">Nessuna notifica</string>
+    <string name="empty_user_name">Amici</string>
     <string name="enable_adb">Debug USB</string>
     <string name="enable_adb_summary">Abilita modalità debug quando il collegamento USB é attivo</string>
     <string name="enable_adb_wireless">Debug wireless</string>
@@ -852,6 +865,8 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
     <string name="face_unlock_success">Sbloccato</string>
     <string name="face_unlock_swipe_up_retry">Scorri verso l\'alto per riprovare</string>
     <string name="failed_to_open_app_settings_toast">Impossibile aprire le impostazioni per %1$s</string>
+    <string name="feedback_ok">OK</string>
+    <string name="feedback_response">Grazie per la segnalazione!</string>
     <string name="finger_error_single_mode">"Impossibile utilizzare lo scanner di impronte digitali in modalità a una mano. Esci dalla modalità a una mano e riprova."</string>
     <string name="fingerprint_add_text">L\'interfaccia dell\'impronta è stata aggiornata. Aggiungi nuovamente l\'impronta.</string>
     <string name="fingerprint_add_title">Aggiungi impronta</string>
@@ -868,19 +883,24 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
     <string name="float_notification_snooze_strategy">Nascondi temporaneamente le notifiche fluttuanti</string>
     <string name="fmt_chinese_date">dd/MM</string>
     <string name="fmt_date_day">dd</string>
+    <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month">MMMM, yyyy</string>
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">M/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
+    <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time_12hour">"hh"</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
     <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
@@ -998,6 +1018,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
     <string name="high_temp_alarm_help_care_steps">Leggi le misure da adottare</string>
     <string name="high_temp_alarm_notify_message">C\'è un problema di ricarica. Scollega l\'adattatore di alimentazione, attenzione il cavo potrebbe essere caldo.</string>
     <string name="high_temp_alarm_title">Scollega il caricabatterie</string>
+    <string name="high_temp_dialog_help_text">Leggi le misure da adottare</string>
     <string name="high_temp_dialog_message">"Il telefono proverà a raffreddarsi automaticamente. Puoi continuare ad utilizzare il dispositivo, ma potrebbe avere dei rallentamenti.
 
 Una volta raffreddato, funzionerà normalmente."</string>
@@ -1145,6 +1166,7 @@ Utilizza solo l'alimentatore in dotazione."</string>
     <string name="keyguard_indication_trust_disabled">Il dispositivo rimarrà bloccato finché non lo sbloccherai manualmente</string>
     <string name="keyguard_indication_trust_unlocked">Mantenuto sbloccato da Agente di Attendibilità</string>
     <string name="keyguard_instructions_when_pattern_disabled">Premi Menu per sbloccare.</string>
+    <string name="keyguard_left_remotecentral">Telecomando Mi</string>
     <string name="keyguard_left_torch">Torcia</string>
     <string name="keyguard_left_view_lock_wallpaper">Sfondi Carousel</string>
     <string name="keyguard_low_battery">Collega il tuo caricabatteria.</string>
@@ -1176,6 +1198,8 @@ Contatta il tuo provider di rete per richiedere un'altra SIM."</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">Sblocco SIM…</string>
     <string name="keyguard_torch_cover_text">Tieni premuto il tasto Accensione per accendere la Torcia</string>
     <string name="keyguard_unlock">Scorri verso l\'alto per sbloccare</string>
+    <string name="keyguard_widget_12_hours_format">hh:mm</string>
+    <string name="keywords_adb_wireless">ADB, debug, sviluppatori</string>
     <string name="kg_enter_confirm_pin_hint">Conferma il PIN</string>
     <string name="kg_face_not_recognized">Non riconosciuto</string>
     <string name="kg_failed_attempts_almost_at_erase_profile">Hai provato a sbloccare il telefono senza successo per %1$d volte. Dopo altri %2$d tentativi sbagliati, il profilo di lavoro verrà rimosso, e tutti i dati del profilo eliminati.</string>
@@ -1313,6 +1337,7 @@ d MMMM"</string>
     <string name="lockscreen_unlock_left">Collegamento sinistro e sblocco</string>
     <string name="lockscreen_unlock_right">Collegamento destro e sblocco</string>
     <string name="magnification_controls_title">Controlli Finestra D\'Ingrandimento</string>
+    <string name="magnification_mode_switch_click_label">Cambia</string>
     <string name="magnification_window_title">Finestra di Ingrandimento</string>
     <string name="manage_bubbles_text">Gestisci</string>
     <string name="manage_notifications_history_text">Cronologia</string>
@@ -1320,7 +1345,9 @@ d MMMM"</string>
     <string name="managed_user_title">Tutte le app attive</string>
     <string name="material_timepicker_hour">Hour</string>
     <string name="material_timepicker_minute">Minuti</string>
+    <string name="material_timepicker_select_time">Imposta ora</string>
     <string name="media_category">Media</string>
+    <string name="media_output_dialog_connect_failed">"Impossibile connettersi. Riprova."</string>
     <string name="media_output_dialog_group">Gruppo</string>
     <string name="media_projection_action_text">Avvia adesso</string>
     <string name="media_projection_dialog_service_text">Il servizio che fornisce questa funzione avrà accesso a tutte le informazioni visibili sullo schermo o riprodotte dal dispositivo durante la registrazione o il lancio. Questo include informazioni come password, dettagli di pagamento, foto, messaggi e audio che si riproduce.</string>
@@ -1337,6 +1364,10 @@ d MMMM"</string>
     <string name="menu_ime">Cambio tastiera</string>
     <string name="mic_active">Microfono Attivo</string>
     <string name="midnight">Notte</string>
+    <string name="missed_call">Chiamata persa</string>
+    <string name="miui_clock_city_name_local">Dispositivo</string>
+    <string name="miui_clock_city_name_second">Secondo orologio</string>
+    <string name="miui_keyboard_shortcut_click">Pressione</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Sbloccato da dispositivo Bluetooth</string>
     <string name="miui_lock_screen_date">EEEE dd/MM</string>
     <string name="miui_lock_screen_date_12">EEEE dd/MM</string>
@@ -1368,6 +1399,8 @@ dd/MM"</string>
     <string name="miui_snooze_until_unlock_screen">Fino al blocco</string>
     <string name="miui_snooze_user_set_fail">Vai su Impostazioni &gt; Notifiche &amp; Centro di controllo per opzioni aggiuntive</string>
     <string name="miui_snooze_user_set_success">Applicato con successo. Vai su Impostazioni &gt; Notifiche &amp; Centro di controllo per opzioni aggiuntive.</string>
+    <string name="miuix_access_state_desc">Selezionato</string>
+    <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleziona elementi</string>
@@ -1382,6 +1415,8 @@ dd/MM"</string>
     <string name="miuix_appcompat_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
+    <string name="miuix_indexer_collect">Raccolte</string>
+    <string name="miuix_indexer_selected">Selezionato %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
@@ -1390,7 +1425,6 @@ dd/MM"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"E' tutto per ora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare gli elementi"</string>
-    <string name="mland">Suolo Marshmallow</string>
     <string name="mobile_data">Dati Mobili</string>
     <string name="mobile_data_always_on">Dati cellulare sempre attivi</string>
     <string name="mobile_data_always_on_summary">Mantenere sempre attivi i dati mobili, anche quando il Wi-Fi è attivo (per un cambio di rete rapido).</string>
@@ -1454,6 +1488,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="monitoring_subtitle_network_logging">Registrazione della rete</string>
     <string name="monitoring_title">Monitoraggio della rete</string>
     <string name="monitoring_title_device_owned">Gestione del dispositivo</string>
+    <string name="monitoring_title_financed_device">Dispositivo fornito da %1$s</string>
     <string name="monitoring_title_profile_owned">Monitoraggio profilo</string>
     <string name="month_april">Aprile</string>
     <string name="month_april_short">Apr</string>
@@ -1519,11 +1554,14 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="mr_system_route_name">Sistema</string>
     <string name="mr_user_route_category_name">Dispositivi</string>
     <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
+    <string name="mtrl_picker_announce_current_selection">Selezione attuale: %1$s</string>
     <string name="mtrl_picker_cancel">Annulla</string>
     <string name="mtrl_picker_confirm">Salva</string>
     <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
     <string name="mtrl_picker_save">Salva</string>
     <string name="mtrl_picker_text_input_date_hint">Data</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
+    <string name="mtrl_picker_text_input_day_abbr">dd</string>
     <string name="music_controls_no_title">Nessun titolo</string>
     <string name="nav_bar">Barra di navigazione</string>
     <string name="nav_bar_default">(predefinito)</string>
@@ -1539,7 +1577,9 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="not_set">Non impostato</string>
     <string name="notification_alert_title">Predefinita</string>
     <string name="notification_app_settings">Impostazioni schede</string>
+    <string name="notification_appops_ok">OK</string>
     <string name="notification_appops_settings">Impostazioni</string>
+    <string name="notification_automatic_title">Automatico</string>
     <string name="notification_bubble_title">Bolla</string>
     <string name="notification_channel_alerts">Avvisi</string>
     <string name="notification_channel_battery">Batteria</string>
@@ -1610,6 +1650,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="output_calls_title">Uscita audio telefono</string>
     <string name="output_none_found">Nessun dispositivo trovato</string>
     <string name="output_none_found_service_off">Nessun dispositivo trovato. Prova ad attivare %1$s</string>
+    <string name="output_service_bt">Bluetooth</string>
     <string name="output_service_bt_wifi">Bluetooth e Wi-Fi</string>
     <string name="output_service_wifi">Wi-Fi</string>
     <string name="output_title">Uscita contenuti multimediali</string>
@@ -1617,6 +1658,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="overview">Applicazioni recenti</string>
     <string name="owner_info_settings_edit_text_hint">"Testo da visualizzare sulla Schermata di blocco"</string>
     <string name="password_toggle_content_description">Mostra password</string>
+    <string name="person_available">Disponibile</string>
     <string name="phone_hint">Scorri dall\'icona per aprire il Telefono</string>
     <string name="phone_label">Apri Telefono</string>
     <string name="phone_locked_foget_password">Password dimenticata?</string>
@@ -1689,12 +1731,17 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="power_suggestion_battery_run_out">La batteria potrebbe esaurirsi tra %1$s</string>
     <string name="pref_show_lunar_calendar_title">Mostra il calendario cinese tradizionale sulla schermata di blocco</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
+    <string name="preference_summary_default_combination">%1$s/%2$s</string>
+    <string name="privacy_dialog_title">Notifiche su azioni sensibili</string>
+    <string name="privacy_recent_used_title">Recenti</string>
+    <string name="privacy_using_title">Attuale</string>
     <string name="private_dns_broken">Impossibile accedere al server DNS privato</string>
     <string name="private_dns_mode_off">Spenta</string>
     <string name="private_dns_mode_opportunistic">Auto</string>
     <string name="private_dns_mode_provider">DNS Hostname provider privato</string>
     <string name="private_dns_mode_provider_failure">"Impossibile connettersi"</string>
     <string name="private_dns_mode_provider_hostname_hint">Inserisci l\'hostname del provider DNS</string>
+    <string name="process_kernel_label">Sistema operativo Android</string>
     <string name="profile_connect_timeout_subtext">Problema di connessione. Disattiva il dispositivo e riprova</string>
     <string name="profile_info_settings_title">Info profilo</string>
     <string name="profile_owned_footer">Il profilo potrebbe essere monitorato</string>
@@ -1734,6 +1781,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="quick_settings_autobrightness_label">Luminosità</string>
     <string name="quick_settings_batterysaver_label">Risparmio energetico</string>
     <string name="quick_settings_bluetooth_detail_empty_text">Nessun dispositivo abbinato disponibile</string>
+    <string name="quick_settings_bluetooth_label">Bluetooth</string>
     <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d dispositivi)</string>
     <string name="quick_settings_bluetooth_off_label">Bluetooth disattivato</string>
     <string name="quick_settings_bluetooth_secondary_label_audio">Audio</string>
@@ -1744,6 +1792,8 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="quick_settings_bluetooth_secondary_label_transient">Attivazione…</string>
     <string name="quick_settings_brightness_dialog_title">Luminosità</string>
     <string name="quick_settings_brightness_label">Luminosità</string>
+    <string name="quick_settings_camera_mic_available">Disponibile</string>
+    <string name="quick_settings_camera_mic_blocked">Bloccato</string>
     <string name="quick_settings_cast_detail_empty_text">Nessun dispositivo disponibile</string>
     <string name="quick_settings_cast_device_default_description">Pronto per trasmissione</string>
     <string name="quick_settings_cast_device_default_name">Dispositivo senza nome</string>
@@ -1757,6 +1807,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="quick_settings_cellular_detail_dialog_message_turnoff">I dati mobili (WCDMA/LTE) saranno disattivati. A meno che non si utilizzi il Wi-Fi, non sarà più possibile utilizzare applicazioni che richiedono la connessione dati. L\'invio o la ricezione di messaggi multimediali saranno limitati.</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnon">I dati mobili saranno attivati. La connessione alle reti mobili potrebbe comportare costi aggiuntivi a seconda del piano di pagamento.</string>
     <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Annulla</string>
+    <string name="quick_settings_cellular_detail_dialog_positive_button_ok">OK</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Disattiva</string>
     <string name="quick_settings_cellular_detail_over_limit">Oltre i limiti</string>
     <string name="quick_settings_cellular_detail_remaining_data">Dati rimanenti</string>
@@ -1795,6 +1846,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="quick_settings_drivemode_label">Automobile</string>
     <string name="quick_settings_edit_label">Modifica</string>
     <string name="quick_settings_extreme_batterysaver_label">Risparmio energetico estremo</string>
+    <string name="quick_settings_financed_disclosure_named_management">Dispositivo fornito da %1$s</string>
     <string name="quick_settings_flashlight_camera_in_use">Fotocamera in uso</string>
     <string name="quick_settings_flashlight_label">Torcia</string>
     <string name="quick_settings_header_onboarding_text">Tocca e tieni premute le icone per visualizzare altre opzioni</string>
@@ -1808,6 +1860,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="quick_settings_media_device_label">Dispositivo multimediale</string>
     <string name="quick_settings_more_settings">Altre impostazioni</string>
     <string name="quick_settings_mute_label">Silenzioso</string>
+    <string name="quick_settings_nfc_label">NFC</string>
     <string name="quick_settings_nfc_off">NFC disattivato</string>
     <string name="quick_settings_nfc_on">NFC attivato</string>
     <string name="quick_settings_night_display_label">Luce notturna</string>
@@ -1863,6 +1916,8 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="quick_settings_work_mode_label">Profilo di lavoro</string>
     <string name="quick_step_accessibility_toggle_overview">Attiva/Disattiva Panoramica</string>
     <string name="rapid_charge_mode_tip">Carica rapida</string>
+    <string name="reboot_info_auto_boot_global">%s Sveglia in arrivo</string>
+    <string name="recent_used_microphone">Questa app ha registrato l\'audio</string>
     <string name="remaining_length_format">%1$s rimanenti</string>
     <string name="remote_input_image_insertion_text">ha inviato un\'immagine</string>
     <string name="remove_from_settings">Rimuovi dalle Impostazioni</string>
@@ -1926,6 +1981,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="screenrecord_pause_label">Pausa</string>
     <string name="screenrecord_permission_error">Impossibile ottenere i permessi</string>
     <string name="screenrecord_resume_label">Riprendi</string>
+    <string name="screenrecord_save_text">Tocca per vedere</string>
     <string name="screenrecord_share_label">Condividi</string>
     <string name="screenrecord_start">Avvia</string>
     <string name="screenrecord_start_error">Errore nell\'avvio della registrazione schermo</string>
@@ -1960,6 +2016,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="select_webview_provider_toast_text">Questa scelta choice non è più valida. Riprova.</string>
     <string name="send">Invia</string>
     <string name="sensor_privacy_mode">Sensori spenti</string>
+    <string name="settings_label">Impostazioni</string>
     <string name="shared_data_delete_failure_text">Si è verificato un errore durante l\'eliminazione dei dati condivisi.</string>
     <string name="shared_data_no_accessors_dialog_text">Non ci sono lease acquisiti per questi dati condivisi. Vuoi eliminarlo?</string>
     <string name="shared_data_no_blobs_text">Non ci sono dati condivisi per questo utente.</string>
@@ -2022,6 +2079,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="speed_bump_explanation">Notifiche meno urgenti in basso</string>
     <string name="speed_label_fast">Veloce</string>
     <string name="speed_label_medium">Medio</string>
+    <string name="speed_label_okay">OK</string>
     <string name="speed_label_slow">Lento</string>
     <string name="speed_label_very_fast">Molto veloce</string>
     <string name="speed_label_very_slow">Molto lento</string>
@@ -2037,7 +2095,6 @@ essere monitorata"</string>
     <string name="status_bar_clock_date_format">E d MMMM</string>
     <string name="status_bar_clock_date_format_12">E d MMMM</string>
     <string name="status_bar_clock_date_time_format">H:mm d MMMM</string>
-    <string name="status_bar_clock_date_time_format_12">h:mm E, d MMM aa</string>
     <string name="status_bar_clock_date_weekday_format">EEE d MMM</string>
     <string name="status_bar_clock_date_weekday_format_12">EEE d MMM</string>
     <string name="status_bar_date_format">"E
@@ -2047,6 +2104,7 @@ d MMM"</string>
     <string name="status_bar_ethernet">LAN</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Imposta metodi di input</string>
     <string name="status_bar_latest_events_title">Notifiche</string>
+    <string name="status_bar_network_name_separator">-</string>
     <string name="status_bar_no_notifications_title">Nessuna notifica</string>
     <string name="status_bar_notification_app_settings_title">%s impostazioni</string>
     <string name="status_bar_notification_inspect_item_title">Impostazioni di notifica</string>
@@ -2062,6 +2120,7 @@ d MMM"</string>
     <string name="storage_category">Archiviazione</string>
     <string name="stream_accessibility">Accessibilità</string>
     <string name="stream_alarm">Sveglia</string>
+    <string name="stream_bluetooth_sco">Bluetooth</string>
     <string name="stream_dtmf">Doppia frequenza multitono</string>
     <string name="stream_music">Media</string>
     <string name="stream_notification">Notifiche</string>
@@ -2132,6 +2191,7 @@ d MMM"</string>
     <string name="the_valentines_day">"San Valentino"</string>
     <string name="the_water_lantern_festival">Festa delle Lanterne d\'Acqua</string>
     <string name="theme">Tema</string>
+    <string name="thermal_shutdown_dialog_help_text">Leggi le misure da adottare</string>
     <string name="thermal_shutdown_dialog_message">"Il tuo telefono era troppo caldo, quindi si è spento per raffreddarsi. Il tuo telefono ora funziona normalmente.
      
 Il tuo telefono potrebbe diventare troppo caldo se:
@@ -2144,6 +2204,7 @@ Il tuo telefono potrebbe diventare troppo caldo se:
     <string name="thursday">Giovedì</string>
     <string name="thursday_short">Gio</string>
     <string name="thursday_shortest">Gio</string>
+    <string name="tile_disabled">Disattivato</string>
     <string name="tile_unavailable">Non disponibile</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
     <string name="time_unit_just_now">Un momento fa</string>
@@ -2154,6 +2215,9 @@ Il tuo telefono potrebbe diventare troppo caldo se:
     <string name="torch_high_temperature_warning">"Il tuo dispositivo è surriscaldato. Non puoi usare la torcia ora."</string>
     <string name="touch_filtered_warning">A causa di un\'app che interferisce con la richiesta dei permessi, le Impostazioni non possono verificare la tua risposta.</string>
     <string name="track_frame_time">Profilo rendering GPU</string>
+    <string name="traffic_unit_gigabyte">GB</string>
+    <string name="traffic_unit_kilobyte">KB</string>
+    <string name="traffic_unit_megabyte">MB</string>
     <string name="transition_animation_scale_title">Transizione scala animazione</string>
     <string name="tts_default_lang_summary">Imposta la lingua specifica per il testo parlato</string>
     <string name="tts_default_lang_title">Lingua</string>
@@ -2207,6 +2271,7 @@ Il tuo telefono potrebbe diventare troppo caldo se:
     <string name="tuner_toast">Congratulazioni! La messa a punto dell\'UI di Sistema è stata aggiunta alle Impostazioni</string>
     <string name="tuner_warning">La messa a punto dell\'UI di Sistema offre ulteriori modifiche e personalizzazioni per l\'interfaccia utente di Android. Queste funzionalità sperimentali possono cambiare, danneggiarsi o scomparire nelle versioni future. Procedi con cautela.</string>
     <string name="tuner_warning_title">Divertente per molti ma non per tutti</string>
+    <string name="tv_notification_panel_title">Notifiche</string>
     <string name="unknown">Sconosciuto</string>
     <string name="unlock_failed">Errore interno</string>
     <string name="unlock_string">Sblocca</string>
@@ -2258,6 +2323,9 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="user_add_user_title">Aggiungere nuovo utente?</string>
     <string name="user_add_user_type_title">Aggiungi</string>
     <string name="user_guest">Ospite</string>
+    <string name="user_image_choose_photo">Scegli un\'immagine</string>
+    <string name="user_image_photo_selector">Seleziona la foto</string>
+    <string name="user_image_take_photo">Scatta una foto</string>
     <string name="user_info_settings_title">Info utente</string>
     <string name="user_limit_reached_title">Limite utente raggiunto</string>
     <string name="user_logout_notification_action">DISCONNETTI UTENTE</string>
@@ -2266,6 +2334,7 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="user_need_lock_message">Prima di poter creare un profilo con limitazioni, devi impostare un blocco schermo per proteggere le tue app e i tuoi dati personali.</string>
     <string name="user_new_profile_name">Nuovo profilo</string>
     <string name="user_new_user_name">Nuovo utente</string>
+    <string name="user_nickname">Soprannome</string>
     <string name="user_remove_user_message">Tutte le app ed i dati di questo utente saranno eliminati.</string>
     <string name="user_remove_user_remove">Rimuovi</string>
     <string name="user_remove_user_title">Rimuovere utente?</string>
@@ -2313,6 +2382,9 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="vpn_settings_not_available">Le opzioni VPN non sono disponibili per questo utente</string>
     <string name="wait_for_debugger">Attendi il debugger</string>
     <string name="wait_for_debugger_summary">Applicazioni in attesa del debugger da abbinare prima dell\'esecuzione</string>
+    <string name="wallet_app_button_label">Visualizza tutti</string>
+    <string name="wallet_secondary_label_updating">Aggiornamento</string>
+    <string name="wallet_title">Portafoglio</string>
     <string name="wallpaper_global_des_drop_down_notify_text">Rilascia per vedere i dettagli</string>
     <string name="wapi_all_sel_mode">Scegli</string>
     <string name="wapi_auto_sel_cert_fail">Impossibile selezionare automaticamente i certificati. Seleziona un certificato dalla lista e prova a connetterti.</string>
@@ -2365,6 +2437,8 @@ Indirizzo Wi-Fi (BSSID)
     <string name="wifi_fail_to_scan">"\"Impossibile scansionare le reti"</string>
     <string name="wifi_gateway_hint">192.168.1.254</string>
     <string name="wifi_hand_sel_wapi_cert">Certificato WAPI</string>
+    <string name="wifi_hotspot_switch_off_text">Spenta</string>
+    <string name="wifi_hotspot_switch_on_text">Attivata</string>
     <string name="wifi_ip_address_hint">192.168.1.125</string>
     <string name="wifi_is_off">Wi-Fi spento</string>
     <string name="wifi_limited_connection">Connessione limitata</string>
@@ -2404,10 +2478,36 @@ Assicurati che i certificati siano validi."</string>
 Sembra che l'archiviazione delle credenziali non sia stato attivato."</string>
     <string name="wifi_wapi_psk_type">Tip di password</string>
     <string name="wifi_wapi_user_certificate">Certificato utente</string>
+    <string name="wifitrackerlib_available_via_app">Disponibile tramite %1$s</string>
+    <string name="wifitrackerlib_connected_via_app">Connesso tramite %1$s</string>
+    <string name="wifitrackerlib_connected_via_network_scorer">Collegato automaticamente tramite %1$s</string>
+    <string name="wifitrackerlib_connected_via_network_scorer_default">Collegato automaticamente tramite fornitore di servizi di valutazione rete</string>
+    <string name="wifitrackerlib_osu_completing_sign_up">Completamento della registrazione…</string>
+    <string name="wifitrackerlib_osu_connect_failed">Impossibile collegarsi</string>
+    <string name="wifitrackerlib_osu_opening_provider">Apertura di %1$s…</string>
+    <string name="wifitrackerlib_osu_sign_up_complete">Registrazione completata. Connessione…</string>
+    <string name="wifitrackerlib_osu_sign_up_failed">Impossibile completare la registrazione. Tocca per riprovare.</string>
+    <string name="wifitrackerlib_private_dns_broken">Non è possibile accedere al server DNS privato</string>
+    <string name="wifitrackerlib_saved_network">Salvata da %1$s</string>
     <string name="wifitrackerlib_speed_label_fast">Veloce</string>
+    <string name="wifitrackerlib_speed_label_medium">Media</string>
+    <string name="wifitrackerlib_speed_label_okay">OK</string>
     <string name="wifitrackerlib_speed_label_slow">Lento</string>
+    <string name="wifitrackerlib_speed_label_very_fast">Molto veloce</string>
+    <string name="wifitrackerlib_speed_label_very_slow">Molto lenta</string>
+    <string name="wifitrackerlib_tap_to_sign_up">Tocca per registrarti</string>
+    <string name="wifitrackerlib_wifi_ap_unable_to_handle_new_sta">Punto di accesso momentaneamente al completo</string>
+    <string name="wifitrackerlib_wifi_check_password_try_again">Controlla la password e riprova</string>
+    <string name="wifitrackerlib_wifi_disabled_generic">Disattivato</string>
+    <string name="wifitrackerlib_wifi_disabled_password_failure">Problema di autenticazione</string>
+    <string name="wifitrackerlib_wifi_disconnected">Disconnesso</string>
+    <string name="wifitrackerlib_wifi_limited_connection">Connessione limitata</string>
+    <string name="wifitrackerlib_wifi_metered_label">A consumo</string>
+    <string name="wifitrackerlib_wifi_no_internet">Nessun accesso a Internet</string>
+    <string name="wifitrackerlib_wifi_passpoint_expired">Scaduto</string>
     <string name="wifitrackerlib_wifi_remembered">Salvato</string>
     <string name="wifitrackerlib_wifi_security_none">Nessuno</string>
+    <string name="wifitrackerlib_wifi_unmetered_label">Non a consumo</string>
     <string name="window_animation_scale_title">Scala animazioni finestra</string>
     <string name="wireless_change_to_ac_charging">Sei passato alla ricarica con filo</string>
     <string name="wireless_charge_current">Ricarica</string>
