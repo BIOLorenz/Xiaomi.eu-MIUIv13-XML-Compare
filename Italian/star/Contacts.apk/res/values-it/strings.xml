@@ -92,6 +92,7 @@
     <string name="bh_charged_phone_number">Telefono: %1$s</string>
     <string name="bh_close_traffic_package">Chiudi dettagli piano operatore</string>
     <string name="bh_cmcc">Cina Mobile</string>
+    <string name="bh_confirm">OK</string>
     <string name="bh_connect_address">"Nome del destinatario"</string>
     <string name="bh_connect_name">Destinatario</string>
     <string name="bh_connect_number">"Numero di telefono del destinatario"</string>
@@ -100,6 +101,7 @@
     <string name="bh_cu">Cina Unicom</string>
     <string name="bh_current_no_sim">"Scheda SIM non inserita"</string>
     <string name="bh_current_sim_number">Numero di telefono SIM attuale %1$s</string>
+    <string name="bh_day">dd</string>
     <string name="bh_delete">Elimina</string>
     <string name="bh_delete_charged_phone_number">Elimina il numero di telefono usato di recente</string>
     <string name="bh_delete_edited_phone_number">Elimina il numero di telefono inserito</string>
@@ -112,13 +114,19 @@
     <string name="bh_fetch_balance">Controlla il saldo</string>
     <string name="bh_flow_exceed">Hai superato il limite</string>
     <string name="bh_funtion_desc">Benvenuto in Servizi Operatore Mi! Puoi utilizzare questa app per controllare il saldo del telefono, acquistare minuti di chiamata e dati mobili, e altro ancora. Questa app deve connettersi alla rete per poter funzionare normalmente.</string>
+    <string name="bh_gb">GB</string>
     <string name="bh_get_balance_success">Controllato con successo. Le informazioni potrebbero essere aggiornate in ritardo.</string>
     <string name="bh_get_charge_phone_number">Seleziona dai contatti</string>
+    <string name="bh_goto_open">Non concesso</string>
     <string name="bh_goto_set">Imposta</string>
+    <string name="bh_i_got_it">Ok</string>
     <string name="bh_input_hint">Inserisci il tuo numero di telefono</string>
     <string name="bh_input_total_limit">Inserisci la quantità di dati</string>
     <string name="bh_insert_card_number">Aggiungi numero di telefono SIM %1$d</string>
+    <string name="bh_is_open">Concesso</string>
     <string name="bh_just_now">Un momento fa</string>
+    <string name="bh_kb">KB</string>
+    <string name="bh_mb">MB</string>
     <string name="bh_misim_recharge">Ricarica</string>
     <string name="bh_mm">Telefono Mi</string>
     <string name="bh_more_recommend">Più consigli</string>
@@ -146,9 +154,12 @@
     <string name="bh_pay_success_desc">Il saldo potrebbe essere accreditato in ritardo</string>
     <string name="bh_perm_ask_read_contacts">Consenti a Servizi Operatore Mi di accedere ai tuoi contatti.</string>
     <string name="bh_perm_desc_read_contacts">Per visualizzare i contatti durante il caricamento</string>
+    <string name="bh_permission_contact">Accedi ai contatti</string>
     <string name="bh_permission_get_accounts_desc">Per effettuare ordini e controllarne lo stato</string>
+    <string name="bh_permission_read_call_log">Accesso alla cronologia chiamate</string>
     <string name="bh_permission_read_call_log_desc">Per visualizzare la durata delle chiamate</string>
     <string name="bh_permission_read_phone_state_desc">Per visualizzare i numeri di telefono e le relative informazioni dell\'operatore</string>
+    <string name="bh_permission_showing">Dettagli permessi</string>
     <string name="bh_pkg_data_cant_query">"Impossibile visualizzare i dettagli a causa delle restrizioni dell'operatore"</string>
     <string name="bh_please_check_operation">Si prega di verificare se l\'operatore è impostato correttamente</string>
     <string name="bh_please_complete_sim_before_charge">Per ricaricare, aggiungere prima un numero di telefono.</string>
@@ -173,6 +184,7 @@
     <string name="bh_system_recommend_des">Permetteteci di analizzare il tuo traffico e di consigliare prodotti digitali in base ai risultati</string>
     <string name="bh_tag_phones">Numeri di telefono più usati</string>
     <string name="bh_tags_number_exceed">"Impossibile salvare altri numeri di telefono"</string>
+    <string name="bh_tb">TB</string>
     <string name="bh_text_buy_time">Ordine creato</string>
     <string name="bh_text_charge_name">Ammontare</string>
     <string name="bh_text_no_order">Nessun ordine</string>
@@ -192,6 +204,8 @@
     <string name="bh_used_today">Utilizzato oggi</string>
     <string name="bh_user_agreement">Accordo utente</string>
     <string name="bh_will_open">Apertura %1$s…</string>
+    <string name="bh_withdrawal_of_consent">Revoca autorizzazione...</string>
+    <string name="bh_withdrawal_of_consent_long">Revoca autorizzazione...</string>
     <string name="bh_wrong_number_hint">Inserisci un numero di telefono valido</string>
     <string name="bind_simcard_default">SIM predefinita per le chiamate</string>
     <string name="bind_simcard_menu">Imposta SIM predefinita per le chiamate</string>
@@ -428,6 +442,7 @@
     <string name="contact_edit_title_readonly">Contatto in sola lettura</string>
     <string name="contact_editor_prompt_multiple_accounts">Sincronizzare il nuovo contatto con:</string>
     <string name="contact_editor_prompt_zero_accounts">Non verrà effettuato il backup del nuovo contatto. Vuoi aggiungere un account per gestire il backup dei contatti online?</string>
+    <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
     <string name="contact_import_methods_dialog_mi_mover">Trasferisci</string>
     <string name="contact_import_methods_dialog_title">Seleziona il metodo di importazione</string>
     <string name="contact_is_deleted">Questo contatto è stato eliminato</string>
@@ -608,6 +623,7 @@ Mi Roaming deve connettersi a Internet e accedere alle informazioni sulla posizi
     <string name="email_other">E-mail</string>
     <string name="email_work">Invia email a indirizzo lavoro</string>
     <string name="emergency_number_label">Numero di emergenza</string>
+    <string name="ensure">OK</string>
     <string name="eras_ad">AC</string>
     <string name="eras_bc">DC</string>
     <string name="err_dont_install_mipay">Installa Mi Pay per completare il pagamento.</string>
@@ -805,6 +821,7 @@ Motivo: \"%s\""</string>
     <string name="menu_deleteContact">Elimina contatto</string>
     <string name="menu_dial_ip_number">Effettua una chiamata con IP</string>
     <string name="menu_doNotSave">Annulla</string>
+    <string name="menu_done">OK</string>
     <string name="menu_newContact">Crea nuovo contatto</string>
     <string name="menu_newContactButton">Aggiungi</string>
     <string name="menu_new_favorite_action_bar">Aggiungi ai preferiti</string>
@@ -825,6 +842,8 @@ Motivo: \"%s\""</string>
     <string name="miprofile_switch_off_alertdialog_message">"Non potrai scambiare schede contatti con altre persone. I tuoi contatti non potranno vedere il tuo profilo video.\""</string>
     <string name="missing_name">(Nessun nome)</string>
     <string name="missing_required_permission">Hai disattivato un permesso necessario.</string>
+    <string name="miuix_access_state_desc">Selezionato</string>
+    <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleziona elementi</string>
@@ -842,6 +861,8 @@ Motivo: \"%s\""</string>
     <string name="miuix_appcompat_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
+    <string name="miuix_indexer_collect">Raccolte</string>
+    <string name="miuix_indexer_selected">Selezionato %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
@@ -855,6 +876,8 @@ Motivo: \"%s\""</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
     <string name="month_april">Aprile</string>
+    <string name="month_april_short">Apr</string>
+    <string name="month_april_shortest">Apr</string>
     <string name="month_august">Agosto</string>
     <string name="month_august_short">Ago</string>
     <string name="month_august_shortest">Ago</string>
@@ -862,6 +885,8 @@ Motivo: \"%s\""</string>
     <string name="month_december_short">Dic</string>
     <string name="month_december_shortest">Dic</string>
     <string name="month_february">Febbraio</string>
+    <string name="month_february_short">Feb</string>
+    <string name="month_february_shortest">Feb</string>
     <string name="month_january">Gennaio</string>
     <string name="month_january_short">Gen</string>
     <string name="month_january_shortest">Gen</string>
@@ -872,10 +897,14 @@ Motivo: \"%s\""</string>
     <string name="month_june_short">Giu</string>
     <string name="month_june_shortest">Giu</string>
     <string name="month_march">Marzo</string>
+    <string name="month_march_short">Mar</string>
+    <string name="month_march_shortest">Mar</string>
     <string name="month_may">Maggio</string>
     <string name="month_may_short">Maggio</string>
     <string name="month_may_shortest">Maggio</string>
     <string name="month_november">Novembre</string>
+    <string name="month_november_short">Nov</string>
+    <string name="month_november_shortest">Nov</string>
     <string name="month_october">Ottobre</string>
     <string name="month_october_short">Ott</string>
     <string name="month_october_shortest">Ott</string>
@@ -890,6 +919,7 @@ Motivo: \"%s\""</string>
     <string name="multi_number_menu_message">Messaggio</string>
     <string name="multi_number_title">Audioconferenza</string>
     <string name="multi_select">Scegli</string>
+    <string name="my_phone_not_provider_bluetooth">No</string>
     <string name="my_phone_provider_bluetooth">Sì</string>
     <string name="nameLabelsGroup">Nome</string>
     <string name="name_family">Cognome</string>
@@ -905,6 +935,7 @@ Motivo: \"%s\""</string>
 
 Come concedere l'autorizzazione
 Tocca \"%1$s\", quindi seleziona \"%2$s\"."</string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">Successivo</string>
     <string name="next">Successivo</string>
     <string name="next_birthday">Prossimo compleanno: %s</string>
     <string name="nfc_vcard_file_name">Contatto via NFC</string>
@@ -948,7 +979,10 @@ Tocca \"%1$s\", quindi seleziona \"%2$s\"."</string>
     <string name="permission_camera_desc">Per scattare foto durante la verifica dell\'ID</string>
     <string name="permission_dailog_positive_button">Vai</string>
     <string name="permission_dailog_title">Permessi richiesti</string>
+    <string name="permission_notice_desc_title">Permessi richiesti</string>
     <string name="permission_record_audio_desc">Per utilizzare la voce durante la verifica dell\'ID</string>
+    <string name="permission_retry_deny">Annulla</string>
+    <string name="permission_retry_setting">Impostazioni</string>
     <string name="permission_write_external_storage_desc">Per salvare i dati dell\'app</string>
     <string name="phoneLabelsGroup">Telefono</string>
     <string name="phone_number_too_long_toast">Numero troppo lungo</string>
@@ -1002,6 +1036,8 @@ Tocca \"%1$s\", quindi seleziona \"%2$s\"."</string>
     <string name="preference_key_trash_bin_title">Ripristino contatti</string>
     <string name="preference_other">Altro</string>
     <string name="preference_privacy_policy_title">Informativa sulla Privacy</string>
+    <string name="preference_privacy_settings">Privacy</string>
+    <string name="preference_privacy_settings_title">Privacy</string>
     <string name="preference_remove_duplicate">Unisci contatti duplicati</string>
     <string name="preference_show_firewall_calllog">Mostra le chiamate bloccate nella cronologia delle chiamate</string>
     <string name="preference_show_yellowpage_tab_description">Se chiudi la scheda delle Pagine Gialle, la funzionalità Pagine Gialle non funzionerà correttamente</string>
@@ -1024,6 +1060,21 @@ Tocca \"%1$s\", quindi seleziona \"%2$s\"."</string>
     <string name="privacy_password_title2">Usa la password di protezione privacy</string>
     <string name="privacy_password_title3">Aggiorna la password</string>
     <string name="privacy_password_title4">Password aggiornata</string>
+    <string name="privacy_settings_contacts_for_pad">Privacy</string>
+    <string name="privacy_settings_mallowed">Concesso</string>
+    <string name="privacy_settings_mnotallowed">Non concesso</string>
+    <string name="privacy_settings_permission_description">Dettagli permessi</string>
+    <string name="privacy_settings_permission_related">Permessi</string>
+    <string name="privacy_settings_phone_position">Posizione</string>
+    <string name="privacy_settings_privacy_policy">Informativa sulla Privacy</string>
+    <string name="privacy_settings_read_call_log">Accesso alla cronologia chiamate</string>
+    <string name="privacy_settings_read_contacts">Accedi ai contatti</string>
+    <string name="privacy_settings_read_write_phone">Accesso alla memoria</string>
+    <string name="privacy_settings_take_photo_record_video">Scattare foto e registrare video</string>
+    <string name="privacy_settings_view_policy">Visualizza Informativa sulla Privacy</string>
+    <string name="privacy_settings_write_call_log">Modifica cronologia chiamate</string>
+    <string name="privacy_settings_write_contacts">Modifica contatti</string>
+    <string name="privacy_settings_yellowpage">Pagine gialle</string>
     <string name="private_num">Numero privato</string>
     <string name="profileSavedErrorToast">"Impossibile salvare le modifiche del mio profilo"</string>
     <string name="profileSavedToast">Il mio profilo è salvato</string>
@@ -1051,6 +1102,7 @@ Tocca \"%1$s\", quindi seleziona \"%2$s\"."</string>
     <string name="recent_contacts_label">Recenti</string>
     <string name="recent_number">Recenti</string>
     <string name="redirect_calls_to_vm_confirm_message">Prima di impostare la tua casella postale, verifica i termini e le condizioni del contratto con il tuo operatore di telefonia mobile.</string>
+    <string name="redirect_calls_to_vm_confirm_text">OK</string>
     <string name="relationLabelsGroup">Relazione</string>
     <string name="removePhoto">Rimuovi foto</string>
     <string name="remove_blacklist">Sblocca</string>
@@ -1064,6 +1116,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="residual_time_description3">%1$d m</string>
     <string name="residual_time_description4">%1$d d</string>
     <string name="restore_app_btn_cancel">Annulla</string>
+    <string name="restore_app_btn_restore">OK</string>
     <string name="restore_app_description_content">Aggiungi un collegamento nella schermata Home per poter accedere più velocemente ai tuoi contatti.</string>
     <string name="restore_app_description_title">Aggiungere \"Contatti\" alla schermata Home?</string>
     <string name="restore_nickname">Ripristina</string>
@@ -1072,6 +1125,8 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="return_call_dialing">Chiamata in corso</string>
     <string name="return_call_incoming">Chiamata ricevuta</string>
     <string name="ringLabelsGroup">Suoneria</string>
+    <string name="saf_permission_dialog_grant_permission_immediately">Consenti</string>
+    <string name="saf_permission_dialog_later">Più tardi</string>
     <string name="saturday">Sabato</string>
     <string name="saturday_short">Sab</string>
     <string name="saturday_shortest">Sab</string>
@@ -1148,6 +1203,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="sim_indexed_contact_not_exist">La posizione %1$d sulla SIM non è valida: deve essere compresa tra %2$d e %3$d.</string>
     <string name="sim_no_contact">Nessun contatto sulla SIM</string>
     <string name="sim_unloaded">"SIM non installata"</string>
+    <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Nessun membro nel gruppo</string>
     <string name="smart_group_company_label">Per azienda</string>
     <string name="smart_group_company_unavailable">Senza azienda</string>
