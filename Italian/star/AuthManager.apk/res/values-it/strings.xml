@@ -546,6 +546,8 @@
     <string name="tuesday">Martedì</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
+    <string name="v7_preference_off">DISATTIVATO</string>
+    <string name="v7_preference_on">ATTIVATO</string>
     <string name="virtual_reject_notice_content">È stata inviata una risposta vuota all\'app per proteggere le informazioni personali</string>
     <string name="virtual_reject_notice_title_calendar">Accesso al calendario tramite %1$s</string>
     <string name="virtual_reject_notice_title_calllog">Accesso alla cronologia delle chiamate tramite %1$s</string>
