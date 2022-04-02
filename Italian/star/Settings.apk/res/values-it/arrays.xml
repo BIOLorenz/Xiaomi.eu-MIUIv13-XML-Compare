@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="accessibility_button_location_selector_titles">
+        <item>Floating over other apps</item>
+        <item>Barra di navigazione</item>
+    </string-array>
+    <string-array name="accessibility_button_size_selector_titles">
+        <item>Piccolo</item>
+        <item>Largo</item>
+    </string-array>
     <string-array name="agps_network_entries">
         <item>Rete domestica</item>
         <item>Tutte le reti</item>
@@ -34,6 +42,23 @@
         <item>Giorni feriali</item>
         <item>Fine settimana</item>
         <item>Personalizza</item>
+    </string-array>
+    <string-array name="always_enabled_app_list">
+        <item>com.android.providers.applications</item>
+        <item>com.android.providers.calendar</item>
+        <item>com.android.providers.contacts</item>
+        <item>com.jeejen.family.miui</item>
+        <item>com.android.providers.drm</item>
+        <item>com.android.providers.media</item>
+        <item>com.android.providers.telephony</item>
+        <item>com.android.providers.userdictionary</item>
+        <item>com.miui.providers.userbook</item>
+        <item>com.miui.providers.weather</item>
+        <item>com.miui.yellowpage</item>
+        <item>com.miui</item>
+        <item>com.android.htmlviewer</item>
+        <item>com.google.android.packageinstaller</item>
+        <item>com.miui.core</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Animazioni disattivate</item>
@@ -351,8 +376,8 @@
         <item>Usa impostazione di sistema (Predefinito)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>Qualcomm® aptX™ audio</item>
-        <item>Qualcomm® aptX™ HD audio</item>
+        <item>Audio Qualcomm® aptX™</item>
+        <item>Audio Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
@@ -366,8 +391,8 @@
         <item>Usa impostazione di sistema (Predefinito)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>Qualcomm® aptX™ audio</item>
-        <item>Qualcomm® aptX™ HD audio</item>
+        <item>Audio Qualcomm® aptX™</item>
+        <item>Audio Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
@@ -382,6 +407,12 @@
         <item>" | Attivo"</item>
         <item>" | Attivo (media)"</item>
         <item>" | Attivo (telefono)"</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Predefinito)</item>
@@ -524,7 +555,7 @@
         <item>Asunción</item>
         <item>Barbados</item>
         <item>Belize</item>
-        <item>Bogotá</item>
+        <item>Bogotá</item>
         <item>Buenos Aires</item>
         <item>Cancun</item>
         <item>Caracas</item>
@@ -603,7 +634,7 @@
         <item>Ho Chi Minh</item>
         <item>Hong Kong</item>
         <item>Jakarta</item>
-        <item>Jerusalem</item>
+        <item>Gerusalemme</item>
         <item>Kabul</item>
         <item>Karachi</item>
         <item>Kathmandu</item>
@@ -621,7 +652,7 @@
         <item>Shanghai</item>
         <item>Singapore</item>
         <item>Taipei</item>
-        <item>Tehran</item>
+        <item>Teheran</item>
         <item>Tel Aviv</item>
         <item>Tokyo</item>
         <item>Ulaanbaatar</item>
@@ -639,17 +670,17 @@
         <item>Queensland</item>
         <item>Sydney</item>
         <item>Victoria</item>
-        <item>Newfoundland</item>
+        <item>Terranova</item>
         <item>Saskatchewan</item>
         <item>Easter Island</item>
         <item>Amsterdam</item>
         <item>Andorra</item>
         <item>Athens</item>
         <item>Belfast</item>
-        <item>Belgrade</item>
+        <item>Belgrado</item>
         <item>Berlin</item>
         <item>Bratislava</item>
-        <item>Brussels</item>
+        <item>Bruxelles</item>
         <item>Bucharest</item>
         <item>Budapest</item>
         <item>Chisinau</item>
@@ -666,7 +697,7 @@
         <item>Malta</item>
         <item>Minsk</item>
         <item>Monaco</item>
-        <item>Moscow</item>
+        <item>Mosca</item>
         <item>Oslo</item>
         <item>Paris</item>
         <item>Prague</item>
@@ -817,6 +848,12 @@
         <item>Blocco app</item>
         <item>Secondo spazio</item>
     </string-array>
+    <string-array name="config_skip_reset_apps_package_name">
+        <item>android</item>
+        <item>com.jeejen.family.miui</item>
+        <item>com.android.systemui</item>
+        <item>com.android.vending</item>
+    </string-array>
     <string-array name="connect_mode_entries">
         <item>Compatibilità</item>
         <item>Alta velocità</item>
@@ -966,6 +1003,11 @@
         <item>Dopo 5 minuti</item>
         <item>Mai</item>
     </string-array>
+    <string-array name="long_press_timeout_selector_list_titles">
+        <item>Short</item>
+        <item>Media</item>
+        <item>Lungo</item>
+    </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Breve</item>
         <item>Medio</item>
@@ -1063,6 +1105,232 @@ Nota: solo per Ubuntu 8.04!"</item>
     <string-array name="notification_shade_shortcut_entries">
         <item>Cerca</item>
         <item>Impostazioni</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+    <string-array name="organized_locales">
+        <item>af</item>
+        <item>al</item>
+        <item>dz</item>
+        <item>as</item>
+        <item>ad</item>
+        <item>ao</item>
+        <item>ai</item>
+        <item>ag</item>
+        <item>ar</item>
+        <item>am</item>
+        <item>aw</item>
+        <item>au</item>
+        <item>at</item>
+        <item>az</item>
+        <item>bs</item>
+        <item>bh</item>
+        <item>bd</item>
+        <item>bb</item>
+        <item>by</item>
+        <item>be</item>
+        <item>bz</item>
+        <item>bj</item>
+        <item>bt</item>
+        <item>bo</item>
+        <item>ba</item>
+        <item>bw</item>
+        <item>br</item>
+        <item>vg</item>
+        <item>bn</item>
+        <item>bg</item>
+        <item>bf</item>
+        <item>bi</item>
+        <item>kh</item>
+        <item>cm</item>
+        <item>ca</item>
+        <item>cv</item>
+        <item>bq</item>
+        <item>ky</item>
+        <item>td</item>
+        <item>cl</item>
+        <item>co</item>
+        <item>Km</item>
+        <item>cd</item>
+        <item>ck</item>
+        <item>cr</item>
+        <item>ci</item>
+        <item>hr</item>
+        <item>cu</item>
+        <item>cy</item>
+        <item>cz</item>
+        <item>dk</item>
+        <item>dj</item>
+        <item>dm</item>
+        <item>do</item>
+        <item>ec</item>
+        <item>eg</item>
+        <item>sv</item>
+        <item>gq</item>
+        <item>er</item>
+        <item>ee</item>
+        <item>et</item>
+        <item>fk</item>
+        <item>fo</item>
+        <item>fj</item>
+        <item>fi</item>
+        <item>fr</item>
+        <item>gf</item>
+        <item>pf</item>
+        <item>ga</item>
+        <item>gm</item>
+        <item>ge</item>
+        <item>de</item>
+        <item>gh</item>
+        <item>gi</item>
+        <item>gr</item>
+        <item>gl</item>
+        <item>gd</item>
+        <item>gu</item>
+        <item>gt</item>
+        <item>gg</item>
+        <item>gn</item>
+        <item>gw</item>
+        <item>gy</item>
+        <item>ht</item>
+        <item>hn</item>
+        <item>hk</item>
+        <item>hu</item>
+        <item>is</item>
+        <item>in</item>
+        <item>id</item>
+        <item>ir</item>
+        <item>iq</item>
+        <item>ie</item>
+        <item>im</item>
+        <item>il</item>
+        <item>it</item>
+        <item>jm</item>
+        <item>jp</item>
+        <item>je</item>
+        <item>jo</item>
+        <item>kz</item>
+        <item>ke</item>
+        <item>ki</item>
+        <item>kw</item>
+        <item>kg</item>
+        <item>la</item>
+        <item>lv</item>
+        <item>lb</item>
+        <item>ls</item>
+        <item>lr</item>
+        <item>ly</item>
+        <item>li</item>
+        <item>lt</item>
+        <item>lu</item>
+        <item>mo</item>
+        <item>mk</item>
+        <item>mg</item>
+        <item>mw</item>
+        <item>my</item>
+        <item>mv</item>
+        <item>ml</item>
+        <item>mt</item>
+        <item>mh</item>
+        <item>mr</item>
+        <item>mu</item>
+        <item>yt</item>
+        <item>mx</item>
+        <item>fm</item>
+        <item>md</item>
+        <item>mn</item>
+        <item>Io</item>
+        <item>ms</item>
+        <item>ma</item>
+        <item>mz</item>
+        <item>mm</item>
+        <item>na</item>
+        <item>nr</item>
+        <item>np</item>
+        <item>nl</item>
+        <item>nc</item>
+        <item>nz</item>
+        <item>ni</item>
+        <item>ng</item>
+        <item>nu</item>
+        <item>nf</item>
+        <item>kp</item>
+        <item>mp</item>
+        <item>no</item>
+        <item>om</item>
+        <item>pk</item>
+        <item>pw</item>
+        <item>ps</item>
+        <item>pa</item>
+        <item>pg</item>
+        <item>py</item>
+        <item>pe</item>
+        <item>ph</item>
+        <item>pl</item>
+        <item>pt</item>
+        <item>pr</item>
+        <item>qa</item>
+        <item>ro</item>
+        <item>ru</item>
+        <item>rw</item>
+        <item>sh</item>
+        <item>nm/h</item>
+        <item>lc</item>
+        <item>pm</item>
+        <item>vc</item>
+        <item>ws</item>
+        <item>sm</item>
+        <item>st</item>
+        <item>sa</item>
+        <item>sn</item>
+        <item>rs</item>
+        <item>sc</item>
+        <item>sl</item>
+        <item>sg</item>
+        <item>sk</item>
+        <item>si</item>
+        <item>sb</item>
+        <item>so</item>
+        <item>za</item>
+        <item>gs</item>
+        <item>kr</item>
+        <item>ss</item>
+        <item>es</item>
+        <item>lk</item>
+        <item>sd</item>
+        <item>sr</item>
+        <item>sz</item>
+        <item>se</item>
+        <item>ch</item>
+        <item>sy</item>
+        <item>tw</item>
+        <item>tj</item>
+        <item>tz</item>
+        <item>th</item>
+        <item>tl</item>
+        <item>tg</item>
+        <item>tk</item>
+        <item>a</item>
+        <item>tt</item>
+        <item>tn</item>
+        <item>tr</item>
+        <item>tm</item>
+        <item>tv</item>
+        <item>ug</item>
+        <item>ua</item>
+        <item>ae</item>
+        <item>gb</item>
+        <item>us</item>
+        <item>uy</item>
+        <item>uz</item>
+        <item>vu</item>
+        <item>ve</item>
+        <item>vn</item>
+        <item>ye</item>
+        <item>zm</item>
+        <item>zw</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Nessuno</item>
@@ -1328,7 +1596,7 @@ Nota: solo per Ubuntu 8.04!"</item>
         <item>Spenta</item>
         <item>Errore</item>
         <item>Avviso</item>
-        <item>Info</item>
+        <item>Dati</item>
         <item>Debug</item>
         <item>Dettagliato</item>
     </string-array>
@@ -1401,6 +1669,64 @@ Nota: solo per Ubuntu 8.04!"</item>
     <string-array name="status_bar_settings_qs_layout_entries">
         <item>Predefinita</item>
         <item>Compatto</item>
+    </string-array>
+    <string-array name="stylus_language_entries">
+        <item>Afrikaans</item>
+        <item>Čeština</item>
+        <item>Dansk</item>
+        <item>Deutsch</item>
+        <item>Inglese</item>
+        <item>Français</item>
+        <item>Italiano</item>
+        <item>Magyar</item>
+        <item>Nederlands</item>
+        <item>Norsk bokmål</item>
+        <item>Polski</item>
+        <item>Português</item>
+        <item>Română</item>
+        <item>Shqip</item>
+        <item>Suomi</item>
+        <item>Svenska</item>
+        <item>Türkçe</item>
+        <item>Ελληνικά</item>
+        <item>български</item>
+        <item>Русский</item>
+        <item>Українська</item>
+        <item>العربية</item>
+        <item>ไทย</item>
+        <item>日本語</item>
+        <item>繁體中文 (台灣)</item>
+        <item>繁體中文 (香港)</item>
+        <item>简体中文</item>
+        <item>한국어</item>
+        <item>Euskara</item>
+        <item>Беларуская</item>
+        <item>Bosanski</item>
+        <item>Català</item>
+        <item>Hrvatski</item>
+        <item>Eesti</item>
+        <item>فارسی</item>
+        <item>Galego</item>
+        <item>עברית</item>
+        <item>íslenska</item>
+        <item>Indonesia</item>
+        <item>Қазақ тілі</item>
+        <item>кыргыз тили</item>
+        <item>Latviešu</item>
+        <item>Lietuvių</item>
+        <item>македонски</item>
+        <item>Melayu</item>
+        <item>монгол</item>
+        <item>srpski</item>
+        <item>slovenčina</item>
+        <item>slovenščina</item>
+        <item>español</item>
+        <item>Swahili</item>
+        <item>Tagalog</item>
+        <item>тоҷикӣ</item>
+        <item>اردو</item>
+        <item>ўзбекча</item>
+        <item>Tiếng Kinh</item>
     </string-array>
     <string-array name="support_settings_haptic_device_list">
         <item>apollo</item>
@@ -1725,6 +2051,20 @@ Nota: solo per Ubuntu 8.04!"</item>
     <string-array name="wifi_wapi_key_type">
         <item>WAPI ASCII</item>
         <item>WAPI esadecimale</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>Scansione…</item>
+        <item>Connessione…</item>
+        <item>Autenticazione…</item>
+        <item>Acquisizione indirizzo IP…</item>
+        <item>Connesso</item>
+        <item>Sospeso</item>
+        <item>Disconnessione…</item>
+        <item>Disconnesso</item>
+        <item>Fallito</item>
+        <item>Bloccato</item>
+        <item>Al momento vengono evitate connessioni deboli</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animazioni disattivate</item>
