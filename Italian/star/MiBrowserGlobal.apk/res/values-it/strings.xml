@@ -128,10 +128,12 @@
     <string name="alert_tips">Questo sito potrebbe essere un rischio per la sicurezza</string>
     <string name="all">Tutto</string>
     <string name="allow">Consenti</string>
+    <string name="app_name_bluetooth">Bluetooth</string>
     <string name="app_name_camera">Fotocamera</string>
     <string name="app_name_downloadedrom">Pacchetti</string>
     <string name="app_name_downloads">Download</string>
     <string name="app_name_market">App store</string>
+    <string name="app_name_miui">MIUI</string>
     <string name="app_name_miuimusic">Musica</string>
     <string name="app_name_miuiringtone">Suoneria</string>
     <string name="app_name_miuiwallpaper">Sfondi</string>
@@ -213,6 +215,7 @@ Disattiva per fermare la sincronizzazione."</string>
     <string name="category_album">Album</string>
     <string name="category_all">Tutti i file</string>
     <string name="category_apk">APK</string>
+    <string name="category_bluetooth">Bluetooth</string>
     <string name="category_document">Documenti</string>
     <string name="category_download">Download</string>
     <string name="category_favorite">Preferiti</string>
@@ -353,6 +356,7 @@ Disattiva per fermare la sincronizzazione."</string>
     <string name="columbus_player_learn_more">Scopri di più</string>
     <string name="columbus_player_speed_title">Saltare il Video?</string>
     <string name="columbus_player_speed_video">Salta Il VIDEO</string>
+    <string name="columbus_skip_ad">Salta</string>
     <string name="com_facebook_device_auth_instructions">Visita &lt;b&gt;facebook.com/device&lt;/b&gt; ed inserisci il codice visualizzato sopra.</string>
     <string name="com_facebook_image_download_unknown_error">Errore inaspettato durante il download di un\'immagine.</string>
     <string name="com_facebook_internet_permission_error_message">Il login WebView richiede i permessi per accedere a internet</string>
@@ -404,9 +408,11 @@ Disattiva per fermare la sincronizzazione."</string>
     <string name="common_signin_button_text_long">Accedi con Google</string>
     <string name="common_use_phrase_bottom_bar_text_next">Successivo</string>
     <string name="common_use_phrase_bottom_bar_text_previous">Prec.</string>
+    <string name="confirm">OK</string>
     <string name="confirm_activate_email">Verificato</string>
     <string name="confirm_bundled_phone_dialog_title">Conferma numero di telefono associato</string>
     <string name="confirm_exit_cur_game">Chiudere questo gioco?</string>
+    <string name="confirm_know">OK</string>
     <string name="confirm_new_pwd">Conferma nuova password</string>
     <string name="confirm_privacy_password">Disegna la sequenza di sblocco</string>
     <string name="confirm_unbundled_phone_dialog_message">Questo numero di telefono è associato al Mi Account %2$s on %1$s. Non sarà più associato al Mi Account %3$s si  desidera continuare?</string>
@@ -438,6 +444,7 @@ Disattiva per fermare la sincronizzazione."</string>
     <string name="copy">Copia</string>
     <string name="copy_url">Copia URL link</string>
     <string name="could_not_load_data">"Impossibile caricare i dati, aggiorna e riprova"</string>
+    <string name="crash_page_button">Riprova</string>
     <string name="create_qr_code">Codice QR</string>
     <string name="current_version_pad">Tablet</string>
     <string name="current_version_phone">Telefono</string>
@@ -470,6 +477,7 @@ Le pagine visualizzate non appariranno nella cronologia."</string>
 ID:%s
 Invia questo codice al supervisore."</string>
     <string name="dialog_channel_cancel">Annulla</string>
+    <string name="dialog_channel_confirm">OK</string>
     <string name="dialog_channel_remove_content">Rimuovere tutti i canali rimuoverà anche il feed dei contenuti.</string>
     <string name="dialog_game_banner">Scopri i giochi più popolari!</string>
     <string name="dialog_game_close">Annulla</string>
@@ -521,6 +529,7 @@ Invia questo codice al supervisore."</string>
     <string name="download_dialog_insufficient_space_on_external">Spazio non sufficiente nella memoria del dispositivo</string>
     <string name="download_dialog_media_not_found">"Impossibile scaricare. Impossibile trovare il dispositivo di archiviazione esterno."</string>
     <string name="download_dialog_queued_body">Questo file è in coda per un download futuro.</string>
+    <string name="download_dialog_title_audio">Audio</string>
     <string name="download_dialog_title_not_available">"Impossibile scaricare"</string>
     <string name="download_dialog_title_queued_body">"File non ancora disponibile"</string>
     <string name="download_dialog_title_save_apk">Scarica app</string>
@@ -542,6 +551,7 @@ Invia questo codice al supervisore."</string>
     <string name="download_in_process">In download</string>
     <string name="download_keep_queued_download">Mantieni</string>
     <string name="download_list_no_items_tip">Nessun contenuto.</string>
+    <string name="download_list_open_xl_ok">OK</string>
     <string name="download_memory_info_avai">" disponibili %s|"</string>
     <string name="download_memory_info_total">" totale %s"</string>
     <string name="download_menu_title_clear_all">Cancella tutto</string>
@@ -653,6 +663,7 @@ Invia questo codice al supervisore."</string>
     <string name="exo_download_notification_channel_name">Download</string>
     <string name="exo_download_removing">Rimozione download</string>
     <string name="exo_track_selection_none">Nessuno</string>
+    <string name="exo_track_selection_title_audio">Audio</string>
     <string name="exo_track_selection_title_text">Testo</string>
     <string name="exo_track_stereo">Stereo</string>
     <string name="exo_track_surround">Suono surround</string>
@@ -707,14 +718,25 @@ Invia questo codice al supervisore."</string>
     <string name="fm_guide_btn">Ok</string>
     <string name="fm_guide_msg">È possibile gestire video, canzoni e immagini locali utilizzando Mi Browser!</string>
     <string name="fmt_chinese_date">dd/MM</string>
+    <string name="fmt_date_day">dd</string>
+    <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month">MMMM, yyyy</string>
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
+    <string name="fmt_date_numeric_day">dd</string>
+    <string name="fmt_date_numeric_month">MM</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">M/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
+    <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">zD T</string>
+    <string name="fmt_date_timezone">zD</string>
+    <string name="fmt_date_year">yyyy</string>
     <string name="folder_name_empty">"Il nome della cartella non può essere vuoto"</string>
     <string name="folder_name_illegal">Nome cartella non valido</string>
     <string name="follow_account_title">Account</string>
@@ -729,6 +751,7 @@ Invia questo codice al supervisore."</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
     <string name="gaid">GAID(Clicca Per Esportare)</string>
+    <string name="game_center_recommend_play">Riproduci</string>
     <string name="game_news_flow_download_bar_download">Scarica</string>
     <string name="game_news_flow_download_bar_play">Riproduci</string>
     <string name="game_played">Recenti</string>
@@ -741,6 +764,7 @@ Invia questo codice al supervisore."</string>
     <string name="geolocation_permissions_prompt_toast_disallowed">"Questo sito non può accedere alla tua posizione."</string>
     <string name="geolocation_settings_page_dialog_cancel_button">Annulla</string>
     <string name="geolocation_settings_page_dialog_message">Eliminare l\'accesso alla posizione per questo sito web?</string>
+    <string name="geolocation_settings_page_dialog_ok_button">OK</string>
     <string name="geolocation_settings_page_summary_allowed">Questo sito può accedere alla tua posizione</string>
     <string name="geolocation_settings_page_summary_not_allowed">"Questo sito non può accedere alla tua posizione"</string>
     <string name="geolocation_settings_page_title">Elimina accesso alla posizione</string>
@@ -790,6 +814,7 @@ Invia questo codice al supervisore."</string>
     <string name="homepage_search_hint">Cerca</string>
     <string name="homepage_top_card_menu">Migliori</string>
     <string name="hot_games">Popolari</string>
+    <string name="i_know">OK</string>
     <string name="identity">Identificazione</string>
     <string name="if_cancel">Annullare questa operazione?</string>
     <string name="ignore_add_game_center_dialog_this_week">"Non mostrare per questa settimana"</string>
@@ -1210,6 +1235,7 @@ Abbandonare questa pagina?"</string>
     <string name="nf_submit">Invia</string>
     <string name="nick_name">Soprannome</string>
     <string name="night">Sera</string>
+    <string name="no">No</string>
     <string name="no_account">Accesso non eseguito</string>
     <string name="no_apk">Tocca per vedere le app più utilizzate.</string>
     <string name="no_app_open_document">Nessuna applicazione trovata per gestire questa azione.</string>
@@ -1244,6 +1270,9 @@ Abbandonare questa pagina?"</string>
     <string name="notification_download_completed">Scaricato con successo</string>
     <string name="notification_download_failed">"Download fallito."</string>
     <string name="notification_wechat_expired_empty">WeChat ha già eliminato questi video.</string>
+    <string name="offline_opt_in_confirm">OK</string>
+    <string name="offline_opt_in_decline">Non ora</string>
+    <string name="ok">OK</string>
     <string name="open_app_confirm_message">Consentire a questa pagina di aprire %s?</string>
     <string name="open_private_folder">Creazione cartella nascosta…</string>
     <string name="open_settings">Vai alle impostazioni</string>
@@ -1350,6 +1379,7 @@ Abbandonare questa pagina?"</string>
     <string name="passport_wrong_phone_number_format">Il formato del numero inserito non è valido</string>
     <string name="passport_wrong_vcode">Il captcha inserito non è corretto</string>
     <string name="passport_wrong_voice">Il captcha inserito non è corretto</string>
+    <string name="password">Password</string>
     <string name="password_toggle_content_description">Mostra password</string>
     <string name="per_month">Al mese</string>
     <string name="permission_agree_service">"Ho letto e accettato i seguenti termini e condizioni."</string>
@@ -1589,6 +1619,7 @@ Alcuni siti non utilizzeranno la tua cronologia di navigazione precedente per pe
     <string name="privacy_title">Benvenuto in Mi Browser</string>
     <string name="private_title">File nascosti</string>
     <string name="progress_dialog_setting_wallpaper">Applico lo sfondo…</string>
+    <string name="psw_hint">Password</string>
     <string name="psw_sign_in">Accedi con password</string>
     <string name="pull_to_refresh">Tira in giù per aggiornare</string>
     <string name="pull_to_refresh_pull_label">Trascina per aggiornare</string>
@@ -1661,6 +1692,9 @@ Alcuni siti non utilizzeranno la tua cronologia di navigazione precedente per pe
     <string name="restart_phone_bind_message">È necessario un po\' di tempo per la ricezione dell\'SMS, sei sicuro di voler cambiare il recapito telefonico di ripristino?</string>
     <string name="restart_phone_bind_title">Modifica il numero di telefono di ripristino</string>
     <string name="return_to_homepage">Torna alla pagina iniziale</string>
+    <string name="risk_continue">Continua</string>
+    <string name="risk_detail">Dettagli</string>
+    <string name="risk_stop">Interrompi</string>
     <string name="rlv_last_refreshing_time">%1$s aggiornato</string>
     <string name="rlv_loading_more">Attendi…</string>
     <string name="rlv_pull_to_refresh">Tira in giù per aggiornare</string>
@@ -1995,6 +2029,7 @@ Potrai uscire dal programma in Impostazioni &gt; Privacy e Sicurezza"</string>
     <string name="version_check_button_update">Aggiorna</string>
     <string name="version_check_failed">"Impossibile verificare gli aggiornamenti"</string>
     <string name="version_dialog_4G_checkbox">Puoi aggiornare le app di sistema utilizzando i dati mobili. Ciò potrebbe comportare costi aggiuntivi per i dati.</string>
+    <string name="version_dialog_buttion_ok">OK</string>
     <string name="version_dialog_buttion_update">Aggiorna</string>
     <string name="version_update_file_download_toast">In download</string>
     <string name="version_update_file_not_found">"Nessun aggiornamento trovato"</string>
@@ -2078,6 +2113,8 @@ Size: %2$s"</string>
 Dimensione : %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">Aggiornamento %1$s !</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Spazio insufficientee, controlla la scheda SD.</string>
+    <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
     <string name="year_month_day_format">dd MMM, yyyy</string>
     <string name="yes">Sì</string>
     <string name="yesterday">Ieri</string>
