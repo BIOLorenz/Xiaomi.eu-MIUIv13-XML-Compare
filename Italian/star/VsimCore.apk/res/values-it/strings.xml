@@ -17,10 +17,14 @@
     <string name="abc_shareactionprovider_share_with">Condividi con</string>
     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
     <string name="abc_toolbar_collapse_description">Riduci</string>
+    <string name="app_name">, MConnService</string>
     <string name="assist_center_title">Usato attualmente</string>
     <string name="assist_center_traffic_title">Rimanente</string>
     <string name="assist_key1_title">Utilizzato oggi</string>
     <string name="assist_key2_title">Piano dati</string>
+    <string name="gb">GB</string>
+    <string name="kb">KB</string>
+    <string name="mb">MB</string>
     <string name="noti_key1_today_used">Oggi: %1$s</string>
     <string name="noti_key2_remain">Rimanente:%1$s</string>
     <string name="noti_key2_used">Utilizzato: %1$s</string>
