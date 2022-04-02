@@ -79,6 +79,7 @@
     <string name="bugreport_tool_log_dumping_title">Creazione segnalazione bug</string>
     <string name="catch_full_log_action_cancel">Annulla</string>
     <string name="catch_full_log_action_complete">Termina e carica</string>
+    <string name="catch_full_log_action_start">Avvia</string>
     <string name="catch_full_log_add_original_photo">Aggiungi un\'immagine o un breve video</string>
     <string name="catch_full_log_add_photo">Aggiungi foto</string>
     <string name="catch_full_log_add_photo_dialog_content">"Se il problema che stai segnalando è legato alla qualità dell'immagine della fotocamera, aggiungi una foto di esempio originale (non ritagliata) per aiutarci a individuare il problema. Aggiungere una foto ora?"</string>
@@ -89,6 +90,9 @@
 2. Torna a questa pagina e tocca \"Termina e carica\"."</string>
     <string name="catch_full_log_item_content_title">Passi</string>
     <string name="catch_full_log_item_title_audio">Audio, registrazione audio e chiamata</string>
+    <string name="catch_full_log_item_title_bt">Bluetooth</string>
+    <string name="catch_full_log_item_title_camera">Fotocamera</string>
+    <string name="catch_full_log_item_title_charge">Ricarica</string>
     <string name="catch_full_log_item_title_dump_heap">Lag</string>
     <string name="catch_full_log_item_title_gps">Servizi di localizzazione</string>
     <string name="catch_full_log_item_title_sensor">Sensori</string>
@@ -190,6 +194,7 @@
     <string name="confirm_unbundled_phone_dialog_message">Questo numero di telefono è associato al Mi Account %2$s on %1$s. Non sarà più associato al Mi Account %3$s si  desidera continuare?</string>
     <string name="copy">Copia</string>
     <string name="cta_cancel">Annulla</string>
+    <string name="cta_confirm">OK</string>
     <string name="cta_dialog_content">Questo servizio deve accedere ad internet per funzionare correttamente.</string>
     <string name="cta_dialog_title">Termini e Condizioni</string>
     <string name="cta_not_show_again">"Non mostrare più"</string>
@@ -207,6 +212,8 @@ Invia questo codice al supervisore."</string>
     <string name="discard_draft_dialog_button_discard">Ignora</string>
     <string name="discard_draft_dialog_content">"Tutte le modifiche apportate a questa segnalazione andranno perse."</string>
     <string name="discard_draft_dialog_title">Eliminare la bozza?</string>
+    <string name="doing_login">Accesso…</string>
+    <string name="doing_register">Creazione account…</string>
     <string name="early_morning">Mattina</string>
     <string name="earthly_branches_chen">Chen</string>
     <string name="earthly_branches_chou">Chou</string>
@@ -225,6 +232,7 @@ Invia questo codice al supervisore."</string>
     <string name="err_type">Tipologia bug</string>
     <string name="err_type_app">Applicazioni</string>
     <string name="err_type_appstore">App store</string>
+    <string name="err_type_bluetooth">Bluetooth</string>
     <string name="err_type_camera">Fotocamera</string>
     <string name="err_type_hardware_summary">Pulsanti, ricarica, sensori, ecc.</string>
     <string name="err_type_more">Altro</string>
@@ -248,6 +256,7 @@ Invia questo codice al supervisore."</string>
     <string name="feedback_answer_detail_feedback_resolved">Sì</string>
     <string name="feedback_answer_detail_feedback_result">Grazie per la segnalazione!</string>
     <string name="feedback_answer_detail_feedback_title">È stato utile?</string>
+    <string name="feedback_answer_detail_feedback_unresolved">No</string>
     <string name="feedback_answer_detail_relative_question">Questo potrebbe essere importante</string>
     <string name="feedback_answer_detail_submit_dialog_confirm">Invia</string>
     <string name="feedback_answer_detail_submit_dialog_content">"Puoi descrivere il problema che hai riscontrato e cercheremo di risolverlo. Inviare il feedback?"</string>
@@ -351,19 +360,24 @@ Invia questo codice al supervisore."</string>
     <string name="find_psw">Password dimenticata</string>
     <string name="fmt_chinese_date">dd/MM</string>
     <string name="fmt_date_day">dd</string>
+    <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month">MMMM, yyyy</string>
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">M/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
+    <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time_12hour">"hh"</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
     <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
@@ -390,6 +404,7 @@ Invia questo codice al supervisore."</string>
     <string name="get_phone_verifycode_exceed_limit">Troppi codici di verifica sono stati inviati a questo numero. Attendere 24 ore e riprovare.</string>
     <string name="goon_feedback_main">Continua</string>
     <string name="goto_sign_up">Crea account</string>
+    <string name="header_help">Guida</string>
     <string name="heavenly_stems_bing">Bing</string>
     <string name="heavenly_stems_ding">Ding</string>
     <string name="heavenly_stems_geng">Geng</string>
@@ -401,6 +416,7 @@ Invia questo codice al supervisore."</string>
     <string name="heavenly_stems_xin">Xin</string>
     <string name="heavenly_stems_yi">Yi</string>
     <string name="hint_feedback_main">Descrivi il problema</string>
+    <string name="i_get_it">Ok</string>
     <string name="i_know">OK</string>
     <string name="identity">Identificazione</string>
     <string name="inconsistent_pwd">"Le password non corrispondono"</string>
@@ -433,6 +449,9 @@ Invia questo codice al supervisore."</string>
     <string name="library_android_database_sqlcipher_libraryName">SQLCipher per Android</string>
     <string name="loading">Attendi…</string>
     <string name="loading_apps">Caricamento lista…</string>
+    <string name="login_by_local_phone_short_text">Accedi</string>
+    <string name="login_register_by_local_phone_long_text">Crea account</string>
+    <string name="login_with_sns">Altri modo per accedere</string>
     <string name="logo_title">Segnalazione</string>
     <string name="logout_account">Disconetti</string>
     <string name="menu_copy">Copia</string>
@@ -442,6 +461,8 @@ Invia questo codice al supervisore."</string>
     <string name="mi_service_dialog_content">Tutte le funzionalità di feedback sono state spostate nella nuova app \"Servizi e feedback\". L\'app Feedback verrà rimossa dalla schermata Home. Tocca \"Apri\" per provare \"Servizi e feedback\".</string>
     <string name="mi_service_dialog_title">Introduzione a \"Servizi e feedback\"</string>
     <string name="midnight">Notte</string>
+    <string name="miuix_access_state_desc">Selezionato</string>
+    <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleziona elementi</string>
@@ -456,6 +477,8 @@ Invia questo codice al supervisore."</string>
     <string name="miuix_appcompat_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
+    <string name="miuix_indexer_collect">Raccolte</string>
+    <string name="miuix_indexer_selected">Selezionato %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
@@ -533,6 +556,7 @@ Invia questo codice al supervisore."</string>
     <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
     <string name="net_error_info">Nessuna connessione di rete, tocca qui per andare nelle Impostazioni</string>
     <string name="network_err">"Nessuna rete disponibile"</string>
+    <string name="network_unavailable_dialog_button_ok">OK</string>
     <string name="network_unavailable_dialog_content">La tua segnalazione verrà inviata quando avrai una connessione dati.</string>
     <string name="network_unavailable_dialog_title">"Impossibile connettersi alla rete"</string>
     <string name="nick_name">Soprannome</string>
@@ -542,6 +566,7 @@ Invia questo codice al supervisore."</string>
     <string name="non_system_app_select">App scaricate</string>
     <string name="noon">Mezzogiorno</string>
     <string name="not_set">Non impostato</string>
+    <string name="ok">OK</string>
     <string name="open_feedback_main">Altro</string>
     <string name="open_settings">Vai alle impostazioni</string>
     <string name="passport_access_denied">Accesso negato</string>
@@ -641,16 +666,26 @@ Invia questo codice al supervisore."</string>
     <string name="photoPickerNotFoundText">Nessuna foto disponibile.</string>
     <string name="post_miui_bbs_failed">"Impossibile postare nel forum MIUI"</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
+    <string name="privacy_category_title">Privacy</string>
     <string name="privacy_policy_title">Informativa sulla privacy</string>
+    <string name="protocal_dialog_cancel">Annulla</string>
+    <string name="protocal_dialog_confirm">Accetto</string>
+    <string name="protocal_dialog_title">Attenzione</string>
+    <string name="psw_hint">Password</string>
     <string name="psw_sign_in">Accedi con password</string>
     <string name="refresh">Aggiorna</string>
+    <string name="register_by_local_phone_long_text">Crea account</string>
+    <string name="register_by_local_phone_short_text">Crea account</string>
     <string name="related_question_answer_details">Problema correlato</string>
     <string name="reply_failed">"Impossibile rispondere"</string>
     <string name="reply_option_log_hint">Facoltativo</string>
     <string name="reply_select_log_hint">Seleziona log</string>
     <string name="reply_successful">Risposta inviata</string>
     <string name="report_miui">Segnala un bug</string>
+    <string name="request_agree">Consenti</string>
     <string name="request_camera_permission_message">"Questo servizio richiede la tua autorizzazione, rispetteremo rigorosamente le leggi pertinenti per proteggere le tue informazioni personali: &lt;br&gt;&lt;br&gt;&lt;b&gt; Accesso Fotocamera: necessario per l'impostazione di Avatar &lt;/b&gt;&lt;br&gt;&lt;br&gt; Se non accetti di consentire i permessi di cui sopra, questa funzione non funzionerà correttamente, ma non influenzerà l'uso delle funzioni di base di questa applicazione. È possibile scegliere di disattivare l'autorizzazione di cui sopra nelle impostazioni di sistema."</string>
+    <string name="request_cancel">Annulla</string>
+    <string name="request_error_invalid_token">"Autenticazione non riuscita"</string>
     <string name="resend_active_email">Invia di nuovo</string>
     <string name="resend_email_reach_limit_message">"Hai richiesto troppe email di verifica. Assicurati che l'email di verifica non sia nella cartella Spam."</string>
     <string name="resend_email_reach_limit_title">Troppi tentativi</string>
@@ -674,6 +709,7 @@ Invia questo codice al supervisore."</string>
     <string name="sign_in">Accesso in corso</string>
     <string name="sign_in_progress">Accesso…</string>
     <string name="sign_in_title">Accedi con il tuo Mi Account</string>
+    <string name="skip_query_account">Salta</string>
     <string name="sms_send_success">Inviato correttamente</string>
     <string name="sns_access_token_expired_warning">Sessione scaduta. Effettua nuovamente l\'accesso per ricollegare questo account.</string>
     <string name="sns_bind_limit">Troppi tentativi. Prova ad accedere in altri modi.</string>
@@ -723,7 +759,7 @@ Invia questo codice al supervisore."</string>
     <string name="sunday_shortest">Dom</string>
     <string name="system_app_select">App integrate</string>
     <string name="tab_title_chat">Domande frequenti</string>
-    <string name="tab_title_my_reports">Le mie Segnalazioni</string>
+    <string name="tab_title_my_reports">Il mio feedback</string>
     <string name="tab_title_preferences">Impostazioni</string>
     <string name="tab_title_report">Segnalazione</string>
     <string name="temporary_not_available">"Questa funzione non è ancora disponibile"</string>
@@ -811,6 +847,7 @@ Invia questo codice al supervisore."</string>
     <string name="tuesday">Martedì</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
+    <string name="unknown_error_info">Errore sconosciuto</string>
     <string name="update_dialog_cancel">Annulla</string>
     <string name="update_dialog_confirm">Aggiorna</string>
     <string name="update_dialog_content_log">"Novità:
@@ -826,12 +863,17 @@ Dimensioni: %2$s"</string>
     <string name="user_avatar_update_title">Aggiorna immagine profilo</string>
     <string name="user_avatar_uploading">Attendi…</string>
     <string name="user_id_hint">Email/Telefono</string>
+    <string name="user_must_known">Attenzione</string>
+    <string name="user_name_phone_number">Numero di telefono</string>
     <string name="v7_preference_off">DISATTIVATO</string>
     <string name="v7_preference_on">ATTIVATO</string>
     <string name="v_code_title">Inserisci il codice di verifica</string>
     <string name="wednesday">Mercoledì</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
+    <string name="withdraw">Revoca</string>
+    <string name="withdraw_consent">Revoca autorizzazione...</string>
+    <string name="withdraw_consent_failed_hint_connect_net">Impossibile collegarsi alla rete. Controlla le impostazioni e riprova.</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Connessione al Download Manager fallita, controlla lo stato del Download Manager in Gestione Applicazioni.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Presentazione versione %1$s
 Size: %2$s"</string>
@@ -839,5 +881,7 @@ Size: %2$s"</string>
 Dimensione : %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">Aggiornamento %1$s !</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Spazio insufficientee, controlla la scheda SD.</string>
+    <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
     <string name="yesterday">Ieri</string>
 </resources>
