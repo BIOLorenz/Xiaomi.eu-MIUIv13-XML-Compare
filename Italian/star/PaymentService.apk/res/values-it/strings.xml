@@ -173,19 +173,24 @@ Invia questo codice al supervisore."</string>
     <string name="find_psw">Password dimenticata</string>
     <string name="fmt_chinese_date">dd/MM</string>
     <string name="fmt_date_day">dd</string>
+    <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month">MMMM, yyyy</string>
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">M/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
+    <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time_12hour">"hh"</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
     <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
@@ -222,6 +227,7 @@ Invia questo codice al supervisore."</string>
     <string name="heavenly_stems_xin">Xin</string>
     <string name="heavenly_stems_yi">Yi</string>
     <string name="hybrid_provider">Fornito da %1$s</string>
+    <string name="i_know">OK</string>
     <string name="identity">Identificazione</string>
     <string name="inconsistent_pwd">"Le password non corrispondono"</string>
     <string name="input_email_address_notice">"Useremo questa email per verificare il tuo account"</string>
@@ -230,6 +236,9 @@ Invia questo codice al supervisore."</string>
     <string name="just_a_second">Attendi…</string>
     <string name="loading">Attendi…</string>
     <string name="logout_account">Disconetti</string>
+    <string name="mibi_account_disable_dialog_btn_negative">Annulla</string>
+    <string name="mibi_account_disable_dialog_btn_positive">Attiva</string>
+    <string name="mibi_account_disable_dialog_title">Avviso</string>
     <string name="mibi_all_license_message">"Stai per utilizzare del Mi Credit, un servizio fornito da Xiaomi Inc. Prima che tu possa utilizzare questo servizio, dovrai concordare con i Termini di Servizio. Tocca OK se hai concordato con i termini e le condizioni descritte in %1$s e %2$s. Dovrai connetterti ad Internet, localizzare il tuo dispositivo ed utilizzare i Mi Credit.\""</string>
     <string name="mibi_app_name">Mi Credit</string>
     <string name="mibi_applock_config">"Impossibile impostare App lock quando è in uso lo Split Screen."</string>
@@ -237,6 +246,8 @@ Invia questo codice al supervisore."</string>
     <string name="mibi_applock_dialog_content">A causa di un aggiornamento di sistema, la sequenza di sblocco attuale è scaduta. Imposta una nuova sequenza di blocco.</string>
     <string name="mibi_applock_dialog_ok">Imposta</string>
     <string name="mibi_applock_dialog_title">Imposta una nuova sequenza di blocco</string>
+    <string name="mibi_auth_manage_perm_grant">Concesso</string>
+    <string name="mibi_auth_manage_perm_ungrant">Attiva</string>
     <string name="mibi_balance_payment_title">Mi Credit</string>
     <string name="mibi_balance_title">Saldo</string>
     <string name="mibi_bill_delete_dialog_title">Elimina %1$s</string>
@@ -372,6 +383,8 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_giftcard_with_num"><Data>&lt;font color=#FF7700&gt;&lt;xliff:g id=value&gt;%1$d&lt;/xliff:g&gt; Il coupon Mi Coin è disponibile&lt;/font&gt;</Data></string>
     <string name="mibi_header_network_error">"Impossibile collegarsi alla rete."</string>
     <string name="mibi_illegal_intent">Richiesta di intenti non valida</string>
+    <string name="mibi_incognito_mode_dialog_cancel">Annulla</string>
+    <string name="mibi_incognito_mode_dialog_to_close">Impostazioni</string>
     <string name="mibi_is_what">Cosa puoi acquistare con i Mi Credit?</string>
     <string name="mibi_label_balance">Saldo</string>
     <string name="mibi_label_giftcard">Carta regalo</string>
@@ -442,6 +455,7 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_paytool_msp_not_installed">Non hai installato il plugin di sicurezza mobile %1$s, installare ora?</string>
     <string name="mibi_paytool_paypal">PayPal</string>
     <string name="mibi_paytool_wechat_return_cancel">Annullamento ritorno WeChat</string>
+    <string name="mibi_paytool_weixin">WeChat</string>
     <string name="mibi_permanently_denied_perm_camera">Consenti l\'uso della fotocamera in Impostazioni per utilizzare le funzionalità.</string>
     <string name="mibi_permanently_denied_perm_send_sms">Consenti l\'invio di SMS in Impostazioni per utilizzare le funzionalità.</string>
     <string name="mibi_prepaid_card_order_info">%1$s carta di ricarica: RMB %2$s</string>
@@ -455,6 +469,7 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_prepaid_error_denomination">Seleziona ammontare</string>
     <string name="mibi_prepaid_error_password">Password carta non valida</string>
     <string name="mibi_prepaid_number_edit_hint">Numero</string>
+    <string name="mibi_prepaid_password_edit_hint">Password</string>
     <string name="mibi_prepaid_picker_hint_1_2">Supportato solo addebito una tantum;</string>
     <string name="mibi_prepaid_picker_hint_2_2_a">"Il valore nominale selezionato deve essere coerente con quello della carta prepagata. La scelta di un altro valore invaliderà la carta. Questa azione non può essere annullata."</string>
     <string name="mibi_prepaid_picker_hint_2_2_b">Se il valore nominale della carta prepagata non lo è del &lt;font color=red&gt;￥%1$s&lt;/font&gt;, la carta verrà invalidata. Xiaomi non si riterrà responsabile per eventuali perdite monetarie che potrebbero verificarsi a seguito di un errore dell\'utente.</string>
@@ -462,6 +477,7 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_prepaid_picker_title_default">Seleziona ammontare</string>
     <string name="mibi_prepaid_picker_title_selected">Ammontare</string>
     <string name="mibi_privacy_license_name">Informativa sulla Privacy</string>
+    <string name="mibi_privacy_manage_user_license">Accordo utente</string>
     <string name="mibi_privacy_policy">Informativa sulla Privacy</string>
     <string name="mibi_privacy_tip_message">"Non puoi utilizzare i Mi Credits dopo aver revocato l'autorizzazione."</string>
     <string name="mibi_privacy_tip_title">Concedi prima le autorizzazioni</string>
@@ -493,6 +509,7 @@ Verificheremo nuovamente in 2 giorni lavorativi.
 Centro servizio clienti:400-100-5678"</string>
     <string name="mibi_progress_warning_waiting">"Il pagamento non ha ancora raggiunto il tuo account."</string>
     <string name="mibi_prompt_info_button_hint">Attenzione (%d)</string>
+    <string name="mibi_prompt_info_button_text">OK</string>
     <string name="mibi_prompt_info_for_first_use">"I Mi Credit non possono essere utilizzati per acquistare prodotti hardware su Mi.com."</string>
     <string name="mibi_prompt_info_title">Suggerimenti</string>
     <string name="mibi_push_register_fail">Registrazione push non riuscita.</string>
@@ -509,13 +526,19 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="mibi_recharge_grid_money_picker_hint">Seleziona ammontare</string>
     <string name="mibi_recharge_label">Ricarica</string>
     <string name="mibi_recharge_mibi_title">Mi Credit</string>
+    <string name="mibi_recharge_more_channels_title">Altro</string>
     <string name="mibi_recharge_novalid_method">Nessun metodo di ricarica valido.</string>
     <string name="mibi_recharge_other">Visualizza altri metodi</string>
+    <string name="mibi_recharge_other_amount">Altro importo</string>
     <string name="mibi_recharge_push_notification_prime_title">%1$d aggiunti di %2$s Mi Credit presenti sul tuo account</string>
     <string name="mibi_recharge_push_notification_sub_title">Ricarica completa.</string>
     <string name="mibi_recharge_value_money">Acquista il valore di %s CNY in Mi Coins</string>
     <string name="mibi_recharge_value_money_special_unit">Acquista %1$s %2$s di Mi Coins</string>
     <string name="mibi_recharge_warn_text">"Non puoi pagare beni fisici usando Mi Credit."</string>
+    <string name="mibi_return">Ritorna</string>
+    <string name="mibi_review_model_icon_1">Tema</string>
+    <string name="mibi_review_model_icon_3">Leggi</string>
+    <string name="mibi_review_model_icon_5">Musica</string>
     <string name="mibi_scan_prompt_number">Scansionamento numero di carta prepagato %1$s</string>
     <string name="mibi_scan_prompt_password">Scansionamento password carta prepagata %1$s</string>
     <string name="mibi_scan_prompt_voucher">Scansionamento password Mi Credit</string>
@@ -536,6 +559,7 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="mibi_title_mili_center">Mi Credit</string>
     <string name="mibi_title_nopassword">"Non richiesto per piccoli pagamenti"</string>
     <string name="mibi_title_nopassword_dialog">Limite giornaliero</string>
+    <string name="mibi_title_password">Password</string>
     <string name="mibi_title_password_threshold">Limite giornaliero = ￥%1$s</string>
     <string name="mibi_title_sms_code">Prego immetti il codice di verifica del numero di telefono</string>
     <string name="mibi_unit">Mi Credit</string>
@@ -551,6 +575,8 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="mibi_web_login_waiting">Attendere prego…</string>
     <string name="mibi_web_sso_login_fail">Devi accedere di nuovo</string>
     <string name="midnight">Notte</string>
+    <string name="miuix_access_state_desc">Selezionato</string>
+    <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleziona elementi</string>
@@ -565,6 +591,8 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="miuix_appcompat_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
+    <string name="miuix_indexer_collect">Raccolte</string>
+    <string name="miuix_indexer_selected">Selezionato %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
@@ -577,6 +605,8 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
     <string name="month_april">Aprile</string>
+    <string name="month_april_short">Apr</string>
+    <string name="month_april_shortest">Apr</string>
     <string name="month_august">Agosto</string>
     <string name="month_august_short">Ago</string>
     <string name="month_august_shortest">Ago</string>
@@ -584,6 +614,8 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="month_december_short">Dic</string>
     <string name="month_december_shortest">Dic</string>
     <string name="month_february">Febbraio</string>
+    <string name="month_february_short">Feb</string>
+    <string name="month_february_shortest">Feb</string>
     <string name="month_january">Gennaio</string>
     <string name="month_january_short">Gen</string>
     <string name="month_january_shortest">Gen</string>
@@ -594,10 +626,14 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="month_june_short">Giu</string>
     <string name="month_june_shortest">Giu</string>
     <string name="month_march">Marzo</string>
+    <string name="month_march_short">Mar</string>
+    <string name="month_march_shortest">Mar</string>
     <string name="month_may">Maggio</string>
     <string name="month_may_short">Maggio</string>
     <string name="month_may_shortest">Maggio</string>
     <string name="month_november">Novembre</string>
+    <string name="month_november_short">Nov</string>
+    <string name="month_november_shortest">Nov</string>
     <string name="month_october">Ottobre</string>
     <string name="month_october_short">Ott</string>
     <string name="month_october_shortest">Ott</string>
@@ -613,6 +649,7 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="no_network">"Impossibile connettersi alla rete"</string>
     <string name="no_phone">Nessun numero di telefono</string>
     <string name="noon">Mezzogiorno</string>
+    <string name="ok">OK</string>
     <string name="open_settings">Vai alle impostazioni</string>
     <string name="passport_access_denied">Accesso negato</string>
     <string name="passport_account_label">Account</string>
@@ -709,6 +746,7 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="phone_num_use_for">Il numero di telefono viene utilizzato per:</string>
     <string name="phone_number">Numero di telefono</string>
     <string name="photoPickerNotFoundText">Nessuna foto disponibile.</string>
+    <string name="psw_hint">Password</string>
     <string name="psw_sign_in">Accedi con password</string>
     <string name="request_camera_permission_message">Questo servizio richiede la tua autorizzazione, rispetteremo rigorosamente le leggi pertinenti per proteggere le tue informazioni personali: &lt;br&gt;&lt;br&gt;&lt;b&gt; Accesso Fotocamera: necessario per l\'impostazione di Avatar &lt;/b&gt;&lt;br&gt;&lt;br&gt; Se non accetti di consentire i permessi di cui sopra, questa funzione non funzionerà correttamente, ma non influenzerà l\'uso delle funzioni di base di questa applicazione. È possibile scegliere di disattivare l\'autorizzazione di cui sopra nelle impostazioni di sistema.</string>
     <string name="resend_active_email">Invia di nuovo</string>
