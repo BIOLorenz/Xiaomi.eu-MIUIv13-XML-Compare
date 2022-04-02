@@ -177,6 +177,7 @@
     <string name="clock_bg_button_setting_summary_common">Seleziona il colore di sfondo per l\'app Orologio</string>
     <string name="clock_bg_button_setting_summary_follow_sys">Il nero verrà utilizzato come colore di sfondo ogni volta che passi al Dark mode</string>
     <string name="clock_bg_button_setting_title">Colore di sfondo</string>
+    <string name="clock_date_time_format_seconds_24">HH:mm:s</string>
     <string name="close">Chiudi</string>
     <string name="close_alarm">Disattiva</string>
     <string name="close_alarm_new">Interrompi</string>
@@ -430,6 +431,8 @@
     <string name="monday_shortest">Lun</string>
     <string name="monday_to_friday">da lunedì a venerdì</string>
     <string name="month_april">Aprile</string>
+    <string name="month_april_short">Apr</string>
+    <string name="month_april_shortest">Apr</string>
     <string name="month_august">Agosto</string>
     <string name="month_august_short">Ago</string>
     <string name="month_august_shortest">Ago</string>
@@ -437,6 +440,8 @@
     <string name="month_december_short">Dic</string>
     <string name="month_december_shortest">Dic</string>
     <string name="month_february">Febbraio</string>
+    <string name="month_february_short">Feb</string>
+    <string name="month_february_shortest">Feb</string>
     <string name="month_january">Gennaio</string>
     <string name="month_january_short">Gen</string>
     <string name="month_january_shortest">Gen</string>
@@ -447,10 +452,14 @@
     <string name="month_june_short">Giu</string>
     <string name="month_june_shortest">Giu</string>
     <string name="month_march">Marzo</string>
+    <string name="month_march_short">Mar</string>
+    <string name="month_march_shortest">Mar</string>
     <string name="month_may">Maggio</string>
     <string name="month_may_short">Maggio</string>
     <string name="month_may_shortest">Maggio</string>
     <string name="month_november">Novembre</string>
+    <string name="month_november_short">Nov</string>
+    <string name="month_november_shortest">Nov</string>
     <string name="month_october">Ottobre</string>
     <string name="month_october_short">Ott</string>
     <string name="month_october_shortest">Ott</string>
@@ -482,13 +491,22 @@
     <string name="other_category_title">Altro</string>
     <string name="other_settings">Altre impostazioni</string>
     <string name="pause">Pausa</string>
+    <string name="permission_desc">Dettagli permessi</string>
+    <string name="permission_granted">Concesso</string>
+    <string name="permission_rejected">Non concesso</string>
+    <string name="permission_related">Permessi</string>
     <string name="personal_recommend">Suggerimenti di contenuti personalizzati</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="privacy_policy">Informativa sulla Privacy</string>
     <string name="privacy_policy_title">Informativa sulla Privacy</string>
+    <string name="privacy_settings_title">Privacy</string>
+    <string name="query_privacy_policy">Visualizza Informativa sulla Privacy</string>
     <string name="reach_upper_limit">"Impossibile aggiungere altri timer"</string>
+    <string name="read_internal_storage">Accesso alla memoria</string>
+    <string name="remark_hint">Inserisci etichetta</string>
     <string name="remind_ringtone">Suoneria</string>
     <string name="repeat_count">Volte</string>
+    <string name="repeat_type">Ripeti</string>
     <string name="reset">Azzera</string>
     <string name="revert">Ripristina</string>
     <string name="ringtone_all">Tutte le suonerie</string>
@@ -507,7 +525,9 @@
     <string name="search_stopwatch_keywords">Cronometro</string>
     <string name="search_timer_keywords">Conto alla rovescia</string>
     <string name="search_worldclock_keywords">Orario;Fuso orario;Orologio</string>
+    <string name="select_all">Seleziona tutto</string>
     <string name="select_operation">Scegli</string>
+    <string name="selected">Selezionato</string>
     <string name="send">Invia</string>
     <string name="set_alarm">Imposta ora</string>
     <string name="set_alarm_choose_ringtone">Seleziona suoneria</string>
@@ -672,6 +692,7 @@
     <string name="timer_created">Timer impostato</string>
     <string name="timer_end_time">Il Timer si fermerà a %s</string>
     <string name="timer_end_time_format">HH:mm dd MMM</string>
+    <string name="timer_got_it">OK</string>
     <string name="timer_got_it_new">Silenzia</string>
     <string name="timer_is_paused">Il timer è stato messo in pausa</string>
     <string name="timer_item_delete">Elimina</string>
@@ -693,6 +714,7 @@
     <string name="tuesday_shortest">Mar</string>
     <string name="turn_off_a_repeat_alarm">Disattiva ripetizione sveglia</string>
     <string name="turn_off_this_repeat_alarm">Disattiva la ripetizione di questa sveglia</string>
+    <string name="unselect_all">Deseleziona tutto</string>
     <string name="upcoming_alarm">%s Sveglia in arrivo</string>
     <string name="upcoming_alarm_hint">Disattiva la sveglia in anticipo</string>
     <string name="update_health_app">Aggiorna Mi Health</string>
@@ -738,8 +760,5 @@
     <string name="worldcolock_timezone_date">dd MMM</string>
     <string name="worldcolock_timezone_gap">%s O</string>
     <string name="worldcolock_timezone_local">Identico all\'ora locale</string>
-    <string name="xiaomi_market_sdk_update_dialog_cancel">Non adesso</string>
-    <string name="xiaomi_market_sdk_update_dialog_ok">Aggiorna</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">Aggiornamento disponibile</string>
     <string name="yesterday">Ieri</string>
 </resources>
