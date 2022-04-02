@@ -32,18 +32,24 @@
     <string name="add_private_files">Aggiungi file</string>
     <string name="afternoon">Pomeriggio</string>
     <string name="aggree_desc">Consentire a questa applicazione di connettersi a Internet e concedere le autorizzazioni obbligatorie elencate sopra.</string>
+    <string name="agree">Accetto</string>
     <string name="app_all_purpose">Benvenuti in Gestore File! È possibile utilizzare questa applicazione per gestire i file memorizzati sul dispositivo. </string>
+    <string name="app_all_purpose_pad">Benvenuti in Gestore File! È possibile utilizzare questa applicazione per gestire i file memorizzati sul dispositivo. </string>
     <string name="app_function">Gestisci i file sul tuo dispositivo</string>
     <string name="app_name">File</string>
+    <string name="app_name_bluetooth">Bluetooth</string>
     <string name="app_name_camera">Fotocamera</string>
     <string name="app_name_downloadedrom">Pacchetti</string>
     <string name="app_name_downloads">Download</string>
     <string name="app_name_market">App store</string>
+    <string name="app_name_miui">MIUI</string>
     <string name="app_name_miuimusic">Musica</string>
     <string name="app_name_miuiringtone">Suoneria</string>
     <string name="app_name_miuiwallpaper">Sfondi</string>
     <string name="app_name_screenshot">Screenshot</string>
     <string name="big5_summary">Codifica predefinita del sistema Windows in Cinese tradizionale</string>
+    <string name="by_name">Nome</string>
+    <string name="by_size">Dimensione</string>
     <string name="byteShort">B</string>
     <string name="can_not_send_with_too_many">"Impossibile inviare così tanti elementi"</string>
     <string name="cancel">Annulla</string>
@@ -56,13 +62,17 @@
     <string name="category">Categorie</string>
     <string name="category_all">Tutto</string>
     <string name="category_apk">APK</string>
+    <string name="category_bluetooth">Bluetooth</string>
     <string name="category_document">Documenti</string>
     <string name="category_download">Download</string>
+    <string name="category_editor_mode">Modifica</string>
+    <string name="category_exit_editor_mode">Esci</string>
     <string name="category_favorite">Preferiti</string>
     <string name="category_file">File</string>
     <string name="category_files">File</string>
     <string name="category_installed_app">App di terze parti</string>
     <string name="category_midrive">Mi Drive</string>
+    <string name="category_more">Altro</string>
     <string name="category_music">Musica</string>
     <string name="category_other">Altro</string>
     <string name="category_photo">Foto</string>
@@ -75,6 +85,7 @@
     <string name="category_type_meida">Media</string>
     <string name="category_type_other">Altro</string>
     <string name="category_video">Video</string>
+    <string name="category_wechat">WeChat</string>
     <string name="category_zip">File Zip</string>
     <string name="cdd_message">"A causa delle restrizioni di Android 11, non sarà possibile visualizzare alcuni dei file generati all'interno di applicazioni di terze parti nel Gestore File."</string>
     <string name="cdd_title">Attenzione</string>
@@ -150,6 +161,7 @@
     <string name="chinese_symbol_animals_tiger">Tigre</string>
     <string name="chip_text">Testo Chip</string>
     <string name="clean_hint">Tocca per liberare spazio</string>
+    <string name="clean_hint_pad">Svuota il cestino per liberare spazio</string>
     <string name="clear_text_end_icon_content_description">Cancella testo</string>
     <string name="clearable_edittext_clear_description">Cancella</string>
     <string name="click_to_switch_volume">Tocca qui per cambiare tra memoria interna e scheda SD</string>
@@ -160,7 +172,9 @@
     <string name="compress_fail_unknown">"Impossibile comprimere. Memoria piena o errore sconosciuto."</string>
     <string name="compress_message">Comprimi in…</string>
     <string name="compress_title">Comprimi</string>
+    <string name="confirm">OK</string>
     <string name="confirm_clean">Pulizia</string>
+    <string name="confirm_know">OK</string>
     <string name="connection_error">"Connessione fallita"</string>
     <string name="connection_lost">Disconnesso</string>
     <string name="copy">Copia</string>
@@ -170,6 +184,7 @@
     <string name="create_shortcut_success">Collegamento aggiunto correttamente</string>
     <string name="data_consumption_cancel">"Non accetto"</string>
     <string name="data_consumption_checkbox_hint">"Non mostrare più"</string>
+    <string name="data_consumption_confirm">OK</string>
     <string name="data_consumption_message">"Questa app deve collegarsi alla rete tramite Wi-Fi per funzionare correttamente."</string>
     <string name="data_consumption_title">Termini e Condizioni</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
@@ -200,6 +215,7 @@
     <string name="des_hide_pwd">Nascondi password</string>
     <string name="des_show_pwd">Mostra password</string>
     <string name="dialog_select_type">Seleziona il tipo di file</string>
+    <string name="dialog_type_audio">Audio</string>
     <string name="dialog_type_image">Immagini</string>
     <string name="dialog_type_text">Documenti</string>
     <string name="dialog_type_video">Video</string>
@@ -221,6 +237,7 @@
     <string name="earthly_branches_yin">Yin</string>
     <string name="earthly_branches_you">You</string>
     <string name="earthly_branches_zi">Zi</string>
+    <string name="edit_quick_category">Modifica</string>
     <string name="enable_sd_card">Inserire la scheda SD o disabilitare la memoria di massa USB</string>
     <string name="enable_usb">Collega dispositivo USB</string>
     <string name="encrypt_error">"Impossibile nascondere, riprova"</string>
@@ -229,6 +246,7 @@
     <string name="encrypt_success">Tutti i file adesso sono nascosti</string>
     <string name="encrypt_success_first_five">"\"Crittografato correttamente. Tira in basso nella pagina principale di File Explorer per vedere i file."</string>
     <string name="encrypting">Crittografia…</string>
+    <string name="entry_phone_storage_internal">Memoria interna</string>
     <string name="eras_ad">AC</string>
     <string name="eras_bc">DC</string>
     <string name="error_contains_sharer_path">"Impossibile crittografare i file in /MIUI/Gallery/cloud/sharer, sposta il file in un'altra cartella e prova di nuovo"</string>
@@ -245,6 +263,7 @@
     <string name="error_not_support">Non supportato</string>
     <string name="error_open_file_failed_no_app_found">Nessuna applicazione trovata per l\'apertura del file</string>
     <string name="evening">Pomeriggio</string>
+    <string name="exit">Esci</string>
     <string name="expand_button_title">Avanzate</string>
     <string name="exposed_dropdown_menu_content_description">Mostra menu a tendina</string>
     <string name="extended_storage_file_can_not_open">"Impossibile aprire il file. Copia il file nella memoria interna.\""</string>
@@ -317,6 +336,7 @@
     <string name="ftp_anonymous_warning_title">Attenzione</string>
     <string name="ftp_invalid_username_or_password">Errore di autenticazione</string>
     <string name="ftp_open_port_error">"Impossibile aprire la porta FTP selezionata, verificare la connessione di rete e riprovare."</string>
+    <string name="ftp_password_hint">Password</string>
     <string name="ftp_port_number">Numero porta</string>
     <string name="ftp_transfer_secure">Sicurezza</string>
     <string name="ftp_username_and_passworld">Accedi</string>
@@ -359,6 +379,7 @@
     <string name="instruction">Inserire il seguente indirizzo:</string>
     <string name="instruction_pre_pad">Tocca per avviare il server FTP</string>
     <string name="instruction_pre_phone">Tocca per avviare il server FTP</string>
+    <string name="internal_storage">Memoria interna</string>
     <string name="item_view_role_description">Tocca</string>
     <string name="just_now">adesso</string>
     <string name="kilobyteShort">KB</string>
@@ -393,6 +414,7 @@
     <string name="menu_set_wallpaper">Imposta come sfondo</string>
     <string name="mi_router_label">Gateway</string>
     <string name="midnight">Notte</string>
+    <string name="midriver_install_button_text">Installa</string>
     <string name="midrop_msg_1">Attiva Mi Drop su altri dispositivi</string>
     <string name="midrop_msg_2">Quando Mi Drop è attivo, puoi cercare dispositivi vicini ed inviare file</string>
     <string name="midrop_send_files">Seleziona i file da inviare</string>
@@ -418,6 +440,8 @@
     <string name="mirror_tip_list">Lista</string>
     <string name="mirror_tip_refresh">Aggiorna</string>
     <string name="mirror_tip_show_type">Ordina per</string>
+    <string name="miuix_access_state_desc">Selezionato</string>
+    <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleziona elementi</string>
@@ -432,6 +456,8 @@
     <string name="miuix_appcompat_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
+    <string name="miuix_indexer_collect">Raccolte</string>
+    <string name="miuix_indexer_selected">Selezionato %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
@@ -511,15 +537,19 @@
     <string name="mtrl_picker_text_input_date_hint">Data</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
+    <string name="mtrl_picker_text_input_day_abbr">dd</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambia a modalità inserimento calendario</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tocca cambia per scegliere un giorno</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passa a modalità inserimento testo</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tocca per selezionare un anno</string>
     <string name="name_empty">Inserisci un nome</string>
+    <string name="need_open_permission">Permessi richiesti</string>
     <string name="need_read_storage_permission">"File Explorer richiede i permessi per accedere ala memoria del dispositivo"</string>
     <string name="network_not_available">"Impossibile connettersi alla rete"</string>
     <string name="new_folder_name">Note</string>
+    <string name="next">Successivo</string>
     <string name="night">Sera</string>
+    <string name="no">No</string>
     <string name="no_apk">Tocca per vedere le app più utilizzate.</string>
     <string name="no_app_tags">Vuoto</string>
     <string name="no_enough_storage_indication">"Spazio insufficiente, impossibile incollare. Cancella i file non necessari e riprova, oppure usa lo Strumento di Pulizia per liberare spazio."</string>
@@ -527,6 +557,7 @@
     <string name="no_file">Vuoto</string>
     <string name="no_wifi">Nessuna rete Wi-Fi</string>
     <string name="noon">Mezzogiorno</string>
+    <string name="not_added_category">Disponibile</string>
     <string name="not_set">Non impostato</string>
     <string name="not_support_documentui">"DocumentUI non è supportato su questo dispositivo"</string>
     <string name="not_use">Non adesso</string>
@@ -582,6 +613,7 @@
     <string name="password_toggle_content_description">Mostra password</string>
     <string name="path_name_email">E-mail</string>
     <string name="permission_denial">"Impossibile accedere ai file. Consenti ad Explorer di accedere ai file nelle impostazioni."</string>
+    <string name="permission_description">Dettagli permessi</string>
     <string name="permission_required">"Impossibile accedere ai file. Concedi ad Explorer di accedere ai file nelle impostazioni."</string>
     <string name="petabyteShort">PB</string>
     <string name="phone">Memoria interna</string>
@@ -602,6 +634,9 @@
     <string name="pick_folder">Seleziona una cartella</string>
     <string name="pkgname_zsxq">Pianeta della conoscenza</string>
     <string name="port_range">La porta deve essere compresa nell\'intervallo 1024–65535</string>
+    <string name="pref_permission_allowed">Concesso</string>
+    <string name="pref_permission_manage_key_storage">Accedi a foto e file sul dispositivo</string>
+    <string name="pref_permission_not_allowed">Non concesso</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="privacy_policy">Informativa sulla Privacy</string>
     <string name="private_files">Nascosti</string>
@@ -647,6 +682,8 @@
     <string name="save_file_to_mishare">"Salvato nella cartella Mi Share"</string>
     <string name="search_app">App e cartelle</string>
     <string name="search_app_more">Altro</string>
+    <string name="search_category">Categorie</string>
+    <string name="search_category_folder">Cartelle</string>
     <string name="search_description">Cerca tutti i file sul dispositivo</string>
     <string name="search_empty_view_hint">"Nessun risultato"</string>
     <string name="search_error_hint">Cerca</string>
@@ -656,6 +693,7 @@
     <string name="search_hint">Cerca</string>
     <string name="search_keyword">Tag</string>
     <string name="search_menu_title">Cerca</string>
+    <string name="search_more_category">Altro</string>
     <string name="search_result">Risultati…</string>
     <string name="search_result_more">Altro</string>
     <string name="search_title">Cerca</string>
@@ -704,6 +742,7 @@
     <string name="sort_hint_type">Ordina per tipo</string>
     <string name="sort_size_asc">Dal più piccolo al più grande</string>
     <string name="sort_size_desc">Dal più grande al più piccolo</string>
+    <string name="start_all">Mostra tutto</string>
     <string name="start_doc">Documenti</string>
     <string name="start_phone">File</string>
     <string name="start_server">Avvia</string>
@@ -781,6 +820,8 @@
     <string name="title_expire_video">Per scadere</string>
     <string name="title_recent">Recenti</string>
     <string name="title_select_volume">Seleziona cartella</string>
+    <string name="to_open">Impostazioni</string>
+    <string name="to_setting">Impostazioni</string>
     <string name="toast_file_not_can_read">Nessuna applicazione trovata per l\'apertura del file</string>
     <string name="today">Oggi</string>
     <string name="tomorrow">domani</string>
@@ -803,6 +844,7 @@
     <string name="use">Usa</string>
     <string name="use_to_all">Applica a tutti</string>
     <string name="used">Utilizzato:\u0020</string>
+    <string name="user_guide_continue_use">OK</string>
     <string name="user_not_login">Prima accedi</string>
     <string name="utf8_summary">Tipo di codifica predefinito</string>
     <string name="v7_preference_off">DISATTIVATO</string>
@@ -815,6 +857,8 @@
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
     <string name="wifi_state">Rete Wi-Fi</string>
+    <string name="withdraw">Revoca</string>
+    <string name="withdraw_consent">Revoca autorizzazione...</string>
     <string name="year_month_day_format">dd MMM, yyyy</string>
     <string name="yes">Sì</string>
     <string name="yesterday">Ieri</string>
