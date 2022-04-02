@@ -56,6 +56,10 @@
         <item quantity="other">Negato %2$d volte alle %1$s</item>
         <item quantity="one">Negato %2$d volta alle %1$s</item>
     </plurals>
+    <plurals name="app_behavior_desc_duration_usage">
+        <item quantity="other">Permesso %3$d volte tra le %1$s e le %2$s</item>
+        <item quantity="one">Permesso %3$d volta tra le %1$s e le %2$s</item>
+    </plurals>
     <plurals name="app_behavior_desc_virtual">
         <item quantity="other">Risposto con %3$d messaggi vuoti tra le %1$s e le %2$s</item>
         <item quantity="one">Risposto con %3$d messaggio vuoto tra le %1$s e le %2$s</item>
@@ -131,6 +135,10 @@
     <plurals name="applock_one_key_lock">
         <item quantity="other">%s app saranno protette con il blocco app</item>
         <item quantity="one">%s app sarà protetta con il blocco App</item>
+    </plurals>
+    <plurals name="behavior_widget_perm_counts">
+        <item quantity="other">%d volte</item>
+        <item quantity="one">%d volta</item>
     </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d app non possono collegarsi alla rete in background</item>
@@ -783,6 +791,10 @@ Puoi ottenere una prova gratuita di %d giorno!"</item>
     <plurals name="summary_flow_verify">
         <item quantity="other">"Non hai sincronizzato le statistiche sull'utilizzo dei dati con il tuo operatore da %d giorni"</item>
         <item quantity="one">"Non hai sincronizzato le statistiche sull'utilizzo dei dati con il tuo operatore da %d giorno"</item>
+    </plurals>
+    <plurals name="summary_result_absorbed_time_format">
+        <item quantity="other">%d minuti</item>
+        <item quantity="one">%d minuto</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d sicuri</item>
