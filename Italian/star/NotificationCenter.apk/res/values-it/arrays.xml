@@ -15,4 +15,8 @@
         <item>Mostra notifiche ma nascondi il contenuto</item>
         <item>"Non mostrare le notifiche nella schermata di blocco"</item>
     </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
 </resources>
