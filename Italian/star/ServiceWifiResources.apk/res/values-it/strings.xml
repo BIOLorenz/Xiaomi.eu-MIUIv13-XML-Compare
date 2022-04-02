@@ -2,9 +2,11 @@
 <resources>
     <string name="accept">Accetto</string>
     <string name="decline">Rifiuto</string>
+    <string name="dlg_ok">OK</string>
     <string name="notification_channel_network_alerts">Avvisi di rete</string>
     <string name="notification_channel_network_available">Rete disponibile</string>
     <string name="notification_channel_network_status">Stato della rete</string>
+    <string name="ok">OK</string>
     <string name="wifiResourcesAppLabel">Risorse Wi-Fi sistema</string>
     <string name="wifi_available_action_all_networks">Tutte le reti</string>
     <string name="wifi_available_action_connect">Connetti</string>
