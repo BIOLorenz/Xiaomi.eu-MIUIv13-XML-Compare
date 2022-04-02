@@ -224,6 +224,7 @@
     <string name="public_mi_privacy_purpose">Benvenuto in Mi Documenti. Questa app ti permette di visualizzare documenti di diversi formati.</string>
     <string name="public_no_format">Nessun formato</string>
     <string name="public_not_support_in_multiwindow">"Questa funzione non è supportata quando si utilizza lo schermo diviso"</string>
+    <string name="public_ok">OK</string>
     <string name="public_openDocumentFormatError">"Il file non può essere aperto a causa di contenuti non supportati."</string>
     <string name="public_open_file_failed">"Impossibile aprire il file"</string>
     <string name="public_open_file_in_error_account">"Impossibile aprire il file. Accedi prima al tuo account."</string>
