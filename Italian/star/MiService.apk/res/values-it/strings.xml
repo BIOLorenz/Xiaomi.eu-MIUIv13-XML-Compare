@@ -116,19 +116,24 @@
     <string name="expand_button_title">Avanzate</string>
     <string name="fmt_chinese_date">dd/MM</string>
     <string name="fmt_date_day">dd</string>
+    <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month">MMMM, yyyy</string>
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">M/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
+    <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time_12hour">"hh"</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
     <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
@@ -158,6 +163,7 @@
     <string name="heavenly_stems_wu">Wu</string>
     <string name="heavenly_stems_xin">Xin</string>
     <string name="heavenly_stems_yi">Yi</string>
+    <string name="i_get_it">Ok</string>
     <string name="icon_add_description">Aggiungi collegamento sulla Home</string>
     <string name="icon_remove_confirm">Rimuovi</string>
     <string name="icon_remove_description_content">"\"Servizi e Feedback\" è un'app di sistema. Sarai comunque in grado di utilizzarla tramite Impostazioni dopo aver rimosso il collegamento sulla schermata iniziale."</string>
@@ -180,6 +186,7 @@
     <string name="miui_feedback_answer_detail_feedback_resolved">Sì</string>
     <string name="miui_feedback_answer_detail_feedback_result">Grazie per la segnalazione!</string>
     <string name="miui_feedback_answer_detail_feedback_title">Questa informazione è stata utile?</string>
+    <string name="miui_feedback_answer_detail_feedback_unresolved">No</string>
     <string name="miui_feedback_answer_detail_menu_online_service">Ottieni aiuto online</string>
     <string name="miui_feedback_answer_detail_menu_phone_service">Chiama il supporto clienti</string>
     <string name="miui_feedback_answer_detail_relative_tip">Info correlate</string>
@@ -251,6 +258,7 @@
     <string name="miui_feedback_main_item_customer_service">Servizi post-vendita</string>
     <string name="miui_feedback_main_item_feedback_list">Il mio feedback</string>
     <string name="miui_feedback_main_menu_view_privacy">Informativa sulla Privacy</string>
+    <string name="miui_feedback_main_menu_view_withdraw_consent">Revoca autorizzazione...</string>
     <string name="miui_feedback_main_search_footer">"Non sono queste le domande che vuoi fare?"</string>
     <string name="miui_feedback_main_search_footer_submit">Invia Feedback</string>
     <string name="miui_feedback_main_search_issue">Inserisci le parole chiave da cercare</string>
@@ -260,6 +268,7 @@
     <string name="miui_feedback_main_submit_dialog_content">"Sembra che non siamo riusciti a trovare una soluzione al tuo problema. Puoi inviarci il tuo feedback."</string>
     <string name="miui_feedback_main_submit_dialog_title">Invia Feedback</string>
     <string name="miui_feedback_main_title">Segnalazione</string>
+    <string name="miui_feedback_main_withdraw">Revoca</string>
     <string name="miui_guide_accessibility_image_desc">Immagine</string>
     <string name="miui_guide_clear_db_service">\"Servizi e feedback\" sta pulendo la cache delle lingue…</string>
     <string name="miui_guide_footer_desc">"La guida del principiante è stata progettata per aiutarti a conoscere il tuo dispositivo e la MIUI. Alcune immagini e video nella guida sono stati creati solo a scopo di riferimento e possono differire dal prodotto effettivo. Le funzionalità descritte in questa guida possono variare a seconda del modello del tuo dispositivo, della versione MIUI e dell'ambiente di utilizzo."</string>
@@ -322,6 +331,8 @@
     <string name="miui_mine_select_city">Seleziona Città</string>
     <string name="miui_mine_top_bar_title">Il mio account</string>
     <string name="miui_mine_unlogin">Accedi</string>
+    <string name="miuix_access_state_desc">Selezionato</string>
+    <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleziona elementi</string>
@@ -336,6 +347,8 @@
     <string name="miuix_appcompat_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
+    <string name="miuix_indexer_collect">Raccolte</string>
+    <string name="miuix_indexer_selected">Selezionato %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
@@ -348,6 +361,8 @@
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
     <string name="month_april">Aprile</string>
+    <string name="month_april_short">Apr</string>
+    <string name="month_april_shortest">Apr</string>
     <string name="month_august">Agosto</string>
     <string name="month_august_short">Ago</string>
     <string name="month_august_shortest">Ago</string>
@@ -355,6 +370,8 @@
     <string name="month_december_short">Dic</string>
     <string name="month_december_shortest">Dic</string>
     <string name="month_february">Febbraio</string>
+    <string name="month_february_short">Feb</string>
+    <string name="month_february_shortest">Feb</string>
     <string name="month_january">Gennaio</string>
     <string name="month_january_short">Gen</string>
     <string name="month_january_shortest">Gen</string>
@@ -365,10 +382,14 @@
     <string name="month_june_short">Giu</string>
     <string name="month_june_shortest">Giu</string>
     <string name="month_march">Marzo</string>
+    <string name="month_march_short">Mar</string>
+    <string name="month_march_shortest">Mar</string>
     <string name="month_may">Maggio</string>
     <string name="month_may_short">Maggio</string>
     <string name="month_may_shortest">Maggio</string>
     <string name="month_november">Novembre</string>
+    <string name="month_november_short">Nov</string>
+    <string name="month_november_shortest">Nov</string>
     <string name="month_october">Ottobre</string>
     <string name="month_october_short">Ott</string>
     <string name="month_october_shortest">Ott</string>
@@ -401,10 +422,12 @@
     <string name="permission_storage_introduce">Per salvare elementi sul tuo dispositivo</string>
     <string name="permission_user_protocol">Accordo utente (obbligatorio)</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
+    <string name="public_authorize_now">Impostazioni</string>
     <string name="public_loading_text">Attendi…</string>
     <string name="public_net_error_retry">Riprova</string>
     <string name="public_net_error_sub_title">Controlla le tue impostazioni di rete e prova di nuovo</string>
     <string name="public_net_error_title">"Impossibile connettersi alla rete"</string>
+    <string name="public_open_feedback_service">Avvia</string>
     <string name="rationale_ask">L\'app potrebbe non funzionare correttamente senza le autorizzazioni richieste.</string>
     <string name="rationale_ask_again">Questa app potrebbe non funzionare correttamente senza le autorizzazioni richieste. Apri le impostazioni dell\'app per modificare le autorizzazioni.</string>
     <string name="saturday">Sabato</string>
@@ -420,6 +443,7 @@
     <string name="share_success">Condivisione riuscita</string>
     <string name="share_title">Condividi</string>
     <string name="share_wechat_timeline_title">Momenti WeChat</string>
+    <string name="share_wechat_title">WeChat</string>
     <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
     <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>
     <string name="solar_term_clear_and_bright">Chiaro e luminoso</string>
@@ -497,10 +521,12 @@
     <string name="tuesday">Martedì</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
+    <string name="user_must_known">Attenzione</string>
     <string name="v7_preference_off">DISATTIVATO</string>
     <string name="v7_preference_on">ATTIVATO</string>
     <string name="wednesday">Mercoledì</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
+    <string name="withdraw_consent_failed_hint_connect_net">Impossibile collegarsi alla rete. Controlla le impostazioni e riprova.</string>
     <string name="yesterday">Ieri</string>
 </resources>
