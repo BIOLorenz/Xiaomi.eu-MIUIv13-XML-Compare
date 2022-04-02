@@ -128,6 +128,10 @@
         <item quantity="other">%d dispositivi disponibili</item>
         <item quantity="one">%d dispositivo disponibile</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d secondi</item>
+        <item quantity="one">%d secondo</item>
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d dispositivi</item>
         <item quantity="one">%d dispositivo</item>
