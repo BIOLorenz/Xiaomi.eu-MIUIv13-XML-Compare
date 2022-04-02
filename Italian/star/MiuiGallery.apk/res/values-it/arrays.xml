@@ -19,6 +19,11 @@
         <item>Giorno da ricordare</item>
         <item>Momenti vivaci</item>
     </string-array>
+    <string-array name="annual_travel_title">
+        <item>Ciao mondo!</item>
+        <item>On the road</item>
+        <item>A kaleidoscope of places</item>
+    </string-array>
     <string-array name="baby_sexy">
         <item>Ragazzo</item>
         <item>Ragazza</item>
@@ -49,6 +54,11 @@
         <item>Festival delle barche del drago negli anni</item>
         <item>Festival Qixi negli anni</item>
         <item>Festival di Metà Autunno negli anni</item>
+    </string-array>
+    <string-array name="chinese_new_year_eve_title">
+        <item>A night to remember</item>
+        <item>New page</item>
+        <item>Fuochi d\'artificio</item>
     </string-array>
     <string-array name="holiday_last_year">
         <item>"Il Capodanno precedente"</item>
@@ -211,6 +221,11 @@
         <item>Brasile</item>
         <item>Islanda</item>
         <item>Kenya</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Sposta</item>
+        <item>Copia</item>
+        <item>@string/cancel</item>
     </string-array>
     <string-array name="month">
         <item>Gennaio</item>
