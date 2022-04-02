@@ -182,6 +182,7 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="cloud_back_up_frequence_choice_title">Programmazione backup</string>
     <string name="cloud_back_up_frequence_long">Ogni 7 giorni</string>
     <string name="cloud_back_up_frequence_short">Ogni giorno</string>
+    <string name="cloud_back_up_ok_btn">OK</string>
     <string name="cloud_back_up_opening">Attendi…</string>
     <string name="cloud_back_up_subscribe_vip_confirm">Aggiorna</string>
     <string name="cloud_back_up_subscribe_vip_discription">Ottini più spazio di archiviazione, backup giornalieri ed altro.</string>
@@ -235,8 +236,10 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="dialog_btn_next">Successivo</string>
     <string name="dialog_btn_overwrite_backup">Sovrascrivi</string>
     <string name="dialog_btn_restore_skip">Ripristina più tardi</string>
+    <string name="dialog_button_agree">Consenti</string>
     <string name="dialog_buy_cloud_space">Aggiorna</string>
     <string name="dialog_cancel_backup_cancel">Annulla</string>
+    <string name="dialog_cancel_backup_confirm">OK</string>
     <string name="dialog_cancel_backup_msg">Lo spostamento dello switch terminerà il backup in corso.</string>
     <string name="dialog_cancel_backup_title">Annullare il backup in corso?</string>
     <string name="dialog_cloud_space_not_enough">Questo backup richiede %1$s di memoria cloud libera. Aggiorna il tuo piano di archiviazione per eseguire il backup.</string>
@@ -341,6 +344,8 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="menu_item_sort_name">Nome</string>
     <string name="menu_item_sort_size">Dimensione</string>
     <string name="midnight">Notte</string>
+    <string name="miuix_access_state_desc">Selezionato</string>
+    <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleziona elementi</string>
@@ -355,6 +360,8 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="miuix_appcompat_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
+    <string name="miuix_indexer_collect">Raccolte</string>
+    <string name="miuix_indexer_selected">Selezionato %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
@@ -367,6 +374,8 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
     <string name="month_april">Aprile</string>
+    <string name="month_april_short">Apr</string>
+    <string name="month_april_shortest">Apr</string>
     <string name="month_august">Agosto</string>
     <string name="month_august_short">Ago</string>
     <string name="month_august_shortest">Ago</string>
@@ -374,6 +383,8 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="month_december_short">Dic</string>
     <string name="month_december_shortest">Dic</string>
     <string name="month_february">Febbraio</string>
+    <string name="month_february_short">Feb</string>
+    <string name="month_february_shortest">Feb</string>
     <string name="month_january">Gennaio</string>
     <string name="month_january_short">Gen</string>
     <string name="month_january_shortest">Gen</string>
@@ -384,10 +395,14 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="month_june_short">Giu</string>
     <string name="month_june_shortest">Giu</string>
     <string name="month_march">Marzo</string>
+    <string name="month_march_short">Mar</string>
+    <string name="month_march_shortest">Mar</string>
     <string name="month_may">Maggio</string>
     <string name="month_may_short">Maggio</string>
     <string name="month_may_shortest">Maggio</string>
     <string name="month_november">Novembre</string>
+    <string name="month_november_short">Nov</string>
+    <string name="month_november_shortest">Nov</string>
     <string name="month_october">Ottobre</string>
     <string name="month_october_short">Ott</string>
     <string name="month_october_shortest">Ott</string>
