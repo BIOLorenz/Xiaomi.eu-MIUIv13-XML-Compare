@@ -47,8 +47,10 @@
     <string name="activity_title_uninstall_apps">Applicazioni</string>
     <string name="activity_title_video">Elimina video</string>
     <string name="activity_title_white_list">Eccezioni</string>
+    <string name="ad_description" formatted="false">%s | Versione %s | %s | %s</string>
     <string name="ad_install_success_dialog_lunch">Apri</string>
     <string name="ad_install_success_dialog_title">%1$s installazioni completate. Aprire adesso?</string>
+    <string name="ad_text_btn_download">Installa</string>
     <string name="afternoon">Pomeriggio</string>
     <string name="analying">Analisi in corso...</string>
     <string name="apk_status_damage">Corrotta</string>
@@ -61,8 +63,12 @@
     <string name="app_clean_group_document_send">File inviati</string>
     <string name="app_clean_group_image_recv">Immagini ricevute</string>
     <string name="app_clean_group_image_send">Immagini inviate</string>
+    <string name="app_cleaned">Eliminato con successo</string>
     <string name="app_description_content">L\'app Pulizia trova ed elimina i file inutili per liberare spazio. Assicurati di poter fare a meno di queste funzionalità prima di eliminare l\'app.</string>
     <string name="app_description_title">Informazioni</string>
+    <string name="app_reset">Reimposta</string>
+    <string name="app_specific_clean">Pulitore app</string>
+    <string name="app_unload">Disinstalla</string>
     <string name="app_usage_never">Non usato di recente</string>
     <string name="app_usage_recently">Usato di recente</string>
     <string name="appcleaner_g_audio_summary_qq">Elimina definitivamente i messaggi vocali di QQ</string>
@@ -142,6 +148,8 @@
     <string name="button_text_install">Installa</string>
     <string name="button_text_install_now">Installa</string>
     <string name="button_text_keep_one">Mantieni una foto</string>
+    <string name="button_text_known">OK</string>
+    <string name="button_text_let_me_select">OK</string>
     <string name="button_text_not_prompt_again">"Non mostrare più"</string>
     <string name="button_text_photo_selected">Selezionato</string>
     <string name="button_text_restore_ignore">Annulla</string>
@@ -162,6 +170,7 @@
     <string name="cache_title_system_cache">Cache di sistema</string>
     <string name="call_log">Registro chiamate</string>
     <string name="cancel">Annulla</string>
+    <string name="cancel_select_all">Deseleziona tutto</string>
     <string name="cd_back">indietro</string>
     <string name="cd_check_box_checked">verificato</string>
     <string name="cd_check_box_middle">selezione parziale</string>
@@ -240,6 +249,8 @@
     <string name="chinese_symbol_animals_sheep">Pecora</string>
     <string name="chinese_symbol_animals_snake">Serpente</string>
     <string name="chinese_symbol_animals_tiger">Tigre</string>
+    <string name="clean_ing">Pulizia…</string>
+    <string name="clean_item_tip_unload_app">Disinstalla %s</string>
     <string name="clean_master_icon_recall_button_text">Aggiungi</string>
     <string name="clean_master_icon_recall_dialog_button_negative">Non ora</string>
     <string name="clean_master_icon_recall_dialog_button_positive">Aggiungi</string>
@@ -250,6 +261,7 @@
     <string name="clean_master_icon_recall_title">Svuota il cestino rapidamente</string>
     <string name="clean_master_icon_recall_toast_text">Collegamento aggiunto correttamente</string>
     <string name="clean_summary">%1$s file puliti</string>
+    <string name="clear_app_data">Cancella</string>
     <string name="clear_bigfiles">Elimina file di grosse dimensioni, foto duplicate ed altri file inutili</string>
     <string name="clear_immediately">Pulisci adesso</string>
     <string name="clear_safe_notify">Widget pannello notifiche</string>
@@ -257,8 +269,11 @@
     <string name="clip_board_history_desc">Contenuti copiati/tagliati</string>
     <string name="clipboard">Appunti</string>
     <string name="close">Chiudi</string>
+    <string name="confirm_auto_cleaner">OK</string>
     <string name="conn_of_function_safe">Connessione di rete per sicurezza</string>
     <string name="connecting">Connessione…</string>
+    <string name="continue_check">Scegli</string>
+    <string name="continue_to_do">Continua</string>
     <string name="copy">Copia</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
@@ -300,6 +315,7 @@
     <string name="deepclean_list_item_from_dcim_thumbnails">Anteprime</string>
     <string name="deepclean_list_item_from_download">Download</string>
     <string name="deepclean_list_item_from_gallery">Galleria</string>
+    <string name="deepclean_list_item_from_miui">MIUI</string>
     <string name="deepclean_list_item_from_music">Musica</string>
     <string name="deepclean_list_item_from_sdcard">Scheda SD</string>
     <string name="deepclean_normal_item_desc1">Pulizia generale</string>
@@ -319,6 +335,7 @@
     <string name="default_cache_type">Dati File</string>
     <string name="delete_confirm">Elimina</string>
     <string name="delete_confirm_msg">Eliminare questi file in modo permanente?</string>
+    <string name="delete_slected_data">Azzera</string>
     <string name="desc_image">immagine</string>
     <string name="dialog_content_checkbox_delete_cloud_image">Rimuovi le foto anche da Mi Cloud</string>
     <string name="dialog_content_select_all_confirm">Mantenere una copia di questa immagine?</string>
@@ -371,6 +388,9 @@
     <string name="eras_ad">AC</string>
     <string name="eras_bc">DC</string>
     <string name="evening">Pomeriggio</string>
+    <string name="exo_download_description">Scarica</string>
+    <string name="exo_download_downloading">In download</string>
+    <string name="exo_download_notification_channel_name">Download</string>
     <string name="expand_button_title">Avanzate</string>
     <string name="facebook_clean_exit_confirm_cancel">Continua</string>
     <string name="facebook_clean_exit_confirm_msg">"La scansione di Facebook non é stata completata. Interrompere comunque?"</string>
@@ -432,6 +452,7 @@
     <string name="gb_global_icon_ad_card_btn">OTTIENI</string>
     <string name="gb_global_icon_ad_card_title">Suggerito per te</string>
     <string name="gigabyteShort">GB</string>
+    <string name="global_wa_audio">Audio</string>
     <string name="global_wa_audio_item_title">Messaggi vocali</string>
     <string name="global_wa_backend_alert_dialog_content">Libera spazio cancellando gli elementi di WhatsApp</string>
     <string name="global_wa_backend_alert_dialog_title">Pulizia WhatsApp</string>
@@ -455,6 +476,7 @@
     <string name="global_wa_main_item_title_cache">Cache delle app</string>
     <string name="global_wa_main_item_title_chat">Allegati</string>
     <string name="global_wa_main_stop_cancel">Annulla</string>
+    <string name="global_wa_main_stop_confirm">OK</string>
     <string name="global_wa_main_stop_msg">Interrompere la scansione di WhatsApp?</string>
     <string name="global_wa_main_stop_scan">Interrompi</string>
     <string name="global_wa_main_to_clean">Cancella</string>
@@ -471,6 +493,7 @@
     <string name="global_wa_setting_other_pref_category_title">Altro</string>
     <string name="global_wa_setting_other_pref_reconmmend_title">Consigliati</string>
     <string name="global_wa_setting_other_pref_shortcut_title">Collegamento Home</string>
+    <string name="global_wa_setting_privacy_pref_category_title">Privacy</string>
     <string name="global_wa_setting_privacy_pref_mi_title">Informativa sulla privacy Xiaomi</string>
     <string name="global_wa_setting_privacy_pref_third_title">Condizioni sulla privacy di terze parti</string>
     <string name="global_wa_shortcut_dialog_cancel">Annulla</string>
@@ -486,6 +509,7 @@
     <string name="grabage_rank_title">Pulito oggi</string>
     <string name="guide_dc_dialog_message">"Ci sono meno di 2GB di spazio libero rimanente. Questo potrebbe rallentare il tuo dispositivo. Esegui una pulizia profonda per liberare spazio di archiviazione."</string>
     <string name="guide_dc_dialog_negative">Annulla</string>
+    <string name="guide_dc_dialog_positive">OK</string>
     <string name="guide_dc_dialog_title">Spazio di archiviazione in esaurimento</string>
     <string name="guide_secure_dialog_message">Il punteggio di ottimizzazione è inferiore a 80 punti. Ottimizzare ora?</string>
     <string name="guide_secure_dialog_negative">Annulla</string>
@@ -565,7 +589,9 @@
     <string name="install_time_format">dd/MM/yyyy</string>
     <string name="installed">Scaricati</string>
     <string name="installing">Installazione</string>
+    <string name="is_Scanning">Scansione…</string>
     <string name="item_title_process_mode">Scegli un\'azione</string>
+    <string name="jump_to_next">Salta</string>
     <string name="junk_syscache_alert_desc">Non è consigliato pulire questa cache, &lt;font color=#d64438&gt;potrebbe influire sul normale funzionamento dell\'app&lt;/font&gt;</string>
     <string name="junk_tag_RF_DalvikCacheLeftovers">Residuo di sistema (Dalvik-Cache)</string>
     <string name="junk_tag_RF_DemoVideo_LG">Video dimostrativo del telefono cellulare LG</string>
@@ -610,6 +636,7 @@
     <string name="long_click_dialog_summary">Tieni premuto per aggiungere eccezioni.</string>
     <string name="long_click_dialog_title">Avviso</string>
     <string name="low_memory_clean_dialog_msg">Prima pulisci almeno 100MB di file</string>
+    <string name="low_memory_clean_dialog_ok_button">OK</string>
     <string name="low_memory_clean_dialog_title">Spazio libero insufficiente</string>
     <string name="low_memory_warning_dialog_cancel_button">Annulla</string>
     <string name="low_memory_warning_dialog_msg">Libera spazio sul tuo dispositivo per continuare</string>
@@ -631,6 +658,8 @@
     <string name="menu_text_optimize_manage_1">Velocizza</string>
     <string name="menu_view">Mostra nella cartella</string>
     <string name="midnight">Notte</string>
+    <string name="miuix_access_state_desc">Selezionato</string>
+    <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleziona elementi</string>
@@ -645,6 +674,8 @@
     <string name="miuix_appcompat_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
+    <string name="miuix_indexer_collect">Raccolte</string>
+    <string name="miuix_indexer_selected">Selezionato %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
@@ -657,6 +688,8 @@
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
     <string name="month_april">Aprile</string>
+    <string name="month_april_short">Apr</string>
+    <string name="month_april_shortest">Apr</string>
     <string name="month_august">Agosto</string>
     <string name="month_august_short">Ago</string>
     <string name="month_august_shortest">Ago</string>
@@ -665,6 +698,8 @@
     <string name="month_december_short">Dic</string>
     <string name="month_december_shortest">Dic</string>
     <string name="month_february">Febbraio</string>
+    <string name="month_february_short">Feb</string>
+    <string name="month_february_shortest">Feb</string>
     <string name="month_january">Gennaio</string>
     <string name="month_january_short">Gen</string>
     <string name="month_january_shortest">Gen</string>
@@ -675,10 +710,14 @@
     <string name="month_june_short">Giu</string>
     <string name="month_june_shortest">Giu</string>
     <string name="month_march">Marzo</string>
+    <string name="month_march_short">Mar</string>
+    <string name="month_march_shortest">Mar</string>
     <string name="month_may">Maggio</string>
     <string name="month_may_short">Maggio</string>
     <string name="month_may_shortest">Maggio</string>
     <string name="month_november">Novembre</string>
+    <string name="month_november_short">Nov</string>
+    <string name="month_november_shortest">Nov</string>
     <string name="month_october">Ottobre</string>
     <string name="month_october_short">Ott</string>
     <string name="month_october_shortest">Ott</string>
@@ -699,6 +738,7 @@
     <string name="nb_clear_set">Cancella cache, visualizza le informazioni sulla batteria e sulla lista dei blocchi nell\'Area di notifica</string>
     <string name="network_not_available">"Impossibile connettersi alla rete"</string>
     <string name="news_change">Cambia</string>
+    <string name="next_step">Successivo</string>
     <string name="night">Sera</string>
     <string name="no_network">"Impossibile collegarsi alla rete, riprova più tardi"</string>
     <string name="no_network_btn">Riprova</string>
@@ -758,6 +798,7 @@
     <string name="notification_wechat_clean_middle_level_text_b">"Il cestino di WeChat rallenta l'app"</string>
     <string name="notification_whatsapp_clean_button_text">Cancella</string>
     <string name="notification_whatsapp_clean_size">La cache di WhatsApp ha raggiunto i %s</string>
+    <string name="ok">OK</string>
     <string name="one_tap_clean_GB">%sG</string>
     <string name="onekeyclean_boost_available">%s disponibile</string>
     <string name="onekeyclean_boost_cleaned">%s eliminati</string>
@@ -778,6 +819,7 @@
     <string name="permission_dialog_storage_title">Permessi richiesti</string>
     <string name="petabyteShort">PB</string>
     <string name="phone_search">Ricerca Google</string>
+    <string name="positive_confirm">OK</string>
     <string name="powerful_acceleration">Deframmentazione</string>
     <string name="powerful_acceleration_after">Dopo</string>
     <string name="powerful_acceleration_before">Prima</string>
@@ -870,6 +912,7 @@
     <string name="search_menu_title">Cerca</string>
     <string name="security_center_slogan">Sicurezza. Sempre in guardia.</string>
     <string name="see_more">Altro</string>
+    <string name="select_all">Seleziona tutto</string>
     <string name="send">Invia</string>
     <string name="set_immediately">Imposta</string>
     <string name="seton_immediately">Attiva</string>
@@ -909,6 +952,7 @@
     <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
     <string name="sponsored">Sponsorizzato</string>
+    <string name="start_clean">Avvia</string>
     <string name="start_downloading_app">Avvio download: %1$s</string>
     <string name="start_install">Installa ora</string>
     <string name="summary_delete_apk">Eliminare definitivamente gli APK selezionati?</string>
@@ -966,6 +1010,7 @@
     <string name="thursday_short">Gio</string>
     <string name="thursday_shortest">Gio</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
+    <string name="tips_app_specific_clean_result_page">Libera spazio di archiviazione</string>
     <string name="tips_low_storage_dialog_cancel">Annulla</string>
     <string name="tips_low_storage_dialog_msg_qq">La cache di QQ ha raggiunto 3 GB. Questo può rallentare il dipositivo. Pulire la cache di QQ cache adesso?</string>
     <string name="tips_low_storage_dialog_msg_storage">"Stai usando il 90% della memoria interna. Disinstalla le applicazioni meno utilizzate."</string>
@@ -1001,6 +1046,7 @@
     <string name="title_of_traffic_notification">Statistiche dati nelle notifiche</string>
     <string name="title_optimizer">Termini e Condizioni</string>
     <string name="title_share_link">Condividi URL</string>
+    <string name="to_reset_app">Azzera</string>
     <string name="toast_add_white_list_success"> aggiunto alle eccezioni</string>
     <string name="toast_app_no_residual_on_sdcard">"L'applicazione non ha nessun file salvato sulla scheda SD"</string>
     <string name="toast_backup_is_running">Backup in corso. Riprova più tardi.</string>
@@ -1031,6 +1077,7 @@
     <string name="tuesday_shortest">Mar</string>
     <string name="unlike">Non ora</string>
     <string name="update_date_format">dd/MM/yyyy</string>
+    <string name="updating_tips">Attendi…</string>
     <string name="v7_preference_off">DISATTIVATO</string>
     <string name="v7_preference_on">ATTIVATO</string>
     <string name="video_clean">Cancella video memorizzati nella cache</string>
@@ -1104,6 +1151,7 @@
     <string name="whatsapp_content_empty">Nessun elemento trovato.</string>
     <string name="whatsapp_delete_confirm_cancel">Annulla</string>
     <string name="whatsapp_delete_confirm_message">Eliminare?</string>
+    <string name="whatsapp_delete_confirm_ok">OK</string>
     <string name="whatsapp_delete_done">Fatto</string>
     <string name="whatsapp_detail_cache_result">Liberati %s</string>
     <string name="whatsapp_detail_sort_created">Ordina per data</string>
@@ -1126,6 +1174,7 @@
     <string name="white_list_large_file_header">File grandi: %d</string>
     <string name="white_list_residual_header">Residui: %d</string>
     <string name="white_list_title">Eccezioni</string>
+    <string name="widget_cleaner_size_unit">MB</string>
     <string name="wqfile_group_chat_file">File inviati tramite chat</string>
     <string name="wqfile_group_chat_pic">Immagini inviate tramite chat</string>
     <string name="wqfile_group_chat_video">Video dalle chat</string>
