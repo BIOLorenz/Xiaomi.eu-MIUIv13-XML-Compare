@@ -48,6 +48,9 @@
     <string name="accessibility_action_divider_top_full">Schermo intero superiore</string>
     <string name="accessibility_action_pip_resize">Ridimensiona</string>
     <string name="accessibility_action_pip_stash">Recesso</string>
+    <string name="accessibility_action_pip_unstash">Sposta</string>
+    <string name="accessibility_action_start_one_handed">Avvia modalità a una mano</string>
+    <string name="accessibility_action_stop_one_handed">Esci dalla modalità a una mano</string>
     <string name="accessibility_airplane_mode">Modalità aereo.</string>
     <string name="accessibility_ambient_display_charging">Ricarica</string>
     <string name="accessibility_back">Indietro</string>
@@ -60,6 +63,7 @@
     <string name="accessibility_battery_one_bar">Batteria una barra.</string>
     <string name="accessibility_battery_three_bars">Batteria tre barre.</string>
     <string name="accessibility_battery_two_bars">Batteria due barre.</string>
+    <string name="accessibility_battery_unknown">Percentuale della batteria sconosciuta.</string>
     <string name="accessibility_bluetooth_connected">Bluetooth collegato.</string>
     <string name="accessibility_bluetooth_disconnected">Bluetooth scollegato.</string>
     <string name="accessibility_bluetooth_name">Connesso a %s.</string>
@@ -79,6 +83,10 @@
     <string name="accessibility_control_favorite">Preferito</string>
     <string name="accessibility_control_favorite_position">Preferito, posizione %d</string>
     <string name="accessibility_control_move">Sposta in posizione %d</string>
+    <string name="accessibility_control_move_down">Sposta giù</string>
+    <string name="accessibility_control_move_left">Sposta a sinistra</string>
+    <string name="accessibility_control_move_right">Sposta a destra</string>
+    <string name="accessibility_control_move_up">Sposta su</string>
     <string name="accessibility_control_not_favorite">Preferito rimosso</string>
     <string name="accessibility_control_zoom_in">Aumenta zoom</string>
     <string name="accessibility_control_zoom_out">Riduci zoom</string>
@@ -115,7 +123,14 @@
     <string name="accessibility_ethernet_disconnected">LAN disconnesso.</string>
     <string name="accessibility_expand_button">Mostra altro</string>
     <string name="accessibility_face_dialog_face_icon">Icona volto</string>
+    <string name="accessibility_fingerprint_bouncer">Autenticazione richiesta. Tocca il sensore di impronte digitali per autenticarti.</string>
     <string name="accessibility_fingerprint_dialog_fingerprint_icon">Icona impronta</string>
+    <string name="accessibility_fingerprint_label">Sensore di impronte digitali</string>
+    <string name="accessibility_floating_button_action_move_bottom_left">Sposta in basso a sinistra</string>
+    <string name="accessibility_floating_button_action_move_bottom_right">Sposta in basso a destra</string>
+    <string name="accessibility_floating_button_action_move_out_edge_and_show">Sposta fuori dal bordo e mostra</string>
+    <string name="accessibility_floating_button_action_move_to_edge_and_hide_to_half">Sposta sul bordo e nascondi</string>
+    <string name="accessibility_floating_button_action_move_top_left">Sposta in alto a sinistra</string>
     <string name="accessibility_gps_acquiring">GPS acquisito.</string>
     <string name="accessibility_gps_enabled">GPS attivato.</string>
     <string name="accessibility_home">Home</string>
@@ -254,6 +269,7 @@
     <string name="accessibility_three_bars">Tre barre.</string>
     <string name="accessibility_tty_enabled">Telescrivente abilitata.</string>
     <string name="accessibility_two_bars">Due barre.</string>
+    <string name="accessibility_udfps_disabled_button">Sensore di impronte digitali disabilitato</string>
     <string name="accessibility_unlock_button">Sblocca</string>
     <string name="accessibility_unlock_without_fingerprint">Sblocca senza la tua impronta</string>
     <string name="accessibility_voice_assist_button">Assistente Vocale</string>
@@ -330,6 +346,7 @@
     <string name="always_use_device">Usa per impostazione predef. per accessorio USB</string>
     <string name="animator_duration_scale_title">Scala durata animatore</string>
     <string name="anniversary_status">Anniversario</string>
+    <string name="anniversary_status_content_description">"È l'anniversario di %1$s"</string>
     <string name="apn_settings_not_available">Le opzioni Nomi Punto di Accesso non sono disponibili per questo utente</string>
     <string name="app_accessed_mic">%1$s ha avuto accesso al microfono</string>
     <string name="app_info">Info app</string>
@@ -342,6 +359,7 @@
     <string name="appops_mic_overlay">Questa app è visualizzata sopra altre app sullo schermo e sta utilizzando il microfono.</string>
     <string name="appops_microphone">Questa app sta utilizzando il microfono.</string>
     <string name="appops_overlay">Questa app è visualizzata sopra altre app sullo schermo.</string>
+    <string name="audio_status">In ascolto</string>
     <string name="auto_brightness_off">Luminosità automatica spenta</string>
     <string name="auto_brightness_on">Luminosità automatica attiva</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Pulsanti di navigazione disabilitati. Esegui un doppio tocco su qualsiasi pulsante per riattivarli nuovamente.</string>
@@ -354,6 +372,7 @@
     <string name="available_via_carrier">Disponibile tramite %1$s</string>
     <string name="available_via_passpoint">Disponibile tramite %1$s</string>
     <string name="back">Indietro</string>
+    <string name="basic_status">Apri conversazione</string>
     <string name="battery">Batteria</string>
     <string name="battery_detail_charging_summary">Il risparmio della batteria non è disponibile durante la ricarica</string>
     <string name="battery_detail_switch_summary">Riduci prestazioni e dati in background</string>
@@ -379,6 +398,8 @@
     <string name="battery_saver_notification_text">Riduci prestazioni e dati in background</string>
     <string name="battery_saver_notification_title">Risparmio batteria attivato</string>
     <string name="battery_saver_start_action">Attiva risparmio batteria</string>
+    <string name="battery_state_unknown_notification_text">Tocca per ulteriori informazioni</string>
+    <string name="battery_state_unknown_notification_title">Problema di lettura dell\'indicatore della batteria</string>
     <string name="biometric_dialog_authenticated">Autenticato</string>
     <string name="biometric_dialog_confirm">Conferma</string>
     <string name="biometric_dialog_credential_attempts_before_wipe">Riprova. Tentativo %1$d di %2$d.</string>
@@ -412,6 +433,7 @@ Riprova tra %d secondi."</string>
     <string name="biometric_dialog_wrong_pattern">Sequenza errata</string>
     <string name="biometric_dialog_wrong_pin">PIN errato</string>
     <string name="birthday_status">Compleanno</string>
+    <string name="birthday_status_content_description">"È il compleanno di %1$s"</string>
     <string name="blob_expires_text">Scade alle %s</string>
     <string name="blob_id_text">ID dati condivisi: %d</string>
     <string name="block">Blocca tutte le notifiche</string>
@@ -536,6 +558,8 @@ Frequenza Campione"</string>
     <string name="bubbles_user_education_title">Chatta utilizzando le bolle</string>
     <string name="bugreport_in_power">Collegamento segnalazione bug</string>
     <string name="bugreport_in_power_summary">Mostra il pulsante per generare una segnalazione bug nel power menù</string>
+    <string name="build_number_clip_data_label">Numero build</string>
+    <string name="build_number_copy_toast">Numero build copiato negli appunti.</string>
     <string name="button_convert_fbe">Pulisci e converti…</string>
     <string name="cached_apps_freezer_device_default">Predefinito del dispositivo</string>
     <string name="cached_apps_freezer_disabled">Disabilitato</string>
@@ -543,6 +567,7 @@ Frequenza Campione"</string>
     <string name="cached_apps_freezer_reboot_dialog_text">Il tuo dispositivo deve essere riavviato perché questa modifica possa essere applicata. Riavvia ora o annulla.</string>
     <string name="camera_hint">&gt;\"Scorri icona per la Camera\"</string>
     <string name="camera_label">Apri Camera</string>
+    <string name="camera_recording_announcement">La fotocamera sta registrando</string>
     <string name="cancel">Annulla</string>
     <string name="carrier_network_change_mode">Cambio operatore di rete</string>
     <string name="category_personal">Personale</string>
