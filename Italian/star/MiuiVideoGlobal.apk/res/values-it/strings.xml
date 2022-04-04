@@ -101,11 +101,11 @@
     <string name="auto_play_next_off">Riproduzione automatica spenta</string>
     <string name="auto_play_next_on">Riproduzione automatica attiva</string>
     <string name="back_to_mainpage">Scopri</string>
-    <string name="before_yestoday">2 giorni fa</string>
     <string name="bind_sign_in_title">Aggiungi Mi Account</string>
     <string name="brvah_app_name">Raccolta</string>
     <string name="btn_clear_history">Cancella cronologia</string>
     <string name="btn_empty_go_to_download">Scarica</string>
+    <string name="btn_playlist_play_all">Riproduci</string>
     <string name="cancel">Annulla</string>
     <string name="cancel_choose">Deseleziona</string>
     <string name="cancel_subscribe_tips">Smettere di seguire?</string>
@@ -153,8 +153,7 @@
     <string name="cast_unmute">Riattiva l\'audio</string>
     <string name="change_activate_email">Cambia indirizzo email</string>
     <string name="change_password">Cambia password</string>
-    <string name="character_counter_content_description">Limite caratteri superato %1$d di %2$d</string>
-    <string name="character_counter_pattern">%1$d di %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
     <string name="check_nothing">"Non hai selezionato alcun elemento"</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
@@ -234,7 +233,6 @@
     <string name="cloud_auto_pip_play_switch">Attiva automaticamente il picture-in-picture</string>
     <string name="cloud_online_player">Giocatore</string>
     <string name="cloud_online_switch">Consigli personalizzati</string>
-    <string name="cloud_online_switch_close_time">Puoi attivare i consigli di contenuti personalizzati in %s</string>
     <string name="cloud_online_switch_open_time">Mostra consigli di contenuto personalizzato</string>
     <string name="collect_diagnosis_log">Raccogli logs</string>
     <string name="columbus_player_close_desc">Perderai il premio</string>
@@ -322,6 +320,7 @@
     <string name="content_can_not_null">"Impossibile inviare il feedback senza descrizione."</string>
     <string name="continue_play">Riprendi</string>
     <string name="controller_bar_edit">Modifica</string>
+    <string name="copy">Copia</string>
     <string name="data_empty">Nessun elemento trovato</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
@@ -354,7 +353,6 @@ Invia questo codice al supervisore."</string>
     <string name="dialog_no_video_confirm">Ok</string>
     <string name="dialog_privacy_change_info">"Abbiamo aggiornato l'Informativa sulla privacy di Mi Video a causa delle modifiche apportate ai servizi che offriamo. Per comprendere pienamente i tuoi diritti come utente e i modi in cui utilizziamo i tuoi dati, leggi e accetta il nostro &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e &lt;a href=%2$s&gt;Informativa sulla privacy&lt;/a&gt; prima di utilizzare l'app."</string>
     <string name="dialog_privacy_change_title">Aggiornamento Informativa sulla privacy</string>
-    <string name="dialog_privacy_info_new2">"Per essere in grado di utilizzare i servizi, è necessario accettare che %1$s raccoglierà, elaborerà e utilizzerà le informazioni personali. Confermerai di aver letto e accettato la nostra &lt;a href=\"%2$s\"&gt;Informativa sulla privacy&lt;/a&gt; quando avrei premuto \"Accetta\" qui sotto."</string>
     <string name="dialog_privacy_info_new3">"Per poter utilizzare questo servizio, è necessario consentire a %1$s di raccogliere, elaborare, e utilizzare le tue informazioni personali in conformità con l'Informativa sulla privacy. Cliccando su \"Accetta\" qui sotto, accetti l'&lt;a href=%2$s&gt;Informativa sulla privacy&lt;/a&gt; e l'&lt;a href=%3$s&gt;Accordo utente&lt;/a&gt; di Xiaomi."</string>
     <string name="dialog_privacy_info_new4">"Benvenuto in Mi Video! Questa app fornisce i seguenti servizi:&lt;br&gt;&lt;/br&gt; - Servizi di streaming online&lt;br&gt;&lt;/br&gt;- Un lettore video locale&lt;br&gt;&lt;/br&gt;Mi Video deve raccogliere le informazioni personali necessarie per fornirti i servizi di base. Puoi imparare come gestiamo le informazioni che raccogliamo nella nostra Privacy Policy. Sarai in grado di modificare le impostazioni correlate in Impostazioni &gt; Password &amp;amp; sicurezza.&lt;br&gt;&lt;/br&gt;Leggi e accetta il nostro &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e &lt;a href=%2$s&gt;Informativa sulla privacy&lt;/a&gt; prima di utilizzare Mi Video."</string>
     <string name="dialog_privacy_revoke_cancel">Annulla</string>
@@ -413,6 +411,7 @@ Invia questo codice al supervisore."</string>
     <string name="eras_bc">DC</string>
     <string name="error_details">Errore inaspettato</string>
     <string name="error_dup_binded_email">Questa email è già associata ad un altro MI account.</string>
+    <string name="error_icon_content_description">Errore</string>
     <string name="error_invalid_bind_address">Questo indirizzo email non è valido.</string>
     <string name="evening">Pomeriggio</string>
     <string name="exceed_binded_phone_times_notice">Questo numero di telefono è già associato ad un altro MI account.</string>
@@ -446,6 +445,7 @@ Invia questo codice al supervisore."</string>
     <string name="exo_track_surround_5_point_1">Surround 5.1</string>
     <string name="exo_track_surround_7_point_1">Surround 7.1</string>
     <string name="exo_track_unknown">Sconosciuto</string>
+    <string name="expand_button_title">Avanzate</string>
     <string name="explore">Scopri</string>
     <string name="explore_on_mi_video">Trova di più su Mi Video</string>
     <string name="failed_dup_secure_phone_number">Questo numero di telefono è già associato ad un altro MI account</string>
@@ -488,7 +488,6 @@ Invia questo codice al supervisore."</string>
     <string name="fmt_date_long_year_month">MMMM, yyyy</string>
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
-    <string name="fmt_date_numeric_month">MM</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
     <string name="fmt_date_numeric_year_month">M/yyyy</string>
@@ -501,6 +500,22 @@ Invia questo codice al supervisore."</string>
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
     <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time_12hour">"hh"</string>
+    <string name="fmt_time_12hour_minute">hh:mm</string>
+    <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
+    <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
+    <string name="fmt_time_24hour">"HH"</string>
+    <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
+    <string name="fmt_time_minute_second">"m:s"</string>
+    <string name="fmt_time_minute_second_millis">"m:s.S"</string>
+    <string name="fmt_time_second_millis">"s.S"</string>
+    <string name="fmt_time_timezone">zT</string>
+    <string name="fmt_weekday_date">DW</string>
+    <string name="fmt_weekday_date_time">DW T</string>
+    <string name="fmt_weekday_date_time_timezone">zDW T</string>
+    <string name="fmt_weekday_date_timezone">zDW</string>
+    <string name="fmt_weekday_time_timezone">zW T</string>
+    <string name="fmt_weekday_timezone">zW</string>
     <string name="for_diagnosis_usage_only">I log sono utilizzati solo per la diagnostica.</string>
     <string name="for_you">PER TE</string>
     <string name="friday">Venerdì</string>
@@ -610,6 +625,7 @@ Invia questo codice al supervisore."</string>
     <string name="get_phone_verifycode_exceed_limit">Troppi codici di verifica sono stati inviati a questo numero. Attendere 24 ore e riprovare.</string>
     <string name="got_it">Ok</string>
     <string name="goto_sign_up">Crea account</string>
+    <string name="gps_prompt_title">Suggerimenti</string>
     <string name="have_learned">Ok</string>
     <string name="heavenly_stems_bing">Bing</string>
     <string name="heavenly_stems_ding">Ding</string>
@@ -633,7 +649,6 @@ Invia questo codice al supervisore."</string>
     <string name="init_channels">Ripristina predefinite</string>
     <string name="input_email_address_notice">"Useremo questa email per verificare il tuo account"</string>
     <string name="input_new_pwd">Inserisci una nuova password</string>
-    <string name="input_size_tips">Puoi inserire fino a 1000 caratteri</string>
     <string name="isornot_your_mi_account">È questo il tuo Mi Account?</string>
     <string name="issue">Problema</string>
     <string name="item_card_all_replies">Tutte le risposte</string>
@@ -656,6 +671,9 @@ per i video"</string>
     <string name="loading">Attendi…</string>
     <string name="local_diversion_close_recommend">Chiudi</string>
     <string name="local_diversion_recommend_title">Popolari</string>
+    <string name="local_folder_select_count">Selezionato %s</string>
+    <string name="local_hide_folder_dialog_title">Video nascosti</string>
+    <string name="local_hide_folder_setting_goto">Impostazioni</string>
     <string name="local_play_tip">Riproduzione di video locali</string>
     <string name="local_push_title">Popolari oggi</string>
     <string name="local_video_date">Data</string>
@@ -779,7 +797,6 @@ per i video"</string>
     <string name="lv_subtitle_onlinesub_size_string_b">Dimensione: %sB</string>
     <string name="lv_subtitle_onlinesub_title">Sottotitoli online</string>
     <string name="lv_subtitle_open_subtitle_file_title">Trova file dei sottotitoli</string>
-    <string name="lv_subtitle_preoffset_max">"Impossibile spostarsi oltre 5s"</string>
     <string name="lv_subtitle_subonline_non_network">"Impossibile connettersi alla rete. Connettiti e riprova."</string>
     <string name="lv_subtitle_synchronization_title">Sincronizza</string>
     <string name="lv_subtitle_title">Sottotitoli</string>
@@ -794,8 +811,13 @@ per i video"</string>
     <string name="lv_volume">Volume</string>
     <string name="manage">Gestisci</string>
     <string name="mangotv_feature_more">Altro</string>
+    <string name="material_timepicker_hour">Ora</string>
+    <string name="material_timepicker_minute">Minuto</string>
+    <string name="material_timepicker_select_time">Imposta ora</string>
     <string name="mediation_ad_can_not_share">"Impossibile condividere questo video"</string>
     <string name="midnight">Notte</string>
+    <string name="miuix_access_state_desc">Selezionato</string>
+    <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleziona elementi</string>
@@ -810,6 +832,8 @@ per i video"</string>
     <string name="miuix_appcompat_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
+    <string name="miuix_indexer_collect">Raccolte</string>
+    <string name="miuix_indexer_selected">Selezionato %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
@@ -818,7 +842,9 @@ per i video"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"E' tutto per ora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare gli elementi"</string>
+    <string name="mnc_live_subscribe_toast">Iscritto correttamente</string>
     <string name="mnc_live_tv">Live</string>
+    <string name="mnc_live_unsubscribe_toast">Iscrizione annullata correttamente</string>
     <string name="moment_guide_desc">Usa i gesti per ingrandire e rimpicciolire</string>
     <string name="moment_tab_all">Tutto</string>
     <string name="moment_tab_image">Immagini</string>
@@ -892,6 +918,14 @@ per i video"</string>
     <string name="mr_system_route_name">Sistema</string>
     <string name="mr_user_route_category_name">Dispositivi</string>
     <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
+    <string name="mtrl_picker_announce_current_selection">Selezione attuale: %1$s</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_save">Salva</string>
+    <string name="mtrl_picker_text_input_date_hint">Data</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
+    <string name="mtrl_picker_text_input_day_abbr">dd</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string name="music_new_user_dialog_got_it">Ok</string>
     <string name="my_favorite_channels">I miei canali preferiti</string>
     <string name="my_feedback_title">Il mio feedback</string>
     <string name="need_update_app">Aggiorna Mi Video per utilizzare tutte le sue funzionalità</string>
@@ -913,6 +947,7 @@ per i video"</string>
     <string name="no_subscriptions">Nessun elemento trovato</string>
     <string name="noon">Mezzogiorno</string>
     <string name="not_connect_wifi_tip">Il download di articoli tramite dati mobili potrebbe generare costi aggiuntivi. Scaricare comunque?</string>
+    <string name="not_set">Non impostato</string>
     <string name="not_show">"Non mostrare più"</string>
     <string name="not_support_share">"Impossibile condividere questo elemento"</string>
     <string name="notice_comment_action">%s ha commentato il tuo post</string>
@@ -993,6 +1028,7 @@ per i video"</string>
     <string name="ovp_navigation_language">Lingua</string>
     <string name="ovp_navigation_localvideo">Dispositivo</string>
     <string name="ovp_navigation_notice">Notifiche</string>
+    <string name="ovp_navigation_playlist">Playlist</string>
     <string name="ovp_navigation_score">Valuta la nostra app</string>
     <string name="ovp_navigation_setting">Impostazioni</string>
     <string name="ovp_navigation_subscribe">Abbonamento</string>
@@ -1138,6 +1174,12 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="phone_num_use_for">Il numero di telefono viene utilizzato per:</string>
     <string name="phone_number">Numero di telefono</string>
     <string name="photoPickerNotFoundText">Nessuna foto disponibile.</string>
+    <string name="play_list_detial_delete">Elimina</string>
+    <string name="play_list_detial_play">Riproduci</string>
+    <string name="play_list_detial_rename">Rinomina</string>
+    <string name="play_list_save_dialog_create">Crea playlist</string>
+    <string name="play_list_save_dialog_title">Aggiungi</string>
+    <string name="play_list_user_local">Dispositivo</string>
     <string name="playlist_create">Crea</string>
     <string name="playlist_detail_recomm_title">Playlist consigliate</string>
     <string name="playlist_finish">Fatto</string>
@@ -1267,6 +1309,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="plus_tab_time">Cronologia</string>
     <string name="popup_click_for_download_video">Scarica video</string>
     <string name="popup_pip_activate_button">Impostazioni</string>
+    <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="privacy_experience_title">Programma Esperienza Utente</string>
     <string name="privacy_revoke_setting">Disattivando l\'opzione, si revoca il consenso all\'Informativa sulla Privacy di Mi Video.</string>
     <string name="privacy_revoke_title">Revoca autorizzazione...</string>
@@ -1287,7 +1330,6 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="read_and_agree">Accetto</string>
     <string name="recommend_channels">Canali consigliati</string>
     <string name="recommend_online_switch">Suggerimenti online</string>
-    <string name="recommend_online_switch_open_time">Questa funzione sarà attivata automaticamente alle %s</string>
     <string name="recommend_online_tips">Attiva per ricevere consigli video online</string>
     <string name="recommend_switch_alert">Per rimuovere questa sezione, vai alle impostazioni di Mi Video</string>
     <string name="recommend_to_you">Consigliato per te</string>
@@ -1369,6 +1411,8 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="sign_in_title">Accedi con il tuo Mi Account</string>
     <string name="slid_fail_message">"Impossibile salvare"</string>
     <string name="slide_save_message">Generazione del video…</string>
+    <string name="small_video_cancel_button">Annulla</string>
+    <string name="small_video_download_button">Scarica</string>
     <string name="sms_send_success">Inviato correttamente</string>
     <string name="sns_access_token_expired_warning">Sessione scaduta. Effettua nuovamente l\'accesso per ricollegare questo account.</string>
     <string name="sns_bind_limit">Troppi tentativi. Prova ad accedere in altri modi.</string>
@@ -1423,6 +1467,11 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="storage_internal_sdcard">Memoria interna</string>
     <string name="submit">Invia</string>
     <string name="subscribe">ISCRIVITI</string>
+    <string name="subscribe_author_recommend_btn">Iscriviti</string>
+    <string name="subscribe_dialog_import_agree">Importa</string>
+    <string name="subscribe_dialog_import_cancel">Annulla</string>
+    <string name="subscribe_error_toast">"Impossibile iscriversi"</string>
+    <string name="subscribe_import_hint_btn">Importa</string>
     <string name="subscribed">ISCRITTO</string>
     <string name="subscriptions">Sottoscrizioni</string>
     <string name="subtitle_add_subtitle_failed">"Impossibile aggiungere i sottotitoli. Assicurarsi che il file non sia danneggiato."</string>
@@ -1435,7 +1484,6 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="sunday_shortest">Dom</string>
     <string name="sure_to_logout">Disconnettersi ora?</string>
     <string name="switch_ratio_pause">La velocità di riproduzione è instabile. Ritorno alla velocità predefinita.</string>
-    <string name="sync_favorites_limit">"Ci sono più di 500 video nei tuoi preferiti. Dovremo eliminare alcuni dei video precedenti per continuare la sincronizzazione."</string>
     <string name="sync_favorites_message">Sincronizzare i preferiti da questo dispositivo al tuo account? Gli elementi che non sono più disponibili verranno rimossi.</string>
     <string name="sync_favorites_title">Sincronizza i preferiti</string>
     <string name="t_check_hide_file">Seleziona gli elementi da nascondere</string>
@@ -1447,14 +1495,12 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="t_lv_check_unhide_file">Seleziona video da mostrare</string>
     <string name="t_lv_downloading_new_version">Download aggiornamenti…</string>
     <string name="t_lv_no_new_version">Mi Video è aggiornato.</string>
-    <string name="t_lv_password_limit">La password deve contenere almeno 4 caratteri</string>
     <string name="t_lv_password_null">"La password non può essere vuota"</string>
     <string name="t_lv_password_wrong">Password non corretta. Riprova.</string>
     <string name="t_lv_search_null">Inserisci le parole chiave da cercare</string>
     <string name="t_lv_subtitle_padding_default_hint">Regolazione dei sottotitoli…</string>
     <string name="t_network_error">Si è verificato un errore di rete.</string>
     <string name="t_ovp_check_delete_favor">Seleziona gli elementi da rimuovere</string>
-    <string name="t_password_limit">La password deve essere composta da almeno 4 caratteri</string>
     <string name="t_password_null">"La password non può essere vuota"</string>
     <string name="t_password_wrong">La password inserita non è corretta. Riprova.</string>
     <string name="t_start_download">Avvio download:</string>
@@ -1462,8 +1508,10 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="tab_name_local">Dispositivo</string>
     <string name="tab_name_me">Centro utente</string>
     <string name="tab_name_moment">Momenti</string>
+    <string name="tab_name_movies">Film</string>
     <string name="tab_name_trending">Di tendenza</string>
     <string name="tab_name_video">Video</string>
+    <string name="tab_playlist_local">Dispositivo</string>
     <string name="talkback_voice_search">Ricerca vocale</string>
     <string name="temporary_not_available">"Questa funzione non è ancora disponibile"</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversario dell\'abolizione della legge marziale</string>
@@ -1515,7 +1563,6 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
     <string name="tip_auth_again">"Dal momento che non hai precedentemente accettato i termini della corrispondente Informativa sulla privacy del fornitore di contenuti di terze parti, non è possibile visualizzare contenuti video in Momenti. Tocca il pulsante qui sotto per accettare l'Informativa sulla privacy e accedere a questa funzionalità."</string>
     <string name="tip_author_click">Tocca per visualizzare altri video di questo account</string>
-    <string name="tip_pop"><Data>Il contenuto dei Momenti è fornito da Firework. Al fine di migliorare la vostra esperienza di visualizzazione e ricevere raccomandazioni di contenuto più rilevanti, consentire a Firework di raccogliere, elaborare e utilizzare le tue informazioni personali in conformità alla sua Informativa sulla privacy. Leggi e accetta la &lt;a href=\"%1$s\"&gt;Politica sulla privacy fi Fireworks&lt;/a&gt; prima di usare i suoi servizi.</Data></string>
     <string name="tip_topic_click">Tocca per trovare altri video su questo argomento</string>
     <string name="title_bookmarks">Segnalibri</string>
     <string name="title_continue_to_borwser">Apri nel browser</string>
@@ -1557,6 +1604,8 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="user_avatar_update_title">Aggiorna immagine profilo</string>
     <string name="user_avatar_uploading">Attendi…</string>
     <string name="user_id_hint">Email/Telefono</string>
+    <string name="v7_preference_off">DISATTIVATO</string>
+    <string name="v7_preference_on">ATTIVATO</string>
     <string name="v_agree">Accetto</string>
     <string name="v_cancel">Annulla</string>
     <string name="v_canceled">Annullato</string>
