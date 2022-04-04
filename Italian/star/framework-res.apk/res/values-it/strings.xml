@@ -141,6 +141,7 @@
     <string name="RuacMmi">Rifiuto di chiamate fastidiose non desiderate</string>
     <string name="SetupCallDefault">Accettare la chiamata?</string>
     <string name="ThreeWCMmi">Chiamata a tre</string>
+    <string name="VideoView_error_button">OK</string>
     <string name="VideoView_error_text_invalid_progressive_playback">"Questo video non è valido per lo streaming su questo dispositivo."</string>
     <string name="VideoView_error_text_unknown">"Impossibile riprodurre il video."</string>
     <string name="VideoView_error_title">Problemi video</string>
@@ -247,6 +248,7 @@ Puoi associare questa scorciatoia a un'altra funzionalità in Impostazioni &gt; 
     <string name="anr_process">"Il processo %1$s non risponde"</string>
     <string name="app_blocked_message">L\'app %1$s non è al momento disponibile.</string>
     <string name="app_blocked_title">L\'app non è disponibile</string>
+    <string name="app_category_accessibility">Accessibilità</string>
     <string name="app_category_audio">Musica e audio</string>
     <string name="app_category_game">Giochi</string>
     <string name="app_category_image">Foto e immagini</string>
@@ -268,6 +270,7 @@ Puoi associare questa scorciatoia a un'altra funzionalità in Impostazioni &gt; 
     <string name="autofill">Compilazione automatica</string>
     <string name="autofill_address_type_same_as_re">uguale a</string>
     <string name="autofill_address_type_use_my_re">utilizza il mio</string>
+    <string name="autofill_area">Area</string>
     <string name="autofill_continue_yes">Continua</string>
     <string name="autofill_county">Contea</string>
     <string name="autofill_department">Reparto</string>
@@ -342,6 +345,10 @@ Puoi associare questa scorciatoia a un'altra funzionalità in Impostazioni &gt; 
     <string name="bugreport_screenshot_success_toast">Screenshot con segnalazione di bug effettuato correttamente</string>
     <string name="bugreport_title">Segnalazione di bug</string>
     <string name="byteShort">B</string>
+    <string name="call_notification_answer_action">Scorri in alto per rispondere</string>
+    <string name="call_notification_decline_action">Rifiuta</string>
+    <string name="call_notification_incoming_text">Chiamata ricevuta</string>
+    <string name="call_notification_ongoing_text">Chiamata in corso</string>
     <string name="cancel">Annulla</string>
     <string name="candidates_style"><u>candidati</u></string>
     <string name="capability_desc_canCaptureFingerprintGestures">"È in grado di rilevare i gesti compiuti con il sensore di impronte dei dispositivi."</string>
@@ -387,6 +394,7 @@ Puoi associare questa scorciatoia a un'altra funzionalità in Impostazioni &gt; 
     <string name="config_icon_mask">M96.4286 62.2772C96.4286 72.1118 96.4286 77.029 94.7547 82.3225C92.6512 88.1016 88.0988 92.654 82.3196 94.7576C77.6553 96.2326 73.278 96.4076 65.575 96.4284H50H34.425C26.722 96.4076 22.3446 96.2326 17.6803 94.7576C11.9012 92.654 7.34879 88.1016 5.24522 82.3225C3.57141 77.029 3.57141 72.1118 3.57141 62.2772V49.9999V37.7225C3.57141 27.888 3.57141 22.9707 5.24522 17.6772C7.34879 11.8981 11.9012 7.34569 17.6803 5.24212C22.3446 3.76712 26.722 3.59212 34.425 3.57129H50H65.575C73.278 3.59212 77.6553 3.76712 82.3196 5.24212C88.0988 7.34569 92.6512 11.8981 94.7547 17.6772C96.4286 22.9707 96.4286 27.888 96.4286 37.7225V49.9999V62.2772Z</string>
     <string name="config_secondaryHomePackage">com.android.launcher3</string>
     <string name="config_systemGallery">com.android.gallery3d</string>
+    <string name="confirm_battery_saver">OK</string>
     <string name="console_running_notification_message">Ci sono conseguenze sulle prestazioni. Per disattivare, seleziona il bootloader.</string>
     <string name="console_running_notification_title">Console seriale attivata</string>
     <string name="contentServiceSync">Sinc</string>
@@ -458,11 +466,13 @@ utilizzando %s"</string>
 utilizzando %s"</string>
     <string name="dialog_alert_title">Attenzione</string>
     <string name="disable_accessibility_shortcut">Disattiva scorciatoia</string>
+    <string name="dismiss_action">Rifiuta</string>
     <string name="display_manager_built_in_display_name">Schermo incorporato</string>
     <string name="display_manager_hdmi_display_name">Schermo HDMI</string>
     <string name="display_manager_overlay_display_name">Overlay n. %1$d</string>
     <string name="display_manager_overlay_display_secure_suffix">, opzione sicura</string>
     <string name="display_manager_overlay_display_title">%1$s: %2$d x %3$d, %4$d dpi</string>
+    <string name="dlg_ok">OK</string>
     <string name="done_accessibility_shortcut_menu_button">Fine</string>
     <string name="done_label">Fine</string>
     <string name="double_tap_toast">Suggerimento. Tocca due volte per aumentare e diminuire lo zoom.</string>
@@ -580,6 +590,7 @@ utilizzando %s"</string>
     <string name="face_recalibrate_notification_content">Per migliorare il riconoscimento, registra di nuovo il tuo volto</string>
     <string name="face_recalibrate_notification_name">Sblocco con il volto</string>
     <string name="face_recalibrate_notification_title">Registra di nuovo il volto</string>
+    <string name="face_setup_notification_title">Imposta lo Sblocco Facciale</string>
     <string name="faceunlock_multiple_failures">Numero massimo di tentativi di Sblocco con il volto superato</string>
     <string name="factory_reset_message">"Impossibile usare l'app di amministrazione. Il dispositivo verrà resettato.
 
@@ -618,12 +629,16 @@ Per eventuali domande, contatta l'amministratore della tua organizzazione."</str
     <string name="fingerprints">Fingerprint:</string>
     <string name="floating_toolbar_close_overflow_description">Chiudi overflow</string>
     <string name="floating_toolbar_open_overflow_description">Altre opzioni</string>
+    <string name="force_close">OK</string>
     <string name="foreground_service_app_in_background">L\'app %1$s sta consumando la batteria</string>
     <string name="foreground_service_apps_in_background">%1$d app stanno consumando la batteria</string>
     <string name="foreground_service_tap_for_details">Tocca per conoscere i dettagli sull\'utilizzo dei dati e della batteria</string>
     <string name="forward_intent_to_owner">"Stai utilizzando l'app al di fuori del tuo profilo di lavoro"</string>
     <string name="forward_intent_to_work">"Stai utilizzando l'app nel tuo profilo di lavoro"</string>
+    <string name="fp_enrollment_powerbutton_intent_negative_button">Annulla</string>
+    <string name="fp_enrollment_powerbutton_intent_positive_button">Disattiva</string>
     <string name="gadget_host_error_inflating">"Aggiunta del widget non riuscita."</string>
+    <string name="gigabyteShort">GB</string>
     <string name="global_action_assist">Assistenza</string>
     <string name="global_action_bug_report">Segnalazione di bug</string>
     <string name="global_action_emergency">Emergenza</string>
@@ -645,6 +660,7 @@ Per eventuali domande, contatta l'amministratore della tua organizzazione."</str
     <string name="gpsNotifMessage">Richiesto da %1$s (%2$s)</string>
     <string name="gpsNotifTicker">Richiesta di posizione da %s</string>
     <string name="gpsNotifTitle">Richiesta di posizione</string>
+    <string name="gpsVerifNo">No</string>
     <string name="gpsVerifYes">Sì</string>
     <string name="grant_credentials_permission_message_footer">Accettare la richiesta?</string>
     <string name="grant_credentials_permission_message_header">Le seguenti applicazioni richiedono l\'autorizzazione per accedere al tuo account, adesso e in futuro.</string>
@@ -672,6 +688,7 @@ Per eventuali domande, contatta l'amministratore della tua organizzazione."</str
     <string name="httpErrorFileNotFound">"Impossibile trovare il file richiesto."</string>
     <string name="httpErrorIO">"Comunicazione con il server non riuscita. Riprova più tardi."</string>
     <string name="httpErrorLookup">"Impossibile trovare l'URL."</string>
+    <string name="httpErrorOk">OK</string>
     <string name="httpErrorProxyAuth">Autenticazione tramite il server proxy non riuscita.</string>
     <string name="httpErrorRedirectLoop">La pagina contiene troppi reindirizzamenti sul server.</string>
     <string name="httpErrorTimeout">Tempo esaurito per la connessione al server.</string>
@@ -768,6 +785,7 @@ Visita \"<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_login_checking_password">Controllo account…</string>
     <string name="kg_login_instructions">Per sbloccare, accedi con il tuo Account Google.</string>
     <string name="kg_login_invalid_input">Nome utente o password non validi.</string>
+    <string name="kg_login_password_hint">Password</string>
     <string name="kg_login_submit_button">Accedi</string>
     <string name="kg_login_too_many_attempts">Troppi tentativi di inserimento della sequenza</string>
     <string name="kg_login_username_hint">Nome utente (email)</string>
@@ -839,6 +857,7 @@ Visita \"<b>google.com/accounts/recovery</b>.</string>
     <string name="lockscreen_glogin_forgot_pattern">Sblocco account</string>
     <string name="lockscreen_glogin_instructions">Per sbloccare, accedi tramite il tuo Account Google.</string>
     <string name="lockscreen_glogin_invalid_input">Password o nome utente non valido.</string>
+    <string name="lockscreen_glogin_password_hint">Password</string>
     <string name="lockscreen_glogin_submit_button">Accedi</string>
     <string name="lockscreen_glogin_too_many_attempts">Troppi tentativi di inserimento della sequenza</string>
     <string name="lockscreen_glogin_username_hint">Nome utente (email)</string>
@@ -914,6 +933,7 @@ Riprova tra %2$d secondi."</string>
     <string name="mediasize_na_letter">Lettera</string>
     <string name="mediasize_unknown_landscape">Orizzontale sconosciuto</string>
     <string name="mediasize_unknown_portrait">Verticale sconosciuto</string>
+    <string name="megabyteShort">MB</string>
     <string name="menu_alt_shortcut_label">ALT +</string>
     <string name="menu_ctrl_shortcut_label">CTRL +</string>
     <string name="menu_delete_shortcut_label">Canc</string>
@@ -925,6 +945,7 @@ Riprova tra %2$d secondi."</string>
     <string name="menu_sym_shortcut_label">SYM +</string>
     <string name="midnight">mezzanotte</string>
     <string name="mime_type_apk">Applicazione Android</string>
+    <string name="mime_type_audio">Audio</string>
     <string name="mime_type_audio_ext">Audio %1$s</string>
     <string name="mime_type_compressed">Archivio</string>
     <string name="mime_type_compressed_ext">Archivio %1$s</string>
@@ -959,6 +980,9 @@ Riprova tra %2$d secondi."</string>
     <string name="more_item_label">Altro</string>
     <string name="move_button_text">Cambia</string>
     <string name="muted_by">%1$s sta disattivando alcuni suoni</string>
+    <string name="nas_upgrade_notification_disable_action">Disattiva</string>
+    <string name="nas_upgrade_notification_enable_action">OK</string>
+    <string name="nas_upgrade_notification_title">Assistente notifiche</string>
     <string name="needPuk">La SIM è bloccata tramite PUK. Digita il codice PUK per sbloccarla.</string>
     <string name="needPuk2">Digita il PUK2 per sbloccare la SIM.</string>
     <string name="network_available_sign_in">Accedi alla rete</string>
@@ -989,6 +1013,8 @@ Riprova tra %2$d secondi."</string>
     <string name="notification_appops_camera_active">Fotocamera</string>
     <string name="notification_appops_microphone_active">Microfono</string>
     <string name="notification_appops_overlay_active">si sovrappone ad altre app sullo schermo</string>
+    <string name="notification_channel_accessibility_magnification">Ingrandimento</string>
+    <string name="notification_channel_accessibility_security_policy">Utilizzo di accessibilità</string>
     <string name="notification_channel_account">Stato dell\'account</string>
     <string name="notification_channel_alerts">Avvisi</string>
     <string name="notification_channel_call_forward">Deviazione chiamate</string>
@@ -1025,12 +1051,14 @@ Riprova tra %2$d secondi."</string>
     <string name="notification_ranker_binding_label">Servizio di classificazione delle notifiche</string>
     <string name="notification_reply_button_accessibility">Rispondi</string>
     <string name="notification_title">Errore di accesso relativo a %1$s</string>
+    <string name="notification_verified_content_description">Verificato</string>
     <string name="notification_work_profile_content_description">Profilo di lavoro</string>
     <string name="now_string_shortest">ora</string>
     <string name="number_picker_decrement_button">Riduci</string>
     <string name="number_picker_increment_button">Aumenta</string>
     <string name="number_picker_increment_scroll_action">Scorri verso l\'alto per aumentare il valore e verso il basso per diminuirlo.</string>
     <string name="number_picker_increment_scroll_mode">Tieni premuto il numero %s.</string>
+    <string name="ok">OK</string>
     <string name="old_app_action">Torna a %1$s</string>
     <string name="older">Precedente</string>
     <string name="oneMonthDurationPast">1 mese fa</string>
@@ -1195,6 +1223,7 @@ Riprova tra %2$d secondi."</string>
     <string name="permgrouplab_contacts">Contatti</string>
     <string name="permgrouplab_location">Geolocalizzazione</string>
     <string name="permgrouplab_microphone">Microfono</string>
+    <string name="permgrouplab_nearby_devices">Dispositivi nelle vicinanze</string>
     <string name="permgrouplab_phone">Telefono</string>
     <string name="permgrouplab_sensors">Sensori del corpo</string>
     <string name="permgrouplab_storage">File e contenuti multimediali</string>
@@ -1334,6 +1363,7 @@ per l'account %s."</string>
     <string name="personal_apps_suspension_soon_text">Le app personali verranno bloccate il giorno %1$s alle ore %2$s. L\'amministratore IT non consente di mantenere disattivato il profilo di lavoro per più di %3$d giorni.</string>
     <string name="personal_apps_suspension_text">Le tue app personali saranno bloccate finché non attivi il tuo profilo di lavoro.</string>
     <string name="personal_apps_suspension_title">Attiva il profilo di lavoro</string>
+    <string name="petabyteShort">PB</string>
     <string name="phoneTypeAssistant">Assistente</string>
     <string name="phoneTypeCallback">Richiamata</string>
     <string name="phoneTypeCar">Automobile</string>
@@ -1343,6 +1373,7 @@ per l'account %s."</string>
     <string name="phoneTypeFaxWork">Fax lavoro</string>
     <string name="phoneTypeHome">Casa</string>
     <string name="phoneTypeMain">Principale</string>
+    <string name="phoneTypeMms">MMS</string>
     <string name="phoneTypeMobile">Cellulare</string>
     <string name="phoneTypeOther">Altro</string>
     <string name="phoneTypeOtherFax">Altro fax</string>
@@ -1430,6 +1461,7 @@ per l'account %s."</string>
     <string name="resolver_cant_access_work_apps_explanation">L\'amministratore IT non ti consente di aprire questi contenuti con le app nel tuo profilo di lavoro</string>
     <string name="resolver_cant_share_with_personal_apps_explanation">L\'amministratore IT non ti consente di condividere questi contenuti con app nel tuo profilo personale</string>
     <string name="resolver_cant_share_with_work_apps_explanation">L\'amministratore IT non ti consente di condividere questi contenuti con le app nel tuo profilo di lavoro</string>
+    <string name="resolver_cross_profile_blocked">Azione non permessa</string>
     <string name="resolver_personal_tab">Personale</string>
     <string name="resolver_personal_tab_accessibility">Visualizzazione personale</string>
     <string name="resolver_switch_on_work">Attiva</string>
@@ -1481,6 +1513,7 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
     <string name="screen_compat_mode_scale">Scala</string>
     <string name="screen_compat_mode_show">Mostra sempre</string>
     <string name="screen_lock">Blocco schermo</string>
+    <string name="screen_lock_app_setting_name">Usa blocco schermo</string>
     <string name="screenshot_edit">Modifica</string>
     <string name="search_go">Cerca</string>
     <string name="search_hint">Cerca…</string>
@@ -1504,6 +1537,7 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
     <string name="sendText">Scegli un\'azione per il testo</string>
     <string name="sending">Invio…</string>
     <string name="sensor_notification_service">Servizio di notifica dei sensori</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">Sblocca</string>
     <string name="serial_number">Numero di serie:</string>
     <string name="serviceClassData">Dati</string>
     <string name="serviceClassDataAsync">Asinc</string>
@@ -1573,6 +1607,8 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
     <string name="ssl_certificate">Certificato di sicurezza</string>
     <string name="ssl_certificate_is_valid">Questo certificato è valido.</string>
     <string name="status_bar_airplane">aereo</string>
+    <string name="status_bar_managed_profile">ime</string>
+    <string name="status_bar_mute">silenzioso</string>
     <string name="status_communication_speaker_summary">Una chiamata in vivavoce è in corso. L\'audio continuerà ad essere riprodotto attraverso l\'altoparlante quando le cuffie sono collegate.</string>
     <string name="status_communication_summary">Una chiamata è in corso. È possibile regolare solo il volume delle chiamate.</string>
     <string name="stk_cc_ss_to_dial">Richiesta SS modificata in chiamata normale</string>
@@ -1600,6 +1636,7 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
     <string name="system_error_manufacturer">"Si è verificato un problema interno con il dispositivo. Per informazioni dettagliate, contatta il produttore."</string>
     <string name="system_error_wipe_data">"Si è verificato un problema interno con il dispositivo, che potrebbe essere instabile fino al ripristino dei dati di fabbrica."</string>
     <string name="taking_remote_bugreport_notification_title">Recupero della segnalazione di bug…</string>
+    <string name="terabyteShort">TB</string>
     <string name="test_harness_mode_notification_message">Ripristina le impostazioni di fabbrica per disattivare la modalità test harness.</string>
     <string name="test_harness_mode_notification_title">Modalità test harness attivata</string>
     <string name="tethered_notification_message">Tocca per configurare</string>
@@ -1688,6 +1725,7 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
     <string name="volume_call">Volume chiamate</string>
     <string name="volume_dialog_ringer_guidance_silent">L\'audio di chiamate e notifiche sarà disattivato</string>
     <string name="volume_dialog_ringer_guidance_vibrate">La vibrazione sarà attiva per chiamate e notifiche</string>
+    <string name="volume_icon_description_bluetooth">Bluetooth</string>
     <string name="volume_icon_description_incall">Chiamata</string>
     <string name="volume_icon_description_media">Media</string>
     <string name="volume_icon_description_notification">Notifiche</string>
@@ -1697,6 +1735,7 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
     <string name="volume_music_hint_silent_ringtone_selected">Suoneria silenziosa impostata</string>
     <string name="volume_notification">Volume notifiche</string>
     <string name="volume_ringtone">Volume suoneria</string>
+    <string name="volume_unknown">Volume</string>
     <string name="vpn_lockdown_config">Cambia le impostazioni VPN o di rete</string>
     <string name="vpn_lockdown_connected">VPN sempre attiva connessa</string>
     <string name="vpn_lockdown_connecting">Connessione a VPN sempre attiva…</string>
@@ -1772,6 +1811,7 @@ Vuoi chiuderla?"</string>
     <string name="write_fail_reason_cannot_write">Errore nella scrittura dei contenuti</string>
     <string name="year">anno</string>
     <string name="years">anni</string>
+    <string name="yes">OK</string>
     <string name="zen_mode_alarm">Fino a %1$s (prossima sveglia)</string>
     <string name="zen_mode_default_events_name">Evento</string>
     <string name="zen_mode_default_every_night_name">Sonno</string>
@@ -1781,7 +1821,9 @@ Vuoi chiuderla?"</string>
     <string name="zen_mode_feature_name">Non disturbare</string>
     <string name="zen_mode_forever">Fino alla disattivazione</string>
     <string name="zen_mode_forever_dnd">Fino alla disattivazione di Non disturbare</string>
+    <string name="zen_mode_rule_name_combination">%1$s/%2$s</string>
     <string name="zen_mode_until">Fino a %1$s</string>
+    <string name="zen_mode_until_next_day">Fino alle %1$s</string>
     <string name="zen_upgrade_notification_content">"Tocca per controllare le notifiche bloccate."</string>
     <string name="zen_upgrade_notification_title">L\'impostazione Non disturbare è cambiata</string>
     <string name="zen_upgrade_notification_visd_content">Tocca per avere ulteriori informazioni e modificare.</string>
