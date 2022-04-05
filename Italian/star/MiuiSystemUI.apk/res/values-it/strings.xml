@@ -568,6 +568,7 @@ Frequenza Campione"</string>
     <string name="camera_hint">&gt;\"Scorri icona per la Camera\"</string>
     <string name="camera_label">Apri Camera</string>
     <string name="camera_recording_announcement">La fotocamera sta registrando</string>
+    <string name="camera_stopped_recording_announcement">Registrazione della fotocamera interrotta</string>
     <string name="cancel">Annulla</string>
     <string name="carrier_network_change_mode">Cambio operatore di rete</string>
     <string name="category_personal">Personale</string>
@@ -709,11 +710,15 @@ Frequenza Campione"</string>
     <string name="controls_favorite_subtitle">Scegli i controlli a cui accedere dal menù di spegnimento</string>
     <string name="controls_favorite_toast_no_changes">Modifiche non salvate</string>
     <string name="controls_in_progress">In corso</string>
+    <string name="controls_media_active_session">La sessione multimediale attuale non può essere nascosta.</string>
     <string name="controls_media_close_session">Nascondi la sessione attuale.</string>
     <string name="controls_media_dismiss_button">Nascondi</string>
+    <string name="controls_media_playing_item_description">%1$s di %2$s è in riproduzione da %3$s</string>
     <string name="controls_media_resume">Riprendi</string>
     <string name="controls_media_settings_button">Impostazioni</string>
     <string name="controls_media_smartspace_rec_description">Apri %1$s</string>
+    <string name="controls_media_smartspace_rec_item_description">Riproduci %1$s di %2$s da %3$s</string>
+    <string name="controls_media_smartspace_rec_item_no_artist_description">Riproduci %1$s da %2$s</string>
     <string name="controls_media_smartspace_rec_title">Riproduci</string>
     <string name="controls_media_title">Media</string>
     <string name="controls_menu_add">Aggiungi controlli</string>
@@ -762,6 +767,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
     <string name="data_usage_uninstalled_apps_users">App e utenti rimossi</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
+    <string name="days_timestamp">%1$s giorni fa</string>
     <string name="debug_app">Seleziona debug app</string>
     <string name="debug_app_not_set">Nessun set di debug applicazioni</string>
     <string name="debug_app_set">Debug applicazioni: %1$s</string>
@@ -795,6 +801,9 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
     <string name="development_settings_not_available">Le opzioni sviluppatore non sono disponibili per questo utente</string>
     <string name="development_settings_summary">Imposta opzioni per lo sviluppo di app</string>
     <string name="development_settings_title">Opzioni sviluppatore</string>
+    <string name="device_locked_without_biometric">"Impossibile sbloccare questo dispositivo con impronte digitali o dati del viso quando si utilizza un blocco schermo di terze parti"</string>
+    <string name="device_locked_without_biometric_face">"Impossibile sbloccare questo dispositivo con i dati del viso quando si utilizza un blocco schermo di terze parti"</string>
+    <string name="device_locked_without_biometric_finger">"Impossibile sbloccare questo dispositivo con impronte digitali quando si utilizza un blocco schermo di terze parti"</string>
     <string name="device_services">Servizi Del Dispositivo</string>
     <string name="direct_boot_unaware_dialog_message">"Nota: dopo un reboot, questa app non può avviarsi finché non sblocchi il telefono"</string>
     <string name="disable_carrier_button_text">Disattiva eSIM</string>
@@ -837,6 +846,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
     <string name="earthly_branches_zi">Zi</string>
     <string name="emergency_call_string">Emergenza</string>
     <string name="empty_shade_text">Nessuna notifica</string>
+    <string name="empty_status">Chattiamo stasera!</string>
     <string name="empty_user_name">Amici</string>
     <string name="enable_adb">Debug USB</string>
     <string name="enable_adb_summary">Abilita modalità debug quando il collegamento USB é attivo</string>
@@ -878,6 +888,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
     <string name="face_unlock_fail">"Impossibile verificare il volto"</string>
     <string name="face_unlock_fail_retry">"Impossibile verificare il tuo volto. Tocca l'icona per riprovare."</string>
     <string name="face_unlock_fail_retry_global">Tocca sopra per usare lo Sblocco con il Volto</string>
+    <string name="face_unlock_locked">"Impossibile utilizzare lo sblocco col viso ora"</string>
     <string name="face_unlock_not_found">"Impossibile riconoscerti"</string>
     <string name="face_unlock_open_eye">Apri un po\' di più gli occhi</string>
     <string name="face_unlock_password_and_fingerprint">Inserisci la password o utilizza l\'impronta digitale per sbloccare</string>
@@ -890,18 +901,38 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
     <string name="face_unlock_success">Sbloccato</string>
     <string name="face_unlock_swipe_up_retry">Scorri verso l\'alto per riprovare</string>
     <string name="failed_to_open_app_settings_toast">Impossibile aprire le impostazioni per %1$s</string>
+    <string name="feedback_alerted">Questa notifica è stata automaticamente &lt;b&gt;promossa a Predefinito&lt;/b&gt; dal sistema.</string>
+    <string name="feedback_demoted">Questa notifica è stata automaticamente &lt;b&gt;classificata come bassa priorità&lt;/b&gt; nell\'area notifiche.</string>
     <string name="feedback_ok">OK</string>
+    <string name="feedback_promoted">Questa notifica è stata automaticamente &lt;b&gt;classificata come alta priorità&lt;/b&gt; nell\'area notifiche.</string>
+    <string name="feedback_prompt">Fai sapere allo sviluppatore il tuo feedback. Era corretto?</string>
     <string name="feedback_response">Grazie per la segnalazione!</string>
+    <string name="feedback_silenced">Questa notifica è stata automaticamente &lt;b&gt;classificata come silenziosa&lt;/b&gt; dal sistema.</string>
     <string name="finger_error_single_mode">"Impossibile utilizzare lo scanner di impronte digitali in modalità a una mano. Esci dalla modalità a una mano e riprova."</string>
     <string name="fingerprint_add_text">L\'interfaccia dell\'impronta è stata aggiornata. Aggiungi nuovamente l\'impronta.</string>
     <string name="fingerprint_add_title">Aggiungi impronta</string>
     <string name="fingerprint_again_identified_msg">La tua impronta è ora attiva. Utilizzala per sbloccare il dispositivo o inserire la password.</string>
+    <string name="fingerprint_again_identified_msg_password">"La tua impronta digitale è attiva.
+Usala per sbloccare il dispositivo o inserire la password."</string>
+    <string name="fingerprint_again_identified_msg_pattern">"La tua impronta digitale è ora attiva.
+Usala per sbloccare il dispositivo o disegnare la sequenza."</string>
+    <string name="fingerprint_again_identified_msg_pin">"La tua impronta digitale è ora attiva.
+Usala per sbloccare il dispositivo o inserire il PIN."</string>
+    <string name="fingerprint_dialog_cant_recognize_fp_use_screenlock">Impossibile riconoscere l\'impronta digitale. Usa il blocco schermo.</string>
     <string name="fingerprint_dialog_touch_sensor">Tocca il sensore di impronte</string>
+    <string name="fingerprint_dialog_use_fingerprint">Usa l\'impronta digitale per continuare</string>
+    <string name="fingerprint_dialog_use_fingerprint_instead">Impossibile riconoscere il viso. Usa l\'impronta digitale.</string>
     <string name="fingerprint_enter_second_psw_msg">Immettere la password del Secondo Spazio dopo il riavvio del dispositivo, per poter utilizzare il riconoscimento delle impronte</string>
     <string name="fingerprint_enter_second_psw_msg_oldman">"Impossibile entrare nel Secondo Spazio durante l'utilizzo della Modalità Lite"</string>
     <string name="fingerprint_enter_second_psw_title">Immetti password Secondo Spazio</string>
     <string name="fingerprint_not_identified_msg">Troppi tentativi non riusciti. Inserisci la password ora o prova ad utilizzare l\'impronta in pochi secondi.</string>
     <string name="fingerprint_not_identified_msg_lock">Troppi tentativi non riusciti. Immetti password ora.</string>
+    <string name="fingerprint_not_identified_msg_password">"Troppi tentativi falliti.
+Inserisci la password per sbloccare."</string>
+    <string name="fingerprint_not_identified_msg_pattern">"Troppi tentativi falliti.
+Disegna la sequenza per sbloccare."</string>
+    <string name="fingerprint_not_identified_msg_pin">"Troppi tentativi falliti.
+Inserisci il PIN per sbloccare."</string>
     <string name="fingerprint_not_identified_title">Inserisci password</string>
     <string name="fingerprint_try_again_msg">"Impossibile verificare impronta, riprova nuovamente."</string>
     <string name="fingerprint_try_again_text">Riprova</string>
@@ -1098,9 +1129,15 @@ Continuare a mostrarle?"</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Impossibile passare da uno spazio all'altro quando è attivo l'Ultra Risparmio Energetico"</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">Bisogna riavviare il dispositivo prima di poter inserire il Primo Spazio</string>
     <string name="input_password_hint_text">Inserisci password</string>
+    <string name="input_pattern_after_boot_msg">Il disegno della sequenza è obbligatorio al riavvio del dispositivo</string>
+    <string name="input_pattern_after_face_not_allowed">Inserisci la tua password almeno una volta ogni %d ore per mantenere questo dispositivo sicuro</string>
+    <string name="input_pattern_after_restart_msg">Conferma il blocco schermo per continuare</string>
     <string name="input_pattern_hint_text">Disegna la sequenza di sblocco</string>
+    <string name="input_pattern_or_finger_after_face_not_allowed">Inserisci la password o usa l\'impronta digitale almeno una volta ogni %d ore per mantenere questo dispositivo sicuro</string>
+    <string name="input_pin_after_boot_msg">L\'inserimento del PIN è obbligatorio al riavvio del dispositivo</string>
     <string name="input_pin_code">Inserisci PIN</string>
     <string name="input_puk_code">Inserisci PUK</string>
+    <string name="input_second_pattern_after_restart_msg">Conferma la password del Secondo Spazio per continuare</string>
     <string name="install_other_apps">Installa app sconosciute</string>
     <string name="installer_cd_button_title">Installa l\'app Android File Transfer per Mac</string>
     <string name="instant_apps">Instant app</string>
@@ -1623,6 +1660,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="notification_channel_summary_default_with_bubbles">Potrebbe suonare o vibrare in base alle impostazioni del telefono. Conversazioni da %1$s bolla per impostazione predefinita.</string>
     <string name="notification_channel_summary_low">Nessun suono o vibrazione</string>
     <string name="notification_channel_switch_accessibility">Consenti notifiche da questo canale</string>
+    <string name="notification_channel_tv_pip">Picture-in-Picture</string>
     <string name="notification_channel_unsilenced">Queste notifiche ti avviseranno</string>
     <string name="notification_content_gesture_nav_available">Vai in Impostazioni per aggiornare la modalità di navigazione nel sistema</string>
     <string name="notification_content_system_nav_changed">Mod. di navigazione di sistema aggiornata. Per apportare modifiche, vai su Impostazioni.</string>
@@ -1637,6 +1675,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="notification_conversation_unfavorite">Non è una conversazione importante</string>
     <string name="notification_conversation_unmute">Avvisa</string>
     <string name="notification_delegate_header">Notifiche delegate</string>
+    <string name="notification_disclosure_vpn_text">Tramite %1$s</string>
     <string name="notification_done">Fatto</string>
     <string name="notification_group_collapse_button_text">Chiudi</string>
     <string name="notification_group_overflow_indicator">+%s</string>
