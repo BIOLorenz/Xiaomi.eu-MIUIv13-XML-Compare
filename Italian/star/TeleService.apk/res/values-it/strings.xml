@@ -748,6 +748,7 @@ Selezione"</string>
     <string name="msim_general_setting">Impostazioni</string>
     <string name="msim_not_set_summary">Non impostato</string>
     <string name="msim_select_default_time_left">(%d sec)</string>
+    <string name="msim_set_sub_not_supported_phone_in_call">"Impossibile impostare durante una chiamata"</string>
     <string name="msim_set_sub_not_supported_slot_id_error">Nessuna SIM o errore della SIM</string>
     <string name="msim_setting_categery_title">Impostazioni SIM</string>
     <string name="msim_setting_default_data">SIM Dati</string>
