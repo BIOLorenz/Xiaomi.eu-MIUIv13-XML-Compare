@@ -377,6 +377,7 @@
     <string name="quick_settings_pcmode_turn_off_description">"Il display del telefono verrà mostrato su un monitor esterno. Disattivare la modalità PC?"</string>
     <string name="quick_settings_pcmode_turn_on_description">"Il display del computer verrà mostrato su un monitor esterno. Attivare la modalità PC?"</string>
     <string name="quick_settings_scanner_label">Scanner</string>
+    <string name="quick_settings_uwbsh_label">Xiaomi Magic Control</string>
     <string name="quick_settings_wireless_label">Ricarica wireless inversa</string>
     <string name="reboot_info_auto_boot">%s Sveglia in arrivo</string>
     <string name="reboot_info_shutdown_alarm">Allarme di spegnimento: %s</string>
