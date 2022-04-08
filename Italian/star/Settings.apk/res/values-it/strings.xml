@@ -123,7 +123,9 @@ Non tutte le app supportano questa impostazione."</string>
     <string name="accessibility_magnification_area_settings_message">Scegliere l\'area di ingrandimento che si desidera utilizzare quando si ingrandisce lo schermo</string>
     <string name="accessibility_magnification_area_settings_window_screen_summary">Parte dello schermo</string>
     <string name="accessibility_magnification_enable_mode_title">Abilita ingrandimento</string>
+    <string name="accessibility_magnification_mode_dialog_option_full_screen">Ingrandisci schermo intero</string>
     <string name="accessibility_magnification_mode_dialog_option_switch">Schermo intero e parte dello schermo</string>
+    <string name="accessibility_magnification_mode_dialog_option_window">Ingrandisce parte dello schermo</string>
     <string name="accessibility_magnification_mode_title">Area di ingrandimento</string>
     <string name="accessibility_magnification_service_settings_title">Impostazioni di ingrandimento</string>
     <string name="accessibility_manual_zen_less_time">Meno tempo.</string>
@@ -3970,6 +3972,7 @@ Apri Xiaomi Cloud e ripristina gli elementi da lì."</string>
     <string name="launch_noapp_dialog_replace">Impostazioni</string>
     <string name="launch_notification_center">Area di notifica</string>
     <string name="launch_recents">Apri Recenti</string>
+    <string name="launch_smarthome">Xiaomi Magic Control</string>
     <string name="launch_voice_assistant">Lancia Assistente Vocale</string>
     <string name="launch_wechat_payment_code">Codice pagamento WeChat</string>
     <string name="launch_wechat_scanner">Scansiona codice Wechat</string>
