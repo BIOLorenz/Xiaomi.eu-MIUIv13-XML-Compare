@@ -62,6 +62,7 @@
     <string name="area_code_title">Seleziona prefisso internazionale</string>
     <string name="attach_group_chat">Chat di gruppo</string>
     <string name="attach_image">Immagini</string>
+    <string name="attach_rcs_file">File</string>
     <string name="attach_rcs_location">Posizione</string>
     <string name="attach_record_sound">Registra audio</string>
     <string name="attach_record_video">Registra Video</string>
@@ -354,6 +355,7 @@
     <string name="error_timed_msg">Impossibile programmare un orario antecedente</string>
     <string name="evening">Pomeriggio</string>
     <string name="ex_type_mx">Messaggi Mi</string>
+    <string name="ex_type_sms">SMS/MMS</string>
     <string name="exceed_message_size_limitation">Limite di dimensione del messaggio raggiunto.</string>
     <string name="exceed_message_size_limitation_add_slide">Dimensione del messaggio insufficiente per aggiungere slide</string>
     <string name="exceed_message_text_limitation">Limite lunghezza messaggio raggiunto.</string>
@@ -649,6 +651,7 @@ Questo messaggio potrebbe non essere apprezzato."</string>
     <string name="msg_type_hint_mms_omit">MMS</string>
     <string name="msg_type_hint_mx">Messaggi Mi</string>
     <string name="msg_type_hint_sms">SMS</string>
+    <string name="msg_type_hint_sms_omit">SMS</string>
     <string name="msg_type_sms_rcs">SMS, MMS, e messaggi internet</string>
     <string name="msglist_continue_to_pull_for_more">Tira verso il basso per mostrare altro</string>
     <string name="msglist_more_refreshing">Aggiornamento…</string>
@@ -852,6 +855,7 @@ Per attivare Mi Message è necessario l'invio di un SMS. Il tuo operatore potreb
     <string name="pref_title_perm_read_call_log">Accesso alla cronologia chiamate</string>
     <string name="pref_title_perm_read_contacts">Accedi ai contatti</string>
     <string name="pref_title_perm_read_mms">Visualizza SMS</string>
+    <string name="pref_title_perm_send_mms">Invio SMS</string>
     <string name="pref_title_perm_storage">Accesso alla memoria</string>
     <string name="pref_title_perm_write_contacts">Modifica contatti</string>
     <string name="pref_title_privacy_authority">Autorizzazione</string>
@@ -1242,7 +1246,7 @@ Dai un'occhiata alle app consigliate!"</string>
     <string name="sp_mark_as_read_menu_title">Segna come letto</string>
     <string name="sp_msg_entry">Servizi</string>
     <string name="sqlite_disk_full">Database o disco pieno</string>
-    <string name="sqlite_low_memory">Spazio di archiviazione insufficiente</string>
+    <string name="sqlite_low_memory">Memoria insufficiente</string>
     <string name="status_failed">Fallito</string>
     <string name="status_label">"Stato: "</string>
     <string name="status_pending">In attesa</string>
