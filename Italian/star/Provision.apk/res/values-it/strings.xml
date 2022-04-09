@@ -384,6 +384,7 @@ Puoi controllare questa funzione da Impostazioni &gt; Password e sicurezza &gt; 
     <string name="permission_contact">Accesso ai contatti:</string>
     <string name="permission_contact_describe">Accedi ai contatti</string>
     <string name="permission_contact_introduction">Per fornire funzionalità Lista Blocchi e chiamare contatti di emergenza</string>
+    <string name="permission_device">Accesso alle info dispositivo</string>
     <string name="permission_different_device_introduction">Per identificare i servizi associati a diversi dispositivi</string>
     <string name="permission_different_info_introduction">Per l\'identificazione di dispositivi diversi</string>
     <string name="permission_direct_call">Effettuare chiamate:</string>
@@ -392,6 +393,7 @@ Puoi controllare questa funzione da Impostazioni &gt; Password e sicurezza &gt; 
     <string name="permission_imei_service">Per accedere all\'IMEI e fornire servizi associati al dispositivo</string>
     <string name="permission_interaction_introduction">Per salvare foto e video sul dispositivo</string>
     <string name="permission_location">Accedere alle informazioni sulla posizione:</string>
+    <string name="permission_location_describe">Accesso alla posizione</string>
     <string name="permission_location_introduction">Per fornire servizi basati sulla posizione</string>
     <string name="permission_log_introduction">Per il salvataggio dei log</string>
     <string name="permission_login_introduction">Per accedere e gestire gli account di sistema</string>
