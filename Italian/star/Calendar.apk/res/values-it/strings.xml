@@ -686,7 +686,7 @@
 Controlla le impostazioni di rete e riprova."</string>
     <string name="no_network_btn">Riprova</string>
     <string name="no_records">Nessun contenuto.</string>
-    <string name="no_storage">Spazio di archiviazione insufficiente</string>
+    <string name="no_storage">Memoria insufficiente</string>
     <string name="no_title_label">(Senza titolo)</string>
     <string name="no_visiable_calendar_message">Devi selezionare un account del calendario, tocca Seleziona Account per il passo successivo.</string>
     <string name="no_visiable_calendar_select_account">Aggiungi account</string>
@@ -969,12 +969,17 @@ Puoi anche aggiungere dei promemoria in modo da non perderti nulla di importante
     <string name="tb_picker_menstruation_days">Numero di giorni selezionati: %1$d. Scorri verticalmente per cambiare la durata del ciclo.</string>
     <string name="tb_picker_month">Mese selezionato: %1$d. Scorri verticalmente per selezionare il mese.</string>
     <string name="tb_picker_year">Anno selezionato: %1$d. Scorri verticalmente per selezionare l\'anno.</string>
+    <string name="teachers_day">Festa degli insegnanti</string>
+    <string name="teachers_day_tradition">Festa degli insegnanti</string>
+    <string name="temp_in_celsius">%d℃</string>
+    <string name="temp_in_fahrenheit">%d℉</string>
     <string name="template_announce_item_index">Evento %1$s di %2$s.</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversario dell\'abolizione della legge marziale</string>
     <string name="the_anti_aggression_day">Giornata della pace</string>
     <string name="the_arbor_day">Giorno dei mestieri</string>
     <string name="the_armed_forces_day">Giornata delle forze armate</string>
     <string name="the_armys_day">Giornata PLA</string>
+    <string name="the_armys_day_tradition">Giornata dell\'esercito</string>
     <string name="the_childrens_day">"Giornata dei bambini"</string>
     <string name="the_chinese_youth_day">Giornata della gioventù</string>
     <string name="the_christmas_day">Natale</string>
@@ -1028,8 +1033,10 @@ Puoi anche aggiungere dei promemoria in modo da non perderti nulla di importante
     <string name="today">Oggi</string>
     <string name="today_at_time_fmt">Oggi alle %s</string>
     <string name="today_icon_voice_contentdescription">Ritorna ad oggi</string>
+    <string name="today_no_event">Nessun evento per oggi.</string>
     <string name="today_no_events">Nessun evento</string>
     <string name="todays_panchang_title">"Panchang Di Oggi"</string>
+    <string name="todo_audio_event">"[Voice task] "</string>
     <string name="todo_event">Prossime attività</string>
     <string name="tomorrow">domani</string>
     <string name="tomorrow_at_time_fmt">Domani alle %s</string>
@@ -1062,6 +1069,7 @@ Puoi anche aggiungere dei promemoria in modo da non perderti nulla di importante
     <string name="tuesday_shortest">Mar</string>
     <string name="tw_childrens_day">Giornata dei figli</string>
     <string name="tw_youth_day">Giornata della gioventù</string>
+    <string name="twelve_hour_time_format">hh:mm aa</string>
     <string name="two_selected_holiday">%1$s e %2$s sono giorni di riposo</string>
     <string name="unable_record_future_menstruation">"Impossibile registrare periodi futuri"</string>
     <string name="unsubscribe_card">Annulla iscrizione</string>
@@ -1093,7 +1101,11 @@ Puoi anche aggiungere dei promemoria in modo da non perderti nulla di importante
     <string name="widget_events">Prossimo evento</string>
     <string name="widget_get_weather_info">Ricevi info meteo &gt;</string>
     <string name="widget_no_events">Nessun evento</string>
+    <string name="widget_normal_agenda_tip_empty">Nessun evento per oggi.</string>
+    <string name="widget_normal_agenda_today_done">Tutti gli eventi sono stati completati per oggi.</string>
+    <string name="widget_normal_more_event">Altri eventi</string>
     <string name="widget_normal_new_event">Aggiungi evento</string>
+    <string name="widget_normal_weekN">Settimana %d</string>
     <string name="widget_select_style">Seleziona uno stile</string>
     <string name="widget_spec_agenda_birth_today">Oggi</string>
     <string name="winter_begins">Inizio inverno</string>
@@ -1101,6 +1113,8 @@ Puoi anche aggiungere dei promemoria in modo da non perderti nulla di importante
     <string name="winter_solstice">Solstizio d\'inverno</string>
     <string name="winter_solstice_tradition">Solstizio d\'inverno</string>
     <string name="work_day_indication">:(</string>
+    <string name="xiaomi_calendar_delete_description">Calendario è un\'app di sistema che consente di creare e gestire eventi. Alcune delle sue funzionalità saranno ancora disponibili dopo aver rimosso il collegamento dalla schermata home.</string>
+    <string name="xiaomi_calendar_delete_title">Rimuovere \"Calendario\" dalla schermata Home?</string>
     <string name="xiaomi_calendar_display_name">Calendario Mi</string>
     <string name="year">Anno</string>
     <string name="yearly">Annuale (%s)</string>
