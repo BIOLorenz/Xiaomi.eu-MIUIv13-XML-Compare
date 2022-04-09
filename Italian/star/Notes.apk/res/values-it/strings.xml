@@ -828,6 +828,7 @@ Consenti di registrare audio."</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">Consenti alle Note di accedere alla memoria per poter aggiungere immagini alle tue note</string>
     <string name="today">Oggi</string>
     <string name="todo_alert_title_delete">Elimina le attività completate</string>
+    <string name="todo_audio_default_content">"[Voice task] "</string>
     <string name="todo_custom_remind_tag_pattern_with_md">dd/MM HH:mm</string>
     <string name="todo_custom_remind_tag_pattern_with_ymd">dd/MM/yyyy HH:mm</string>
     <string name="todo_edit_audio_hint">Dì la tua attività</string>
