@@ -180,6 +180,7 @@ Puoi accedere al tuo Mi Account con %s."</string>
     <string name="cloud_description_normal">Occupato</string>
     <string name="cloud_service">Mi Cloud</string>
     <string name="cloud_service_status_cloud_not_open">Spenta</string>
+    <string name="cloud_service_status_storage_full">Memoria piena</string>
     <string name="cloud_service_status_storage_not_enough">Spazio insufficiente</string>
     <string name="collect_diagnosis_log">Raccolta log diagnosi</string>
     <string name="com_facebook_device_auth_instructions">Visita &lt;b&gt;facebook.com/device&lt;/b&gt; ed inserisci il codice visualizzato sopra.</string>
@@ -279,6 +280,7 @@ Invia questo codice ai tecnici."</string>
     <string name="expand_button_title">Avanzate</string>
     <string name="facebook_login">Accedi con Facebook</string>
     <string name="failed_dup_secure_phone_number">Questo numero di telefono è già associato ad un altro MI account</string>
+    <string name="family_share">Condivisione familiare</string>
     <string name="find_device">Trova Telefono</string>
     <string name="find_device_access_denied">"Impossibile recuperare lo stato, accesso negato"</string>
     <string name="find_device_account_error">"Impossibile recuperare lo stato a causa di un errore con l'account"</string>
@@ -753,6 +755,7 @@ Invia questo codice ai tecnici."</string>
     <string name="password_view_show_password">Mostra password</string>
     <string name="permission_group_contacts">Contatti</string>
     <string name="permission_group_phone">Telefono</string>
+    <string name="permission_group_sms">SMS</string>
     <string name="permission_group_storage">Archiviazione</string>
     <string name="permission_instructions">Comportamento dell\'app</string>
     <string name="permission_read_sms">Accesso ai messaggi</string>
