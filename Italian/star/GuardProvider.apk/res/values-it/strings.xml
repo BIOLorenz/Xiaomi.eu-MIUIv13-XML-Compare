@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="DesTencent">Tencent</string>
+    <string name="Tencent">Tencent</string>
     <string name="app_name">com.securitycore.miui_t</string>
     <string name="avast_dialog_header">"Questa funzione crittografa e carica l'ID del tuo dispositivo sui server di Avast (%s)."</string>
     <string name="avast_dialog_policy">Informativa sulla Privacy</string>
     <string name="avast_dialog_title">"Informativa sulla Privacy di Avast"</string>
     <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=avast&amp;l=it_IT</string>
     <string name="avast_virus_type_adware_description">Questo virus è un adware. Visualizza automaticamente le pubblicità.</string>
-    <string name="avast_virus_type_cryportor_description">Questo virus è un cryptor. È un software pericoloso trasmesso con lo scopo di danneggiare i dati, duplicarsi all\'interno dello spazio di archiviazione e diffondersi.</string>
+    <string name="avast_virus_type_cryportor_description">Questo virus è un cryptor. È un software pericoloso trasmesso con lo scopo di danneggiare i dati, duplicarsi all\'interno dello memoria e diffondersi.</string>
     <string name="avast_virus_type_dropper_description">Questo virus è un dropper. Contiene il codice che consente l\'installazione di altri virus pericolosi.</string>
     <string name="avast_virus_type_exploit_description">Questo virus è un exploit. Sfrutta bug o vulnerabilità del sistema per forzare azioni senza autorizzazioni.</string>
     <string name="avast_virus_type_heuristic_description">L\'infezione è stata rilevata utilizzando un metodo euristico specifico. Dall\'analisi euristica specifica risulta come virus.</string>
