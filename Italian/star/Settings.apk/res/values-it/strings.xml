@@ -1577,6 +1577,8 @@ Questa funzione può essere disattivata in [Settings]</string>
 
  Se installi un certificato CA, il proprietario del certificato potrebbe accedere ai tuoi dati, come password o dettagli della carta di credito, da siti web visitati o app che utilizzi, anche se i dati sono crittografati."</string>
     <string name="ca_certificate_warning_title">I tuoi dati non saranno privati</string>
+    <string name="cache_header_label">Cache</string>
+    <string name="cache_size_label">Cache</string>
     <string name="cached">Processo in background memorizzato nella cache</string>
     <string name="cached_apps_freezer">Sospendi l\'esecuzione delle app memorizzate nella cache</string>
     <string name="cached_apps_freezer_device_default">Predefinito del dispositivo</string>
@@ -1623,6 +1625,7 @@ Questa funzione può essere disattivata in [Settings]</string>
     <string name="camera_key_action_toggle_title">Comando di attivazione</string>
     <string name="camera_laser_sensor_switch">Sensore laser camera</string>
     <string name="camera_rear">Posteriore %s</string>
+    <string name="camera_toggle_title">Accesso alla fotocamera</string>
     <string name="cancel">Annulla</string>
     <string name="cancel_action">Annulla</string>
     <string name="cancel_alert">Annullare le modifiche?</string>
@@ -2045,6 +2048,7 @@ Questa informazione identifica se i tuoi contatti possono utilizzare determinate
     <string name="controls_subtitle">Regola consumo alimentazione</string>
     <string name="convenience_key_category_title">Scorciatoie</string>
     <string name="conversation_category_title">Conversazione</string>
+    <string name="conversation_notifs_category">Conversazione</string>
     <string name="conversation_onboarding_summary">"Una volta che si contrassegna una conversazione come prioritaria, o apporti qualsiasi altra modifica alle conversazioni, esse appariranno qui. 
 
 Per modificare le impostazioni della conversazione: 
@@ -2377,6 +2381,7 @@ avviso</string>
     <string name="decline_remote_bugreport_action">Rifiuta</string>
     <string name="decryption_settings_summary">Telefono non crittografato</string>
     <string name="defalut_launcher_title">Schermata Home predefinita</string>
+    <string name="default_active_sim_sms">SMS</string>
     <string name="default_admin_support_msg">If you have questions, contact your organization\'s admin</string>
     <string name="default_app">(Predefinita)</string>
     <string name="default_apps_title">Predefinita</string>
@@ -2838,7 +2843,7 @@ Puoi vedere i log generati in File Manager."</string>
     <string name="enable_terminal_title">Terminale locale</string>
     <string name="enable_text">Attiva</string>
     <string name="enable_verbose_vendor_logging">Abilita la registrazione dettagliata del venditore</string>
-    <string name="enable_verbose_vendor_logging_summary">Includi ulteriori log dei fornitori specifici del dispositivo nelle segnalazioni di bug, che possono contenere informazioni private, utilizza più batteria e/o più spazio di archiviazione.</string>
+    <string name="enable_verbose_vendor_logging_summary">Includi ulteriori log dei fornitori specifici del dispositivo nelle segnalazioni di bug, che possono contenere informazioni private, utilizza più batteria e/o più memoria.</string>
     <string name="enable_wifi_display">Visualizzazione wireless</string>
     <string name="enabled">Attivata</string>
     <string name="enabled_5g_mode_title">Abilita 5G</string>
@@ -2982,9 +2987,9 @@ Per maggiori dettagli contatta l'amministratore."</string>
     <string name="external_ram_dialog_icon_confirm">Ok</string>
     <string name="external_ram_dialog_message">Riavvia il dispositivo per applicare le modifiche.</string>
     <string name="external_ram_dialog_title">Riavvia dispositivo</string>
-    <string name="external_ram_summary">"Aggiungi %1$s %2$s di RAM occupando l'archiviazione. Usa questa funzione solo quando c'è abbastanza spazio di archiviazione disponibile sul tuo dispositivo."</string>
+    <string name="external_ram_summary">"Aggiungi %1$s %2$s di RAM occupando l'archiviazione. Usa questa funzione solo quando c'è abbastanza memoria disponibile sul tuo dispositivo."</string>
     <string name="external_ram_title">Estensione memoria</string>
-    <string name="external_ram_toast">"Impossibile utilizzare l'estensione della memoria a causa di spazio di archiviazione insufficiente"</string>
+    <string name="external_ram_toast">"Impossibile utilizzare l'estensione della memoria a causa di memoria insufficiente"</string>
     <string name="external_source_switch_title">Consenti dalla fonte</string>
     <string name="external_source_trusted">Permesso</string>
     <string name="external_source_untrusted">Non autorizzato</string>
@@ -3406,6 +3411,7 @@ Quando si accende il backup automatico, i dati del dispositivo e dell'app vengon
     <string name="google_assistant_label">Assistente Google</string>
     <string name="google_backup_enable">Attiva backup</string>
     <string name="google_backup_section_title">Backup e ripristino di Google</string>
+    <string name="google_pay">Google Pay</string>
     <string name="google_service_title">Servizi Google</string>
     <string name="got_it">Ok</string>
     <string name="gps_description">Sono supportati più sistemi di navigazione satellitare (GPS, BeiDou, GLONASS, Galileo)</string>
@@ -3740,7 +3746,7 @@ Apri Xiaomi Cloud e ripristina gli elementi da lì."</string>
     <string name="instant_apps_settings">Preferenze app istantanee</string>
     <string name="instruction_privacy_password">Questa password protegge i seguenti oggetti</string>
     <string name="instruction_title">Istruzioni</string>
-    <string name="insufficient_storage">Spazio di archiviazione insufficiente</string>
+    <string name="insufficient_storage">Memoria insufficiente</string>
     <string name="intelligence_suppression_title">Automatico (Consigliato)</string>
     <string name="intent_sender_account_label">Mi Account ID: </string>
     <string name="intent_sender_action_label">Azione:</string>
@@ -5047,6 +5053,7 @@ ed esegui il software.</string>
     <string name="network_state_label">Stato rete:</string>
     <string name="networkid_label">ID rete:</string>
     <string name="networks">Selezione operatore</string>
+    <string name="networks_available">Reti disponibili</string>
     <string name="networks_title">Rete mobile</string>
     <string name="never">Mai</string>
     <string name="new_backup_pw_prompt">Digita una nuova password per i backup completi qui</string>
@@ -5398,8 +5405,10 @@ Questo darà anche all'app la possibilità di attivare o disattivare la funzione
     <string name="osu_sign_up_failed">"Impossibile completare la registrazione. Tocca per riprovare."</string>
     <string name="ota_disable_automatic_update">Aggiorna automaticamente</string>
     <string name="ota_disable_automatic_update_summary">Applica gli aggiornamenti al riavvio del dispositivo</string>
+    <string name="otg_button">OTG</string>
     <string name="otg_closed">Spenta</string>
     <string name="otg_opened">Attivata</string>
+    <string name="otg_settings">OTG</string>
     <string name="otg_tip">"USB On-The-Go consente ai drive USB e alle tastiere portatili di collegarsi al dispositivo mobile e scambiare dati.
 
 OTG si disattiva automaticaemnte dopo 10 minuti di inattività."</string>
@@ -5890,6 +5899,7 @@ Leggi e accetta %s prima di utilizzare questo servizio."</string>
     <string name="progress_scanning">Ricerca</string>
     <string name="promote_conversation_summary">Aggiungi alla sezione conversazioni</string>
     <string name="promote_conversation_title">Questa è una conversazione</string>
+    <string name="provider_internet_settings">Internet</string>
     <string name="provision_activation">Attivo</string>
     <string name="provision_back">Indietro</string>
     <string name="provision_next">Successivo</string>
@@ -5947,6 +5957,7 @@ Leggi e accetta %s prima di utilizzare questo servizio."</string>
     <string name="receiver_clean">Libera spazio</string>
     <string name="recent_app_category_title">App aperte di recente</string>
     <string name="recent_apps_label">Recenti</string>
+    <string name="recent_conversations">Conversazioni recenti</string>
     <string name="recent_location_requests_summary">Le seguenti app richiedono l\'accesso alla tua posizione</string>
     <string name="recent_location_requests_title">Accesso alla posizione</string>
     <string name="recent_notifications">Inviate di recente</string>
@@ -7041,6 +7052,7 @@ Il PIN potrebbe essere errato."</string>
     <string name="sms_delivered_sound_dialog_title">Scegli suono di messaggio inviato</string>
     <string name="sms_delivered_sound_title">Messaggio inviato</string>
     <string name="sms_preference">Preferenza SMS</string>
+    <string name="sms_preference_title">SMS</string>
     <string name="sms_received_sound_dialog_title">Scegli suono di messaggio ricevuto</string>
     <string name="sms_received_sound_title">Messaggio ricevuto</string>
     <string name="snooze_options_title">Consenti di posticipare le notifiche</string>
@@ -7253,7 +7265,7 @@ Questo ^1 è stato formattato per funzionare solo su questo dispositivo. Non fun
     <string name="storage_rename_title">Rinomina archivio</string>
     <string name="storage_settings">Archiviazione</string>
     <string name="storage_settings_for_app">Memoria e cache</string>
-    <string name="storage_settings_summary">Smonta l\'archivio USB, visualizza lo spazio di archiviazione disponibile</string>
+    <string name="storage_settings_summary">Smonta l\'archivio USB, visualizza lo memoria disponibile</string>
     <string name="storage_settings_title">Impostazioni di archiviazione</string>
     <string name="storage_size_large">^1&lt;small&gt;&lt;small&gt; ^2&lt;/small&gt;&lt;/small&gt;</string>
     <string name="storage_size_large_alternate">^1&lt;small&gt; ^2&lt;/small&gt;</string>
@@ -7324,7 +7336,7 @@ Lo spostamento richiede almeno ^2 e libererà ^3 nella memoria interna. Alcune a
     <string name="storage_wizard_migrate_title">Sposta i dati su in una nuova memoria</string>
     <string name="storage_wizard_migrate_v2_body">"Potrai spostare file, contenuti multimediali e alcune app su questa ^1.
 
-Questo spostamento svincolerà ^2 dello spazio di archiviazione del telefono e dovrebbe rendere portatile ^3."</string>
+Questo spostamento svincolerà ^2 dello memoria del telefono e dovrebbe rendere portatile ^3."</string>
     <string name="storage_wizard_migrate_v2_checklist">Durante lo spostamento:</string>
     <string name="storage_wizard_migrate_v2_checklist_apps">Alcune app non funzioneranno</string>
     <string name="storage_wizard_migrate_v2_checklist_battery">Mantieni questo telefono carico</string>
