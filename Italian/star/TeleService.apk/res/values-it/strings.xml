@@ -246,6 +246,7 @@ Selezione"</string>
     <string name="call_recording_notification_title">Chiamata registrata</string>
     <string name="call_recording_notification_title_error">"Non è stato possibile registrare la chiamata"</string>
     <string name="call_settings">Chiamate</string>
+    <string name="call_settings_title_font_family">sans-serif-light</string>
     <string name="call_waiting_title">Chiamate in attesa</string>
     <string name="call_waiting_tone_title">Notifica chiamata in attesa</string>
     <string name="caller_id_title">ID chiamante</string>
@@ -419,7 +420,7 @@ Selezione"</string>
     <string name="description_image_button_two">due</string>
     <string name="detect_fakecell">Riconosce gli SMS provenienti da celle fasulle</string>
     <string name="dev_logpersist_clear_warning_message">Quando il monitoraggio tramite logger permanente viene interrotto, siamo obbligati a eliminare i dati del logger memorizzati sul dispositivo.</string>
-    <string name="dev_logpersist_clear_warning_title">Cancellare i dati nello spazio di archiviazione permanente del logger?</string>
+    <string name="dev_logpersist_clear_warning_title">Cancellare i dati nello memoria permanente del logger?</string>
     <string name="dev_settings_warning_message">Queste impostazioni sono utilizzabili solo a scopo di sviluppo. Possono causare l\'arresto o il comportamento anomalo del dispositivo e delle applicazioni su di esso.</string>
     <string name="dev_settings_warning_title">Consentire impostazioni di sviluppo?</string>
     <string name="development_settings_enable">Attiva Opzioni sviluppatore</string>
@@ -481,7 +482,7 @@ Selezione"</string>
     <string name="enable_terminal_summary">Abilita l\'app Terminale che offre l\'accesso alla shell locale</string>
     <string name="enable_terminal_title">Terminale locale</string>
     <string name="enable_verbose_vendor_logging">Attiva log dettagliati fornitori</string>
-    <string name="enable_verbose_vendor_logging_summary">Includi log aggiuntivi di fornitori relativi a un dispositivo specifico nelle segnalazioni di bug che potrebbero contenere informazioni private, causare un maggior consumo della batteria e/o utilizzare più spazio di archiviazione.</string>
+    <string name="enable_verbose_vendor_logging_summary">Includi log aggiuntivi di fornitori relativi a un dispositivo specifico nelle segnalazioni di bug che potrebbero contenere informazioni private, causare un maggior consumo della batteria e/o utilizzare più memoria.</string>
     <string name="enable_video_calling_dialog_close">Chiudi</string>
     <string name="enable_video_calling_dialog_settings">Impostazioni di rete</string>
     <string name="enhanced_4g_lte_mode_summary">Utilizza i servizi LTE per migliorare la comunicazione voce e altro (consigliato)</string>
@@ -1067,6 +1068,7 @@ La tua SIM sarà bloccata dopo un altro tentativo fallito."</string>
     <string name="sip_system_decide">Automatico</string>
     <string name="smart_dual_sim_prompt_ok">Impostazioni</string>
     <string name="smart_multinetwork_acceleration_title">Accelerazione della rete smart</string>
+    <string name="sms_messages_title">SMS</string>
     <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
     <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>
     <string name="solar_term_clear_and_bright">Chiaro e luminoso</string>
