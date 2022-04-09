@@ -178,6 +178,7 @@
     <string name="messagesent">Messaggio inviato</string>
     <string name="miaudiovisual_notification_summary">Attiva per visualizzare gli effetti sulla Schermata di blocco</string>
     <string name="miaudiovisual_notification_title">Effetti audio e video</string>
+    <string name="miui_device_name">Android</string>
     <string name="miui_forbid_poweroff_when_device_locked">"Impossibile spegnere, il dispositivo è bloccato."</string>
     <string name="miui_multiwindow_not_support_small_window">"%1$s non supporta le finestre fluttuanti"</string>
     <string name="miui_multiwindow_not_support_split">"%1$s non supporta lo schermo diviso"</string>
@@ -362,6 +363,7 @@
     <string name="wireless_charging_notification_message3">Si è verificato un errore durante la ricarica. La ricarica wireless inversa è disattivata.</string>
     <string name="wireless_charging_notification_titile">Ricarica wireless inversa disattivata</string>
     <string name="xiaomi_mobile">Telefono Mi</string>
+    <string name="xiaomi_phone">Xiaomi</string>
     <string name="xspace_head">App clonate</string>
     <string name="xspace_resolver_activity_title">Seleziona app</string>
 </resources>
