@@ -135,7 +135,7 @@
     <string name="delete_recorder">Elimina</string>
     <string name="deleting_message">Eliminazione…</string>
     <string name="details">Dettagli</string>
-    <string name="dialog_content_storage_full">"A causa della mancanza di spazio di archiviazione, la registrazione è stata interrotta ed è necessario eliminare alcuni file. Procedere ora?"</string>
+    <string name="dialog_content_storage_full">"A causa della mancanza di memoria, la registrazione è stata interrotta ed è necessario eliminare alcuni file. Procedere ora?"</string>
     <string name="dialog_privacy_revoke_tips">"Dopo la revoca dell'autorizzazione, l'app smetterà di raccogliere dati, e tutti quelli raccolti verranno eliminati dai server. Questo potrebbe rendere l'app virtualmente non utilizzabile. Revocare comunque le autorizzazioni? Per garantire la sicurezza del tuo account, accedi a i.mi.com prima di revocare le autorizzazioni dei servizi Mi Cloud."</string>
     <string name="dialog_title_storage_full">Spazio insufficiente</string>
     <string name="download">Scarica</string>
@@ -413,6 +413,7 @@
     <string name="permission_desc">Dettagli permessi</string>
     <string name="permission_dialog_cancel">Annulla</string>
     <string name="permission_dialog_ok">Impostazioni</string>
+    <string name="permission_read_phone_state">Accesso alle info dispositivo</string>
     <string name="permission_record">Registra audio</string>
     <string name="permission_storage">Accesso alla memoria</string>
     <string name="play_speed">Velocità %1$.1fX</string>
