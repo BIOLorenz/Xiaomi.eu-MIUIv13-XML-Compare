@@ -130,6 +130,12 @@
         <item>Largo</item>
         <item>Testo molto grande</item>
     </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Desktop</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
     <string-array name="protection_name">
         <item>Auto</item>
         <item>Nessuno</item>
