@@ -1419,8 +1419,8 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_groupshot_mode_title">Selfie di gruppo</string>
     <string name="pref_camera_hand_night_title">Notte</string>
     <string name="pref_camera_hdr_entry_off">Spenta</string>
-    <string name="pref_camera_heic_image_format_description">"Le foto in formato HEIF occupa meno spazio di archiviazione, ma non sono supportate da alcune app"</string>
-    <string name="pref_camera_heic_image_format_description2">"Il formato immagine HEIF occupa meno spazio di archiviazione, ma non è supportato da alcune app di terze parti. Non puoi scattare Foto Live e rimuovere la filigrana negli scatti HEIF."</string>
+    <string name="pref_camera_heic_image_format_description">"Le foto in formato HEIF occupa meno memoria, ma non sono supportate da alcune app"</string>
+    <string name="pref_camera_heic_image_format_description2">"Il formato immagine HEIF occupa meno memoria, ma non è supportato da alcune app di terze parti. Non puoi scattare Foto Live e rimuovere la filigrana negli scatti HEIF."</string>
     <string name="pref_camera_heic_image_format_title">Formato HEIF</string>
     <string name="pref_camera_hfr_entry_off">Spenta</string>
     <string name="pref_camera_high_quality_preferred_description">Migliorare la qualità dell\'immagine utilizzando l\'algoritmo intelligente. La velocità di acquisizione dell\'immagine potrebbe diminuire quando questa funzione è attiva. La modalità notturna verrà attivata automaticamente quando vengono rilevate condizioni di scarsa luminosità.</string>
@@ -1699,6 +1699,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="recommend_soft_light_tip">Attiva flash</string>
     <string name="recommend_super_night">Prova la modalità notturna</string>
     <string name="record_back_pressed_hint">Premi di nuovo per interrompere la registrazione</string>
+    <string name="remote_device_type_phone">Xiaomi</string>
     <string name="remote_online_connecting">Seleziona il dispositivo da collegare</string>
     <string name="remote_online_disconnect_confirmation">Annullare la connessione a %1$s?</string>
     <string name="remote_online_exit_confirmation">Disattivare la registrazione a doppio telefono?</string>
