@@ -503,6 +503,7 @@
     <string name="query_privacy_policy">Visualizza Informativa sulla Privacy</string>
     <string name="reach_upper_limit">"Impossibile aggiungere altri timer"</string>
     <string name="read_internal_storage">Accesso alla memoria</string>
+    <string name="read_phone_state">Accesso alle info dispositivo</string>
     <string name="remark_hint">Inserisci etichetta</string>
     <string name="remind_ringtone">Suoneria</string>
     <string name="repeat_count">Volte</string>
