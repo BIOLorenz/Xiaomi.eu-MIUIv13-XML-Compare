@@ -68,6 +68,8 @@ Metodo aut: EAP-%5$s
     <string name="wifi_installer_fail_title">"Impossibile installare"</string>
     <string name="wifi_installing_label">Installazione</string>
     <string name="wifi_no_config">Nessuno</string>
+    <string name="wifi_sim_config_text">"SIM: %s
+"</string>
     <string name="wifi_title">Profilo Wi-Fi</string>
     <string name="wifi_tls_config_text">"Certificato:
 %1$s
