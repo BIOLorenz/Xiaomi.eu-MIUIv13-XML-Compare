@@ -27,6 +27,7 @@
     <string name="ai_ppt_to_pdf_view_all">Mostra tutto</string>
     <string name="album">Galleria</string>
     <string name="app_is_running">App in esecuzione…</string>
+    <string name="app_name">Mi Drive</string>
     <string name="btn_recall_text_ok_timer">Revoca</string>
     <string name="camera">Fotocamera</string>
     <string name="cancel">Annulla</string>
@@ -114,6 +115,8 @@
     <string name="close">Chiudi</string>
     <string name="cloud_storage_default_title">Archiviazione Cloud</string>
     <string name="cloud_storage_info_type_backup">Backup</string>
+    <string name="cloud_storage_info_type_drive">Mi Drive</string>
+    <string name="cloud_storage_info_type_duokan">Duokan</string>
     <string name="cloud_storage_info_type_family">Famiglia</string>
     <string name="cloud_storage_info_type_others">Altro</string>
     <string name="cloud_storage_info_type_pdc">Impostazioni di sistema</string>
@@ -160,6 +163,7 @@
     <string name="eras_bc">DC</string>
     <string name="error_ptp_ai_recommend_pdf_save_fail">"Impossibile salvare. Riprova."</string>
     <string name="evening">Pomeriggio</string>
+    <string name="exception_cloud_storage_is_full">La memoria cloud è piena</string>
     <string name="exception_file_no_exist">"Il file non esiste"</string>
     <string name="exception_net_not_available">"Impossibile connettersi alla rete"</string>
     <string name="exception_param_error">Si è verificato un errore. Aspetta un minuto o due e riprova.</string>
@@ -231,6 +235,9 @@
     <string name="load_metered_network_dialog_cancel">Annulla</string>
     <string name="loading">Attendi…</string>
     <string name="member_menu_vipname_free">Gratis</string>
+    <string name="member_menu_vipname_mega">Mega</string>
+    <string name="member_menu_vipname_premium">Premium</string>
+    <string name="member_menu_vipname_ultra">Ultra</string>
     <string name="midnight">Notte</string>
     <string name="miuix_access_state_desc">Selezionato</string>
     <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
@@ -404,6 +411,8 @@
     <string name="storage_manage_renewal">Rinnova</string>
     <string name="storage_manage_upgrade">Aggiorna</string>
     <string name="storage_sd_card">Scheda SD</string>
+    <string name="storage_unit_gb">%s GB</string>
+    <string name="storage_unit_mb">%s MB</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
