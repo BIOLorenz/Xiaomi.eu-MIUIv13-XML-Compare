@@ -125,6 +125,7 @@
     <string name="device_type_pc">Computer</string>
     <string name="device_type_realme_phone">Realme</string>
     <string name="device_type_vivo_phone">Vivo</string>
+    <string name="device_type_xiaomi_phone">Xiaomi</string>
     <string name="disconnect">DISCONNETTI</string>
     <string name="early_morning">Mattina</string>
     <string name="earthly_branches_chen">Chen</string>
@@ -471,5 +472,6 @@ Prima di utilizzare Mi Share, è necessario concedere i seguenti permessi, nonch
     <string name="wednesday_shortest">Mer</string>
     <string name="wifi_is_not_enabled">Attiva il Wi-Fi</string>
     <string name="wifi_is_not_enabled_china">Attiva il Wi-Fi</string>
+    <string name="xiaomi_phone">Xiaomi</string>
     <string name="yesterday">Ieri</string>
 </resources>
