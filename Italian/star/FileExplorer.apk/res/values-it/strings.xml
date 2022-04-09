@@ -435,6 +435,7 @@
     <string name="mirror_storage_internal_desc">Memoria del cellulare</string>
     <string name="mirror_tip_add_file">Crea cartella</string>
     <string name="mirror_tip_backward">Indietro</string>
+    <string name="mirror_tip_cloud">Mi Drive</string>
     <string name="mirror_tip_forward">Inoltra</string>
     <string name="mirror_tip_grid">Griglia</string>
     <string name="mirror_tip_list">Lista</string>
