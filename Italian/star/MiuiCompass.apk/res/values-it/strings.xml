@@ -26,6 +26,7 @@
     <string name="afternoon">Pomeriggio</string>
     <string name="allow">Consenti</string>
     <string name="allowed">Concesso</string>
+    <string name="altitude">%.1f</string>
     <string name="altitude_longitude_Degree_format" formatted="false">"\"%d°%d'%d\""</string>
     <string name="altitude_title">Altitudine</string>
     <string name="altitude_uncalibrate_cancel">Annulla</string>
@@ -43,6 +44,7 @@
     <string name="calibrate_tip">Inclina il dispositivo per ruotare la sfera intorno al cerchio</string>
     <string name="calibrate_title">Calibrazione bussola</string>
     <string name="cancel">Annulla</string>
+    <string name="cannot_get_location">--</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
     <string name="chinese_day_11">11</string>
@@ -190,6 +192,7 @@
     <string name="friday">Venerdì</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
+    <string name="get_location">Accesso alla posizione</string>
     <string name="gradienter_title">Livello</string>
     <string name="guide_toast">A causa di possibili interferenze del campo magnetico, si consiglia di calibrare la Bussola con il seguente movimento.</string>
     <string name="heavenly_stems_bing">Bing</string>
@@ -298,6 +301,7 @@
     <string name="preference_privacy_policy">Visualizza Informativa sulla Privacy</string>
     <string name="preference_privacy_setting">Privacy</string>
     <string name="preference_privacy_title">Informativa sulla Privacy</string>
+    <string name="pressure">%.1f</string>
     <string name="pressure_title">PRESSIONE</string>
     <string name="remove_icon_description_content">"Bussola è un'app di sistema. Non sarai in grado di usarla per controllare direzione, coordinate, pressione atmosferica e altitudine dopo aver rimosso il collegamento dalla schermata iniziale."</string>
     <string name="remove_icon_description_title">Rimuovere \"Bussola\" dalla schermata Home?</string>
