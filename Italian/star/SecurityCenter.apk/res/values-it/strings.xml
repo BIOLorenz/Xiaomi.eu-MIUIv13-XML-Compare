@@ -119,6 +119,7 @@
     <string name="ad_floating_window_title">Chiudi la finestra fluttuante per sbloccare</string>
     <string name="ad_split_screen_title">Prego passa alla modalità a schermo intero per sbloccare</string>
     <string name="ad_text_btn_download">Installa</string>
+    <string name="ad_text_permission">Autorizzazioni</string>
     <string name="ad_update_time">Ultimo aggiornamento: %s</string>
     <string name="ad_update_time_unKnown">Ultimo aggiornamento: Sconosciuto</string>
     <string name="adb_install_no_network">Collegati alla rete e riprova</string>
@@ -397,6 +398,7 @@
     <string name="app_manager_as_dlg_title">Attenzione</string>
     <string name="app_manager_back">Indietro</string>
     <string name="app_manager_bipartition">App clonate</string>
+    <string name="app_manager_cache_size">Cache</string>
     <string name="app_manager_card_permission_title">Permessi</string>
     <string name="app_manager_clear_all_data">Cancella tutti i dati</string>
     <string name="app_manager_clear_cache">Svuota cache</string>
@@ -567,7 +569,7 @@
     <string name="app_usage_recently">Utilizzata di recente</string>
     <string name="app_version">Versione\u0020</string>
     <string name="app_wifi">Wi-Fi</string>
-    <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Svuota %s dalla cache di WeChat per liberare spazio di archiviazione</string>
+    <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Svuota %s dalla cache di WeChat per liberare memoria</string>
     <string name="appcleaner_wechat_notification_garbage_cleanup_title">"Non dimenticare di pulire la cache"</string>
     <string name="application_item_already_permission">Permesso</string>
     <string name="application_item_disable">Limitato</string>
@@ -915,7 +917,7 @@
     <string name="card_main_deepclean_summary">Elimina i file non necessari</string>
     <string name="card_main_deepclean_title">Pulizia profonda</string>
     <string name="card_main_deepclean_wechat_action">Cancella</string>
-    <string name="card_main_deepclean_wechat_summary">Cancella cache WeChat per liberare spazio di archiviazione</string>
+    <string name="card_main_deepclean_wechat_summary">Cancella cache WeChat per liberare memoria</string>
     <string name="card_main_deepclean_wechat_title">Cache WeChat</string>
     <string name="card_main_deepclean_whatsapp_title">Pulizia WhatsApp</string>
     <string name="card_main_gamebooster_summary">Migliora la stabilità della connessione per i giochi</string>
@@ -939,7 +941,7 @@
     <string name="card_main_xspace_title">App clonate</string>
     <string name="card_tc_failed">"Impossibile calibrare"</string>
     <string name="card_uninstall_button_text">Gestisci</string>
-    <string name="card_uninstall_summary">Disinstalla le app usate raramente per liberare spazio di archiviazione</string>
+    <string name="card_uninstall_summary">Disinstalla le app usate raramente per liberare memoria</string>
     <string name="card_uninstall_title_1">Disinstalla le app usate raramente</string>
     <string name="cd_back">Indietro</string>
     <string name="celcius_symbol">°C</string>
@@ -1468,9 +1470,9 @@ terremoti"</string>
     <string name="exit">Esci</string>
     <string name="exit_dialog_exit">Esci</string>
     <string name="exit_dialog_garbage_clean_message">L\'ammontare di dati sul tuo dispositivo supera i %s. Pulire ora?</string>
-    <string name="exit_dialog_garbage_clean_message_new"><Data>Cleaner può liberare &lt;font color=#0099ff&gt;%s&lt;/font&gt; di spazio di archiviazione. Pulire ora?</Data></string>
+    <string name="exit_dialog_garbage_clean_message_new"><Data>Cleaner può liberare &lt;font color=#0099ff&gt;%s&lt;/font&gt; di memoria. Pulire ora?</Data></string>
     <string name="exit_dialog_garbage_clean_positive_button">Pulizia</string>
-    <string name="exit_dialog_garbage_clean_title">Libera spazio di archiviazione</string>
+    <string name="exit_dialog_garbage_clean_title">Libera memoria</string>
     <string name="exit_dialog_homepage_optimise_message">"Il punteggio prestazionale del tuo dispositivo è uguale o inferiore a 80 punti. Ottimizzare ora?"</string>
     <string name="exit_dialog_release_memory_positive_button">Chiudi</string>
     <string name="exit_dialog_release_memory_title"><Data>Accelera il tuo dispositivo di &lt;font color=#0099ff&gt;%d%%&lt;/font&gt;</Data></string>
@@ -1589,7 +1591,7 @@ terremoti"</string>
     <string name="first_aid_card_kadun_button1">Libera spazio</string>
     <string name="first_aid_card_kadun_button2">Limitazione</string>
     <string name="first_aid_card_kadun_button3">Disattiva</string>
-    <string name="first_aid_card_kadun_summary1">Libera spazio di archiviazione, in modo che il dispositivo funzioni normalmente.</string>
+    <string name="first_aid_card_kadun_summary1">Libera memoria, in modo che il dispositivo funzioni normalmente.</string>
     <string name="first_aid_card_kadun_summary2">Alcune app posseggono permessi di amministratore. Ciò potrebbe rallentare il tuo dispositivo.</string>
     <string name="first_aid_card_kadun_summary3">Troppe funzioni di accessibilità risultano essere contemporaneamente in esecuzione. Ciò potrebbe rallentare il tuo dispositivo.</string>
     <string name="first_aid_card_kadun_title">Il dispositivo è rallentato</string>
@@ -2056,7 +2058,7 @@ e prova a Cambiare Voce!"</string>
     <string name="gtb_guide_gtb_game_effected">Applicato</string>
     <string name="gtb_guide_gtb_game_new">Nuovo</string>
     <string name="gtb_guide_small_window_app_title">Finestre fluttuanti</string>
-    <string name="gtb_intelligent_garbage_clean">Libera spazio di archiviazione</string>
+    <string name="gtb_intelligent_garbage_clean">Libera memoria</string>
     <string name="gtb_memory_clean">Libera memoria</string>
     <string name="gtb_mode_normal">Normale</string>
     <string name="gtb_mode_performance">Prestazioni</string>
@@ -2343,6 +2345,7 @@ dall'operatore"</string>
     <string name="megabyteShort">MB</string>
     <string name="megabyte_per_second">M/s</string>
     <string name="memory_check_content">%s liberati</string>
+    <string name="memory_clean_memory_size_tip">Cache</string>
     <string name="memory_clean_no_need_clean">Sembra tutto OK</string>
     <string name="memory_clean_no_need_clean_1" formatted="false">"Liberati %s. Il tuo dispositivo è %d%% più veloce."</string>
     <string name="memory_clear_unused">Cancella cache (%s)</string>
@@ -2367,6 +2370,7 @@ dall'operatore"</string>
     <string name="menu_item_notification_antispam_text_avail">Blacklist</string>
     <string name="menu_item_notification_antispam_text_normal">Blacklist</string>
     <string name="menu_item_notification_optimize_text">%d%% occupato</string>
+    <string name="menu_item_notification_optimize_text_new">%s occupato</string>
     <string name="menu_item_notification_power_text">Ottimizzazione</string>
     <string name="menu_item_notification_title">Mostra nella barra notifiche</string>
     <string name="menu_item_shortcut_summary">Posiziona le funzionalità più usate nella tua schermata Home</string>
@@ -2386,7 +2390,7 @@ dall'operatore"</string>
     <string name="menu_summary_app_manager">Aggiorna o disinstalla le app</string>
     <string name="menu_summary_garbage_cleanup">Nessun file trovato</string>
     <string name="menu_summary_garbage_cleanup_ex">Libera %s</string>
-    <string name="menu_summary_garbage_cleanup_new">%d%% di spazio di archiviazione</string>
+    <string name="menu_summary_garbage_cleanup_new">%d%% di memoria</string>
     <string name="menu_summary_networkassistants">Gestisci il tuo piano dati</string>
     <string name="menu_summary_networkassistants_2">Hai superato il limite</string>
     <string name="menu_summary_networkassistants_3">Hai abbastanza traffico dati</string>
@@ -2630,9 +2634,11 @@ dall'operatore"</string>
     <string name="notification_garbage_clean_hint">Libera spazio nella memoria</string>
     <string name="notification_garbage_clean_hint_new">Lascia raffreddare il tuo dispositivo</string>
     <string name="notification_garbage_clean_size">Libera %s</string>
+    <string name="notification_garbage_clean_size_float_unit">%.1f GB</string>
     <string name="notification_garbage_clean_size_found">"%s di file nel cestino"</string>
     <string name="notification_garbage_clean_size_found_hint">È ora di svuotare il cestino!</string>
     <string name="notification_garbage_clean_size_found_text">Troppi file nel cestino</string>
+    <string name="notification_garbage_clean_size_int_unit">%d GB</string>
     <string name="notification_garbage_clean_size_new">Libera %s di spazio</string>
     <string name="notification_garbage_cleanup_summary">Dimensione cestino %s</string>
     <string name="notification_garbage_cleanup_title">Pulisci i file nel cestino</string>
@@ -2672,7 +2678,7 @@ dall'operatore"</string>
     <string name="notification_wechat_clean_high_level_hint">Svuota il cestino per velocizzare il dispositivo</string>
     <string name="notification_wechat_clean_high_level_text_a">WeChat ha generato molti file nel cestino</string>
     <string name="notification_wechat_clean_high_level_text_b">"Il cestino di WeChat rallenta il tuo dispositivo"</string>
-    <string name="notification_wechat_clean_low_level_hint">Libera spazio di archiviazione</string>
+    <string name="notification_wechat_clean_low_level_hint">Libera memoria</string>
     <string name="notification_wechat_clean_low_level_text">"Svuota il cestino di WeChat"</string>
     <string name="notification_whatsapp_clean_button_text">Cancella</string>
     <string name="notification_whatsapp_clean_size">La cache di WhatsApp ha raggiunto i %s</string>
@@ -2756,7 +2762,7 @@ dall'operatore"</string>
     <string name="operator_name_virtual_operator">虚拟运营商</string>
     <string name="optimize_manage_title">Velocizza</string>
     <string name="optimize_result_available_memory_info">Memoria disponibile</string>
-    <string name="optimize_result_button_cloudspace">Espandi spazio cloud</string>
+    <string name="optimize_result_button_cloudspace">Espandi memoria cloud</string>
     <string name="optimize_result_button_consume_power_analysis">Scansione batteria</string>
     <string name="optimize_result_button_cooldown_now">Risolvi</string>
     <string name="optimize_result_button_correct_now">Correggi</string>
@@ -2970,7 +2976,7 @@ dall'operatore"</string>
     <string name="phone">Telefono</string>
     <string name="phone_manage">Strumenti</string>
     <string name="phone_manage_app_manager_summary">Gestisci le app sul tuo dispositivo</string>
-    <string name="phone_manage_clean_summary">Libera spazio di archiviazione</string>
+    <string name="phone_manage_clean_summary">Libera memoria</string>
     <string name="phone_manage_clean_title">Pulitore</string>
     <string name="phone_manage_electric_summary">Ottimizza il dispositivo per risparmiare batteria</string>
     <string name="phone_manage_electric_title">Batteria</string>
@@ -3614,6 +3620,7 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="privacy_using_record">Registrare audio</string>
     <string name="privacyapp_number_masked_text">Il contenuto delle notifiche è nascosto</string>
     <string name="privacyapp_number_unmasked_text">Il contenuto delle notifiche può essere nascosto</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Server Multimediale</string>
     <string name="process_vpnsdkmanager_label">Turbo videogiochi</string>
     <string name="promotion">AD</string>
@@ -4151,8 +4158,9 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="stop_collecting_data">"La tastiera non imparerà le tue abitudini"</string>
     <string name="stop_collecting_data_detail">"La tastiera non raccoglierà dati per migliorare la digitazione predittiva e frasi frequenti basate sulle tue abitudini."</string>
     <string name="stop_milink_connect">Proiezione interrotta</string>
-    <string name="storage_activity_title">Spazio di archiviazione</string>
+    <string name="storage_activity_title">Memoria</string>
     <string name="storage_app_detail_activity_title">Spazio occupato</string>
+    <string name="storage_app_detail_cache">Cache</string>
     <string name="storage_app_detail_clear_all_data">Cancella tutti i dati</string>
     <string name="storage_app_detail_clear_all_dialog_message">Tutti i dati delle app, inclusi file, impostazioni, account e cache verranno eliminati in modo permanente.</string>
     <string name="storage_app_detail_clear_all_dialog_title">Cancellare tutti i dati?</string>
@@ -4160,7 +4168,7 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="storage_app_detail_clear_cache_title">Eliminare la cache delle app?</string>
     <string name="storage_app_detail_dialog_cancel">Annulla</string>
     <string name="storage_app_detail_dialog_ok">OK</string>
-    <string name="storage_app_detail_manage_space">%s - Gestisci spazio di archiviazione</string>
+    <string name="storage_app_detail_manage_space">%s - Gestisci memoria</string>
     <string name="storage_app_detail_manager_enabled">Attivata</string>
     <string name="storage_app_detail_qq_cleaner">Pulizia QQ</string>
     <string name="storage_app_detail_sdcard">Backup applicazioni e dati app</string>
@@ -4244,7 +4252,7 @@ La formattazione cancellerà il contenuto esistente sulla ^2. Per evitare di per
     <string name="summary_cleaner_cloudscan">Carica e confronta i nomi sconosciuti con il database online</string>
     <string name="summary_cloud_account">Ottieni il massimo dal tuo dispositivo Mi</string>
     <string name="summary_cloud_service">Sincronizza le foto, i contatti e molto altro su tutti i tuoi dispositivi</string>
-    <string name="summary_cloud_space_almost_full">Ottieni altro spazio di archiviazione</string>
+    <string name="summary_cloud_space_almost_full">Ottieni altro memoria</string>
     <string name="summary_cloud_space_full">Ottieni altro spazio ed accedi a funzionalità aggiuntive</string>
     <string name="summary_cmcc_app_check">"Alcune applicazioni non possono essere verificate"</string>
     <string name="summary_condition_missing_call">Chiamata persa</string>
@@ -4358,6 +4366,7 @@ La formattazione cancellerà il contenuto esistente sulla ^2. Per evitare di per
     <string name="tab_call">Chiamate</string>
     <string name="tab_gift">Regali</string>
     <string name="tab_guide">Guida</string>
+    <string name="tab_sms">SMS</string>
     <string name="tab_sort_all">Tutto</string>
     <string name="tab_title">Blacklist</string>
     <string name="task_summary_close_auto_brightness">Disattiva luminosità automatica</string>
