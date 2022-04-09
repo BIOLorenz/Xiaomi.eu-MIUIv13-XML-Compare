@@ -222,6 +222,7 @@ Disattiva per fermare la sincronizzazione."</string>
     <string name="category_file">File</string>
     <string name="category_folder">Cartelle</string>
     <string name="category_installed_app">App di terze parti</string>
+    <string name="category_midrive">Mi Drive</string>
     <string name="category_move_limit_notice">Puoi spostare da 3 a 7 elementi nella parte superiore dello schermo</string>
     <string name="category_music">Musica</string>
     <string name="category_other">Altro</string>
@@ -582,7 +583,7 @@ Invia questo codice al supervisore."</string>
     <string name="download_save_dialog_title">Salva</string>
     <string name="download_sdcard_busy_dlg_msg">La scheda SD è occupata. Per consentire il download, disattiva l\'archivio USB nell\'area delle notifiche.</string>
     <string name="download_sdcard_busy_dlg_title">Scheda SD non disponibile</string>
-    <string name="download_sdcard_no_space">"Download fallito. Spazio di archiviazione insufficiente."</string>
+    <string name="download_sdcard_no_space">"Download fallito. Memoria insufficiente."</string>
     <string name="download_secure_download_in_xiaomi_market">Scarica nell\'App Store</string>
     <string name="download_status_failed">"Impossibile scaricare"</string>
     <string name="download_status_pending">In attesa</string>
@@ -1248,7 +1249,7 @@ Abbandonare questa pagina?"</string>
     <string name="no_recent_files">Nessun file recente</string>
     <string name="no_space_alert_cancel">Più tardi</string>
     <string name="no_space_alert_clean">Libera spazio</string>
-    <string name="no_space_alert_text">Spazio di archiviazione insufficiente</string>
+    <string name="no_space_alert_text">Memoria insufficiente</string>
     <string name="no_space_alert_title">Download in pausa</string>
     <string name="no_space_clean_failed">Impossibile liberare spazio sul dispositivo</string>
     <string name="noon">Mezzogiorno</string>
@@ -1494,6 +1495,7 @@ Abbandonare questa pagina?"</string>
     <string name="pref_notifications_title">Notifiche</string>
     <string name="pref_other_title">Altro</string>
     <string name="pref_paper_mode_title">Lettura</string>
+    <string name="pref_privacy_clear_cache">Cache</string>
     <string name="pref_privacy_clear_cache_dlg">Eliminare tutti gli elementi memorizzati nella cache durante la navigazione?</string>
     <string name="pref_privacy_clear_cache_summary">Mi Browser salva in cache alcune pagine web per caricarle più velocemente la prossima volta che le visiti. La cancellazione della cache elimina gli elementi salvati dai siti durante la navigazione.</string>
     <string name="pref_privacy_clear_cookies_dlg">Cancellare tutti i cookies?</string>
