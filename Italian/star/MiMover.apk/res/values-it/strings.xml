@@ -234,7 +234,7 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="err_bakfile_broken">"Impossibile utilizzare questo backup."</string>
     <string name="err_bakfile_not_exist">"Il file di backup non esiste."</string>
     <string name="err_binder_died">L\'app si è bloccata in modo inatteso.</string>
-    <string name="err_low_storage">Spazio di archiviazione insufficiente</string>
+    <string name="err_low_storage">Memoria insufficiente</string>
     <string name="err_no_gms">Versione app incompatibile. Installa questa app separatamente</string>
     <string name="err_not_allow">Non supportato</string>
     <string name="err_pkg_not_exist">"Impossibile trovare l'app."</string>
@@ -336,8 +336,8 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="host_install_hint">"Mi Mover non è installato?"</string>
     <string name="host_memory_insuff_cancel">Annulla</string>
     <string name="host_memory_insuff_confirm">Seleziona di nuovo</string>
-    <string name="host_memory_insuff_summary">"Non c'è abbastanza spazio di archiviazione sul nuovo dispositivo per avviare un trasferimento."</string>
-    <string name="host_memory_insuff_title">Spazio di archiviazione insufficiente</string>
+    <string name="host_memory_insuff_summary">"Non c'è abbastanza memoria sul nuovo dispositivo per avviare un trasferimento."</string>
+    <string name="host_memory_insuff_title">Memoria insufficiente</string>
     <string name="host_new_device_hint">Questo dispositivo</string>
     <string name="host_verify_lock_hint">Inserisci blocco schermo</string>
     <string name="hsa_code_null">"Il codice di verifica non può essere vuoto"</string>
@@ -494,15 +494,15 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="need_location_permission_title">Permessi richiesti</string>
     <string name="need_more_memory_cacel">Annulla</string>
     <string name="need_more_memory_confirm">Pulitore</string>
-    <string name="need_more_memory_summary">"Spazio di archiviazione insufficiente. Mi Mover ha bisogno di %1$s di spazio di archiviazione aggiuntivo per creare pacchetti compressi prima del trasferimento.
+    <string name="need_more_memory_summary">"Memoria insufficiente. Mi Mover ha bisogno di %1$s di memoria aggiuntivo per creare pacchetti compressi prima del trasferimento.
 1. Prova a trasferire solo elementi importanti.
 2. Non selezionare applicazioni con un sacco di dati.
-3. Usa il Pulitore per liberare spazio di archiviazione."</string>
-    <string name="need_more_memory_title">Spazio di archiviazione insufficiente</string>
+3. Usa il Pulitore per liberare memoria."</string>
+    <string name="need_more_memory_title">Memoria insufficiente</string>
     <string name="new_app_name">Nuova versione</string>
     <string name="new_main_activity_label">Mi Mover</string>
     <string name="new_trans_intro_desc_2">"Non c'è bisogno di inserire la password nella nuova versione di Mi Mover. Apri Mi Mover sul tuo vecchio dispositivo, tocca \"Sono un mittente\" e tocca il nome dell'hotspot per connetterti."</string>
-    <string name="new_trans_intro_desc_3">Mi Mover ha bisogno di spazio di archiviazione per creare un pacchetto di trasferimento sul tuo vecchio dispositivo prima di inviarlo a quello nuovo. Libera spazio di archiviazione per poter continuare.</string>
+    <string name="new_trans_intro_desc_3">Mi Mover ha bisogno di memoria per creare un pacchetto di trasferimento sul tuo vecchio dispositivo prima di inviarlo a quello nuovo. Libera memoria per poter continuare.</string>
     <string name="new_trans_intro_desc_4">Ci potrebbero essere problemi di compatibilità con la versione del dispositivo, sistema e app che impediscono ad alcune applicazioni di essere trasferite con successo.</string>
     <string name="new_trans_intro_desc_5">"Alcune app (ad esempio servizi finanziari e strumenti di pagamento) non consentono il trasferimento di password a causa di motivi di sicurezza."</string>
     <string name="new_trans_intro_desc_6">Il tuo nuovo Telefono Mi potrebbe non avere i permessi necessari per farlo.</string>
@@ -513,7 +513,7 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="new_trans_intro_desc_old">"2. Se l'hotspot non appare in Mi Mover, apri le impostazioni Wi-Fi e controlla se puoi vederlo lì. Se è così, torna su Mi Mover e tocca il nome dell'hotspot."</string>
     <string name="new_trans_intro_question_1">"1. Perché non riesco a vedere l'hotspot del nuovo dispositivo sul vecchio?"</string>
     <string name="new_trans_intro_question_2">2. Qual è la password dell\'hotspot?</string>
-    <string name="new_trans_intro_question_3">"3. Perché non c'è abbastanza spazio di archiviazione sul vecchio dispositivo?"</string>
+    <string name="new_trans_intro_question_3">"3. Perché non c'è abbastanza memoria sul vecchio dispositivo?"</string>
     <string name="new_trans_intro_question_4">"4. Perché tutte le applicazioni non vengono trasferite con successo?"</string>
     <string name="new_trans_intro_question_5">"5. Perché le password di alcuni account di terze parti non vengono trasferite con successo?"</string>
     <string name="new_trans_intro_question_6">"6. Perché i dati dell'app non possono essere trasferiti da un dispositivo di terze parti?"</string>
@@ -527,7 +527,7 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="new_wait_link_title_3">2. Seleziona il seguente hotspot Wi-Fi sul vecchio dispositivo.</string>
     <string name="next">Successivo</string>
     <string name="night">Sera</string>
-    <string name="no_more_memory_title">"Mi Mover deve creare un backup locale su questo dispositivo. Non c'è abbastanza spazio di archiviazione per creare un backup. Libera dello spazio."</string>
+    <string name="no_more_memory_title">"Mi Mover deve creare un backup locale su questo dispositivo. Non c'è abbastanza memoria per creare un backup. Libera dello spazio."</string>
     <string name="noon">Mezzogiorno</string>
     <string name="not_set">Non impostato</string>
     <string name="not_support_data_content1">1. Specifica il modello del tuo dispositivo</string>
@@ -667,6 +667,7 @@ Libera almeno %s."</string>
     <string name="search_menu_title">Cerca</string>
     <string name="searching_for_new_device">Ricerca di un nuovo dispositivo…</string>
     <string name="select_android_summary">Huawei, OPPO, vivo e altri</string>
+    <string name="select_android_title">Android</string>
     <string name="select_empty">Seleziona gli elementi da importare</string>
     <string name="select_item_calendar">Calendario</string>
     <string name="select_item_contacts">Contatti</string>
@@ -676,6 +677,7 @@ Libera almeno %s."</string>
     <string name="select_item_remind">Promemoria</string>
     <string name="select_item_summary_loading">Attendi…</string>
     <string name="select_mi_summary">Xiaomi e Redmi</string>
+    <string name="select_mi_title">Xiaomi</string>
     <string name="select_old_device_title">Seleziona il vecchio modello del dispositivo</string>
     <string name="selected">Selezionato</string>
     <string name="send">Invia</string>
@@ -697,6 +699,7 @@ Libera almeno %s."</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_transfer">Salta</string>
     <string name="skip_underline">Salta questo passaggio</string>
+    <string name="sms">SMS</string>
     <string name="soft_ap_create_failed">"Impossibile creare un hotspot"</string>
     <string name="soft_ap_creating">Creazione hotspot…</string>
     <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
