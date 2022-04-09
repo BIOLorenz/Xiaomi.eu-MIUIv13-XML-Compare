@@ -376,6 +376,9 @@
     <string name="exo_download_downloading">In download</string>
     <string name="exo_download_failed">Download non riuscito</string>
     <string name="exo_download_notification_channel_name">Download</string>
+    <string name="exo_download_paused">Download in pausa</string>
+    <string name="exo_download_paused_for_network">Download in attesa della rete</string>
+    <string name="exo_download_paused_for_wifi">Download in attesa del WiFi</string>
     <string name="exo_download_removing">Rimozione download</string>
     <string name="exo_track_role_alternate">Alternato</string>
     <string name="exo_track_role_commentary">Commento</string>
