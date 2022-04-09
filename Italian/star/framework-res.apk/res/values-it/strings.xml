@@ -390,6 +390,8 @@ Puoi associare questa scorciatoia a un'altra funzionalità in Impostazioni &gt; 
     <string name="common_name">Nome comune:</string>
     <string name="condition_provider_service_binding_label">Provider condizioni</string>
     <string name="conference_call">Audioconferenza</string>
+    <string name="config_bodyFontFamily">sans-serif</string>
+    <string name="config_bodyFontFamilyMedium">sans-serif-medium</string>
     <string name="config_default_dns_server">1.1.1.1</string>
     <string name="config_icon_mask">M96.4286 62.2772C96.4286 72.1118 96.4286 77.029 94.7547 82.3225C92.6512 88.1016 88.0988 92.654 82.3196 94.7576C77.6553 96.2326 73.278 96.4076 65.575 96.4284H50H34.425C26.722 96.4076 22.3446 96.2326 17.6803 94.7576C11.9012 92.654 7.34879 88.1016 5.24522 82.3225C3.57141 77.029 3.57141 72.1118 3.57141 62.2772V49.9999V37.7225C3.57141 27.888 3.57141 22.9707 5.24522 17.6772C7.34879 11.8981 11.9012 7.34569 17.6803 5.24212C22.3446 3.76712 26.722 3.59212 34.425 3.57129H50H65.575C73.278 3.59212 77.6553 3.76712 82.3196 5.24212C88.0988 7.34569 92.6512 11.8981 94.7547 17.6772C96.4286 22.9707 96.4286 27.888 96.4286 37.7225V49.9999V62.2772Z</string>
     <string name="config_secondaryHomePackage">com.android.launcher3</string>
@@ -429,6 +431,8 @@ utilizzando %s"</string>
     <string name="data_usage_wifi_limit_snoozed_title">Limite di dati Wi-Fi superato</string>
     <string name="data_usage_wifi_limit_title">Limite di dati Wi-Fi raggiunto</string>
     <string name="date_and_time" formatted="false">%H:%M:%S %d/%b/%Y</string>
+    <string name="date_picker_day_of_week_typeface">sans-serif-medium</string>
+    <string name="date_picker_day_typeface">sans-serif-medium</string>
     <string name="date_picker_decrement_day_button">Riduci giorno</string>
     <string name="date_picker_decrement_month_button">Riduci mese</string>
     <string name="date_picker_decrement_year_button">Riduci anno</string>
@@ -436,6 +440,7 @@ utilizzando %s"</string>
     <string name="date_picker_increment_day_button">Aumenta giorno</string>
     <string name="date_picker_increment_month_button">Aumenta mese</string>
     <string name="date_picker_increment_year_button">Aumenta anno</string>
+    <string name="date_picker_month_typeface">sans-serif-medium</string>
     <string name="date_picker_next_month_button">Mese successivo</string>
     <string name="date_picker_prev_month_button">Mese precedente</string>
     <string name="date_time">%2$s %1$s</string>
@@ -630,6 +635,18 @@ Per eventuali domande, contatta l'amministratore della tua organizzazione."</str
     <string name="fingerprints">Fingerprint:</string>
     <string name="floating_toolbar_close_overflow_description">Chiudi overflow</string>
     <string name="floating_toolbar_open_overflow_description">Altre opzioni</string>
+    <string name="font_family_body_1_material">sans-serif</string>
+    <string name="font_family_body_2_material">sans-serif-medium</string>
+    <string name="font_family_button_material">sans-serif-medium</string>
+    <string name="font_family_caption_material">sans-serif</string>
+    <string name="font_family_display_1_material">sans-serif</string>
+    <string name="font_family_display_2_material">sans-serif</string>
+    <string name="font_family_display_3_material">sans-serif</string>
+    <string name="font_family_display_4_material">sans-serif-light</string>
+    <string name="font_family_headline_material">sans-serif</string>
+    <string name="font_family_menu_material">sans-serif</string>
+    <string name="font_family_subhead_material">sans-serif</string>
+    <string name="font_family_title_material">sans-serif-medium</string>
     <string name="force_close">OK</string>
     <string name="foreground_service_app_in_background">L\'app %1$s sta consumando la batteria</string>
     <string name="foreground_service_apps_in_background">%1$d app stanno consumando la batteria</string>
@@ -905,8 +922,8 @@ Riprova tra %2$d secondi."</string>
     <string name="lockscreen_unlock_label">Sblocca</string>
     <string name="low_internal_storage_view_text">Alcune funzioni di sistema potrebbero non funzionare</string>
     <string name="low_internal_storage_view_text_no_boot">Memoria insufficiente per il sistema. Assicurati di avere 250 MB di spazio libero e riavvia.</string>
-    <string name="low_internal_storage_view_title">Spazio di archiviazione in esaurimento</string>
-    <string name="low_memory">Spazio di archiviazione del telefono esaurito. Elimina alcuni file per liberare spazio.</string>
+    <string name="low_internal_storage_view_title">Memoria in esaurimento</string>
+    <string name="low_memory">Memoria del telefono esaurito. Elimina alcuni file per liberare spazio.</string>
     <string name="managed_profile_label">Passa a profilo di lavoro</string>
     <string name="managed_profile_label_badge">%1$s lavoro</string>
     <string name="managed_profile_label_badge_2">%1$s di lavoro (2°)</string>
@@ -953,6 +970,7 @@ Riprova tra %2$d secondi."</string>
     <string name="mime_type_document">Documento</string>
     <string name="mime_type_document_ext">Documento %1$s</string>
     <string name="mime_type_folder">Cartella</string>
+    <string name="mime_type_generic">File</string>
     <string name="mime_type_generic_ext">File %1$s</string>
     <string name="mime_type_image">Immagine</string>
     <string name="mime_type_image_ext">Immagine %1$s</string>
@@ -1227,6 +1245,7 @@ Riprova tra %2$d secondi."</string>
     <string name="permgrouplab_nearby_devices">Dispositivi nelle vicinanze</string>
     <string name="permgrouplab_phone">Telefono</string>
     <string name="permgrouplab_sensors">Sensori del corpo</string>
+    <string name="permgrouplab_sms">SMS</string>
     <string name="permgrouplab_storage">File e contenuti multimediali</string>
     <string name="permission">Permesso</string>
     <string name="permission_remember_choice">Ricorda</string>
@@ -1282,7 +1301,7 @@ per l'account %s."</string>
     <string name="permlab_expandStatusBar">espansione/compressione barra di stato</string>
     <string name="permlab_foregroundService">esecuzione servizio in primo piano</string>
     <string name="permlab_getAccounts">individuazione account sul dispositivo</string>
-    <string name="permlab_getPackageSize">calcolo spazio di archiviazione applicazioni</string>
+    <string name="permlab_getPackageSize">calcolo memoria applicazioni</string>
     <string name="permlab_getTasks">recupero applicazioni in esecuzione</string>
     <string name="permlab_handoverStatus">ricezione dello stato dei trasferimenti Android Beam</string>
     <string name="permlab_imagesWrite">modifica della tua raccolta di foto</string>
@@ -1427,6 +1446,7 @@ per l'account %s."</string>
     <string name="profile_encrypted_title">Alcune funzionalità sono limitate</string>
     <string name="progress_erasing">Cancellazione archivio condiviso…</string>
     <string name="quick_contacts_not_available">Nessuna applicazione trovata per la visualizzazione di questo contatto.</string>
+    <string name="radial_numbers_typeface">sans-serif</string>
     <string name="reason_service_unavailable">Servizio di stampa non attivo</string>
     <string name="reason_unknown">sconosciuto</string>
     <string name="reboot_safemode_confirm">Riavviare in modalità provvisoria? Ciò comporterà la disattivazione di tutte le applicazioni di terze parti installate. Verranno ripristinate al prossimo riavvio.</string>
@@ -1505,6 +1525,7 @@ per l'account %s."</string>
     <string name="safe_media_volume_warning">"Vuoi aumentare il volume oltre il livello consigliato?
 
 L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udito."</string>
+    <string name="sans_serif">sans-serif</string>
     <string name="save_password_label">Conferma</string>
     <string name="save_password_message">Memorizzare la password nel browser?</string>
     <string name="save_password_never">Mai</string>
@@ -1544,6 +1565,7 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
     <string name="serviceClassDataAsync">Asinc</string>
     <string name="serviceClassDataSync">Sinc</string>
     <string name="serviceClassPacket">Pacchetto</string>
+    <string name="serviceClassSMS">SMS</string>
     <string name="serviceClassVoice">Voce</string>
     <string name="serviceDisabled">Il servizio è stato disattivato.</string>
     <string name="serviceEnabled">Il servizio è stato attivato.</string>
@@ -1662,6 +1684,7 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
     <string name="time_picker_prompt_label">Digita l\'ora</string>
     <string name="time_picker_radial_mode_description">Passa alla modalità orologio per inserire l\'ora.</string>
     <string name="time_picker_text_input_mode_description">Passa alla modalità di immissione testo per inserire l\'ora.</string>
+    <string name="time_placeholder">--</string>
     <string name="toolbar_collapse_description">Comprimi</string>
     <string name="tooltip_popup_title">Descrizione comando</string>
     <string name="turn_off_radio">Disattiva wireless</string>
@@ -1688,6 +1711,7 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
     <string name="usb_contaminant_not_detected_title">Utilizzo porta USB consentito</string>
     <string name="usb_device_resolve_prompt_warn">A questa app non è stata concessa l\'autorizzazione di registrazione, ma l\'app potrebbe acquisire l\'audio tramite questo dispositivo USB.</string>
     <string name="usb_midi_notification_title">MIDI via USB attivo</string>
+    <string name="usb_midi_peripheral_manufacturer_name">Android</string>
     <string name="usb_midi_peripheral_name">Porta periferica USB Android</string>
     <string name="usb_midi_peripheral_product_name">Porta periferica USB</string>
     <string name="usb_mtp_launch_notification_description">Tocca per visualizzare i file</string>
