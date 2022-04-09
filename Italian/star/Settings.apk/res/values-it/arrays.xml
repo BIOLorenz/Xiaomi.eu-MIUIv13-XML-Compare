@@ -510,6 +510,17 @@
         <item>Corsivo</item>
         <item>Maiuscolo piccolo</item>
     </string-array>
+    <string-array name="captioning_typeface_selector_values">
+        <item></item>
+        <item>sans-serif</item>
+        <item>sans-serif-condensed</item>
+        <item>sans-serif-monospace</item>
+        <item>serif</item>
+        <item>serif-monospace</item>
+        <item>casual</item>
+        <item>cursive</item>
+        <item>sans-serif-smallcaps</item>
+    </string-array>
     <string-array name="cdma_system_select_choices">
         <item>Solo domestica</item>
         <item>Automatico</item>
