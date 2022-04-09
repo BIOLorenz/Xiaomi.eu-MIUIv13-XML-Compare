@@ -106,6 +106,7 @@
     <string name="mihouse">Mi Elettronica</string>
     <string name="miui_clock_city_name_local">Locale</string>
     <string name="miui_clock_city_name_second">Secondo orologio</string>
+    <string name="miui_device_name">Android</string>
     <string name="miui_lock_screen_date">EEEE dd/MM</string>
     <string name="miui_lock_screen_date_12">EEEE dd/MM</string>
     <string name="miui_lock_screen_date_two_lines">"EEEE
@@ -149,6 +150,7 @@ dd/MM"</string>
     <string name="valentines_day">San Valentino</string>
     <string name="vigor">Vigore</string>
     <string name="vip_achievements">Risultati</string>
+    <string name="vip_level">LV %d</string>
     <string name="vip_login">Tocca per accedere</string>
     <string name="vip_not_login">Accesso non effettuato</string>
     <string name="vip_sign">Firma:</string>
