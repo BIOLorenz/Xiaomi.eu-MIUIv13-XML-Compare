@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="AudioOnOff">\u0009Audio On/Off</string>
+    <string name="AudioStatus">\u0009\u0009Stato audio</string>
+    <string name="CloudControl">CloudControl</string>
+    <string name="CurrentDsi">\u0009\u0009DsiAttuale</string>
+    <string name="GPIO_Status">\u0009\u0009GPIO_Stato</string>
+    <string name="HotspotStatus">\u0009\u0009HotspotStato</string>
+    <string name="SAR">SAR</string>
+    <string name="SAROnOff">\u0009SAR On/Off</string>
+    <string name="Sensor1_Status">\u0009\u0009Sensor1_Stato</string>
+    <string name="Sensor2_Status">\u0009\u0009Sensor2_Stato</string>
     <string name="abc_action_bar_home_description">Vai alla Home</string>
     <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
     <string name="abc_action_menu_overflow_description">Altre opzioni</string>
@@ -8,6 +18,18 @@
     <string name="abc_activitychooserview_choose_application">Scegli un\'app</string>
     <string name="abc_capital_off">DISATTIVATO</string>
     <string name="abc_capital_on">ATTIVATO</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
     <string name="abc_menu_delete_shortcut_label">elimina</string>
     <string name="abc_menu_enter_shortcut_label">invio</string>
     <string name="abc_menu_function_shortcut_label">Funzione+</string>
@@ -37,8 +59,10 @@
     <string name="battery_reverse_wireless_charge_time_out">test di carica wireless inversa scaduto</string>
     <string name="battery_reverse_wireless_charge_title">carica wireless inversa</string>
     <string name="battery_value">Elettricitá</string>
+    <string name="bottom_high_speaker_title">Test tweeter inferiore</string>
     <string name="bottom_left_high_speaker">Test tweeter inferiore sinistro</string>
     <string name="bottom_left_low_speaker">Test woofer inferiore sinistro</string>
+    <string name="bottom_low_speaker_title">Test woofer inferiore</string>
     <string name="bottom_right_high_speaker">Test tweeter lato destro</string>
     <string name="bottom_right_low_speaker">Test woofer inferiore destro</string>
     <string name="bt_address">Indirizzo:</string>
@@ -49,6 +73,7 @@
     <string name="charger_test_end">"
 Test caricabatterie terminato, prego scollega il caricabatterie"</string>
     <string name="cit_OTG_plug_check_summary">Durante il test collega il dispositivo all\'adattatore OTG USB, e quest\'ultimo ad altri dispositivi</string>
+    <string name="cit_OTG_plug_check_title">OTG</string>
     <string name="cit_OTG_waiting_in">Collega un dispositivo USB OTG</string>
     <string name="cit_OTG_waiting_in_charge">Collega adattatore OTG USB ora</string>
     <string name="cit_OTG_waiting_out">Scollega il dispositivo USB OTG</string>
@@ -57,9 +82,11 @@ Test caricabatterie terminato, prego scollega il caricabatterie"</string>
     <string name="cit_abnormal_reboot_title">Dati stabilità dispositivo</string>
     <string name="cit_ac_charger_in">Ricarica via AC</string>
     <string name="cit_ac_charger_out">Alimentatore AC scollegato</string>
+    <string name="cit_accdata_second_sensor_check_title">Secondo Accelerometro</string>
     <string name="cit_accdata_sensor_check_summary">I valori delle coordinate X, Y, Z, dovrebbero apparire in basso</string>
     <string name="cit_accdata_sensor_check_title">Accelerometro</string>
     <string name="cit_accdata_sensor_second_screen_check_title">Accelerometro Secondo Schermo</string>
+    <string name="cit_accelermeter_second_cali_title">Secondo test di calibrazione dell\'accelerometro</string>
     <string name="cit_accelermeter_sensor_cali_title">Test calibrazione del sensore di accelerazione</string>
     <string name="cit_accelermeter_sensor_check_summary">"Muovi il dispositivo velocemente in una direzione. I valori delle coordinate X, Y e Z sono visualizzati di seguito. (quando il dispositivo è in movimento: X rappresenta sinistra/destra, Y rappresenta avanti/indietro, Z rappresenta su/giù).
 Prima di calibrare il dispositivo, posizionalo su una superficie piana."</string>
@@ -79,11 +106,21 @@ Prima di calibrare il dispositivo, posizionalo su una superficie piana."</string
     <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Test feedback del microfono principale alla capsula auricolare.
 
 Tenere il telefono come se si stesse facendo una chiamata, parlare con il microfono principale, si dovrebbe sentire la voce dalla capsula auricolare"</string>
+    <string name="cit_audio_spk_cal_valueF0">F0:</string>
+    <string name="cit_audio_spk_cal_valueRe">Re:</string>
+    <string name="cit_audio_spk_cal_valueT">Temp:</string>
     <string name="cit_battery_temp_pass">La temperatura della batteria è nella norma</string>
     <string name="cit_batterylight">LED batteria</string>
+    <string name="cit_batterylight_13blue">13Blu</string>
+    <string name="cit_batterylight_13green">13Verde</string>
+    <string name="cit_batterylight_13red">13Rosso</string>
+    <string name="cit_batterylight_24blue">24Blu</string>
+    <string name="cit_batterylight_24green">24Verde</string>
+    <string name="cit_batterylight_24red">24Rosso</string>
     <string name="cit_batterylight_blue">Blu</string>
     <string name="cit_batterylight_green">Verde</string>
     <string name="cit_batterylight_red">Rosso</string>
+    <string name="cit_batterylight_rgb_all">Tutti Gli Effetti Luce</string>
     <string name="cit_batterylight_white">Bianco</string>
     <string name="cit_blue_tooth_address_check_summary">L\'indirizzo Bluetooth di questo dispositivo dovrebbe comparire di seguito.</string>
     <string name="cit_blue_tooth_address_check_title">Test Bluetooth</string>
@@ -101,6 +138,7 @@ Tenere il telefono come se si stesse facendo una chiamata, parlare con il microf
     <string name="cit_build_finger_failed">costruzione impronta FALLITO</string>
     <string name="cit_build_finger_passed">costruzione impronta PASSATO</string>
     <string name="cit_calibration_fail">Calibrazione fallita</string>
+    <string name="cit_calibration_finish">Scrittura dati di calibrazione completata</string>
     <string name="cit_calibration_pass">Calibrazione riuscita</string>
     <string name="cit_camera_cali_title">Calibrazione della fotocamera</string>
     <string name="cit_camera_check_summary">"Istruzioni per il test:
