@@ -505,7 +505,7 @@
     <string name="dialog_change_sync_lookback">La mail ricevuta %s verrà eliminata automaticamente. Tocca per modificare.</string>
     <string name="dialog_disagree">"Non accetto"</string>
     <string name="dialog_insufficient_space_on_external">"Impossibile scaricare allegato. Spazio insufficiente sulla memoria esterna."</string>
-    <string name="dialog_insufficient_space_on_internal">Spazio di archiviazione interna non sufficiente</string>
+    <string name="dialog_insufficient_space_on_internal">Memoria interna non sufficiente</string>
     <string name="dialog_system_auto_sync_account_no_open">La sincronizzazione account non è attivata e i messaggi non possono essere sincronizzati automaticamente</string>
     <string name="dialog_system_auto_sync_master_no_open">Il sistema di sincronizzazione non è attivato e i messaggi non possono essere sincronizzati automaticamente</string>
     <string name="disable_admin_warning">"AVVISO. La disattivazione dell'autorità dell'applicazione Email per l'amministrazione del dispositivo comporterà l'eliminazione di tutti gli account email che la richiedono, compresi i relativi messaggi email, contatti, eventi di calendario e altri dati."</string>
@@ -1296,6 +1296,7 @@ Attendi che sia completamente sincronizzata o visualizza il messaggio sul comput
     <string name="reply_add_bodycontent">Aggiungere un messaggio di risposta rapida al contenuto?</string>
     <string name="reply_all">Rispondi a tutti</string>
     <string name="reply_attribution">%2$s ha scritto su %1$s:</string>
+    <string name="reply_subject_label">Re:</string>
     <string name="report_phishing">Segnala come phishing</string>
     <string name="report_spam">Segnala spam</string>
     <string name="request_copy_db_to_disk">L\'app Email richiede che il tuo database venga esportato in file</string>
@@ -1510,7 +1511,7 @@ Attendi che sia completamente sincronizzata o visualizza il messaggio sul comput
     <string name="to">A</string>
     <string name="to_heading">"A: "</string>
     <string name="toast_bar_fail_synchronization">"Impossibile collegarsi alla rete"</string>
-    <string name="toast_bar_insufficient_memory_space">"Spazio di archiviazione insufficiente"</string>
+    <string name="toast_bar_insufficient_memory_space">"Memoria insufficiente"</string>
     <string name="toast_bar_invalid_account">Devi accedere di nuovo</string>
     <string name="toast_bar_no_connection_network">"Non hai una connessione internet"</string>
     <string name="toast_bar_open_gmail_synchronization">"Tocca per utilizzare un server proxy per Gmail"</string>
