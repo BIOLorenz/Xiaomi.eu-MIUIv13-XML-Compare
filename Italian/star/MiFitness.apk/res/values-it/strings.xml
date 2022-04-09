@@ -233,7 +233,7 @@
     <string name="common_hint_battery_low">Batteria scarica</string>
     <string name="common_hint_device_busy">Riprova più tardi</string>
     <string name="common_hint_network_unavailable">Verifica la connessione di rete</string>
-    <string name="common_hint_storage_low">Spazio di archiviazione insufficiente</string>
+    <string name="common_hint_storage_low">Memoria insufficiente</string>
     <string name="common_installed">Scaricati</string>
     <string name="common_known">Ok</string>
     <string name="common_load_fail">"Caricamento non riuscito"</string>
@@ -737,9 +737,12 @@ Invia questo codice al supervisore."</string>
     <string name="exo_controls_shuffle_on_description">Riproduzione Casuale</string>
     <string name="exo_controls_stop_description">Interrompi</string>
     <string name="exo_controls_vr_description">Modalità VR</string>
+    <string name="exo_download_completed">Download completato</string>
     <string name="exo_download_description">Scarica</string>
     <string name="exo_download_downloading">In download</string>
+    <string name="exo_download_failed">Download fallito</string>
     <string name="exo_download_notification_channel_name">Download</string>
+    <string name="exo_download_removing">Rimozione dei download</string>
     <string name="exo_track_role_alternate">Alternato</string>
     <string name="exo_track_role_commentary">Commento</string>
     <string name="exo_track_role_supplementary">Supplementare</string>
@@ -1272,6 +1275,7 @@ Inizia da capo."</string>
     <string name="login_enter_app">Avvia</string>
     <string name="login_immediate_experience">Avvia</string>
     <string name="login_kr_region">Corea Del Sud</string>
+    <string name="login_location_title">Accesso alla posizione</string>
     <string name="login_login">Accedi</string>
     <string name="login_next_step">Successivo</string>
     <string name="login_privacy_agree_to_terms_kr">Termini e condizioni</string>
@@ -1322,6 +1326,7 @@ Inizia da capo."</string>
     <string name="mine_update_version">Versione</string>
     <string name="mine_user_female">Femmina</string>
     <string name="mine_user_male">Maschio</string>
+    <string name="mine_user_name">--</string>
     <string name="mine_weekly_report_auth_title">Permessi</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
@@ -1511,6 +1516,7 @@ Inizia da capo."</string>
     <string name="nfc_phone_num_captcha_input_hint">Inserisci codice</string>
     <string name="nfc_phone_num_captcha_waitting">Attendi…</string>
     <string name="nfc_phone_num_input_hint">Numero di telefono</string>
+    <string name="nfc_phone_receive_sms_code">SMS</string>
     <string name="nfc_remove_door_card">Rimuovi</string>
     <string name="nfc_remove_transit_card">Rimuovi</string>
     <string name="nfc_remove_transit_card_global">Rimuovi scheda</string>
@@ -1701,9 +1707,11 @@ Inizia da capo."</string>
     <string name="privacy_permission_answer_phone_calls">Telefono</string>
     <string name="privacy_permission_camera">Accesso alla fotocamera</string>
     <string name="privacy_permission_list_send_sms">Invio SMS</string>
+    <string name="privacy_permission_location">Accesso alla posizione</string>
     <string name="privacy_permission_notice_alert">Accesso alle notifiche</string>
     <string name="privacy_permission_read_call_log">Accesso alla cronologia chiamate</string>
     <string name="privacy_permission_read_contacts">Accedi ai contatti</string>
+    <string name="privacy_permission_read_phone_state">Accesso alle info dispositivo</string>
     <string name="privacy_permission_record_audio">Registra audio</string>
     <string name="privacy_permission_record_audio_des">Per registrare quanto russi e parli durante l\'analisi del tuo ciclo di sonno</string>
     <string name="privacy_permission_write_read_file">Accesso alla memoria</string>
@@ -2266,6 +2274,7 @@ Inizia da capo."</string>
     <string name="userinfo_user_age_out_limit_exp">Hai %1$s anni o sei più vecchio?</string>
     <string name="userinfo_user_birthdate">Data di nascita</string>
     <string name="userinfo_user_birthday">Data di nascita</string>
+    <string name="userinfo_user_name">--</string>
     <string name="userinfo_user_sex">Genere</string>
     <string name="userinfo_year">Anno</string>
     <string name="userinfo_yes">Sì</string>
@@ -2316,6 +2325,7 @@ Inizia da capo."</string>
     <string name="xms_third_app_waiting">In attesa…</string>
     <string name="xms_thirdapp_device_auth_manage">Permessi gestione dispositivo</string>
     <string name="xms_thirdapp_permission_data_manager_des">Informazioni sui dispositivi accoppiati</string>
+    <string name="xms_thirdapp_permission_data_manager_name">Accesso alle info dispositivo</string>
     <string name="xms_thirdapp_permission_notify_des">Notifiche sui tuoi dispositivi indossabili</string>
     <string name="xms_thirdapp_permission_notify_name">Inviare Notifiche</string>
     <string name="xms_thirdapp_permission_request_info">%s app può:</string>
