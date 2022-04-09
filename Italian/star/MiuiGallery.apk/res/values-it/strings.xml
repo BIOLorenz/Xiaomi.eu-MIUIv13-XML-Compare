@@ -142,6 +142,7 @@
     <string name="album_pano_name">Panorama</string>
     <string name="album_permission_activity_title">Gestione permessi</string>
     <string name="album_permission_state_granted">Concesso</string>
+    <string name="album_permission_state_non_granted">Concedi</string>
     <string name="album_permission_title_granted">Concesso</string>
     <string name="album_permission_title_non_granted">Non concesso</string>
     <string name="album_quota_fulfiled">Impossibile creare l\'album, è stato raggiunto il numero massimo.</string>
@@ -174,6 +175,7 @@
     <string name="album_sort_type_name_desc">Da Z a A</string>
     <string name="album_tab_page_switch_view_style_to_grid">Griglia</string>
     <string name="album_tab_page_switch_view_style_to_linear">Lista</string>
+    <string name="album_tab_tool_tips">%s MB</string>
     <string name="album_type_baby">Condividi album</string>
     <string name="album_type_share">Album</string>
     <string name="album_type_system">Album di sistema</string>
@@ -269,7 +271,7 @@
     <string name="backup_detail_page_title">Backup Mi Cloud</string>
     <string name="backup_device_space_low_btn_text">Cancella</string>
     <string name="backup_device_space_low_desc">Libera spazio per proseguire il backup degli elementi</string>
-    <string name="backup_device_space_low_title">Spazio di archiviazione insufficiente</string>
+    <string name="backup_device_space_low_title">Memoria insufficiente</string>
     <string name="backup_dirty_num">Totale: %s</string>
     <string name="backup_dirty_tip">Backup di foto e video non eseguito</string>
     <string name="backup_file_over_size_desc">"Impossibile eseguire il backup per foto più grandi di %1$s e video più grandi di %2$s.\""</string>
@@ -331,6 +333,7 @@
     <string name="buy_member_tip">Diventa un utente</string>
     <string name="by_email">E-mail</string>
     <string name="by_others">Altro</string>
+    <string name="by_sms">SMS</string>
     <string name="byteShort">B</string>
     <string name="camera_needs_auto_backup_tip">Backup album fotocamera eseguito</string>
     <string name="can_authorize_owner_albums_share_to_tv">Autorizza la visualizzazione degli album sulla tua TV</string>
@@ -512,7 +515,7 @@
     <string name="cleaner_empty_value_description">Sembra tutto OK</string>
     <string name="cleaner_photo_pick_delete_selected">Elimina le foto selezionate</string>
     <string name="cleaner_raw_action">Vedi dettagli</string>
-    <string name="cleaner_raw_description">Libera spazio di archiviazione cancellando immagini RAW</string>
+    <string name="cleaner_raw_description">Libera memoria cancellando immagini RAW</string>
     <string name="cleaner_raw_title">Cancella file RAW</string>
     <string name="cleaner_scan_description">L\'ottimizzazione consente di liberare spazio sul dispositivo</string>
     <string name="cleaner_scan_exit_dialog_message">"Dovrai ricominciare da capo la prossima volta. Interrompere lo scanner adesso?"</string>
@@ -581,7 +584,7 @@
     <string name="cloud_privacy_with_face">Funzionalità e privacy</string>
     <string name="cloud_screenshots_display_name">Screenshot</string>
     <string name="cloud_settings">Sincronizza</string>
-    <string name="cloud_storage_extend">Aumenta lo spazio cloud</string>
+    <string name="cloud_storage_extend">Aumenta la memoria cloud</string>
     <string name="cloud_storage_ok_append_desc">Disp. %s</string>
     <string name="cloud_storage_ok_desc">Spazio Mi Cloud %s</string>
     <string name="cloud_storage_ok_title">Spazio Mi Cloud</string>
@@ -698,7 +701,7 @@
     <string name="device_status_sending">Invio in corso...</string>
     <string name="device_status_success">Inviato correttamente</string>
     <string name="device_status_waiting">In attesa…</string>
-    <string name="device_storage_space_low_dialog_title">Spazio di archiviazione insufficiente</string>
+    <string name="device_storage_space_low_dialog_title">Memoria insufficiente</string>
     <string name="device_storage_space_low_textline_button">Avvia</string>
     <string name="disable_auto_upload_tip">Le foto nuove e quelle eliminate non verranno sincronizzate con Mi Cloud. Questo album verrà spostato in \"Altri album\".</string>
     <string name="disable_auto_upload_title">Disattiva sincronizzazione con Mi Cloud</string>
@@ -721,10 +724,10 @@
     <string name="download_tip">Scarica</string>
     <string name="download_title">Preparazione file…</string>
     <string name="download_type_origin">File originali</string>
-    <string name="download_type_origin_subtitle_china">Le immagini originali occupano più spazio di archiviazione e possono essere scaricate solo tramite Wi-Fi</string>
+    <string name="download_type_origin_subtitle_china">Le immagini originali occupano più memoria e possono essere scaricate solo tramite Wi-Fi</string>
     <string name="download_type_origin_title">Originale</string>
     <string name="download_type_thumbnail">Alta qualità</string>
-    <string name="download_type_thumbnail_subtitle">Le immagini in alta qualità sembrano quasi identiche a quelle originali, ma occupano meno spazio di archiviazione</string>
+    <string name="download_type_thumbnail_subtitle">Le immagini in alta qualità sembrano quasi identiche a quelle originali, ma occupano meno memoria</string>
     <string name="download_type_thumbnail_title">Alta qualità</string>
     <string name="download_type_title">Qualità download</string>
     <string name="downloading_dialog_message">Puoi scegliere la qualità delle immagini scaricate o disattivare i download automatici nelle Impostazioni.</string>
@@ -835,7 +838,8 @@
     <string name="error_socket_timeout_tip">Connessione scaduta.</string>
     <string name="error_storage_full_action">Libera spazio</string>
     <string name="error_storage_full_msg">Libera spazio sul dispositivo e prova di nuovo.</string>
-    <string name="error_storage_full_tip">Spazio di archiviazione insufficiente</string>
+    <string name="error_storage_full_tip">Memoria insufficiente</string>
+    <string name="error_storage_no_write_permission_tip_action">Concedi</string>
     <string name="error_sync_off_action">Attiva</string>
     <string name="error_sync_off_msg">"Assicurati di aver attivate la sincronizzazione con Mi Cloud."</string>
     <string name="error_sync_off_tip">La sincronizzazione Mi Cloud è disattivata</string>
@@ -1217,7 +1221,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="macarons_download_network_fail">"Impossibile scaricare il plug-in. Controlla le impostazioni di rete e prova di nuovo."</string>
     <string name="macarons_download_other_fail">"Download fallito a causa di un errore"</string>
     <string name="macarons_download_sdscard_fail">"Download fallito. Scheda SD non disponibile."</string>
-    <string name="macarons_download_storage_fail">"Download fallito. Spazio di archiviazione insufficiente."</string>
+    <string name="macarons_download_storage_fail">"Download fallito. Memoria insufficiente."</string>
     <string name="macarons_download_success">Plug-in scaricato correttamente</string>
     <string name="macarons_downloading">Download plug-in…</string>
     <string name="macarons_select_image_range">"Non puoi usare immagini multiple per creare una vignetta magica"</string>
@@ -1331,6 +1335,9 @@ per personalizzare la Galleria"</string>
     <string name="media_type_portrait_photo">Ritratto</string>
     <string name="megabyteShort">MB</string>
     <string name="member_menu_vipname_free">Gratis</string>
+    <string name="member_menu_vipname_mega">Mega</string>
+    <string name="member_menu_vipname_premium">Premium</string>
+    <string name="member_menu_vipname_ultra">Ultra</string>
     <string name="menu_album_new_album">Nuovo album</string>
     <string name="menu_detail_sort_create_date">Creato</string>
     <string name="menu_detail_sort_name">Nome file</string>
@@ -2069,7 +2076,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="send_multiple_files_hint_format">Invia file (%s)</string>
     <string name="send_public_url">Invia link album</string>
     <string name="send_secret_file_failed">"Impossibile condividere"</string>
-    <string name="send_secret_file_space_low">Spazio di archiviazione insufficiente</string>
+    <string name="send_secret_file_space_low">Memoria insufficiente</string>
     <string name="send_too_many_files_error">Impossibile inviare tutti gli elementi (massimo %d elementi).</string>
     <string name="service_is_provided_by_miui_cloud_service">Questo servizio è fornito da Xiaomi Cloud</string>
     <string name="set_as_baby_lock_wallpaper">Imposta come sfondo del blocco schermo</string>
@@ -2127,7 +2134,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="slideshow_loop_title">Ripeti tutte le diapositive</string>
     <string name="slim_action">Ottimizza</string>
     <string name="slim_action_auto_backup">Attiva</string>
-    <string name="slim_action_auto_backup_sub_tip">Libera spazio di archiviazione</string>
+    <string name="slim_action_auto_backup_sub_tip">Libera memoria</string>
     <string name="slim_action_auto_backup_tip">Attiva sincronizzazione con il Cloud</string>
     <string name="slim_complete">Fatto</string>
     <string name="slim_complete_action_title">Ottimizzato correttamente</string>
@@ -2781,6 +2788,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="xiaomi_market_sdk_update_dialog_cancel">Non ora</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Aggiorna</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Aggiornamento disponibile</string>
+    <string name="xiaomi_phone">Xiaomi</string>
     <string name="yes">Sì</string>
     <string name="yesterday">Ieri</string>
     <string name="you_are">"Sei il bambino di"</string>
