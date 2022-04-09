@@ -30,6 +30,7 @@
     <string name="aod_lock_screen_date_v">"EEE
 dd/MM"</string>
     <string name="aod_show_date_and_time">Ora</string>
+    <string name="aod_signature_12">hh:mm aa</string>
     <string name="apply">Applica</string>
     <string name="apply_succeed">Applicato correttamente</string>
     <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
