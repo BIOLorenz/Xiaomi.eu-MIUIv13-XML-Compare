@@ -43,6 +43,7 @@
     <string name="aod_component">Elementi visualizzati</string>
     <string name="aod_dual_clock_date">HH:mm dd/MM</string>
     <string name="aod_dual_clock_date_12">hh:mm dd/MM aa</string>
+    <string name="aod_dual_togother_12">hh:mm aa</string>
     <string name="aod_lock_screen_date">d MMMM, EE</string>
     <string name="aod_lock_screen_date_12">d MMMM, EE</string>
     <string name="aod_lock_screen_date_12_signature">d/M</string>
@@ -59,6 +60,7 @@ dd/MM"</string>
     <string name="aod_mode_time_title">Pianifica</string>
     <string name="aod_show_date_and_time">Mostra data e ora</string>
     <string name="aod_show_style_title">Visualizza elementi</string>
+    <string name="aod_signature_12">hh:mm aa</string>
     <string name="aod_style">Tema</string>
     <string name="aod_theme_store">Temi Always-on display</string>
     <string name="aod_to_close">Disattiva</string>
@@ -363,6 +365,7 @@ dd/MM"</string>
     <string name="saturday_short">Sab</string>
     <string name="saturday_shortest">Sab</string>
     <string name="scheduled_mode_dialog_msg">Gli elementi verranno visualizzati nell\'Always-on Display durante questo periodo: %s.</string>
+    <string name="scheduled_mode_dialog_msg_12">hh:mm aa</string>
     <string name="scheduled_mode_msg">Attivo: %s</string>
     <string name="scheduled_style">Programmato</string>
     <string name="scheduled_style_summary">Imposta orario personalizzato</string>
