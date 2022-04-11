@@ -207,6 +207,7 @@
     <string name="cm_privacy_dialog_title">Attenzione</string>
     <string name="cmcc_privacy">Accordo Privacy Operatore Cina Mobile</string>
     <string name="cn_privacy_dialog_title">Attenzione</string>
+    <string name="cn_privacy_update_dialog_title">Informativa sulla privacy aggiornata</string>
     <string name="complain_message_title">Segnala</string>
     <string name="compressing">Immagine troppo grande. Compressione in corso…</string>
     <string name="confirm">OK</string>
@@ -850,6 +851,7 @@ Per attivare Mi Message è necessario l'invio di un SMS. Il tuo operatore potreb
     <string name="pref_title_msg_blocked">Blacklist</string>
     <string name="pref_title_notification_body_enabled">Mostra anteprima</string>
     <string name="pref_title_perm_audio">Registra audio</string>
+    <string name="pref_title_perm_calander">Accesso al calendario</string>
     <string name="pref_title_perm_camera">Utilizza fotocamera</string>
     <string name="pref_title_perm_location">Posizione</string>
     <string name="pref_title_perm_read_call_log">Accesso alla cronologia chiamate</string>
@@ -882,6 +884,7 @@ Per attivare Mi Message è necessario l'invio di un SMS. Il tuo operatore potreb
     <string name="priority_normal">Normale</string>
     <string name="privacy_dialog_text_policy_link">Informativa sulla Privacy</string>
     <string name="privacy_dialog_title_revoke_confim">Revoca autorizzazione...</string>
+    <string name="privacy_dialog_title_update">Informativa sulla privacy aggiornata</string>
     <string name="privacy_mode_hint">"Non è possibile inviare messaggi in Modalità Ospite"</string>
     <string name="privacy_password_message1">La password di protezione privacy funziona per le app, foto, note e cartelle nascoste.</string>
     <string name="privacy_password_message2">Utilizza la password di protezione privacy. Funziona per le app, foto, note e cartelle nascoste.</string>
