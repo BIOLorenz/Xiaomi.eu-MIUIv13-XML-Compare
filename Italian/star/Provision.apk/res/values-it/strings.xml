@@ -372,6 +372,7 @@ Puoi controllare questa funzione da Impostazioni &gt; Password e sicurezza &gt; 
     <string name="other_settings_user_experience_summary">Contribuirai al miglioramento di MIUI con l\'invio di dati anonimi di utilizzo</string>
     <string name="other_settings_user_experience_summary_index">Vedi dettagli</string>
     <string name="permission_MIUIDaemon_introduction">MIUI Daemon consente di trasferire i dati dal dispositivo quando lo schermo è danneggiato.</string>
+    <string name="permission_access_calendar">Accesso al calendario</string>
     <string name="permission_account">Accedere agli account sul dispositivo:</string>
     <string name="permission_account_introduction">Per accedere con Mi Account</string>
     <string name="permission_application_package_introduction">Accedere all\'archiviazione per analizzare i pacchetti di installazione</string>
@@ -414,6 +415,7 @@ Puoi controllare questa funzione da Impostazioni &gt; Password e sicurezza &gt; 
     <string name="permission_read_message">Accedere ai messaggi di testo</string>
     <string name="permission_read_message_introduction">Per verificare la proprietà del tuo dispositivo</string>
     <string name="permission_read_note_introduction">Per accedere a note e allegati</string>
+    <string name="permission_read_write_contacts">Accesso e modifica contatti</string>
     <string name="permission_read_write_device_store">Accedi e salva gli oggetti nella memoria</string>
     <string name="permission_read_write_file">Accesso e salvataggio di file e foto sul dispositivo:</string>
     <string name="permission_read_write_file_introduction">Per accedere, salvare e memorizzare nella cache gli elementi sul tuo dispositivo</string>
