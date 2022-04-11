@@ -789,6 +789,7 @@ dd/M"</string>
     <string name="privacy_remind_user_mode_title">Attenzione</string>
     <string name="privacy_revoke_agree_content">Revoca autorizzazione...</string>
     <string name="privacy_settings">Privacy</string>
+    <string name="privacy_update_prompt_title">Informativa sulla privacy aggiornata</string>
     <string name="provision_default_theme_title">Predefinita</string>
     <string name="provision_loading_tips">Attendi…</string>
     <string name="provision_second_title">Seleziona uno dei 5 temi predefiniti</string>
