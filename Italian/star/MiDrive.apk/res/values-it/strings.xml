@@ -354,6 +354,7 @@
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="privacy_policy">Informativa sulla Privacy</string>
     <string name="privacy_recall_dialog_title">Revoca autorizzazione...</string>
+    <string name="privacy_update_dialog_title">Informativa sulla privacy aggiornata</string>
     <string name="privacy_user_notice_dialog_exit_btn_text">Esci</string>
     <string name="privacy_user_notice_dialog_ok_btn_text">Accetto</string>
     <string name="privacy_user_notice_dialog_title">Attenzione</string>
