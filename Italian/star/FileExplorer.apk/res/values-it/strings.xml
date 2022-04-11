@@ -640,6 +640,7 @@
     <string name="pref_permission_not_allowed">Non concesso</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="privacy_policy">Informativa sulla Privacy</string>
+    <string name="privacy_policy_renew">Informativa sulla privacy aggiornata</string>
     <string name="private_files">Nascosti</string>
     <string name="private_folder">Cartella nascosta</string>
     <string name="private_folder_no_file_hints">Tieni premuto sul file o la cartella per nasconderli.</string>
