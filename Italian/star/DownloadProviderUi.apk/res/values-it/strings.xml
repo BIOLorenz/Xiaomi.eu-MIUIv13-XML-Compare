@@ -169,12 +169,13 @@
     <string name="dialog_file_missing_body">"Impossibile trovare il file, sembra che sia stato eliminato."</string>
     <string name="dialog_file_missing_title">"Impossibile aprire il file"</string>
     <string name="dialog_insufficient_space_on_cache">"Impossibile completare il download. Spazio insufficiente sulla memoria interna."</string>
-    <string name="dialog_insufficient_space_on_external">"Impossibile completare il download, spazio di archiviazione esterno insufficiente."</string>
+    <string name="dialog_insufficient_space_on_external">"Impossibile completare il download, memoria esterno insufficiente."</string>
     <string name="dialog_media_not_found">Collegare una memoria esterna per scaricare.</string>
     <string name="dialog_msg_disabled_net">%1$s ha download limitati per la rete attuale. Tocca le impostazioni di rete per accedere all\'app Sicurezza.</string>
     <string name="dialog_msg_recommend">"Non sarai in grado di visualizzare le fonti consigliate dopo la disattivazione. Puoi scegliere \"Carica contenuti utilizzando solo il Wi-Fi\" per risparmiare dati mobili."</string>
     <string name="dialog_privacy_update_button1">Annulla</string>
     <string name="dialog_privacy_update_button2">Accetto</string>
+    <string name="dialog_privacy_update_title">Informativa sulla privacy aggiornata</string>
     <string name="dialog_queued_body">File aggiunto alla coda, verrà scaricato presto.</string>
     <string name="dialog_speed_cancel">Annulla</string>
     <string name="dialog_speed_msg">Utilizzare i dati mobili per testare la rete può consumare grandi quantità di dati. Continuare comunque?</string>
@@ -201,7 +202,7 @@
     <string name="download_detail">Dettagli</string>
     <string name="download_error">"Impossibile scaricare"</string>
     <string name="download_error_download_file_not_exists">"File inesistente"</string>
-    <string name="download_error_insufficient_space">Spazio di archiviazione non sufficiente</string>
+    <string name="download_error_insufficient_space">Memoria non sufficiente</string>
     <string name="download_filesize_unknown">Sconosciuto</string>
     <string name="download_from">Fonte</string>
     <string name="download_in_process">In download</string>
@@ -358,7 +359,7 @@
     <string name="install">Installa</string>
     <string name="install_failed">"Impossibile installare %1$s"</string>
     <string name="installing">Installazione…</string>
-    <string name="insufficient_space">Spazio di archiviazione non sufficiente</string>
+    <string name="insufficient_space">Memoria non sufficiente</string>
     <string name="invalid_address">Il percorso inserito non è valido</string>
     <string name="jump_rank_hint">"Dai un'occhiata alla classifica di download di oggi &gt;"</string>
     <string name="keep_queued_download">Mantieni</string>
@@ -816,7 +817,7 @@ Accelera i download su tutti i tuoi dispositivi."</string>
     <string name="xl_privilege_play_info">Riproduci i download non completati su vari dispositivi</string>
     <string name="xl_privilege_speedup">Acceleratore di download</string>
     <string name="xl_privilege_speedup_info">Canale ad alta velocità e supporto per i download offline</string>
-    <string name="xl_privilege_storage">Grande spazio di archiviazione</string>
+    <string name="xl_privilege_storage">Grande memoria</string>
     <string name="xl_privilege_storage_info">"C'è abbastanza spazio per tutti i tuoi download"</string>
     <string name="xl_privilege_support">Più dispositivi</string>
     <string name="xl_privilege_title">Abbonamento Xunlei</string>
