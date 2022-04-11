@@ -3615,6 +3615,7 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="privacy_thumbnail_blur_title">Sfoca Anteprima</string>
     <string name="privacy_thumbnail_blur_top_tip">Seleziona le app per le quali le anteprime saranno sfocate nei Recenti</string>
     <string name="privacy_type_open">Attivata</string>
+    <string name="privacy_update_dialog_title">Informativa sulla privacy aggiornata</string>
     <string name="privacy_using_camera">Sta usando la fotocamera</string>
     <string name="privacy_using_location">Sta usando la posizione</string>
     <string name="privacy_using_record">Registrare audio</string>
