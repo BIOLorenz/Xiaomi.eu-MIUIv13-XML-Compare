@@ -7104,6 +7104,7 @@ Se non accetti di concedere tali permessi, non sarai in grado di utilizzare alcu
  Per garantire il normale utilizzo della funzionalità di guida in modalità SOS di Emergenza, potrebbe essere necessario fornire la tua posizione, utilizzare la rete mobile e leggere la tua rubrica. Consentire?"</string>
     <string name="sos_privacy_dialog_title">Termini e Condizioni</string>
     <string name="sos_privacy_policy">Informativa sulla Privacy</string>
+    <string name="sos_privacy_policy_change_title">Informativa sulla privacy aggiornata</string>
     <string name="sos_privacy_policy_no_net_button">Ok</string>
     <string name="sos_privacy_policy_no_net_message">Impossibile collegarsi alla rete. Controlla le impostazioni e riprova.</string>
     <string name="sos_privacy_policy_no_net_title">"Impossibile connettersi alla rete"</string>
