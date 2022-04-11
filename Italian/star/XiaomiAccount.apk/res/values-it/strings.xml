@@ -764,6 +764,7 @@ Invia questo codice ai tecnici."</string>
     <string name="phone_num_use_for">Il numero di telefono viene utilizzato per:</string>
     <string name="photoPickerNotFoundText">Nessuna foto disponibile.</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
+    <string name="privacy_policy_update_title">Informativa sulla privacy aggiornata</string>
     <string name="provision_back">Indietro</string>
     <string name="provision_next">Successivo</string>
     <string name="provision_skip_underline">Salta</string>
