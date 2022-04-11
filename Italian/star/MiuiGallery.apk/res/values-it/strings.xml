@@ -1839,6 +1839,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="privacy_cloud_confirm_content2">Accordo utente</string>
     <string name="privacy_cloud_confirm_detail_negative">Esci</string>
     <string name="privacy_cloud_confirm_detail_positive">Accetto</string>
+    <string name="privacy_cloud_confirm_rejected">Il consenso all\'Informativa sulla Privacy di Xiaomi Cloud è stato revocato per questo account. Prova ad usare un altro account.</string>
     <string name="privacy_detail">Visualizza Informativa sulla Privacy</string>
     <string name="privacy_entrance">Privacy</string>
     <string name="privacy_permission">Permessi</string>
