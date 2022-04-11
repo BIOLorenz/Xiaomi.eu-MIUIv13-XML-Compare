@@ -422,6 +422,7 @@
     <string name="permission_storage_introduce">Per salvare elementi sul tuo dispositivo</string>
     <string name="permission_user_protocol">Accordo utente (obbligatorio)</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
+    <string name="privacy_policy_update_title">Informativa sulla privacy aggiornata</string>
     <string name="public_authorize_now">Impostazioni</string>
     <string name="public_loading_text">Attendi…</string>
     <string name="public_net_error_retry">Riprova</string>
