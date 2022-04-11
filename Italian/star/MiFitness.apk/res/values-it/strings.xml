@@ -1282,6 +1282,7 @@ Inizia da capo."</string>
     <string name="login_privacy_common_agree">Accetto</string>
     <string name="login_privacy_common_cancel">Annulla</string>
     <string name="login_privacy_rights_statement">Termini e condizioni</string>
+    <string name="login_privacy_update_title">Informativa sulla privacy aggiornata</string>
     <string name="login_record_title">Registra audio</string>
     <string name="login_record_title_des">Registra i tuoi sogni e quanto russi durante il sonno</string>
     <string name="login_region_change_ok">Continua</string>
@@ -1705,6 +1706,7 @@ Inizia da capo."</string>
     <string name="privacy_agree">Consenti</string>
     <string name="privacy_no_agree">Nega</string>
     <string name="privacy_permission_answer_phone_calls">Telefono</string>
+    <string name="privacy_permission_ble_calendar_read">Accesso al calendario</string>
     <string name="privacy_permission_camera">Accesso alla fotocamera</string>
     <string name="privacy_permission_list_send_sms">Invio SMS</string>
     <string name="privacy_permission_location">Accesso alla posizione</string>
