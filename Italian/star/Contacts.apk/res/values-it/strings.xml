@@ -204,6 +204,7 @@
     <string name="bh_used_today">Utilizzato oggi</string>
     <string name="bh_user_agreement">Accordo utente</string>
     <string name="bh_will_open">Apertura %1$s…</string>
+    <string name="bh_withdraw_permission_failure_title">"Impossibile revocare il consenso"</string>
     <string name="bh_withdrawal_of_consent">Revoca autorizzazione...</string>
     <string name="bh_withdrawal_of_consent_long">Revoca autorizzazione...</string>
     <string name="bh_wrong_number_hint">Inserisci un numero di telefono valido</string>
