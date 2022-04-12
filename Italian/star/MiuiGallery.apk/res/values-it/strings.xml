@@ -1503,6 +1503,7 @@ per personalizzare la Galleria"</string>
     <string name="multi_view_tip_sub_title">Pizzica con le dita per modificare la dimensione degli elementi visualizzati.</string>
     <string name="multi_view_tip_title">Ingrandisci e riduci</string>
     <string name="must_pick_file">Seleziona un\'immagine</string>
+    <string name="name_split">, </string>
     <string name="national_day">Giornata Nazionale</string>
     <string name="nearby_share">Condivisione nelle vicinanze</string>
     <string name="need_to_turn_on_network">"Connetti ad internet"</string>
@@ -2467,6 +2468,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="update_check">Ricerca aggiornamenti</string>
     <string name="update_check_title">Aggiornamento attuale: %s</string>
     <string name="update_ignore">Ignora questa versione</string>
+    <string name="update_latest_version">La versione attuale è aggiornata</string>
     <string name="update_network_error">Controlla le tue impostazioni di rete e prova di nuovo</string>
     <string name="update_new_version">Aggiornamento disponibile</string>
     <string name="update_title">La versione %s è ora disponibile</string>
