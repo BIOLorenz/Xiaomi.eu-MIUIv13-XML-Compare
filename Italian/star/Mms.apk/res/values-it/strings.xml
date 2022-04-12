@@ -1298,6 +1298,7 @@ Dai un'occhiata alle app consigliate!"</string>
     <string name="system_permission_disabled">Non concesso</string>
     <string name="system_permission_enabled">Concesso</string>
     <string name="system_permission_perm_answer_call">Effettuare chiamate</string>
+    <string name="system_permission_perm_get_phone_state">Per accedere al numero di telefono e allo stato del dispositivo</string>
     <string name="system_permission_perm_read_mms">Leggere MMS</string>
     <string name="system_permission_perm_read_numbers">Leggere numeri di telefono</string>
     <string name="system_permission_perm_send_mms">Inviare MMS</string>
