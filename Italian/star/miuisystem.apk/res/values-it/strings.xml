@@ -44,6 +44,7 @@
     <string name="cta_message_license">Usando questo prodotto, acconsenti ai termini stabiliti nelle Condizioni di Utilizzo e nell\'informativa sulla privacy.</string>
     <string name="cta_message_permission">Questa applicazione necessita di %2$s per funzionare correttamente.</string>
     <string name="cta_permission_and"> e </string>
+    <string name="cta_permission_delimiter">, </string>
     <string name="cta_title">Termini di Utilizzo</string>
     <string name="dance">Danza</string>
     <string name="device_xiaomi">Telefono Mi</string>
