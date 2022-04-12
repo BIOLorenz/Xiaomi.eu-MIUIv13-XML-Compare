@@ -116,6 +116,7 @@
     <string name="add_wifi_title">Inserisci password</string>
     <string name="afternoon">Pomeriggio</string>
     <string name="agree">Accetto</string>
+    <string name="app_upgrade_no_newer_version">La versione attuale è aggiornata</string>
     <string name="apply_add_test_key_repeat">Operazione fallita. Prova di nuovo.</string>
     <string name="apply_se_key_status_denied">Negato</string>
     <string name="auth_fail_warning">Sessione scaduta, accedi di nuovo.</string>
@@ -764,6 +765,7 @@ Invia questo codice al supervisore."</string>
     <string name="face_common_hint_device_connect_failed">"Connessione fallita"</string>
     <string name="face_common_img_replace">Indietro</string>
     <string name="face_common_install_fail">"Impossibile applicare"</string>
+    <string name="face_common_latest_version">La versione attuale è aggiornata</string>
     <string name="face_common_null">Nessuno</string>
     <string name="face_common_retry">Riprova</string>
     <string name="face_common_wait_wlan">In attesa di Wi-Fi</string>
@@ -820,6 +822,7 @@ Invia questo codice al supervisore."</string>
     <string name="firmware_updating_gps">Aggiornamento</string>
     <string name="firmware_updating_resource">Aggiornamento</string>
     <string name="firmware_upgrade_start">Aggiorna</string>
+    <string name="firmware_version_is_latest">La versione attuale è aggiornata</string>
     <string name="fitness_back_training">Indietro</string>
     <string name="fitness_elliptical_machine">Ellittiche</string>
     <string name="fitness_free_activity">Stile Libero</string>
@@ -1850,6 +1853,7 @@ Inizia da capo."</string>
     <string name="sport_firmware_download_upgrade_packet">Scarica</string>
     <string name="sport_firmware_update_log">"Novità"</string>
     <string name="sport_firmware_updating">Aggiornamento…</string>
+    <string name="sport_firmware_version_is_latest">La versione attuale è aggiornata</string>
     <string name="sport_folding_lock_title">Attenzione</string>
     <string name="sport_free_sport">Stile Libero</string>
     <string name="sport_go_experience">Avvia</string>
