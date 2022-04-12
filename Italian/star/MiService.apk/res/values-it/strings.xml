@@ -528,6 +528,7 @@
     <string name="wednesday">Mercoledì</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
+    <string name="withdraw_consent_failed">"Impossibile revocare il consenso"</string>
     <string name="withdraw_consent_failed_hint_connect_net">Impossibile collegarsi alla rete. Controlla le impostazioni e riprova.</string>
     <string name="yesterday">Ieri</string>
 </resources>
