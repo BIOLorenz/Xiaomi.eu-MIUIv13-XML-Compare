@@ -427,6 +427,7 @@ Protocollo di connessione più veloce."</string>
     <string name="plugin_alert_cancel">Più tardi</string>
     <string name="plugin_alert_kill">Riavvia adesso</string>
     <string name="plugin_download_unknown_error">Si è verificato un errore sconosciuto</string>
+    <string name="plugin_no_update">La versione attuale è aggiornata</string>
     <string name="plugin_ota_finish">Aggiornato con successo</string>
     <string name="plugin_ota_progress">Aggiornamento…</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
