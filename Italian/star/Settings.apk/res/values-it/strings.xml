@@ -7110,6 +7110,7 @@ Se non accetti di concedere tali permessi, non sarai in grado di utilizzare alcu
     <string name="sos_privacy_policy_no_net_title">"Impossibile connettersi alla rete"</string>
     <string name="sos_privacy_policy_revoke">Revoca autorizzazione...</string>
     <string name="sos_privacy_policy_revoke_title_reject">Attenzione</string>
+    <string name="sos_privacy_revoke_failed_dialog_title">"Impossibile revocare il consenso"</string>
     <string name="sound_assist_summary">Personalizza le impostazioni audio</string>
     <string name="sound_assist_title">Assistente audio</string>
     <string name="sound_category_call_ringtone_vibrate_title">Suoneria e vibrazione chiamata</string>
