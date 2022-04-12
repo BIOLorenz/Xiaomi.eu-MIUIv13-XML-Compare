@@ -1337,6 +1337,7 @@ Attendi che sia completamente sincronizzata o visualizza il messaggio sul comput
     <string name="send_encrypt_dialog_fail_title">"Impossibile inviare email cifrate"</string>
     <string name="send_failed">"Il messaggio non è stato inviato."</string>
     <string name="sender_whitelist_cleared">"Le immagini non verranno mostrate automaticamente."</string>
+    <string name="senders_split_token">, </string>
     <string name="sending">Invio in corso...</string>
     <string name="sending_message">Invio messaggio…</string>
     <string name="sending_quick_reply">Invio email \"%s\"</string>
