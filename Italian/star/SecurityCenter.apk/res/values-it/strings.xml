@@ -3527,6 +3527,7 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="privacy_revoke_dialog_positive_text">Revoca</string>
     <string name="privacy_revoke_dialog_title">Revoca autorizzazione...</string>
     <string name="privacy_revoke_dialog_title_cn">Attenzione</string>
+    <string name="privacy_revoke_failed_dialog_title">"Impossibile revocare il consenso"</string>
     <string name="privacy_revoke_title">Revoca autorizzazione...</string>
     <string name="privacy_risk_app">App rischiose</string>
     <string name="privacy_risk_app_fuzzy">App senza anteprima sfocata</string>
