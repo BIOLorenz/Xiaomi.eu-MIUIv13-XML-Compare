@@ -381,6 +381,7 @@
     <string name="pa_setting_privacy_policy_update_title">Informativa sulla privacy aggiornata</string>
     <string name="pa_setting_privacy_revoke_cta">Revoca autorizzazione...</string>
     <string name="pa_setting_privacy_revoke_cta_positive">Revoca</string>
+    <string name="pa_setting_privacy_revoke_error_title">"Impossibile revocare il consenso"</string>
     <string name="pa_setting_privacy_revoke_no_net_message">Impossibile collegarsi alla rete. Controlla le impostazioni e riprova.</string>
     <string name="pa_setting_privacy_revoke_no_net_title">"Impossibile connettersi alla rete"</string>
     <string name="pa_setting_privacy_revoke_positive">Ok</string>
