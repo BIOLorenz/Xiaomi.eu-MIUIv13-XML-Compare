@@ -875,6 +875,7 @@ Dimensioni: %2$s"</string>
     <string name="wednesday_shortest">Mer</string>
     <string name="withdraw">Revoca</string>
     <string name="withdraw_consent">Revoca autorizzazione...</string>
+    <string name="withdraw_consent_failed">"Impossibile revocare il consenso"</string>
     <string name="withdraw_consent_failed_hint_connect_net">Impossibile collegarsi alla rete. Controlla le impostazioni e riprova.</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Connessione al Download Manager fallita, controlla lo stato del Download Manager in Gestione Applicazioni.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Presentazione versione %1$s
