@@ -702,7 +702,9 @@ Le informazioni sulla posizione potrebbero non essere segnalate quando la connes
     <string name="privacy_runtime_perm_call_log_title">Accesso e modifica del registro chiamate</string>
     <string name="privacy_runtime_perm_contacts_desc">Per sincronizzare i contatti</string>
     <string name="privacy_runtime_perm_contacts_title">Accesso e modifica contatti</string>
+    <string name="privacy_runtime_perm_external_storage_desc">Per sincronizzare le foto profilo dei contatti e gli allegati dei messaggi</string>
     <string name="privacy_runtime_perm_external_storage_title">Accesso alla memoria</string>
+    <string name="privacy_runtime_perm_phone_state_desc">Per accedere al numero di telefono e allo stato del dispositivo</string>
     <string name="privacy_runtime_perm_phone_state_title">Accesso alle info dispositivo</string>
     <string name="privacy_runtime_perm_sms_desc">Per sincronizzare i messaggi</string>
     <string name="privacy_runtime_perm_sms_title">Accesso ai messaggi</string>
@@ -723,8 +725,13 @@ Le informazioni sulla posizione potrebbero non essere segnalate quando la connes
     <string name="recommend_service_title">Servizi consigliati</string>
     <string name="retain_data_high_quality_photo_waring_message">Le immagini ad alta qualità verranno eliminate dalla Galleria dopo l\'uscita. I file originali corrispondenti saranno ancora memorizzati nel cloud. È anche possibile scaricare i file originali prima di disconnettersi.</string>
     <string name="retain_data_high_quality_photo_waring_title">"Le immagini ad alta qualità non saranno disponibili"</string>
+    <string name="revoke_block_by_find_device">"La revoca del consenso disattiverà anche Trova dispositivo. Dovrai verificare la tua password per continuare."</string>
+    <string name="revoke_permission_content">"Non potrai continuare a usare Trova dispositivo se ritirerai i permessi. Trova Dispositivo verrà disattivato. Ti verrà chiesto di verificare la tua password prima di continuare."</string>
     <string name="revoke_permission_title">Attenzione</string>
+    <string name="revoke_privacy_agreement_msg">"Se continui, ritirerai il tuo consenso all'Informativa sulla Privacy di Xiaomi Cloud. Le informazioni personali già raccolte e conservate saranno cancellate entro un determinato periodo conformemente alle leggi e ai regolamenti applicabili, salvo altrimenti disposto. Come Xiaomi Cloud fornisce i suoi servizi sulla base della raccolta delle informazioni personali necessarie, il ritiro del consenso sarà considerato come rifiuto di accettare i servizi Xiaomi Cloud. Ritirare il consenso?"</string>
     <string name="revoke_privacy_confirm">Revoca</string>
+    <string name="revoke_privacy_content">"Se continui, ritirerai il tuo consenso all'&lt;a href=app://com.miui.cloudservice.gdpr.license&gt;Informativa sulla privacy&lt;/a&gt; di Trova dispositivo. Le informazioni personali già raccolte e conservate saranno cancellate entro un determinato periodo conformemente alle leggi e ai regolamenti applicabili, salvo altrimenti disposto. Poiché il dispositivo Find fornisce i suoi servizi sulla base della raccolta delle informazioni personali necessarie, il ritiro del consenso sarà considerato come rifiuto di accettare i servizi di Trova dispositivo. Ritirare il consenso?"</string>
+    <string name="revoke_privacy_failed">"Impossibile revocare il consenso"</string>
     <string name="revoke_privacy_title">Revoca autorizzazione...</string>
     <string name="saturday">Sabato</string>
     <string name="saturday_short">Sab</string>
@@ -884,6 +891,7 @@ Le informazioni sulla posizione potrebbero non essere segnalate quando la connes
     <string name="sync_dspt_entrance_provision">Sincronizza foto, note e altri elementi su tutti i tuoi dispositivi. Accedi agli elementi che hai sincronizzato da qualsiasi browser in %s.</string>
     <string name="sync_dspt_entrance_provision_confirm_close">"Non utilizzare"</string>
     <string name="sync_dspt_entrance_provision_confirm_content">"Le applicazioni integrate in MIUI necessitano di Mi Cloud per il backup di foto, messaggi, note ed altro. Mi Cloud è gratuito e pronto all'uso."</string>
+    <string name="sync_dspt_entrance_provision_confirm_content_pad">È possibile utilizzare Xiaomi Cloud per eseguire il backup di foto, messaggi, note e altro ancora. Xiaomi Cloud è gratis e pronto all\'uso da subito.</string>
     <string name="sync_dspt_entrance_provision_confirm_content_v2">"Le applicazioni integrate in MIUI necessitano di Mi Cloud per il backup di foto, messaggi, note ed altro. Mi Cloud è gratuito e pronto all'uso."</string>
     <string name="sync_dspt_entrance_provision_confirm_open">Utilizza Mi Cloud</string>
     <string name="sync_dspt_entrance_provision_confirm_title">"Non vuoi utilizzare Mi Cloud?"</string>
@@ -911,6 +919,8 @@ Le informazioni sulla posizione potrebbero non essere segnalate quando la connes
     <string name="sync_page_route_remember">"Non mostrare più"</string>
     <string name="sync_setting_title">Impostazioni di sincronizzazione</string>
     <string name="system_busy_or_network_error">Si è verificato un errore. Aspetta un minuto o due e riprova.</string>
+    <string name="talkback_hide_passcode">Nascondi codice</string>
+    <string name="talkback_show_passcode">Mostra codice</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversario dell\'abolizione della legge marziale</string>
     <string name="the_anti_aggression_day">Giornata della pace</string>
     <string name="the_arbor_day">Giorno dei mestieri</string>
@@ -966,6 +976,8 @@ Le informazioni sulla posizione potrebbero non essere segnalate quando la connes
     <string name="tuesday_shortest">Mar</string>
     <string name="update_dialog_check_button_text">Ricerca aggiornamenti</string>
     <string name="update_dialog_ignore_button_text">Non ora</string>
+    <string name="update_dialog_no_internet_toast_text">Verifica la tua connessione internet e riprova</string>
+    <string name="update_dialog_no_update_toast_text">La versione attuale è aggiornata</string>
     <string name="update_dialog_title">Aggiornamento disponibile</string>
     <string name="update_dialog_update_button_text">Aggiorna</string>
     <string name="user_agreement_content">"Utilizzando questo servizio, accetterai il %s."</string>
@@ -983,6 +995,7 @@ Le informazioni sulla posizione potrebbero non essere segnalate quando la connes
     <string name="wipe_data_dialog_button_check_sync">Controlla se sincronizzato</string>
     <string name="wipe_data_dialog_msg">"%s non sono stati sincronizzati e rimarranno sul telefono."</string>
     <string name="wipe_data_dialog_msg_and_on">, ed altri elementi</string>
+    <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">"Alcuni dati non sono stati sincronizzati"</string>
     <string name="wipe_data_query_progress_title">Verifica…</string>
     <string name="xiaomi_cloud_service">Mi Cloud</string>
