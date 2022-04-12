@@ -481,6 +481,7 @@
     <string name="update_dialog_button_ok">Aggiorna</string>
     <string name="update_dialog_title">Aggiornamento disponibile</string>
     <string name="update_no_network">"Impossibile connettersi alla rete. Verifica le impostazioni di rete e riprova."</string>
+    <string name="update_no_update">La versione attuale è aggiornata</string>
     <string name="update_progress_dialog_content">Download in corso…</string>
     <string name="upload_list_empty">Nessun oggetto</string>
     <string name="upload_metered_network_dialog_cancel">Annulla</string>
