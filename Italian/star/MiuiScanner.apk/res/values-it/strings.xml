@@ -764,6 +764,7 @@
     <string name="translation_prompt_translating">Traduzione in corso…</string>
     <string name="translation_prompt_word">Colloca la parola all\'interno della cornice</string>
     <string name="translation_see_more">Visualizza definizione</string>
+    <string name="translation_type_chat">Chat</string>
     <string name="translation_type_sentence">Frase</string>
     <string name="translation_type_word">Parola</string>
     <string name="translation_type_words">Traduci parole</string>
