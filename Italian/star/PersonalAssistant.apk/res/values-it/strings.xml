@@ -367,6 +367,8 @@
     <string name="pa_setting_bugreport">Segnalazione</string>
     <string name="pa_setting_privacy_category_perm">Permessi</string>
     <string name="pa_setting_privacy_category_priv">Informativa sulla Privacy</string>
+    <string name="pa_setting_privacy_category_revoke">Revoca del consenso e cancellazione del servizio</string>
+    <string name="pa_setting_privacy_logout">Annulla servizi</string>
     <string name="pa_setting_privacy_perm_desc">Dettagli permessi</string>
     <string name="pa_setting_privacy_perm_granted">Concesso</string>
     <string name="pa_setting_privacy_perm_install_app">Accedi alla lista delle app installate su questo dispositivo</string>
