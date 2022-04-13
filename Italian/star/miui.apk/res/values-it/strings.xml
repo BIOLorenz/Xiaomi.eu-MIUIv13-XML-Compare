@@ -100,6 +100,7 @@
     <string name="com_miui_huanji">Mi Mover</string>
     <string name="com_miui_notes">Note</string>
     <string name="com_miui_screenrecorder">Registra Schermo</string>
+    <string name="com_miui_virtualsim">Mi Roaming</string>
     <string name="com_miui_weather2">Meteo</string>
     <string name="com_xiaomi_drivemode">Modalità Auto</string>
     <string name="com_xiaomi_gamecenter">Giochi</string>
@@ -115,6 +116,7 @@
     <string name="country_name_ne">NO</string>
     <string name="country_name_nl">N</string>
     <string name="country_name_se">S-E</string>
+    <string name="country_name_sv">SV</string>
     <string name="date_picker_dialog_title">Imposta data</string>
     <string name="date_picker_lunar">Calendario cinese tradizionale</string>
     <string name="date_time_done">Fatto</string>
