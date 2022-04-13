@@ -71,6 +71,7 @@
     <string name="attach_subject">Oggetto</string>
     <string name="attach_take_photo">Scatta foto</string>
     <string name="attach_transaction">Invia denaro</string>
+    <string name="attach_video">Video</string>
     <string name="attach_video_call">Videochiamata</string>
     <string name="audio_download_failed">"Download audio fallito"</string>
     <string name="audio_message_expired">Questo messaggio vocale è scaduto.</string>
@@ -249,6 +250,7 @@
     <string name="context_menu_send_sms">Invia messaggio</string>
     <string name="context_menu_view_contact">Mostra contatto</string>
     <string name="context_menu_view_mms">Leggi MMS</string>
+    <string name="conv_item_official">Ufficiale</string>
     <string name="conversation">Messaggi</string>
     <string name="conversation_listitem_avatar">Immagine</string>
     <string name="converting_to_picture_message">Conversione in messaggio multimediale…</string>
@@ -468,6 +470,7 @@
     <string name="heavenly_stems_wu">Wu</string>
     <string name="heavenly_stems_xin">Xin</string>
     <string name="heavenly_stems_yi">Yi</string>
+    <string name="heduohao_sub_sim_card">Sub</string>
     <string name="hidden_sender_address">Indirizzo mittente nascosto</string>
     <string name="hold_to_talk">Tieni premuto e parla</string>
     <string name="home_tab_ad">Promozionale</string>
@@ -852,6 +855,7 @@ Per attivare Mi Message è necessario l'invio di un SMS. Il tuo operatore potreb
     <string name="pref_title_notification_body_enabled">Mostra anteprima</string>
     <string name="pref_title_perm_audio">Registra audio</string>
     <string name="pref_title_perm_calander">Accesso al calendario</string>
+    <string name="pref_title_perm_call">Effettuare chiamate</string>
     <string name="pref_title_perm_camera">Utilizza fotocamera</string>
     <string name="pref_title_perm_location">Posizione</string>
     <string name="pref_title_perm_read_call_log">Accesso alla cronologia chiamate</string>
@@ -1104,6 +1108,7 @@ Dai un'occhiata alle app consigliate!"</string>
     <string name="restored_to_phone_memory">Ripristinato</string>
     <string name="rms_audio_file_duration_too_long">"Impossibile inviare file audio più lungo di 180 secondi"</string>
     <string name="rms_audio_file_length_too_large">"Impossibile inviare file audio più grande di %1$dMB"</string>
+    <string name="rms_editor_hints">Chat</string>
     <string name="rms_file_not_exist">"Il file non esiste"</string>
     <string name="rms_file_not_exist_to_view">Questo file è stato spostato o eliminato</string>
     <string name="rms_illegal_extension">"Formato file non valido"</string>
@@ -1269,6 +1274,8 @@ Dai un'occhiata alle app consigliate!"</string>
     <string name="storage_limits_setting">Imposta limiti</string>
     <string name="storage_limits_setting_dismiss">Nessun limite</string>
     <string name="storage_unavailable">Spazio non disponibile</string>
+    <string name="sub_sim_card">Sub</string>
+    <string name="sub_sim_card_indicator">Sub%d</string>
     <string name="sub_sim_not_support_mms">"Impossibile inviare MMS usando la SIM secondaria"</string>
     <string name="subject_hint">Oggetto</string>
     <string name="subject_label">"Soggetto: "</string>
