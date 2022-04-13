@@ -398,6 +398,7 @@ Puoi controllare questa funzione da Impostazioni &gt; Password e sicurezza &gt; 
     <string name="permission_location_introduction">Per fornire servizi basati sulla posizione</string>
     <string name="permission_log_introduction">Per il salvataggio dei log</string>
     <string name="permission_login_introduction">Per accedere e gestire gli account di sistema</string>
+    <string name="permission_make_a_call">Effettuare chiamate</string>
     <string name="permission_message_introduction">Per inviare messaggi ai contatti bloccati</string>
     <string name="permission_phone_imei_device">Per accedere all\'IMEI per identificare i dispositivi</string>
     <string name="permission_phone_network">Per accedere al tipo di rete per ottimizzare e regolare gli elementi scaricabili</string>
@@ -462,6 +463,7 @@ Puoi controllare questa funzione da Impostazioni &gt; Password e sicurezza &gt; 
     <string name="send">Invia</string>
     <string name="service_agreement">"Ho letto e accettato i termini e le condizioni."</string>
     <string name="service_mi_account">Account</string>
+    <string name="service_name_address_dialing">Contatti e Telefono</string>
     <string name="service_name_album">Galleria</string>
     <string name="service_name_application_package">Installazione pacchetti</string>
     <string name="service_name_backup">Backup</string>
