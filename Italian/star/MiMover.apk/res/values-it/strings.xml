@@ -864,6 +864,7 @@ audio, video, documenti e applicazioni su un nuovo dispositivo</string>
     <string name="user_name_null">"L'Apple ID non può essere vuoto"</string>
     <string name="v7_preference_off">DISATTIVATO</string>
     <string name="v7_preference_on">ATTIVATO</string>
+    <string name="video">Video</string>
     <string name="view_password_description">Mostra password</string>
     <string name="waiting_restore_aod">Ripristino Always-on display…</string>
     <string name="waiting_restore_desktop">Trasferimento di app di terze parti per ripristinare il layout nella schermata Home…</string>
