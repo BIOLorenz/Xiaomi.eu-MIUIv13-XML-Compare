@@ -437,9 +437,11 @@ Invia questo codice al supervisore."</string>
     <string name="exo_media_action_repeat_all_description">Ripeti tutto</string>
     <string name="exo_media_action_repeat_off_description">Non ripetere</string>
     <string name="exo_media_action_repeat_one_description">Ripeti una volta</string>
+    <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Nessuno</string>
     <string name="exo_track_selection_title_audio">Audio</string>
     <string name="exo_track_selection_title_text">Testo</string>
+    <string name="exo_track_selection_title_video">Video</string>
     <string name="exo_track_stereo">Stereo</string>
     <string name="exo_track_surround">Suono surround</string>
     <string name="exo_track_surround_5_point_1">Surround 5.1</string>
@@ -548,6 +550,7 @@ Invia questo codice al supervisore."</string>
     <string name="galleryplus_gallery_fold_tags">Nascondi segnalini</string>
     <string name="galleryplus_gallery_video_adjust_hint">Sono supportati solo video a 960fps</string>
     <string name="galleryplus_gallery_video_adjust_text">Correggi</string>
+    <string name="galleryplus_gallery_video_default_music_text">Auto</string>
     <string name="galleryplus_gallery_video_item3_default_text">Emozioni</string>
     <string name="galleryplus_gallery_video_item4_default_text">Alba</string>
     <string name="galleryplus_gallery_video_item5_default_text">Assistente</string>
@@ -1063,6 +1066,7 @@ per i video"</string>
 Aggiorna prima Mi Video all'ultima versione."</string>
     <string name="ovp_playlist">Consigliati</string>
     <string name="ovp_plugin_install_failure">"Impossibile installare il plugin"</string>
+    <string name="ovp_resolution_auto">Auto</string>
     <string name="ovp_resolution_not_support">"Impossibile cambiare risoluzione per questo video"</string>
     <string name="ovp_resolution_title">Risoluzione</string>
     <string name="ovp_search_key_not_null">Inserisci le parole chiave da cercare</string>
@@ -1312,6 +1316,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="plus_properties_type">Tipo</string>
     <string name="plus_properties_type_audio">Audio</string>
     <string name="plus_properties_type_subtitle">Sottotitoli</string>
+    <string name="plus_properties_type_video">Video</string>
     <string name="plus_properties_unfinish">Non terminato</string>
     <string name="plus_search_barhint">Cerca video locali</string>
     <string name="plus_search_guide">Cerca video</string>
