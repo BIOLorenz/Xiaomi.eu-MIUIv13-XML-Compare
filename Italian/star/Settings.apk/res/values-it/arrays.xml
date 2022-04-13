@@ -439,6 +439,69 @@
         <item>1 ora</item>
         <item>Non disattivare mai</item>
     </string-array>
+    <string-array name="broadcast_locales">
+        <item>AE</item>
+        <item>AG</item>
+        <item>AR</item>
+        <item>BH</item>
+        <item>BO</item>
+        <item>BS</item>
+        <item>BB</item>
+        <item>BZ</item>
+        <item>BR</item>
+        <item>CL</item>
+        <item>CO</item>
+        <item>CR</item>
+        <item>CU</item>
+        <item>DO</item>
+        <item>EC</item>
+        <item>EG</item>
+        <item>GF</item>
+        <item>GD</item>
+        <item>GQ</item>
+        <item>GT</item>
+        <item>GY</item>
+        <item>HT</item>
+        <item>HN</item>
+        <item>IN</item>
+        <item>IL</item>
+        <item>IR</item>
+        <item>JM</item>
+        <item>JO</item>
+        <item>KR</item>
+        <item>KW</item>
+        <item>MX</item>
+        <item>NI</item>
+        <item>OM</item>
+        <item>PA</item>
+        <item>PY</item>
+        <item>PE</item>
+        <item>QA</item>
+        <item>SA</item>
+        <item>SR</item>
+        <item>SV</item>
+        <item>KN</item>
+        <item>LC</item>
+        <item>VC</item>
+        <item>TW</item>
+        <item>TT</item>
+        <item>UY</item>
+        <item>VE</item>
+        <item>PL</item>
+        <item>GR</item>
+        <item>ME</item>
+        <item>CZ</item>
+        <item>HU</item>
+        <item>SK</item>
+        <item>AT</item>
+        <item>HR</item>
+        <item>RS</item>
+        <item>EE</item>
+        <item>ES</item>
+        <item>IT</item>
+        <item>PT</item>
+        <item>FR</item>
+    </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Disabilitato</item>
         <item>Filtrato</item>
@@ -1967,6 +2030,27 @@ Nota: solo per Ubuntu 8.04!"</item>
         <item>Connetti manualmente</item>
         <item>Chiedi sempre</item>
     </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>"AKA'"</item>
+    </string-array>
+    <string-array name="wifi_eap_method_add_sim">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="wifi_eap_method_add_sim_for_cmcc">
+        <item>PEAP</item>
+        <item>SIM</item>
+    </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Automatico</item>
         <item>Solo 5 GHz</item>
@@ -2004,6 +2088,13 @@ Nota: solo per Ubuntu 8.04!"</item>
         <item>Premi il pulsante</item>
         <item>PIN del dispositivo peer</item>
         <item>PIN di questo dispositivo</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries_with_sim_auth">
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>"AKA'"</item>
     </string-array>
     <string-array name="wifi_privacy_entries">
         <item>Usa indirizzo MAC casuale</item>
