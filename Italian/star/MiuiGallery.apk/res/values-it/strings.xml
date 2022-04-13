@@ -1556,6 +1556,7 @@ per personalizzare la Galleria"</string>
     <string name="ocr_using_cellular_positive">Annulla</string>
     <string name="ocr_using_cellular_text">Riconoscere il testo utilizzando i dati mobili potrebbe generare ulteriori spese. Proseguire?</string>
     <string name="ok">OK</string>
+    <string name="onekey_auto">Auto</string>
     <string name="onekey_food">Cibo</string>
     <string name="onekey_none">Originale</string>
     <string name="onekey_portrait">Ritratto</string>
@@ -1667,6 +1668,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="photo_edit_file_not_exits_tip">Scarica la foto prima della modifica</string>
     <string name="photo_editor_adjust">Correggi</string>
     <string name="photo_editor_beautify">Filtro bellezza</string>
+    <string name="photo_editor_beautify_auto">Auto</string>
     <string name="photo_editor_beauty_compare">Originale</string>
     <string name="photo_editor_common_download_failed">"Impossibile scaricare il plug-in. Controlla le impostazioni di rete e prova di nuovo."</string>
     <string name="photo_editor_common_download_finish">Plug-in scaricato correttamente</string>
@@ -1674,6 +1676,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="photo_editor_common_download_sdk_without_wifi_title">Scarica plug-in</string>
     <string name="photo_editor_compare_tip">Tieni premuto per vedere l\'immagine originale</string>
     <string name="photo_editor_crop_and_rotate">Ritaglia</string>
+    <string name="photo_editor_crop_auto">Auto</string>
     <string name="photo_editor_crop_auto_tips">Ritagliata automaticamente</string>
     <string name="photo_editor_crop_reset">Azzera</string>
     <string name="photo_editor_crop_size_free">Personalizza</string>
@@ -2649,6 +2652,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="vlog_caption_ai_no_detect">"Impossibile generare sottotitoli automatici"</string>
     <string name="vlog_caption_ai_replace_message">Sostituire i sottotitoli automatici con sottotitoli personalizzati?</string>
     <string name="vlog_caption_ai_replace_title">Sostituisci sottotitoli</string>
+    <string name="vlog_caption_auto">Auto</string>
     <string name="vlog_caption_clear">Cancella sottotitoli</string>
     <string name="vlog_caption_clear_sure_title">"Non potrai ripristinare i sottotitoli dopo averli cancellati. Eliminarli comunque?"</string>
     <string name="vlog_caption_invalid_arguments">"Impossibile aggiungere quando l'intervallo è più corto di %1$d secondo"</string>
