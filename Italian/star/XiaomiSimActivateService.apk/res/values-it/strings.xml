@@ -33,6 +33,7 @@
     <string name="activate_feature_default_title">Xiaomi</string>
     <string name="activate_feature_find_device">Posizione tramite SMS</string>
     <string name="activate_feature_live_talk">Ricarica pacchetto</string>
+    <string name="activate_feature_mi_roaming">Mi Roaming</string>
     <string name="activate_feature_mms_sync">Sincronizza i messaggi</string>
     <string name="activate_feature_mx">Messaggi Mi</string>
     <string name="activate_feature_mx_and_voip">Mi Message e Voce</string>
