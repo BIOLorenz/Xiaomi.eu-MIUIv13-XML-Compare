@@ -64,6 +64,10 @@
         <item quantity="other">%1$d selezionati</item>
         <item quantity="one">%1$d selezionato</item>
     </plurals>
+    <plurals name="device_tab_device_size">
+        <item quantity="other">(%1$d)</item>
+        <item quantity="one">(%1$d)</item>
+    </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
         <item quantity="other">Avanti %d secondi</item>
         <item quantity="one">Avanti %d secondo</item>
@@ -171,6 +175,18 @@
     <plurals name="unit_hour_desc2">
         <item quantity="other">%1$d ore</item>
         <item quantity="one">%1$d ora</item>
+    </plurals>
+    <plurals name="unit_min_1">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
+    <plurals name="unit_min_2">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
+    <plurals name="userinfo_birthday_format">
+        <item quantity="other">(%1$d)</item>
+        <item quantity="one">(%1$d)</item>
     </plurals>
     <plurals name="userinfo_common_unit_age">
         <item quantity="other">%1$d anni</item>
