@@ -549,6 +549,7 @@
     <string name="device_settings_event_remind">Agenda</string>
     <string name="device_settings_find_device">Trova Telefono</string>
     <string name="device_settings_heart_mode_sleep">Sonno</string>
+    <string name="device_settings_heart_rate_intelligent_monitor">Auto</string>
     <string name="device_settings_heart_rate_setting">Battito cardiaco</string>
     <string name="device_settings_home_app_sort_setting">Ordina icone desktop</string>
     <string name="device_settings_huami_shortcut_disable_label">Elementi nascosti</string>
@@ -747,9 +748,11 @@ Invia questo codice al supervisore."</string>
     <string name="exo_track_role_alternate">Alternato</string>
     <string name="exo_track_role_commentary">Commento</string>
     <string name="exo_track_role_supplementary">Supplementare</string>
+    <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Nessuno</string>
     <string name="exo_track_selection_title_audio">Audio</string>
     <string name="exo_track_selection_title_text">Testo</string>
+    <string name="exo_track_selection_title_video">Video</string>
     <string name="exo_track_stereo">Stereo</string>
     <string name="exo_track_surround">Suono surround</string>
     <string name="exo_track_surround_5_point_1">Surround 5.1</string>
@@ -962,6 +965,7 @@ Invia questo codice al supervisore."</string>
     <string name="health_card_unfold">Espandi</string>
     <string name="health_close">Disattiva</string>
     <string name="health_close_once">Disattiva una volta</string>
+    <string name="health_common_comma">,</string>
     <string name="health_common_data_source_manual_input">Registra manualmente</string>
     <string name="health_common_every_day">Tutti i giorni</string>
     <string name="health_common_panel_button_closed">Espandi</string>
@@ -1710,6 +1714,7 @@ Inizia da capo."</string>
     <string name="privacy_no_agree">Nega</string>
     <string name="privacy_permission_answer_phone_calls">Telefono</string>
     <string name="privacy_permission_ble_calendar_read">Accesso al calendario</string>
+    <string name="privacy_permission_call_phone">Effettuare chiamate</string>
     <string name="privacy_permission_camera">Accesso alla fotocamera</string>
     <string name="privacy_permission_list_send_sms">Invio SMS</string>
     <string name="privacy_permission_location">Accesso alla posizione</string>
@@ -1763,6 +1768,7 @@ Inizia da capo."</string>
     <string name="settingitem_alarm_only_one">Una volta</string>
     <string name="settingitem_alarm_wait_time">Sveglia tra %1$s</string>
     <string name="settingitem_alarm_work_day">Giorni lavorativi</string>
+    <string name="settingitem_common_comma">,</string>
     <string name="settingitem_common_custom">Personalizza</string>
     <string name="settingitem_common_unopen">Spenta</string>
     <string name="share_download">Salva</string>
@@ -1824,6 +1830,7 @@ Inizia da capo."</string>
     <string name="sport_avoid">Non consigliato</string>
     <string name="sport_belt_adjust_lose_connect_title">"Connessione fallita"</string>
     <string name="sport_close">Spenta</string>
+    <string name="sport_comma">,</string>
     <string name="sport_common_cancel">Annulla</string>
     <string name="sport_common_close">Spenta</string>
     <string name="sport_common_confirm">OK</string>
@@ -2045,6 +2052,7 @@ Inizia da capo."</string>
     <string name="trail_share_errcode_unknown">Indietro</string>
     <string name="trail_share_not_install_wx">Installa prima WeChat</string>
     <string name="trail_share_progress_share_long_pic">Elaborazione…</string>
+    <string name="trail_share_video">Video</string>
     <string name="trail_share_wx_session">WeChat</string>
     <string name="trail_share_wx_timeline">Momenti</string>
     <string name="trail_skiing_distance">Km</string>
