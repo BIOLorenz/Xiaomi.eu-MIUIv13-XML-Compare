@@ -383,9 +383,11 @@
     <string name="exo_track_role_alternate">Alternato</string>
     <string name="exo_track_role_commentary">Commento</string>
     <string name="exo_track_role_supplementary">Supplementare</string>
+    <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Nessuno</string>
     <string name="exo_track_selection_title_audio">Audio</string>
     <string name="exo_track_selection_title_text">Testo</string>
+    <string name="exo_track_selection_title_video">Video</string>
     <string name="exo_track_stereo">Stereo</string>
     <string name="exo_track_surround">Suono surround</string>
     <string name="exo_track_surround_5_point_1">Surround 5.1</string>
@@ -773,11 +775,14 @@ dd/M"</string>
     <string name="present_official_themes">Selezione ufficiale</string>
     <string name="present_online_themes">Online</string>
     <string name="privacy_action_failed_title">Errore</string>
+    <string name="privacy_confirm_logoff_and_exit">Annulla servizi</string>
     <string name="privacy_exit_btn">Esci</string>
     <string name="privacy_give_up_logoff">Indietro</string>
     <string name="privacy_give_up_revoke_btn">Indietro</string>
     <string name="privacy_i_know_btn">Continua</string>
     <string name="privacy_important_prompt_title">Attenzione</string>
+    <string name="privacy_log_off_succeed">Servizi cancellati</string>
+    <string name="privacy_logoff_services_title">Annulla servizi</string>
     <string name="privacy_pad_fold_Read_write_storage">Accesso alla memoria</string>
     <string name="privacy_pad_fold_entry">Privacy</string>
     <string name="privacy_permission_management_description">Dettagli permessi</string>
@@ -788,6 +793,7 @@ dd/M"</string>
     <string name="privacy_remind_user_mode_agree">Accetto</string>
     <string name="privacy_remind_user_mode_title">Attenzione</string>
     <string name="privacy_revoke_agree_content">Revoca autorizzazione...</string>
+    <string name="privacy_revoke_succeed">Consenso revocato</string>
     <string name="privacy_settings">Privacy</string>
     <string name="privacy_update_prompt_title">Informativa sulla privacy aggiornata</string>
     <string name="provision_default_theme_title">Predefinita</string>
