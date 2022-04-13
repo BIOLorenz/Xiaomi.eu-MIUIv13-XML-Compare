@@ -727,6 +727,7 @@
     <string name="auto_task_operation_no_op">Nessuno</string>
     <string name="auto_task_operation_open">Attivata</string>
     <string name="auto_task_operation_open_string">Attiva %s</string>
+    <string name="auto_task_operation_string_comma">,</string>
     <string name="auto_task_operation_string_etc">, ecc.</string>
     <string name="auto_task_operation_sync">Sincronizza</string>
     <string name="auto_task_operation_vibration">Vibrazione</string>
@@ -1262,6 +1263,8 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
     <string name="downloading">In download</string>
     <string name="doze_optimization_summary">Aumenta risposta e sensibilità touch</string>
     <string name="doze_optimization_title">Controlli touch ottimizzati</string>
+    <string name="dual_setting_simcard1">SIM 1</string>
+    <string name="dual_setting_simcard2">SIM 2</string>
     <string name="early_morning">Mattina</string>
     <string name="earthly_branches_chen">Chen</string>
     <string name="earthly_branches_chou">Chou</string>
@@ -1517,9 +1520,11 @@ terremoti"</string>
     <string name="exo_track_role_alternate">Alternato</string>
     <string name="exo_track_role_commentary">Commento</string>
     <string name="exo_track_role_supplementary">Supplementare</string>
+    <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Nessuno</string>
     <string name="exo_track_selection_title_audio">Audio</string>
     <string name="exo_track_selection_title_text">Testo</string>
+    <string name="exo_track_selection_title_video">Video</string>
     <string name="exo_track_stereo">Stereo</string>
     <string name="exo_track_surround">Suono surround</string>
     <string name="exo_track_surround_5_point_1">Surround 5.1</string>
@@ -2462,6 +2467,7 @@ dall'operatore"</string>
     <string name="mixed_recording_intro_header">Inserisci almeno 4 caratteri</string>
     <string name="mixed_retry_button_text">Annulla</string>
     <string name="mixed_settings_help_how_to_record">Come impostare la password</string>
+    <string name="mm_app_name">Mi SIM</string>
     <string name="modify_cellular_type">Tocca per selezionare il tuo piano</string>
     <string name="modify_password_mode"><u>Cambia tipo di password</u></string>
     <string name="modifypassword">Cambia tipo di sblocco</string>
@@ -3522,6 +3528,7 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="privacy_provision_text">Siamo impegnati a rispettare e proteggere la vostra privacy. Priorità di ricerca e sviluppo nel campo della sicurezza dell\'informazione, Xiaomi lavora costantemente al miglioramento dei metodi, delle pratiche e delle soluzioni tecniche che salvaguardano i tuoi dati. Condividiamo anche i nostri ultimi risultati con i nostri partner al fine di garantire la vostra privacy su tutti i fronti.</string>
     <string name="privacy_provision_title">Privacy</string>
     <string name="privacy_recommend_title">Consigli personalizzati</string>
+    <string name="privacy_revoke_category_title">Revoca del consenso e cancellazione del servizio</string>
     <string name="privacy_revoke_dialog_content">Disattivando l\'opzione, l\'utente ritira il suo consenso all\'Informativa sulla privacy di Sicurezza. Smetteremo di raccogliere i tuoi dati personali. I dati personali già raccolti e conservati saranno cancellati entro il termine specifico previsto dalle leggi applicabili. Sicurezza deve raccogliere le informazioni personali necessarie per fornirti i servizi di base. Il ritiro del consenso all\'Informativa sulla privacy sarà considerato come rifiuto di accettare i suoi servizi sulla base delle informazioni personali raccolte.</string>
     <string name="privacy_revoke_dialog_negetive_text">Annulla</string>
     <string name="privacy_revoke_dialog_positive_text">Revoca</string>
@@ -4230,6 +4237,7 @@ Per usare questo ^1 con questo dispositivo, devi prima configurarlo."</string>
     <string name="storage_item_other_name">Altro</string>
     <string name="storage_item_picture_name">Immagini</string>
     <string name="storage_item_system_name">Sistema</string>
+    <string name="storage_item_video_name">Video</string>
     <string name="storage_menu_mount">Monta</string>
     <string name="storage_mount_failure">"Impossibile montare %1$s"</string>
     <string name="storage_mount_success">Montato %1$s con successo</string>
@@ -4604,6 +4612,7 @@ La formattazione cancellerà il contenuto esistente sulla ^2. Per evitare di per
     <string name="title_virus_update_no">Auto aggiornamento definizioni virus disattivato</string>
     <string name="title_virus_update_yes">Auto aggiornamento definizioni virus attivato</string>
     <string name="title_virus_yes">Nessun virus rilevato</string>
+    <string name="title_xiaomi_roaming">Mi Roaming</string>
     <string name="toast_add_virus_white_list_no_need_repeat">Questa eccezione è già esistente!</string>
     <string name="toast_auto_traffic_correct">Il traffico dati viene regolato automaticamente</string>
     <string name="toast_cleaner_cloudscan">Lo Strumento di pulizia utilizzerà il database online</string>
@@ -4737,6 +4746,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="usage_type_gps">Test GPS</string>
     <string name="usage_type_no_coverage">Nessun servizio</string>
     <string name="usage_type_on_time">Tempo utilizzo</string>
+    <string name="usage_type_video">Video</string>
     <string name="usage_type_wake_lock">Mantieni attivo</string>
     <string name="usage_type_wifi_running">Wi-Fi attivo</string>
     <string name="usb_adb_input_apply_step_1">"Il tuo computer sarà in grado di modificare le impostazioni e concedere per messi a tua insaputa quando il tuo dispositivo è collegato tramite USB"</string>
