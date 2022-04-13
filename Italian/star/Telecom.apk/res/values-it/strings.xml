@@ -396,7 +396,7 @@
     <string name="enable_terminal_summary">Abilita app terminale per accesso locale shell</string>
     <string name="enable_terminal_title">Terminale locale</string>
     <string name="enable_verbose_vendor_logging">Abilita la registrazione dettagliata del venditore</string>
-    <string name="enable_verbose_vendor_logging_summary">Includi ulteriori log dei fornitori specifici del dispositivo nelle segnalazioni di bug, che possono contenere informazioni private, utilizza più batteria e/o più spazio di archiviazione.</string>
+    <string name="enable_verbose_vendor_logging_summary">Includi ulteriori log dei fornitori specifici del dispositivo nelle segnalazioni di bug, che possono contenere informazioni private, utilizza più batteria e/o più memoria.</string>
     <string name="enabled_by_admin">Abilitato dall\'amministratore</string>
     <string name="enhanced_connectivity_summary">Abilita la funzionalità di connettività migliorata.</string>
     <string name="eras_ad">AC</string>
@@ -506,6 +506,7 @@
     <string name="media_transfer_this_device_name">Questo dispositivo</string>
     <string name="media_transfer_wired_device_name">Dispositivo audio cablato</string>
     <string name="media_transfer_wired_usb_device_name">Cuffie cablate</string>
+    <string name="message_no_voice_capability">"Impossibile effettuare chiamate su questo dispositivo"</string>
     <string name="midnight">Notte</string>
     <string name="missedcall_notification_public_version_title">Telefono</string>
     <string name="miuix_access_state_desc">Selezionato</string>
@@ -643,6 +644,7 @@
     <string name="notification_missedCallsMsg">%s chiamate perse</string>
     <string name="notification_missedCallsTitle">Chiamate perse</string>
     <string name="notification_missedWorkCallTitle">Chiamata lavoro persa</string>
+    <string name="number_tag_divider">" | "</string>
     <string name="oem_unlock_enable">Sblocco OEM</string>
     <string name="oem_unlock_enable_summary">Permetti lo sblocco del bootloader</string>
     <string name="okay">OK</string>
