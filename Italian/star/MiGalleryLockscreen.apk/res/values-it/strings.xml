@@ -112,6 +112,7 @@
     <string name="cancel_international">Annulla</string>
     <string name="cancel_lockscreen">Annulla</string>
     <string name="cancel_network">Esci</string>
+    <string name="cancel_service">Annulla servizi</string>
     <string name="carousel_declaration_btn_text">Attiva Sfondi Carousel</string>
     <string name="carousel_declaration_cta">"Sfondi Carousel richiede una connessione ad Internet per funzionare normalmente. Per ottenere l'accesso ai contenuti online, è necessario concordare con la nostra &lt;a href='http://www.miui.com/res/doc/privacy/cn.html'&gt;Informativa sulla Privacy&lt;/a&gt;. Procedere?"</string>
     <string name="carousel_declaration_cta_btn_text">Accetta e attiva</string>
@@ -294,7 +295,7 @@
     <string name="detail_toast_deny_dislike">"Impossibile eliminare"</string>
     <string name="detail_toast_deny_favor">"Impossibile aggiungere ai preferiti."</string>
     <string name="detail_toast_dislike_fail">"Impossibile eliminare"</string>
-    <string name="detail_toast_favor_permission">Consenti a Sfondi Carousel di accedere allo spazio di archiviazione in Sicurezza.</string>
+    <string name="detail_toast_favor_permission">Consenti a Sfondi Carousel di accedere allo memoria in Sicurezza.</string>
     <string name="diagnosis_log_send_failed">"Impossibile inviare i log. Riprova."</string>
     <string name="diagnosis_log_sent_format">"Log inviati con successo.
 ID:%s
@@ -409,6 +410,7 @@ Invia questo codice al supervisore."</string>
     <string name="icon_content_description">Icona di dialogo</string>
     <string name="idbct_desc">Personalizza Sfondi Carousel in base al tipo di rete</string>
     <string name="idbct_opt_auto_select_desc_text">Scarica immagini standard utilizzando dati mobili e immagini HD tramite Wi-Fi</string>
+    <string name="idbct_opt_auto_select_main_text">Auto</string>
     <string name="idbct_opt_high_def_desc_text">Scarica sempre immagini HD</string>
     <string name="idbct_opt_low_dev_desc_text">Scarica sempre le immagini in qualità standard</string>
     <string name="idbct_opt_low_dev_main_text">Normale</string>
