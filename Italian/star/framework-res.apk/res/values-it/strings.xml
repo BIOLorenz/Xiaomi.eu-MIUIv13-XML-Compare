@@ -346,6 +346,7 @@ Puoi associare questa scorciatoia a un'altra funzionalità in Impostazioni &gt; 
     <string name="bugreport_title">Segnalazione di bug</string>
     <string name="byteShort">B</string>
     <string name="call_notification_answer_action">Scorri in alto per rispondere</string>
+    <string name="call_notification_answer_video_action">Video</string>
     <string name="call_notification_decline_action">Rifiuta</string>
     <string name="call_notification_incoming_text">Chiamata ricevuta</string>
     <string name="call_notification_ongoing_text">Chiamata in corso</string>
@@ -727,6 +728,7 @@ Per eventuali domande, contatta l'amministratore della tua organizzazione."</str
     <string name="ime_action_previous">Prec.</string>
     <string name="ime_action_search">Cerca</string>
     <string name="ime_action_send">Invia</string>
+    <string name="imei">IMEI</string>
     <string name="immersive_cling_description">Per uscire, scorri dall\'alto verso il basso.</string>
     <string name="immersive_cling_positive">OK</string>
     <string name="immersive_cling_title">Visualizzazione a schermo intero</string>
@@ -952,6 +954,7 @@ Riprova tra %2$d secondi."</string>
     <string name="mediasize_unknown_landscape">Orizzontale sconosciuto</string>
     <string name="mediasize_unknown_portrait">Verticale sconosciuto</string>
     <string name="megabyteShort">MB</string>
+    <string name="meid">MEID</string>
     <string name="menu_alt_shortcut_label">ALT +</string>
     <string name="menu_ctrl_shortcut_label">CTRL +</string>
     <string name="menu_delete_shortcut_label">Canc</string>
@@ -978,6 +981,7 @@ Riprova tra %2$d secondi."</string>
     <string name="mime_type_presentation_ext">Presentazione %1$s</string>
     <string name="mime_type_spreadsheet">Foglio di lavoro</string>
     <string name="mime_type_spreadsheet_ext">Foglio di lavoro %1$s</string>
+    <string name="mime_type_video">Video</string>
     <string name="mime_type_video_ext">Video %1$s</string>
     <string name="minute_picker_description">Dispositivo di scorrimento circolare per i minuti</string>
     <string name="minutes">min</string>
@@ -1093,6 +1097,7 @@ Riprova tra %2$d secondi."</string>
     <string name="package_installed_device_owner">Installato dall\'amministratore</string>
     <string name="package_updated_device_owner">Aggiornato dall\'amministratore</string>
     <string name="passwordIncorrect">Password errata.</string>
+    <string name="password_keyboard_label_alpha_key">ABC</string>
     <string name="paste">Incolla</string>
     <string name="paste_as_plain_text">Incolla come testo normale</string>
     <string name="peerTtyModeFull">Peer ha richiesto la modalità TTY FULL</string>
