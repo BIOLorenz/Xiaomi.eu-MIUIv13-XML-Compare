@@ -528,6 +528,7 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
     <string name="ambient_display_tap_screen_title">Tocca per controllare il telefono</string>
     <string name="ambient_display_title">Doppio tocco per leggere</string>
     <string name="ambient_display_wake_screen_title">Risveglia lo schermo</string>
+    <string name="anc_auto">Auto</string>
     <string name="anc_depth">forte</string>
     <string name="anc_mild">Leggero</string>
     <string name="android_beam_disabled_summary">Non disponibile perché la tecnologia NFC non è attiva</string>
@@ -2152,6 +2153,7 @@ Per continuare a usare il dispositivo devi effettuare un ripristino dei dati di 
     <string name="custom_wifi_name_title">Modifica nome Wi-Fi</string>
     <string name="customize_knock_gesture">Gesti nocca personalizzati</string>
     <string name="cutout_mode_always">Mostra sempre il notch</string>
+    <string name="cutout_mode_default">Auto</string>
     <string name="cutout_mode_settings_title">Alcune app potrebbero non essere visualizzate correttamente se modifichi la modalità di visualizzazione del notch.</string>
     <string name="cutout_mode_title">Notch nelle app individuali</string>
     <string name="cutout_type_desc">Attiva per smussare le curve del notch</string>
@@ -2738,6 +2740,8 @@ Se il problema continua a verificarsi, potrebbe essere necessario disinstallare 
     <string name="dual_clock_hint">\"Orologio Doppiok\" richiede le seguenti funzioni: 1. Per la schermata di blocco, assicurati di utilizzare il tema predefinito o classico in Impostazioni &gt; Temi; 2. er la Home, assicurati di usare il widget orologio di sistema.</string>
     <string name="dual_clock_ok">Ok</string>
     <string name="dual_clock_open_message">L\'Orologio Doppio verrà mostrato nella schermata di sblocco e sulla Home.</string>
+    <string name="dual_setting_simcard1">SIM 1</string>
+    <string name="dual_setting_simcard2">SIM 2</string>
     <string name="dual_wifi">Potenziamento velocità Wi-Fi a doppia banda</string>
     <string name="dual_wifi_acceleration">Aumento velocità</string>
     <string name="dual_wifi_auto_disable">Ferma automaticamente il potenziamento della velocità</string>
@@ -2893,6 +2897,7 @@ Questa funzionalità aiuta a proteggere i propri dati su dispositivi persi o rub
     <string name="encryption_progress_summary">"Crittografia in corso, non riavviare il dispositivo."</string>
     <string name="enhanced_4g_lte_mode_summary">Utilizza i servizi LTE per migliorare la comunicazione voce e altro (consigliato)</string>
     <string name="enhanced_4g_lte_mode_summary_4g_calling">Utilizza i servizi 4G per migliorare la comunicazione voce e altro (consigliato)</string>
+    <string name="enhanced_4g_lte_mode_title">VoLTE</string>
     <string name="enhanced_4g_lte_mode_title_4g_calling">Chiamata 4G</string>
     <string name="enhanced_4g_lte_mode_title_advanced_calling">Chiamata Avanzata</string>
     <string name="enhanced_connectivity_summary">Abilita la funzionalità di connettività migliorata.</string>
@@ -5457,6 +5462,7 @@ OTG si disattiva automaticaemnte dopo 10 minuti di inattività."</string>
     <string name="page_layout_34">Telefono</string>
     <string name="page_layout_35">Note</string>
     <string name="page_layout_4">Musica</string>
+    <string name="page_layout_5">Video</string>
     <string name="page_layout_6">Applicazioni</string>
     <string name="page_layout_7">Giochi</string>
     <string name="page_layout_9">Temi</string>
@@ -5863,6 +5869,7 @@ Leggi e accetta %s prima di utilizzare questo servizio."</string>
     <string name="private_dns_help_message"><annotation id="url">Per saperne di più</annotation>sulle funzionalità DNS private</string>
     <string name="private_dns_mode_off">Spenta</string>
     <string name="private_dns_mode_on">Attivata</string>
+    <string name="private_dns_mode_opportunistic">Auto</string>
     <string name="private_dns_mode_provider">DNS Hostname provider privato</string>
     <string name="private_dns_mode_provider_failure">"Impossibile connettersi"</string>
     <string name="private_dns_mode_provider_hostname_hint">Inserisci l\'hostname del provider DNS</string>
@@ -6911,12 +6918,15 @@ Nota: Non puoi utilizzare la tua impronta per sbloccare questo dispositivo. Per 
     <string name="sim_call_back_title">SIM per le richiamate</string>
     <string name="sim_calls_always_use">Usa sempre questa SIM per le chiamate</string>
     <string name="sim_calls_ask_first_prefs_title">Chiedi sempre</string>
+    <string name="sim_card">SIM</string>
     <string name="sim_card_label">Test scheda SIM</string>
     <string name="sim_card_lock">Stato SIM</string>
+    <string name="sim_card_number_title">SIM %1$d</string>
     <string name="sim_card_select_title">Scegli SIM</string>
     <string name="sim_cards_changed_message">SIM cambiate</string>
     <string name="sim_cards_changed_message_summary">Tocca per impostare le attività</string>
     <string name="sim_category_active_sim">Attivo</string>
+    <string name="sim_category_title">SIM</string>
     <string name="sim_cellular_data_unavailable">Dati cellulare non disponibile</string>
     <string name="sim_cellular_data_unavailable_summary">Tocca per selezionare una SIM dati</string>
     <string name="sim_change_data_message">"Usare %1$s invece di %2$s per la rete dati?"</string>
@@ -7027,6 +7037,7 @@ Il PIN potrebbe essere errato."</string>
     <string name="slider_voice_online_theme">Suoni online</string>
     <string name="slider_voice_summary">Riproduci suoni quando scorri lo slider in alto e in basso</string>
     <string name="slider_voice_title">Suoni</string>
+    <string name="slight_pause">,</string>
     <string name="slot_number">(Slot %1$d)</string>
     <string name="slot_status_title">Informazione IMEI</string>
     <string name="smallwindow_smartcover_title">Copertura frontale trasparente</string>
@@ -7182,7 +7193,9 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
     <string name="status_data_network_type">Tipo di rete dati mobile</string>
     <string name="status_data_state">Stato rete cellulare</string>
     <string name="status_device_wifi_mac_address">Indirizzo MAC Wi-Fi del dispositivo</string>
+    <string name="status_imei">IMEI</string>
     <string name="status_latest_area_info">Info operatore</string>
+    <string name="status_meid_number">MEID</string>
     <string name="status_number">Numero di telefono</string>
     <string name="status_number_sim_slot">Numero di telefono (slot sim %1$d)</string>
     <string name="status_number_sim_status">Numero di telefono sulla SIM</string>
@@ -7193,6 +7206,8 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
     <string name="status_service_state">Stato servizio</string>
     <string name="status_signal_strength">Intensità segnale</string>
     <string name="status_sim">Stato SIM</string>
+    <string name="status_sim_1">SIM 1</string>
+    <string name="status_sim_2">SIM 2</string>
     <string name="status_summary">Tocca per vedere</string>
     <string name="status_unavailable">Non disponibile</string>
     <string name="status_up_time">Tempo di attività</string>
@@ -7983,6 +7998,7 @@ La disattivazione di questa funzione non influisce sulla capacità del dispositi
     <string name="usage_type_phone">Telefono</string>
     <string name="usage_type_radio_active">Rete cellulare attiva</string>
     <string name="usage_type_total_battery_capacity">Capacità totale batteria</string>
+    <string name="usage_type_video">Video</string>
     <string name="usage_type_wake_lock">Mantieni attivo</string>
     <string name="usage_type_wifi_running">Wi-Fi in esecuzione</string>
     <string name="usagestats_app_category_miui_financial">Finanza</string>
@@ -8215,7 +8231,9 @@ Aggiungi una parola toccando il tasto +."</string>
     <string name="vip_service_settings">I miei servizi</string>
     <string name="virtual_keyboard_category">Tastiera virtuale</string>
     <string name="virtual_keyboards_for_work_title">Tastiera virtuale per il lavoro</string>
+    <string name="virtual_sim_category_title">Mi Roaming</string>
     <string name="virtual_sim_description">Servizio di roaming internazionale affidabile</string>
+    <string name="virtual_sim_global_category_title">Mi SIM</string>
     <string name="virtual_sim_global_description">Non è richiesta nessuna SIM per collegarsi alla rete dati</string>
     <string name="virtual_sim_global_title">Servizio traffico dati</string>
     <string name="virtual_sim_title">Rete dati roaming</string>
@@ -8486,6 +8504,7 @@ Controlla la politica sulla privacy del tuo fornitore di servizi."</string>
     <string name="wifi_ap_band_select_one">Scegli almeno una banda per l\'hotspot Wi-Fi:</string>
     <string name="wifi_ap_choose_2G">Banda 2.4 GHz</string>
     <string name="wifi_ap_choose_5G">Banda 5 GHz</string>
+    <string name="wifi_ap_choose_auto">Auto</string>
     <string name="wifi_ap_choose_dual">Entrambi</string>
     <string name="wifi_ap_hidden_ssid">Nascondi SSID</string>
     <string name="wifi_ap_prefer_5G">Banda 5.0 GHz preferita</string>
