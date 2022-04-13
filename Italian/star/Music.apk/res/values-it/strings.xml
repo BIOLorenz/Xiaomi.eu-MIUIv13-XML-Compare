@@ -114,6 +114,7 @@
     <string name="audio_ad_pass">Salta annuncio</string>
     <string name="audio_picker_title">Scegli un brano</string>
     <string name="auto_recommend">Auto (consigliato)</string>
+    <string name="auto_sound_quality">Auto</string>
     <string name="auto_update">Aggiorna automaticamente</string>
     <string name="auto_update_tip">Puoi aggiornare le app di sistema utilizzando i dati mobili. Ciò potrebbe comportare costi aggiuntivi per i dati.</string>
     <string name="autoplay_is_off">Riproduzione automatica spenta</string>
@@ -477,9 +478,11 @@
     <string name="exo_track_role_alternate">Alternato</string>
     <string name="exo_track_role_commentary">Commento</string>
     <string name="exo_track_role_supplementary">Supplementare</string>
+    <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Nessuno</string>
     <string name="exo_track_selection_title_audio">Audio</string>
     <string name="exo_track_selection_title_text">Testo</string>
+    <string name="exo_track_selection_title_video">Video</string>
     <string name="exo_track_stereo">Stereo</string>
     <string name="exo_track_surround">Suono surround</string>
     <string name="exo_track_surround_5_point_1">Surround 5.1</string>
@@ -510,6 +513,7 @@
     <string name="filter_by_MP4">Mostra cartelle con file MP4</string>
     <string name="filter_by_duration">Per durata</string>
     <string name="filter_by_duration_max">%d minuti</string>
+    <string name="filter_by_duration_min">%d sec</string>
     <string name="filter_by_duration_prefix">"Durata minima: "</string>
     <string name="filter_by_duration_summary">Non mostrare file audio brevi</string>
     <string name="filter_by_folder">Per cartella</string>
