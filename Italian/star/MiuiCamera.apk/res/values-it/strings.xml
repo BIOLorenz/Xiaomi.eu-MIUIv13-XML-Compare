@@ -529,6 +529,7 @@
     <string name="clone_recapture_alert">Ricominciare da capo?</string>
     <string name="clone_start_capture">Avvia la clonazione </string>
     <string name="clone_too_much_movement_stop">Hai mosso troppo il dispositivo. Ho smesso di registrare per ora.</string>
+    <string name="clone_video_mode">Video</string>
     <string name="close">Chiudi</string>
     <string name="close_back_flash_toast">Il dispositivo è surriscaldato. Impossibile utilizzare il flash adesso.</string>
     <string name="close_front_flash_toast">"Il dispositivo è surriscaldato. Impossibile utilizzare il flash adesso."</string>
@@ -1103,6 +1104,7 @@ più grandi nelle foto"</string>
     <string name="module_name_scanner">Scanner</string>
     <string name="module_name_square">Quadrato</string>
     <string name="module_name_super_moon">Superluna</string>
+    <string name="module_name_video">Video</string>
     <string name="moive_frame">Cornice</string>
     <string name="monday">Lunedì</string>
     <string name="monday_short">Lun</string>
@@ -1277,12 +1279,14 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_audio_focus_title">Messa a Fuoco Audio</string>
     <string name="pref_auto_boot">Avvio automatico</string>
     <string name="pref_burst_shoot_title">Scatto continuo</string>
+    <string name="pref_camcorder_settings">Video</string>
     <string name="pref_camcorder_settings_category">Impostazioni fotocamera</string>
     <string name="pref_camera_ai_audio">Audio IA</string>
     <string name="pref_camera_ai_scene_title">Scena IA</string>
     <string name="pref_camera_ai_shutter_description">Seleziona automaticamente il momento migliore quando premi il pulsante di scatto</string>
     <string name="pref_camera_ai_shutter_title">Scatto IA</string>
     <string name="pref_camera_antibanding_entry_0">Spenta</string>
+    <string name="pref_camera_antibanding_entry_3">Auto</string>
     <string name="pref_camera_antibanding_title">Anti-banding</string>
     <string name="pref_camera_asd_night_title">Miglioramento foto notturne</string>
     <string name="pref_camera_asd_popup_title">Notifica quando il flash è richiesto</string>
@@ -1400,6 +1404,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_fastmotion_speed_90x">Nuvole</string>
     <string name="pref_camera_fastmotion_speed_description">Compressione del tempo regolabile. Con lo stesso tempo di ripresa, maggiore è il valore di velocità selezionato, minore è la durata del video finale e maggiore è la velocità di riproduzione. Per alcuni scenari di ripresa, si consigliano i seguenti valori di velocità:</string>
     <string name="pref_camera_first_tag_tips">Taggato correttamente</string>
+    <string name="pref_camera_flashmode_entry_auto">Auto</string>
     <string name="pref_camera_flashmode_entry_back_soft_light">Luce leggera</string>
     <string name="pref_camera_flashmode_entry_off">Spenta</string>
     <string name="pref_camera_flashmode_entry_on">Attivata</string>
@@ -1418,6 +1423,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_gradienter_title">Riallinea</string>
     <string name="pref_camera_groupshot_mode_title">Selfie di gruppo</string>
     <string name="pref_camera_hand_night_title">Notte</string>
+    <string name="pref_camera_hdr_entry_auto">Auto</string>
     <string name="pref_camera_hdr_entry_off">Spenta</string>
     <string name="pref_camera_heic_image_format_description">"Le foto in formato HEIF occupa meno memoria, ma non sono supportate da alcune app"</string>
     <string name="pref_camera_heic_image_format_description2">"Il formato immagine HEIF occupa meno memoria, ma non è supportato da alcune app di terze parti. Non puoi scattare Foto Live e rimuovere la filigrana negli scatti HEIF."</string>
@@ -1489,6 +1495,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_reference_capture_title_right_golden_spiral">Spirale dorata B</string>
     <string name="pref_camera_referenceline_title">Griglia</string>
     <string name="pref_camera_saturation_title">Saturazione</string>
+    <string name="pref_camera_scenemode_entry_auto">Auto</string>
     <string name="pref_camera_scenemode_entry_backlight">Retroilluminazione</string>
     <string name="pref_camera_scenemode_entry_beach">Spiaggia</string>
     <string name="pref_camera_scenemode_entry_fireworks">Fuochi d\'artificio</string>
@@ -1518,6 +1525,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_snap_entry_summary">Premi e tieni premuto il pulsante Volume giù quando lo schermo è spento per scattare una foto</string>
     <string name="pref_camera_snap_entry_take_movie">Video</string>
     <string name="pref_camera_snap_entry_take_picture">Foto</string>
+    <string name="pref_camera_snap_label_take_movie">Video</string>
     <string name="pref_camera_snap_label_take_picture">Foto</string>
     <string name="pref_camera_snap_value_off">Spenta</string>
     <string name="pref_camera_snap_value_take_movie">Film</string>
@@ -1600,6 +1608,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_front_mirror_entry_auto">Quando il volto viene rilevato</string>
     <string name="pref_front_mirror_entry_off">Spenta</string>
     <string name="pref_front_mirror_entry_on">Attivata</string>
+    <string name="pref_front_mirror_label_auto">Auto</string>
     <string name="pref_front_mirror_title">Fotoc. frontale (effetto specchio)</string>
     <string name="pref_groupshot_with_primitive_title">Salva la prima immagine nella modalità Foto di Gruppo</string>
     <string name="pref_hdr10_hdr10plus_video_mode_description">Ottimizza i colori per i video 4K (HDR10+) e 8K (HDR10). Questa funzionalità funziona solo su dispositivi compatibili HDR10+/HDR10.</string>
@@ -1969,6 +1978,7 @@ La modalità ultra grandangolo è d'aiuto quando non puoi muoverti più lontano 
     <string name="video_effect_entry_wind_sing">Brezza</string>
     <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
     <string name="video_reach_size_limit">Limite dimensioni raggiunto.</string>
+    <string name="video_shortcut_short">Video</string>
     <string name="video_ultra_clear_tip_8k">IA 8K</string>
     <string name="view_privacy_policy">Visualizza Informativa sulla Privacy</string>
     <string name="vv_duartion_hint">%1$s | Segmento %2$d | %3$ss</string>
