@@ -268,6 +268,12 @@ Selezione"</string>
     <string name="cdma_system_select_dialogtitle">Selezione sistema</string>
     <string name="cdma_system_select_summary">Modifica la modalità di roaming CDMA</string>
     <string name="cdma_system_select_title">Selezione sistema</string>
+    <string name="cfnry_time_fifteen_sec">%d sec</string>
+    <string name="cfnry_time_five_sec">%d sec</string>
+    <string name="cfnry_time_ten_sec">%d sec</string>
+    <string name="cfnry_time_thirty_sec">%d sec</string>
+    <string name="cfnry_time_twenty_five_sec">%d sec</string>
+    <string name="cfnry_time_twenty_sec">%d sec</string>
     <string name="change_num">Aggiorna</string>
     <string name="change_pin">Modifica il PIN della SIM</string>
     <string name="change_pin_cancel_label">Annulla</string>
@@ -418,6 +424,7 @@ Selezione"</string>
     <string name="description_image_button_star">asterisco</string>
     <string name="description_image_button_three">tre</string>
     <string name="description_image_button_two">due</string>
+    <string name="description_image_button_zero">zero</string>
     <string name="detect_fakecell">Riconosce gli SMS provenienti da celle fasulle</string>
     <string name="dev_logpersist_clear_warning_message">Quando il monitoraggio tramite logger permanente viene interrotto, siamo obbligati a eliminare i dati del logger memorizzati sul dispositivo.</string>
     <string name="dev_logpersist_clear_warning_title">Cancellare i dati nello memoria permanente del logger?</string>
@@ -431,6 +438,24 @@ Selezione"</string>
     <string name="dialog_alert_title">Attenzione</string>
     <string name="dialog_cancel">Annulla</string>
     <string name="dialog_report">Segnala</string>
+    <string name="dialpad_2_letters">ABC</string>
+    <string name="dialpad_3_letters">DEF</string>
+    <string name="dialpad_4_letters">GHI</string>
+    <string name="dialpad_5_letters">JKL</string>
+    <string name="dialpad_6_letters">MNO</string>
+    <string name="dialpad_7_letters">PQRS</string>
+    <string name="dialpad_8_letters">TUV</string>
+    <string name="dialpad_9_letters">WXYZ</string>
+    <string name="dialpad_abc">ABC</string>
+    <string name="dialpad_def">DEF</string>
+    <string name="dialpad_ghi">GHI</string>
+    <string name="dialpad_jkl">JKL</string>
+    <string name="dialpad_mno">MNO</string>
+    <string name="dialpad_pqrs">PQRS</string>
+    <string name="dialpad_star">*</string>
+    <string name="dialpad_star_number">*</string>
+    <string name="dialpad_tuv">TUV</string>
+    <string name="dialpad_wxyz">WXYZ</string>
     <string name="direct_boot_unaware_dialog_message">"Nota: dopo il riavvio, devi sbloccare il telefono per poter avviare l'app."</string>
     <string name="disable">Disattiva</string>
     <string name="disable_cdma_cw">Annulla</string>
@@ -497,6 +522,7 @@ Selezione"</string>
     <string name="external_source_trusted">Autorizzate</string>
     <string name="external_source_untrusted">Non consentite</string>
     <string name="failed_to_open_app_settings_toast">Impossibile aprire le impostazioni di %1$s</string>
+    <string name="fiveg_network_mode_default">Auto</string>
     <string name="fiveg_power_switch_summary">Ridurre il consumo di energia della rete 5G in determinati scenari</string>
     <string name="fiveg_power_switch_title">Risparmio Batteria 5G</string>
     <string name="fiveg_sa_switch_open_dialog_title">Attenzione</string>
@@ -603,6 +629,7 @@ Selezione"</string>
     <string name="keep_screen_on_summary">Lo schermo non va mai in stand-by se sotto carica</string>
     <string name="keywords_adb_wireless">ADB, debug, sviluppatori</string>
     <string name="kr_emergency_112">Polizia (112)</string>
+    <string name="labelCFVideo">Video</string>
     <string name="labelCFVoice">Voce</string>
     <string name="labelCW">Chiamate in attesa</string>
     <string name="labelCallerId">ID chiamante</string>
@@ -640,6 +667,7 @@ Selezione"</string>
     <string name="messageCallBarring">Inserisci password</string>
     <string name="mi_mobile_settings_title">Telefono Mi</string>
     <string name="mi_mobile_sim_activate_ok">Attiva</string>
+    <string name="mi_sim_settings_title">Mi SIM</string>
     <string name="midnight">Notte</string>
     <string name="missed_call_notify_once">%d volta</string>
     <string name="miui_network_selection_reset_text">Azzera</string>
@@ -1053,6 +1081,7 @@ La tua SIM sarà bloccata dopo un altro tentativo fallito."</string>
     <string name="sim_label_emergency_calls">Chiamate emergenza</string>
     <string name="sim_ndp_dismiss_text">Rifiuta</string>
     <string name="sim_ndp_unlock_text">Sblocca</string>
+    <string name="sim_roaming_settings_title">Mi Roaming</string>
     <string name="sim_selection_required_pref">Selezione richiesta</string>
     <string name="simulate_color_space">Simula spazio colore</string>
     <string name="single_emergency_number_title">Numero di emergenza</string>
@@ -1271,6 +1300,7 @@ Qualsiasi utente può aggiornare le app per tutti gli altri."</string>
     <string name="voicemail_provider">Servizio</string>
     <string name="voicemail_set_pin_dialog_title">Imposta PIN</string>
     <string name="volte_provision_notification_activate">Attiva</string>
+    <string name="volte_switch_title_ct">VoLTE</string>
     <string name="vpn_settings_not_available">Le impostazioni VPN non sono disponibili per questo utente</string>
     <string name="wait_for_debugger">Attendi debugger</string>
     <string name="wait_for_debugger_summary">L\'app in debug attende il debugger prima dell\'esecuzione</string>
