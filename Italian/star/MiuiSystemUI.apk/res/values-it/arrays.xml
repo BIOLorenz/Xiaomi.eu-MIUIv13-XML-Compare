@@ -880,6 +880,18 @@
         <item>com.miui.bugreport</item>
         <item>com.android.systemui</item>
     </string-array>
+    <string-array name="lockscreen_num_pad_klondike">
+        <item>+</item>
+        <item></item>
+        <item>ABC</item>
+        <item>DEF</item>
+        <item>GHI</item>
+        <item>JKL</item>
+        <item>MNO</item>
+        <item>PQRS</item>
+        <item>TUV</item>
+        <item>WXYZ</item>
+    </string-array>
     <string-array name="miui_notification_aggregate_category">
         <item>Questo è il contenuto consigliato.</item>
         <item>Questo è un annuncio.</item>
