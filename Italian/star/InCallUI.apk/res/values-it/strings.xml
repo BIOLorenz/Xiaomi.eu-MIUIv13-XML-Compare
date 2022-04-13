@@ -27,6 +27,7 @@
     <string name="ai_assistant">Assistente Chiamata IA</string>
     <string name="ai_assistant_not_installed">Installa prima l\'Assistente Chiamata IA</string>
     <string name="ai_dial">Chiamata IA</string>
+    <string name="ai_mode_auto">Auto</string>
     <string name="ai_mode_manual">Manuale</string>
     <string name="ai_mode_subtitles">Sottotitoli</string>
     <string name="antispam_local_marked">Segnalato localmente</string>
@@ -183,6 +184,7 @@
     <string name="crbt_second_hold_prompt_no_name">La chiamata precedente è in attesa…</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
+    <string name="description_icon_sim_card">SIM %1$d</string>
     <string name="description_image_button_answer">Scorri in alto per rispondere</string>
     <string name="description_image_button_dialpad">Tastierino</string>
     <string name="description_image_button_eight">otto</string>
@@ -201,9 +203,19 @@
     <string name="description_image_button_tools">Opzioni</string>
     <string name="description_image_button_two">due</string>
     <string name="description_image_button_video_answer">Videochiamata</string>
+    <string name="description_image_button_zero">zero</string>
     <string name="description_incoming_video">Video profilo per chiamate in uscita</string>
     <string name="description_message_list_title">Elenco di risposte rapide</string>
     <string name="description_target_answer">Scorri in alto per rispondere</string>
+    <string name="dialpad_abc">ABC</string>
+    <string name="dialpad_def">DEF</string>
+    <string name="dialpad_ghi">GHI</string>
+    <string name="dialpad_jkl">JKL</string>
+    <string name="dialpad_mno">MNO</string>
+    <string name="dialpad_pqrs">PQRS</string>
+    <string name="dialpad_star">*</string>
+    <string name="dialpad_tuv">TUV</string>
+    <string name="dialpad_wxyz">WXYZ</string>
     <string name="do_not_support_video_calls_by_remote">"Le videochiamate non sono supportate dall'altro dispositivo"</string>
     <string name="early_morning">Mattina</string>
     <string name="earthly_branches_chen">Chen</string>
@@ -365,6 +377,7 @@
     <string name="night">Sera</string>
     <string name="noon">Mezzogiorno</string>
     <string name="notification_action_accept">Accetta</string>
+    <string name="notification_action_answer_video">Video</string>
     <string name="notification_action_answer_voice">Voce</string>
     <string name="notification_action_dismiss">Rifiuta</string>
     <string name="notification_action_earpiece">Cuffie</string>
@@ -399,6 +412,7 @@
     <string name="pause_prompt_no">No</string>
     <string name="pause_prompt_yes">Sì</string>
     <string name="payphone">Telefono a gettoni</string>
+    <string name="phone_info_divider">" | "</string>
     <string name="picking_participant">Recupero informazioni di contatto…</string>
     <string name="private_num">Numero privato</string>
     <string name="prompt_no_volte_when_failed">"Il servizio VoLTE non è disponibile."</string>
@@ -409,6 +423,7 @@
     <string name="saf_permission_grant_permission_immediately">Successivo</string>
     <string name="saf_permission_later">Non ora</string>
     <string name="saf_permission_title">Permessi richiesti</string>
+    <string name="saf_permission_use_this_folder">Usa questa cartella</string>
     <string name="saturday">Sabato</string>
     <string name="saturday_short">Sab</string>
     <string name="saturday_shortest">Sab</string>
