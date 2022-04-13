@@ -246,6 +246,7 @@
     <string name="attachment_text">Testo</string>
     <string name="attachment_type_blocked">"Purtroppo, non puoi salvare o aprire questo tipo di allegato."</string>
     <string name="attachment_unknown">File %s</string>
+    <string name="attachment_video">Video</string>
     <string name="attachments_header">Allegati</string>
     <string name="attendee_needed">Aggiungi almeno un invitato.</string>
     <string name="auto_advance_help_title">Dopo un\'eliminazione, mostra…</string>
