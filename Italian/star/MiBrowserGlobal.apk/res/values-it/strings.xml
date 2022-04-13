@@ -84,6 +84,7 @@
     <string name="action_menu_text_share">Condividi</string>
     <string name="action_menu_text_snapshot">Salva pagina</string>
     <string name="action_menu_text_speed_test">Verifica la rete</string>
+    <string name="action_menu_text_video">Video</string>
     <string name="action_menu_text_video_download">Scarica video</string>
     <string name="action_menu_text_web_mode">Modalità desktop</string>
     <string name="action_menu_toolbox">Utilità</string>
@@ -534,6 +535,7 @@ Invia questo codice al supervisore."</string>
     <string name="download_dialog_title_not_available">"Impossibile scaricare"</string>
     <string name="download_dialog_title_queued_body">"File non ancora disponibile"</string>
     <string name="download_dialog_title_save_apk">Scarica app</string>
+    <string name="download_dialog_title_video">Video</string>
     <string name="download_error_io">"Download fallito."</string>
     <string name="download_error_network">"Download fallito. Connessione di rete interrotta."</string>
     <string name="download_error_url_invalid">"Download fallito. URL non valido."</string>
@@ -663,9 +665,11 @@ Invia questo codice al supervisore."</string>
     <string name="exo_download_failed">Download non riuscito</string>
     <string name="exo_download_notification_channel_name">Download</string>
     <string name="exo_download_removing">Rimozione download</string>
+    <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Nessuno</string>
     <string name="exo_track_selection_title_audio">Audio</string>
     <string name="exo_track_selection_title_text">Testo</string>
+    <string name="exo_track_selection_title_video">Video</string>
     <string name="exo_track_stereo">Stereo</string>
     <string name="exo_track_surround">Suono surround</string>
     <string name="exo_track_surround_5_point_1">Surround 5.1</string>
@@ -1750,9 +1754,11 @@ Alcuni siti non utilizzeranno la tua cronologia di navigazione precedente per pe
     <string name="search_file_type_apk">Apk</string>
     <string name="search_file_type_music">Musica</string>
     <string name="search_file_type_picture">Foto</string>
+    <string name="search_file_type_video">Video</string>
     <string name="search_hint">Cerca</string>
     <string name="search_menu_title">Cerca</string>
     <string name="search_settings_description">Segnalibri e cronologia web</string>
+    <string name="search_shipin">Video</string>
     <string name="search_title_hint">Cerca</string>
     <string name="search_trending_new">Nuovo</string>
     <string name="search_trending_title">Di tendenza</string>
