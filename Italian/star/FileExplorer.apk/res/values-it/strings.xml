@@ -219,6 +219,7 @@
     <string name="dialog_type_image">Immagini</string>
     <string name="dialog_type_text">Documenti</string>
     <string name="dialog_type_video">Video</string>
+    <string name="directory_info_divider">"  |  "</string>
     <string name="disk_available">Disponibile:</string>
     <string name="disk_total">Totale:</string>
     <string name="doc_all">Tutto</string>
@@ -691,6 +692,7 @@
     <string name="search_error_hint">Cerca</string>
     <string name="search_file_type_music">Musica</string>
     <string name="search_file_type_picture">Foto</string>
+    <string name="search_file_type_video">Video</string>
     <string name="search_guid_hint">Cerca file</string>
     <string name="search_hint">Cerca</string>
     <string name="search_keyword">Tag</string>
