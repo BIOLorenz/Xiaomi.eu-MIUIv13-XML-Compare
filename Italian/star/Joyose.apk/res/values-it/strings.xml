@@ -142,6 +142,7 @@
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
     <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
     <string name="forbidden_fakecell">"Non collegarti a celle fasulle"</string>
     <string name="forbidden_fakecell_summary">Previene la connessione del telefono a celle fasulle</string>
     <string name="foreground_text">Usa il servizio in primo piano per promuovere il livello attivo</string>
