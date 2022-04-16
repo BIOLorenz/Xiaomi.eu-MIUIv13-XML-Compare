@@ -1005,6 +1005,7 @@ Riprova tra %2$d secondi."</string>
     <string name="muted_by">%1$s sta disattivando alcuni suoni</string>
     <string name="nas_upgrade_notification_disable_action">Disattiva</string>
     <string name="nas_upgrade_notification_enable_action">OK</string>
+    <string name="nas_upgrade_notification_learn_more_action">Maggiori informazioni</string>
     <string name="nas_upgrade_notification_title">Assistente notifiche</string>
     <string name="needPuk">La SIM è bloccata tramite PUK. Digita il codice PUK per sbloccarla.</string>
     <string name="needPuk2">Digita il PUK2 per sbloccare la SIM.</string>
