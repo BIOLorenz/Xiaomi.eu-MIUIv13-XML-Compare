@@ -16,6 +16,11 @@
         <item>Ritratto</item>
         <item>Orizzontale</item>
     </string-array>
+    <string-array name="screenrecorder_settings_resolution">
+        <item>1080p</item>
+        <item>720p</item>
+        <item>480p</item>
+    </string-array>
     <string-array name="screenrecorder_settings_sound">
         <item>Silenzioso</item>
         <item>Microfono</item>
