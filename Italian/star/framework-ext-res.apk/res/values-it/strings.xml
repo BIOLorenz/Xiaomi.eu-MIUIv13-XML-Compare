@@ -23,6 +23,7 @@
     <string name="apply_password_confirm_dlg_title">Password per %s</string>
     <string name="arcticanimals_preview">Artico</string>
     <string name="asend">Invia</string>
+    <string name="australiaanimals_preview">Australia</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">I tasti di navigazione sono stati disattivati, toccane uno qualsiasi due volte per riattivarli</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Tasti di navigazione attivati</string>
     <string name="auto_disable_screenbuttons_float_text">Tocca per disattivare i tasti di navigazione</string>
@@ -78,6 +79,7 @@
     <string name="copy">Copia</string>
     <string name="country">Paese</string>
     <string name="country_name_ac">CA</string>
+    <string name="country_name_ad">Annuncio</string>
     <string name="country_name_ai">IA</string>
     <string name="country_name_im">Chat</string>
     <string name="country_name_kg">Kg</string>
@@ -90,6 +92,7 @@
     <string name="customer_location_judgment">Cina</string>
     <string name="cut">Taglia</string>
     <string name="data_usage_context">Se il Wi-Fi non è attivo, il dispositivo si connetterà a una rete mobile, che potrebbe comportare costi aggiuntivi a seconda del piano tariffario. Grazie!</string>
+    <string name="daydream">Daydream</string>
     <string name="default_device_name">Dispositivo sconosciuto</string>
     <string name="default_name">Predefinito</string>
     <string name="description_title">Modalità silenziosa</string>
@@ -97,6 +100,7 @@
     <string name="device_status_sending">Invio…</string>
     <string name="device_status_success">Invio completato</string>
     <string name="device_status_waiting">In attesa…</string>
+    <string name="device_type_pc">Computer</string>
     <string name="device_xiaomi">Dispositivo Mi</string>
     <string name="dewdrops">Rugiada mattutina</string>
     <string name="disable_nfc">Ricarica wireless in corso. NFC disattivato.</string>
@@ -203,6 +207,7 @@
     <string name="package_delete_confirm_step_2">Eliminare quest\'applicazione potrebbe causare instabilità al sistema.</string>
     <string name="package_delete_confirm_step_3">"Non sarai più in grado di aprire quest'applicazione dopo averla disinstallata."</string>
     <string name="paste">Incolla</string>
+    <string name="pc_device_model_name">Computer</string>
     <string name="perm_send_push_dspt">Consenti messaggi Mi push</string>
     <string name="perm_send_push_lab">Invia messaggio push</string>
     <string name="permdesc_manageLocationPolicy">Consenti all\'applicazione di gestire le politiche di localizzazione e definire delle regole per specifiche applicazioni.</string>
