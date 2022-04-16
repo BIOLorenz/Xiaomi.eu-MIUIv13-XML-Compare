@@ -47,6 +47,7 @@
     <string name="cta_permission_delimiter">, </string>
     <string name="cta_title">Termini di Utilizzo</string>
     <string name="dance">Danza</string>
+    <string name="daydream">Daydream</string>
     <string name="device_xiaomi">Telefono Mi</string>
     <string name="dewdrops">Rugiada</string>
     <string name="digitaluniverse">Universo digitale (stereo)</string>
@@ -108,6 +109,7 @@
     <string name="miui_clock_city_name_local">Locale</string>
     <string name="miui_clock_city_name_second">Secondo orologio</string>
     <string name="miui_device_name">Android</string>
+    <string name="miui_digital_clock_dot">:</string>
     <string name="miui_lock_screen_date">EEEE dd/MM</string>
     <string name="miui_lock_screen_date_12">EEEE dd/MM</string>
     <string name="miui_lock_screen_date_two_lines">"EEEE
