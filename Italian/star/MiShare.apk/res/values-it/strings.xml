@@ -329,6 +329,7 @@ Questa funzionalità è supportata da OPPO, vivo, realme e altri produttori di s
     <string name="not_set">Non impostato</string>
     <string name="notification_channel_name">Trasferisci notifiche</string>
     <string name="operate_too_fast">Troppo veloce! Attendi che le operazioni in corso siano terminate.</string>
+    <string name="pc_device_model_name">Computer</string>
     <string name="permission_denied_hint">Concedi i permessi necessari per poter utilizzare Mi Share</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="purpose">"Benvenuto su Mi Share! Puoi usare questa app per trasferire file tra dispositivi. Proteggiamo i tuoi dati personali in conformità con le leggi, i regolamenti e le politiche pertinenti.
@@ -460,6 +461,7 @@ Prima di utilizzare Mi Share, è necessario concedere i seguenti permessi, nonch
     <string name="unrecognized_manufacture">Sconosciuto</string>
     <string name="unrecognized_model">Dispositivo sconosciuto</string>
     <string name="user_instructions">Attenzione</string>
+    <string name="uwb_setting_guide">Maggiori informazioni</string>
     <string name="v7_preference_off">DISATTIVATO</string>
     <string name="v7_preference_on">ATTIVATO</string>
     <string name="view_file">Mostra</string>
