@@ -87,6 +87,7 @@
     <string name="bluetooth_sap_profile_summary_use_for">Usa per accesso SIM</string>
     <string name="bluetooth_search_for_devices">Ricerca dispositivi</string>
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
+    <string name="bluetooth_talkback_computer">Computer</string>
     <string name="bluetooth_talkback_headphone">Cuffie</string>
     <string name="bluetooth_talkback_headset">Cuffie</string>
     <string name="bluetooth_talkback_imaging">Immagine</string>
