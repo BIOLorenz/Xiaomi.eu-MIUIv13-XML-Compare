@@ -286,6 +286,7 @@
     <string name="gb_gpu_rader_graph">Qualità</string>
     <string name="gb_gpu_rader_maxfps">Frame rate più elevato</string>
     <string name="gb_gpu_rader_remain">Prestazioni</string>
+    <string name="gb_gpu_resolution_720">720p</string>
     <string name="gb_gpu_resolution_default">Predefinita</string>
     <string name="gb_gpu_tips_anisotropic">Dai chiarezza alle texture superficiali distanti che sono viste in un angolo</string>
     <string name="gb_gpu_tips_anti">Il più alto tasso di anti-aliasing disponibile è definito dal gioco</string>
