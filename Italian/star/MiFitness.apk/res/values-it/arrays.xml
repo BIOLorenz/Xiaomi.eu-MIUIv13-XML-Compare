@@ -130,14 +130,14 @@
         <item>Bangkok</item>
         <item>Beirut</item>
         <item>Kolkata</item>
-        <item>Damascus</item>
+        <item>Damasco</item>
         <item>Dhaka</item>
         <item>Dubai</item>
         <item>Gaza</item>
         <item>Hebron</item>
         <item>Ho Chi Minh</item>
         <item>Hong Kong</item>
-        <item>Jakarta</item>
+        <item>Giacarta</item>
         <item>Gerusalemme</item>
         <item>Kabul</item>
         <item>Karachi</item>
@@ -161,7 +161,7 @@
         <item>Tokyo</item>
         <item>Ulaanbaatar</item>
         <item>Bermuda</item>
-        <item>Canary Islands</item>
+        <item>Isole Canarie</item>
         <item>Capo Verde</item>
         <item>Reykjavik</item>
         <item>Stanley</item>
@@ -170,23 +170,23 @@
         <item>Canberra</item>
         <item>Darwin</item>
         <item>Melbourne</item>
-        <item>New South Wales</item>
+        <item>Nuovo Galles Del Sud</item>
         <item>Perth</item>
         <item>Queensland</item>
         <item>Sydney</item>
         <item>Victoria</item>
         <item>Terranova</item>
         <item>Saskatchewan</item>
-        <item>Easter Island</item>
+        <item>Isola di Pasqua</item>
         <item>Amsterdam</item>
         <item>Andorra</item>
-        <item>Athens</item>
+        <item>Atene</item>
         <item>Belfast</item>
         <item>Belgrado</item>
-        <item>Berlin</item>
+        <item>Berlino</item>
         <item>Bratislava</item>
         <item>Bruxelles</item>
-        <item>Bucharest</item>
+        <item>Bucarest</item>
         <item>Budapest</item>
         <item>Chisinau</item>
         <item>Copenhagen</item>
@@ -195,32 +195,32 @@
         <item>Helsinki</item>
         <item>Isola di Man</item>
         <item>Istanbul</item>
-        <item>Lisbon</item>
-        <item>London</item>
-        <item>Luxembourg</item>
+        <item>Lisbona</item>
+        <item>Londra</item>
+        <item>Lussemburgo</item>
         <item>Madrid</item>
         <item>Malta</item>
         <item>Minsk</item>
         <item>Monaco</item>
         <item>Mosca</item>
         <item>Oslo</item>
-        <item>Paris</item>
-        <item>Prague</item>
+        <item>Parigi</item>
+        <item>Praga</item>
         <item>Riga</item>
         <item>Roma</item>
         <item>San Marino</item>
         <item>Sarajevo</item>
-        <item>Simferopol</item>
+        <item>Sinferopoli</item>
         <item>Skopje</item>
         <item>Sofia</item>
-        <item>Stockholm</item>
+        <item>Stoccolma</item>
         <item>Tallinn</item>
-        <item>Vatican</item>
+        <item>Città del Vaticano</item>
         <item>Vienna</item>
         <item>Vilnius</item>
-        <item>Warsaw</item>
-        <item>Zagreb</item>
-        <item>Zurich</item>
+        <item>Varsavia</item>
+        <item>Zagabria</item>
+        <item>Zurigo</item>
         <item>Antananarivo</item>
         <item>Maldive</item>
         <item>Mauritius</item>
@@ -251,12 +251,12 @@
         <item>San José</item>
         <item>San Salvador</item>
         <item>Seattle</item>
-        <item>St. Louis</item>
+        <item>Saint Louis</item>
         <item>Washington D.C.</item>
         <item>Houston</item>
         <item>San Antonio</item>
         <item>Jacksonville</item>
-        <item>Baltimore</item>
+        <item>Baltimora</item>
         <item>Nashville</item>
         <item>Milwaukee</item>
         <item>Oklahoma City</item>
@@ -280,10 +280,10 @@
         <item>Osaka</item>
         <item>Lahore</item>
         <item>"Sana'a"</item>
-        <item>Barcelona</item>
-        <item>Munich</item>
-        <item>Milan</item>
-        <item>Frankfurt</item>
+        <item>Barcellona</item>
+        <item>Monaco</item>
+        <item>Milano</item>
+        <item>Francoforte</item>
         <item>Hanoi</item>
         <item>Ankara</item>
         <item>Bangalore</item>
@@ -307,10 +307,10 @@
         <item>Gurgaon</item>
         <item>Manchester</item>
         <item>Kyiv</item>
-        <item>St. Petersburg</item>
+        <item>San Pietroburgo</item>
         <item>Kraków</item>
-        <item>Wroclaw</item>
-        <item>Hamburg</item>
+        <item>Breslavia</item>
+        <item>Amburgo</item>
         <item>Oulu</item>
         <item>Haifa</item>
         <item>San Juan</item>
@@ -326,7 +326,7 @@
         <item>Geneva</item>
         <item>Windhoek</item>
         <item>Sofia</item>
-        <item>Athens</item>
+        <item>Atene</item>
         <item>Kaliningrad</item>
         <item>Khartoum</item>
         <item>Nairobi</item>
@@ -335,7 +335,7 @@
         <item>Kuwait</item>
         <item>Abu Dhabi</item>
         <item>Samara</item>
-        <item>New Delhi</item>
+        <item>Nuova Delhi</item>
         <item>Novosibirsk</item>
         <item>Tailandia</item>
         <item>Irkutsk</item>
@@ -530,7 +530,7 @@
         <item>Turchia</item>
         <item>Portogallo</item>
         <item>Regno Unito</item>
-        <item>Luxembourg</item>
+        <item>Lussemburgo</item>
         <item>Spagna</item>
         <item>Malta</item>
         <item>Bielorussia</item>
@@ -548,7 +548,7 @@
         <item>Bulgaria</item>
         <item>Svezia</item>
         <item>Estonia</item>
-        <item>Vatican</item>
+        <item>Città del Vaticano</item>
         <item>Austria</item>
         <item>Lituania</item>
         <item>Polonia</item>
