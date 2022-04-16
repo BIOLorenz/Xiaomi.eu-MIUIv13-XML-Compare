@@ -304,6 +304,7 @@
     <string name="miui_main_ring_africa">Savana</string>
     <string name="miui_main_ring_amazon">Foresta pluviale</string>
     <string name="miui_main_ring_arctic">Artico</string>
+    <string name="miui_main_ring_australia">Australia</string>
     <string name="miui_main_ring_defalut">Usa suono di notifica attuale</string>
     <string name="miui_main_ring_mute_tips">"Impossibile riprodurre i suoni in modalità silenziosa"</string>
     <string name="miui_main_ring_sub_title">Tocca per riprodurre i suoni e selezionare il suono di notifica</string>
