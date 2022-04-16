@@ -1054,6 +1054,7 @@
     <string name="cmcc_app_check_dialog_negative">Più tardi</string>
     <string name="cmcc_app_check_dialog_positive">Riavvia adesso</string>
     <string name="cmcc_app_check_dialog_title">Sistema riparato</string>
+    <string name="compatible_dialog_more_info">Maggiori informazioni</string>
     <string name="compatible_dialog_title">Attenzione</string>
     <string name="comprehensive_protection_measures">Tutela completa</string>
     <string name="confirmSecondSpacePassword">Conferma password Secondo Spazio</string>
@@ -1517,6 +1518,7 @@ terremoti"</string>
     <string name="exo_download_failed">Download non riuscito</string>
     <string name="exo_download_notification_channel_name">Download</string>
     <string name="exo_download_removing">Rimozione download</string>
+    <string name="exo_track_mono">Mono</string>
     <string name="exo_track_role_alternate">Alternato</string>
     <string name="exo_track_role_commentary">Commento</string>
     <string name="exo_track_role_supplementary">Supplementare</string>
@@ -2878,6 +2880,7 @@ dall'operatore"</string>
     <string name="pc_statistics_battery_use_title">Consumo batteria</string>
     <string name="pc_to_phone_install">Installazione tramite USB di %s bloccata</string>
     <string name="per_month_pkg_traffic_settings">Imposta limite dati</string>
+    <string name="percentage">%d%%</string>
     <string name="perfermance_optimization_summary">Evita il surriscaldamento e problemi hardware</string>
     <string name="perfermance_optimization_title">Ottimizzazione prestazioni</string>
     <string name="perm_intercept_content">Dare a questa app il seguente permesso: %1s?</string>
@@ -3708,6 +3711,7 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="result_sms_title_auth">Presenti rischi di divulgazione SMS con informazioni finanziarie</string>
     <string name="result_wifi_header">Rilevati rischi Wi-Fi</string>
     <string name="resume">Ripristina</string>
+    <string name="right_precent">100%</string>
     <string name="risk_app_install_agree_button">Autorizza questa app</string>
     <string name="risk_app_install_agree_checkbox">"Sono disposto a correre tutti i possibili rischi."</string>
     <string name="risk_app_install_agree_message">"Questa app è fornita da uno sviluppatore di terze parti e potrebbe violare leggi e regolamenti locali. Xiaomi non garantisce la disponibilità, la continuità e l'accessibilità dei contenuti e dei servizi forniti da questa app. Qualsiasi perdita o danno causato dall'uso di questa app sarà a carico dell'utente."</string>
@@ -3760,6 +3764,7 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="scan_installed_games">Controllo giochi installati…</string>
     <string name="scan_status_risk">Pericolo</string>
     <string name="scan_status_safe">Sicuro</string>
+    <string name="scanning_bar_number">%d%%</string>
     <string name="screenrecord_not_find">Installa l\'ultima versione di Registrazione schermo e riprova.</string>
     <string name="sd_eject">Smonta scheda SD</string>
     <string name="sd_eject_summary">Smonta la scheda SD per rimuoverla in modo sicuro</string>
