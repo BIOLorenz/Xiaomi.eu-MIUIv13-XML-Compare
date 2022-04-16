@@ -72,6 +72,7 @@
     <string name="ad_btn_open">Apri</string>
     <string name="ad_btn_pending">In attesa</string>
     <string name="ad_download_now">Scarica</string>
+    <string name="ad_feed_badge">Annuncio</string>
     <string name="ad_pop_btn_hidden">Nascondi</string>
     <string name="ad_pop_des">Scaricamento app:</string>
     <string name="add">Aggiungi</string>
@@ -268,6 +269,7 @@
     <string name="declaration_title">Termini e condizioni</string>
     <string name="delete_pic">Elimina immagine</string>
     <string name="deny_des">Sfondi Carousel richiede l\'accesso alla Galleria per poter funzionare normalmente.</string>
+    <string name="detail_ad_type_ad">Annuncio</string>
     <string name="detail_ad_type_video">Video popolari</string>
     <string name="detail_add_cw">Aggiungi sfondo</string>
     <string name="detail_add_shortcut">Aggiungi alla schermata Home</string>
@@ -513,6 +515,7 @@ Invia questo codice al supervisore."</string>
     <string name="minutes_5">Ogni 5 minuti</string>
     <string name="miui_clock_city_name_local">Dispositivo</string>
     <string name="miui_clock_city_name_second">Secondo orologio</string>
+    <string name="miui_digital_clock_dot">:</string>
     <string name="miui_lock_screen_date">EEEE, d MMMM</string>
     <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
     <string name="miui_lock_screen_date_two_lines">"EEEE
