@@ -350,6 +350,7 @@ Disattiva per fermare la sincronizzazione."</string>
     <string name="collect_diagnosis_log">Raccogli logs</string>
     <string name="collection_articles">Articoli</string>
     <string name="collection_videos">Video</string>
+    <string name="columbus_ad_flag_text">Annuncio</string>
     <string name="columbus_player_close_desc">Perderai il premio</string>
     <string name="columbus_player_close_resume">RIPRENDI IL VIDEO</string>
     <string name="columbus_player_close_title">Chiudere il Video?</string>
@@ -665,6 +666,7 @@ Invia questo codice al supervisore."</string>
     <string name="exo_download_failed">Download non riuscito</string>
     <string name="exo_download_notification_channel_name">Download</string>
     <string name="exo_download_removing">Rimozione download</string>
+    <string name="exo_track_mono">Mono</string>
     <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Nessuno</string>
     <string name="exo_track_selection_title_audio">Audio</string>
@@ -742,6 +744,7 @@ Invia questo codice al supervisore."</string>
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
     <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
     <string name="folder_name_empty">"Il nome della cartella non può essere vuoto"</string>
     <string name="folder_name_illegal">Nome cartella non valido</string>
     <string name="follow_account_title">Account</string>
@@ -1186,6 +1189,8 @@ Abbandonare questa pagina?"</string>
     <string name="mw_save_password_notnow">Non adesso</string>
     <string name="mw_save_password_remember">Ricorda</string>
     <string name="mw_search_menu_title">Cerca</string>
+    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
+    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_title">Imposta ora</string>
     <string name="mw_video_buffering_percent">"Caricamento "</string>
     <string name="mw_video_download_no_permission">Permessi richiesti per scaricare elementi</string>
