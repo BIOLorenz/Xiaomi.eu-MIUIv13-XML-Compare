@@ -196,6 +196,7 @@ valle di Mawrth"</string>
     <string name="midnight">Notte</string>
     <string name="miui_clock_city_name_local">Dispositivo</string>
     <string name="miui_clock_city_name_second">Secondo orologio</string>
+    <string name="miui_digital_clock_dot">:</string>
     <string name="miui_lock_screen_date">EEEE, d MMMM</string>
     <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
     <string name="miui_lock_screen_date_two_lines">"EEEE
