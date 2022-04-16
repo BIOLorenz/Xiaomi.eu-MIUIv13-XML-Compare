@@ -266,6 +266,7 @@
     <string name="pa_express_i_known">OK</string>
     <string name="pa_express_inquiry">Controlla ordine</string>
     <string name="pa_express_inquiry_frequently_used_logistics">Popolari</string>
+    <string name="pa_express_inquiry_no_history">Non c\'è niente qui</string>
     <string name="pa_express_item_menu_delete">Elimina</string>
     <string name="pa_express_item_menu_edit">Modifica</string>
     <string name="pa_express_main_select">Scegli</string>
@@ -287,6 +288,7 @@
     <string name="pa_express_settings_phone_bind">Aggiungi</string>
     <string name="pa_express_settings_phone_unbind">Rimuovi</string>
     <string name="pa_express_settings_recommend_item_2">Informativa sulla privacy</string>
+    <string name="pa_express_settings_recommend_title">Maggiori informazioni</string>
     <string name="pa_express_shunfeng_verify_dialog_ok">OK</string>
     <string name="pa_express_state_canceled">Annullato</string>
     <string name="pa_express_state_reject">Rifiutata</string>
