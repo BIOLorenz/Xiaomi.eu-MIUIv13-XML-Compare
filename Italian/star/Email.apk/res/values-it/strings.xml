@@ -394,6 +394,7 @@
     <string name="click_to_reload">Tocca lo schermo per ricaricare</string>
     <string name="close">Chiudi</string>
     <string name="collapse_recipient_details">Chiudi dettagli destinatario</string>
+    <string name="colon">:</string>
     <string name="compose">Scrivi</string>
     <string name="compose_encrypt_lock_description">Crittografia</string>
     <string name="compose_encrypt_unlock_description">Decripta</string>
@@ -1438,6 +1439,7 @@ Attendi che sia completamente sincronizzata o visualizza il messaggio sul comput
     <string name="special_text_3">Ha scritto:</string>
     <string name="special_text_4">Ha scritto:</string>
     <string name="special_text_5">ha scritto:</string>
+    <string name="special_text_colon_en">:</string>
     <string name="special_text_sender_en">mittente</string>
     <string name="str_select_all">Seleziona tutto</string>
     <string name="str_select_none">Deseleziona tutto</string>
