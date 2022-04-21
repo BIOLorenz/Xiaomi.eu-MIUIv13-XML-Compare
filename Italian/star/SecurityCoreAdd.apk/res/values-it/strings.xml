@@ -252,7 +252,7 @@ Assicurati che il nome della tua azienda sia corretto. Leggi e accetta le relati
     <string name="err_switch_files">"Impossibile spostare i file"</string>
     <string name="err_switch_photos">"Impossibile spostare le foto"</string>
     <string name="err_unknown">Errore sconosciuto</string>
-    <string name="err_volume_not_enough">Spazio di archiviazione insufficiente</string>
+    <string name="err_volume_not_enough">Memoria insufficiente</string>
     <string name="evening">Pomeriggio</string>
     <string name="exit_private_space">Cambia</string>
     <string name="expand_button_title">Avanzate</string>
