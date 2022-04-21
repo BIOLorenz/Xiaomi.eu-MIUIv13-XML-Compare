@@ -91,6 +91,7 @@
     <string name="country_name_sv">SV</string>
     <string name="customer_location_judgment">Cina</string>
     <string name="cut">Taglia</string>
+    <string name="dark_mode_enable">Attiva</string>
     <string name="data_usage_context">Se il Wi-Fi non è attivo, il dispositivo si connetterà a una rete mobile, che potrebbe comportare costi aggiuntivi a seconda del piano tariffario. Grazie!</string>
     <string name="daydream">Daydream</string>
     <string name="default_device_name">Dispositivo sconosciuto</string>
