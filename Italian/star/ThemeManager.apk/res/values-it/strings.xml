@@ -805,6 +805,7 @@ dd/M"</string>
     <string name="privacy_remind_user_mode_title">Attenzione</string>
     <string name="privacy_revoke_agree_content">Revoca autorizzazione...</string>
     <string name="privacy_revoke_succeed">Consenso revocato</string>
+    <string name="privacy_select_mode">Seleziona modalità</string>
     <string name="privacy_settings">Privacy</string>
     <string name="privacy_update_prompt_title">Informativa sulla privacy aggiornata</string>
     <string name="provision_default_theme_title">Predefinita</string>
