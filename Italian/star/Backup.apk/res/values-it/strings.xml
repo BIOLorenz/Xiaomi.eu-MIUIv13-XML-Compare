@@ -551,7 +551,7 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
     <string name="new_local_tab_backup_pad">Backup</string>
     <string name="new_local_tab_restore">Ripristina</string>
     <string name="new_local_tab_restore_pad">Ripristina</string>
-    <string name="new_low_storage_title">Spazio di archiviazione insufficiente</string>
+    <string name="new_low_storage_title">Memoria insufficiente</string>
     <string name="new_more_settings_label">Altre impostazioni</string>
     <string name="new_pc_backup_content1">%1$d. Apri \"%2$s\".</string>
     <string name="new_pc_backup_content2">%d. Attendi il backup di tutti gli elementi.</string>
@@ -582,17 +582,17 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
     <string name="new_task_finished">Fatto</string>
     <string name="new_usb_detail_description">"Avviso:
 %1$d. Questo metodo consente il backup delle applicazioni di terze parti e dei dati delle app.
-%2$d. Assicurati che ci sia spazio di archiviazione sufficiente sul tuo dispositivo USB per memorizzare i backup."</string>
+%2$d. Assicurati che ci sia memoria sufficiente sul tuo dispositivo USB per memorizzare i backup."</string>
     <string name="new_usb_disconnect_dialog_message">Collegare prima una memoria USB.</string>
     <string name="new_usb_disconnect_dialog_title">"Memoria USB non trovata"</string>
-    <string name="new_usb_select_data_no_space">Solo %s di spazio è disponibile sulla memoria USB. Libera spazio di archiviazione.</string>
+    <string name="new_usb_select_data_no_space">Solo %s di spazio è disponibile sulla memoria USB. Libera memoria.</string>
     <string name="new_usb_tab_backup">Backup</string>
     <string name="new_usb_tab_restore">Ripristina</string>
     <string name="night">Sera</string>
     <string name="no_encrypt_password">Nessuna password crittografata</string>
     <string name="no_network">"Impossibile connettersi alla rete"</string>
     <string name="noon">Mezzogiorno</string>
-    <string name="not_enough_storage_tips">Spazio di archiviazione insufficiente. Liberare spazio e riprovare.</string>
+    <string name="not_enough_storage_tips">Memoria insufficiente. Liberare spazio e riprovare.</string>
     <string name="not_set">Non impostato</string>
     <string name="note_title">Note</string>
     <string name="nothing_searched">Nessun risultato trovato</string>
@@ -986,10 +986,10 @@ per scaricare ed installare Mi Mover."</string>
     <string name="trans_intro_title_private">Album nascosto:</string>
     <string name="trans_main_tutor">Trasferisci contatti, registro chiamate, messaggi, layout home, app, impostazioni e altro su un nuovo dispositivo</string>
     <string name="trans_my_device">Il mio dispositivo</string>
-    <string name="trans_native_no_space">"Lo spazio di archiviazione sul vecchio dispositivo (%s disponibile) non è sufficiente.
+    <string name="trans_native_no_space">"Lo memoria sul vecchio dispositivo (%s disponibile) non è sufficiente.
   Liberare spazio o trasferire solo gli elementi importanti."</string>
-    <string name="trans_old_phone_low_space_msg">"Mi Mover necessita di un pò di spazio di archiviazione per comprimere i dati trasferiti, ma sembra che non ci sia abbastanza spazio disponibile sul vecchio dispositivo. Libera spazio in \"Sicurezza\" o trasferisci solo gli elementi importanti."</string>
-    <string name="trans_old_phone_low_space_title">Spazio di archiviazione insufficiente</string>
+    <string name="trans_old_phone_low_space_msg">"Mi Mover necessita di un pò di memoria per comprimere i dati trasferiti, ma sembra che non ci sia abbastanza spazio disponibile sul vecchio dispositivo. Libera spazio in \"Sicurezza\" o trasferisci solo gli elementi importanti."</string>
+    <string name="trans_old_phone_low_space_title">Memoria insufficiente</string>
     <string name="trans_one_key_migrate">Mi Mover</string>
     <string name="trans_open_camera_failed_message">Riavvia il dispositivo o verifica che Mi Mover sia autorizzato ad utilizzare la &lt;b&gt;Camera&lt;/b&gt;.</string>
     <string name="trans_open_camera_failed_title">"Impossible connettersi alla Camera"</string>
@@ -1081,14 +1081,14 @@ In attesa del trasferimento…"</string>
     <string name="tuesday_shortest">Mar</string>
     <string name="unit_byte">B</string>
     <string name="unknown_hint">Sconosciuto</string>
-    <string name="usb_backup_select_data_too_large">"I file selezionati sono troppo grandi. Assicurati che la memoria USB abbia spazio di archiviazione sufficiente.
+    <string name="usb_backup_select_data_too_large">"I file selezionati sono troppo grandi. Assicurati che la memoria USB abbia memoria sufficiente.
 Trasferisci solo gli elementi importanti."</string>
     <string name="usb_restore_select_data_too_large">"I file di backup sono grandi. Potrebbe volerci un pò per ripristinarli.
 Ripristinare solo gli elementi importanti velocizzerà l'operazione."</string>
     <string name="usb_trans_native_no_space">"Solo %s è disponibile sul tuo dispositivo.
 Libera spazio o effettua trasferimenti multipli più piccoli."</string>
     <string name="usb_trans_old_phone_low_space_msg">"È necessario spazio di memorizzazione aggiuntivo per il pacchetto dei backup. Non c'è abbastanza spazio per continuare il trasferimento. È possibile liberare spazio ed eliminare file non necessari in Sicurezza o provare a trasferire solo gli elementi importanti."</string>
-    <string name="usb_trans_old_phone_low_space_title">Spazio di archiviazione insufficiente</string>
+    <string name="usb_trans_old_phone_low_space_title">Memoria insufficiente</string>
     <string name="usb_trans_select_data_no_space">"Solo %s è disponibile sulla tua memoria USB.
 Libera spazio o trasferisci solo gli elementi più importanti."</string>
     <string name="user_feedback">Segnalazione</string>
