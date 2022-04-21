@@ -1320,7 +1320,7 @@ for ^2"</string>
     <string name="block_list_dialog_title">Disconnect now?</string>
     <string name="block_list_no_device">No devices in the blocklist yet</string>
     <string name="block_list_remove_dialog_content">%s will be able to connect to this hotspot again</string>
-    <string name="block_list_remove_dialog_title">Remove %s from blocklist</string>
+    <string name="block_list_remove_dialog_title">Attention</string>
     <string name="block_list_summary">"View devices which aren't allowed to connect to this hotspot"</string>
     <string name="block_list_title">Blocklist</string>
     <string name="block_title">Show notifications</string>
@@ -2939,6 +2939,7 @@ This setting affects all users of this device."</string>
     <string name="default_theme">Default</string>
     <string name="default_usb_mode">USB connection</string>
     <string name="default_vol_stream_title">Default volume control stream</string>
+    <string name="deferred_setup_hintViewTitle">Checking…</string>
     <string name="delete">Delete</string>
     <string name="delete_blob_confirmation_text">Are you sure you want to delete this shared data?</string>
     <string name="delete_blob_text">Delete shared data</string>
@@ -4015,8 +4016,12 @@ This feature works only when system navigation is set to gestures."</string>
     <string name="freeform_guide_slide_to_small_freeform_title">Minimize an app</string>
     <string name="freeform_guide_slide_up_to_close_summary">Swipe up from the action bar of a floating window</string>
     <string name="freeform_guide_slide_up_to_close_title">Closing floating windows</string>
+    <string name="freeform_guide_to_sidehide_summary">Quickly drag the app to side of the screen to hide it</string>
+    <string name="freeform_guide_to_sidehide_title">Hiding floating windows</string>
     <string name="freeform_vedio_description">"·Press and hold, and then pull down a notification to open it in a floating window.
 ·Tap \"Floating windows\" in Recents to select apps."</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Tap an app on the sidebar to open it in a floating window.
+· Drag an app to the center of the screen to open it in a floating window or to the side to use Split screen."</string>
     <string name="freeform_vedio_description_pad">Drag items out of the dock to open floating windows</string>
     <string name="frequently_fragment_delete">Remove</string>
     <string name="frequently_fragment_tempty">Frequently used items will be listed here</string>
@@ -4917,6 +4922,7 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="layout_size_normal_text">Small</string>
     <string name="layout_size_small">XS</string>
     <string name="layout_size_small_text">Extra small</string>
+    <string name="le_audio_title">LE Audio</string>
     <string name="learn_more">Learn more</string>
     <string name="led_colors_summary">Notifications light color</string>
     <string name="led_frequence_summary">Set pulse interval for LED light</string>
@@ -8435,6 +8441,7 @@ Note: You can’t use your fingerprint to unlock this device. For more informati
     <string name="shut_down_find_device_network_failure_content">"Couldn't turn off Find device. Make sure your device is connected to the internet."</string>
     <string name="shut_down_find_device_network_failure_title">"Can't connect to the network"</string>
     <string name="shuting_down_find_device">Turning off Find device…</string>
+    <string name="sidebar_setting">Sidebar settings</string>
     <string name="silent_duration">Duration</string>
     <string name="silent_mode">Silent mode</string>
     <string name="silent_mode_disable_media">Silence all</string>
@@ -9148,7 +9155,6 @@ Try using a faster ^3, or use this ^4 for portable storage instead."</string>
     <string name="stylus_default_percent">100</string>
     <string name="stylus_function_and_action">Features</string>
     <string name="stylus_keyboard_settings_title">Stylus &amp; keyboard</string>
-    <string name="stylus_language_summary">Recognize numerals and handwritten text in English and one more selected language</string>
     <string name="stylus_not_connect_message">"Stylus isn't connected"</string>
     <string name="stylus_ota_check_failed_battery">"Couldn't check. The battery of your stylus is running low."</string>
     <string name="stylus_ota_check_failed_info">"Couldn't check firmware version. Attach your stylus again."</string>
@@ -9186,6 +9192,7 @@ Try using a faster ^3, or use this ^4 for portable storage instead."</string>
     <string name="stylus_success">Done</string>
     <string name="stylus_vice_key">Second button</string>
     <string name="stylus_welcome">Meet Xiaomi Smart Pen</string>
+    <string name="subscreen_title">Rear display</string>
     <string name="subscription_available">Available</string>
     <string name="sudFontSecondary">google-sans</string>
     <string name="sudFontSecondaryMedium">google-sans-medium</string>
