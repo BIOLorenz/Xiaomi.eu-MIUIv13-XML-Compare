@@ -508,6 +508,10 @@ Puoi ottenere una prova gratuita di %d giorno!"</item>
         <item quantity="other">" ore"</item>
         <item quantity="one">" ora"</item>
     </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s giorni</item>
         <item quantity="one">%s giorno</item>
@@ -587,6 +591,10 @@ Puoi ottenere una prova gratuita di %d giorno!"</item>
     <plurals name="power_center_battery_duration_hour_time_format">
         <item quantity="other">" ore"</item>
         <item quantity="one">" ora"</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_min_time_format">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
     </plurals>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d ore "</item>
