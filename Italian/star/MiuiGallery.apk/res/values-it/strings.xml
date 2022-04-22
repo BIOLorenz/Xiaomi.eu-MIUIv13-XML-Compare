@@ -125,6 +125,7 @@
     <string name="album_jump_failed">Attendi fino a che gli album non sono stati sincronizzati con Mi Cloud e prova di nuovo</string>
     <string name="album_lockscreen_wallpapers">Sfondi schermata sblocco</string>
     <string name="album_member">Iscritto album %s</string>
+    <string name="album_midrop">Mi Drop</string>
     <string name="album_name">Nome album</string>
     <string name="album_name_all_photos">Tutte le foto</string>
     <string name="album_name_all_photos_shortcut">Tutto</string>
@@ -624,8 +625,11 @@
     <string name="collage_title_layout">Disposizione</string>
     <string name="collage_title_stitching">Film</string>
     <string name="collaps_people">Nascondi</string>
+    <string name="com.qzone_com.qzonex.module.operation.ui.QZonePublishMoodActivity">Qzone</string>
+    <string name="com.sina.weibo_com.sina.weibo.composerinde.ComposerDispatchActivity">Weibo</string>
     <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
     <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareToTimeLineUI">Momenti WeChat</string>
+    <string name="com.tencent.mobileqq_com.tencent.mobileqq.activity.JumpActivity">QQ</string>
     <string name="confirm">OK</string>
     <string name="confirm_cancel_task_files">Annullare l\'invio dei file a %1$s?</string>
     <string name="confirm_cancel_task_images">Annullare l\'invio delle immagini a %1$s?</string>
@@ -1356,6 +1360,7 @@ per personalizzare la Galleria"</string>
     <string name="merge_album">Unisci</string>
     <string name="merge_album_title">Unisci album</string>
     <string name="messagelist_sender_self">Io</string>
+    <string name="mi_drop">Mi Share</string>
     <string name="mi_mover_working_desc">Mi Mover sta trasferendo gli elementi…</string>
     <string name="micloud_introduce">Esegui automaticamente il backup di foto e video (è necessario un Mi Account)</string>
     <string name="midnight">Notte</string>
@@ -2415,6 +2420,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="tip_file_path">Percorso:</string>
     <string name="tip_not_download">Nessun download. Verrà scaricato automaticamente quando in riproduzione.</string>
     <string name="tip_screenshot_package_info">Nome app:</string>
+    <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="title_set_name">Inserisci il nome</string>
     <string name="title_tip">Suggerimento</string>
     <string name="title_warn">Attenzione</string>
@@ -2801,6 +2807,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="widget_editor_title">Modifica</string>
     <string name="widget_label_recommend">Assistente</string>
     <string name="widget_recommend_default_title_on_story">Assistente</string>
+    <string name="xiaomi">Mi</string>
     <string name="xiaomi_account_not_exists_toast">"Mi Account non esistente"</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Non ora</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Aggiorna</string>
