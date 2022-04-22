@@ -907,6 +907,7 @@ in modalità Portrait"</string>
     <string name="live_reverse_confirm">Elimina</string>
     <string name="live_reverse_message">Eliminare gli elementi precedenti?</string>
     <string name="live_share_moments">Momenti</string>
+    <string name="live_share_qq">QQ</string>
     <string name="live_share_wechat">WeChat</string>
     <string name="live_speed_extreme_fast">Velocissimo</string>
     <string name="live_speed_extreme_slow">Lentissimo</string>
@@ -1437,6 +1438,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_high_quality_preferred_title">Migliora la qualità dell\'immagine</string>
     <string name="pref_camera_histogram_entry_disable">Disattiva</string>
     <string name="pref_camera_histogram_entry_enable">Attiva</string>
+    <string name="pref_camera_iso_entry_iso50">50</string>
     <string name="pref_camera_jpegquality_entry_high">Alta</string>
     <string name="pref_camera_jpegquality_entry_low">Bassa</string>
     <string name="pref_camera_jpegquality_entry_normal">Normale</string>
