@@ -530,10 +530,12 @@ Invia questo codice al supervisore."</string>
     <string name="fw_loading">Attendi…</string>
     <string name="fw_reload_sub_title">Tocca lo schermo per riprovare</string>
     <string name="fw_reload_title">"Impossibile connettersi alla rete."</string>
+    <string name="gallery_folder_alias_TAOBAO">Taobao</string>
     <string name="gallery_folder_alias_camera">Fotocamera</string>
     <string name="gallery_folder_alias_download">Download</string>
     <string name="gallery_folder_alias_mobileqq">Fotocamera QQ</string>
     <string name="gallery_folder_alias_mobileqq_file">File QQ</string>
+    <string name="gallery_folder_alias_qq">QQ</string>
     <string name="gallery_folder_alias_qqeditpic">Editor QQ</string>
     <string name="gallery_folder_alias_screen_recorder">Registrazioni schermo</string>
     <string name="gallery_folder_alias_tencent_video">Tencent</string>
@@ -884,6 +886,8 @@ per i video"</string>
     <string name="moment_guide_desc">Usa i gesti per ingrandire e rimpicciolire</string>
     <string name="moment_tab_all">Tutto</string>
     <string name="moment_tab_image">Immagini</string>
+    <string name="moment_tab_qq">QQ</string>
+    <string name="moment_tab_sina_weibo">Weibo</string>
     <string name="moment_tab_video">Registrato</string>
     <string name="moment_tab_wechat">WeChat</string>
     <string name="moment_title_my_videos">I miei video</string>
@@ -1112,6 +1116,7 @@ Aggiorna prima Mi Video all'ultima versione."</string>
     <string name="passport_bad_authentication">Nome utente o password non validi</string>
     <string name="passport_barcode_add_account_prompt">Per connettere un account, scansiona il codice QR dopo aver completato l\'accesso.</string>
     <string name="passport_can_not_receive_verification_code">"Non riesci a ricevere il codice di verifica?"</string>
+    <string name="passport_captcha_title">Captcha</string>
     <string name="passport_checking_account">Controlla la password…</string>
     <string name="passport_close">Chiudi</string>
     <string name="passport_delete_account">Disconetti</string>
@@ -1336,8 +1341,11 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="plus_search_barhint">Cerca video locali</string>
     <string name="plus_search_guide">Cerca video</string>
     <string name="plus_search_result_empty">"Impossibile trovare risultati"</string>
+    <string name="plus_share_channel_qq">QQ</string>
+    <string name="plus_share_channel_qzone">Qzone</string>
     <string name="plus_share_channel_wechat">WeChat</string>
     <string name="plus_share_channel_wechat_moments">Momenti WeChat</string>
+    <string name="plus_share_channel_weibo">Weibo</string>
     <string name="plus_shortcut">Video locali</string>
     <string name="plus_shortcut_created_succ">Collegamento Home creato correttamente</string>
     <string name="plus_shortcut_existed">Questo collegamento esiste già</string>
