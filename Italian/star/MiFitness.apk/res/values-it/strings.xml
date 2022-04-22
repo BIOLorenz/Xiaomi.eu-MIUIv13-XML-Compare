@@ -64,6 +64,7 @@
     <string name="access_common_save_fail">"Impossibile salvare"</string>
     <string name="access_common_save_success">Salvato con successo</string>
     <string name="access_common_waiting">Attendi…</string>
+    <string name="access_denied_info">Troppi tentativi. Attendi e riprova.</string>
     <string name="access_misport_complete_notify">trasferimento riuscito</string>
     <string name="access_permission_grant_authorization_title">Permessi richiesti</string>
     <string name="access_permission_to_grant_authorization">OK</string>
@@ -378,8 +379,10 @@
     <string name="course_touch_continue">Continua</string>
     <string name="course_traffic_title">Avviso utilizzo dati</string>
     <string name="course_video_4k">4K</string>
+    <string name="data_type_energy">Energia</string>
     <string name="data_type_heart_rate">Battito cardiaco</string>
     <string name="data_type_sleep">Sonno</string>
+    <string name="data_type_stress">Stress</string>
     <string name="date_format_y_2">yyyy</string>
     <string name="date_format_y_m_d">dd/MM/yyyy</string>
     <string name="date_format_y_m_d_h_m_3">dd/MM/yyyy HH:mm</string>
@@ -483,9 +486,11 @@
     <string name="device_settings_button_alarm_view">Sveglia</string>
     <string name="device_settings_button_app_list_view">Ordina icone desktop</string>
     <string name="device_settings_button_calendar_view">Agenda</string>
+    <string name="device_settings_button_energy_view">Energia</string>
     <string name="device_settings_button_headrate_view">Battito cardiaco</string>
     <string name="device_settings_button_music_view">Musica</string>
     <string name="device_settings_button_pay_view">Pagamento</string>
+    <string name="device_settings_button_pressure_view">Stress</string>
     <string name="device_settings_button_sleep_view">Sonno</string>
     <string name="device_settings_button_sport_list_view">Allenamento</string>
     <string name="device_settings_button_stopwatch_view">Cronometro</string>
@@ -529,6 +534,7 @@
     <string name="device_settings_common_period">Ripeti</string>
     <string name="device_settings_common_phone_mute">Silenzioso</string>
     <string name="device_settings_common_photograph">Fotocamera</string>
+    <string name="device_settings_common_pressure">Stress</string>
     <string name="device_settings_common_remark">Nome</string>
     <string name="device_settings_common_repeat">Ripeti</string>
     <string name="device_settings_common_schdule">Agenda</string>
@@ -557,6 +563,7 @@
     <string name="device_settings_detection_manual">Spenta</string>
     <string name="device_settings_detection_mode_auto">Battito cardiaco</string>
     <string name="device_settings_detection_title_heart_rate">Battito cardiaco</string>
+    <string name="device_settings_detection_title_pressure">Stress</string>
     <string name="device_settings_detection_title_sleep">Sonno</string>
     <string name="device_settings_device_app_sort">Ordina icone desktop</string>
     <string name="device_settings_device_info_model">Modello</string>
@@ -607,6 +614,7 @@
     <string name="device_settings_open_now">Attiva</string>
     <string name="device_settings_pair_and_open">Accoppia</string>
     <string name="device_settings_photograph_set">Fotocamera</string>
+    <string name="device_settings_pressure_setting">Stress</string>
     <string name="device_settings_privacy_revoke">Revoca autorizzazione...</string>
     <string name="device_settings_privacy_risk_dialog_negative_text">Annulla</string>
     <string name="device_settings_remind_common_time">Promemoria</string>
@@ -622,6 +630,7 @@
     <string name="device_settings_right_handle">Destra</string>
     <string name="device_settings_save">Salva</string>
     <string name="device_settings_schedule">Agenda</string>
+    <string name="device_settings_sedentary_remind">In piedi</string>
     <string name="device_settings_set_period">Pianifica</string>
     <string name="device_settings_sleep_detection">Analizza ciclo di riposo</string>
     <string name="device_settings_sleep_model">Modalita Risparmio Notturno</string>
@@ -636,6 +645,7 @@
     <string name="device_settings_sportsort_normal_sports">Generale</string>
     <string name="device_settings_sportsort_other_sports">Altro</string>
     <string name="device_settings_stand_detect_title">Notifica per alzarti</string>
+    <string name="device_settings_stand_remind">In piedi</string>
     <string name="device_settings_stock_add">Aggiungi</string>
     <string name="device_settings_sync_failure">"Sincronizzazione fallita"</string>
     <string name="device_settings_sync_phone_schedule">Programma notturno</string>
@@ -720,6 +730,7 @@ Invia questo codice al supervisore."</string>
     <string name="dialog_loanding">Attendi…</string>
     <string name="discard_update">Non ora</string>
     <string name="doing_login">Accesso…</string>
+    <string name="doing_query_account">Controllo info account…</string>
     <string name="doing_register">Creazione account…</string>
     <string name="download_background">Scarica</string>
     <string name="early_morning">Mattina</string>
@@ -804,6 +815,8 @@ Invia questo codice al supervisore."</string>
     <string name="face_common_null">Nessuno</string>
     <string name="face_common_progress">%d%%</string>
     <string name="face_common_retry">Riprova</string>
+    <string name="face_common_upload_failure">"Impossibile caricare"</string>
+    <string name="face_common_upload_success">Caricamento completato</string>
     <string name="face_common_wait_wlan">In attesa di Wi-Fi</string>
     <string name="face_local">Dispositivo</string>
     <string name="face_me_band">Dispositivo</string>
@@ -934,6 +947,7 @@ Invia questo codice al supervisore."</string>
     <string name="habit_world_clock_select_world">Seleziona elementi</string>
     <string name="health_active_stage_ride">Bici o veicolo elettrico</string>
     <string name="health_active_stage_run">Avvia</string>
+    <string name="health_add_manually">Aggiungi dati</string>
     <string name="health_all_health_data">Modifica</string>
     <string name="health_audio_permission_dialog_title">Permessi richiesti</string>
     <string name="health_avg_heart_rate_name">Frequenza cardiaca media</string>
@@ -955,6 +969,7 @@ Invia questo codice al supervisore."</string>
     <string name="health_blood_pressure_notice_title1">E\' ora di misurare la tua pressione sanguigna</string>
     <string name="health_blood_pressure_notice_title2">Misura la tua pressione sanguigna</string>
     <string name="health_blood_pressure_preference_not_set">Non impostato</string>
+    <string name="health_blood_pressure_record">Aggiungi dati</string>
     <string name="health_blood_pressure_record_exception1">"Impossibile salvare. La pressione sistolica non può essere inferiore di quella diastolica."</string>
     <string name="health_blood_pressure_record_exception2">"Impossibile salvare. Parametri non validi."</string>
     <string name="health_blood_pressure_record_time">Ora</string>
@@ -1000,9 +1015,13 @@ Invia questo codice al supervisore."</string>
     <string name="health_card_unfold">Espandi</string>
     <string name="health_close">Disattiva</string>
     <string name="health_close_once">Disattiva una volta</string>
+    <string name="health_common_add_record">Aggiungi dati</string>
     <string name="health_common_comma">,</string>
+    <string name="health_common_data_add">Aggiungi dati</string>
     <string name="health_common_data_source_manual_input">Registra manualmente</string>
     <string name="health_common_every_day">Tutti i giorni</string>
+    <string name="health_common_manual_add">Aggiungi dati</string>
+    <string name="health_common_menu_manual_input">Aggiungi dati</string>
     <string name="health_common_panel_button_closed">Espandi</string>
     <string name="health_common_panel_button_opened">Riduci</string>
     <string name="health_common_record_detail">Dettagli</string>
@@ -1046,13 +1065,17 @@ Invia questo codice al supervisore."</string>
     <string name="health_data_sleep_empty">Nessun dato</string>
     <string name="health_data_sort_label">Elementi nascosti</string>
     <string name="health_data_stand_finished">Sei stato abbastanza in piedi</string>
+    <string name="health_data_type_altitude">Altezza</string>
     <string name="health_data_type_blood_pressure">Pressione sanguigna</string>
     <string name="health_data_type_calorie">Calorie</string>
     <string name="health_data_type_curse">Cicli</string>
+    <string name="health_data_type_energy">Energia</string>
     <string name="health_data_type_heart_rate">Battito cardiaco</string>
     <string name="health_data_type_sleep">Sonno</string>
     <string name="health_data_type_sport_record">Attività</string>
+    <string name="health_data_type_standing">In piedi</string>
     <string name="health_data_type_step">Passi</string>
+    <string name="health_data_type_stress">Stress</string>
     <string name="health_data_type_weight">Peso</string>
     <string name="health_data_week_empty">Nessun dato</string>
     <string name="health_date">Data</string>
@@ -1073,8 +1096,10 @@ Invia questo codice al supervisore."</string>
     <string name="health_end_date">Fine</string>
     <string name="health_energy_level_mildcost_simple">Moderato</string>
     <string name="health_energy_level_shortage_simple">Bassa</string>
+    <string name="health_energy_summary_consume_duration">Stress</string>
     <string name="health_energy_summary_relax_duration">Riposo</string>
     <string name="health_energy_summary_sleep_duration">Sonno</string>
+    <string name="health_energy_type_stress">Stress</string>
     <string name="health_exercise_intensity_lack">Bassa</string>
     <string name="health_exercise_intensity_lacking">Bassa</string>
     <string name="health_exercise_intensity_over">Molto alto</string>
@@ -1086,6 +1111,7 @@ Invia questo codice al supervisore."</string>
     <string name="health_hearing_only_for_reference">"Le statistiche sono fornite solo per riferimento. Non possono essere utilizzate come motivo per diagnosi mediche."</string>
     <string name="health_hearing_understand">Maggiori informazioni</string>
     <string name="health_home_net_connect_toast">Controlla le tue impostazioni di rete e prova di nuovo</string>
+    <string name="health_hrm_add">Aggiungi dati</string>
     <string name="health_hrm_fibrillation_none">Nessun dato</string>
     <string name="health_hrm_understand">Maggiori informazioni</string>
     <string name="health_hrm_understand_abnormal_high_title">Maggiori informazioni</string>
@@ -1200,6 +1226,7 @@ Invia questo codice al supervisore."</string>
     <string name="health_stress_summary_min">Minimo</string>
     <string name="health_stress_understand">Maggiori informazioni</string>
     <string name="health_stress_understand_title">Maggiori informazioni</string>
+    <string name="health_stress_value">Stress</string>
     <string name="health_sync_dialog_title3">Sincronizza dati</string>
     <string name="health_tab_title_heart_rate_extremely_high">Alta</string>
     <string name="health_tab_title_heart_rate_extremely_low">Bassa</string>
@@ -1217,12 +1244,16 @@ Invia questo codice al supervisore."</string>
     <string name="health_target_go_exercise">Avvia</string>
     <string name="health_target_go_setting">Imposta</string>
     <string name="health_target_health_tips_title">Mancia</string>
+    <string name="health_target_stand_child_title">In piedi</string>
+    <string name="health_target_stand_times">In piedi</string>
+    <string name="health_target_standing_desc">In piedi</string>
     <string name="health_target_step_child_title">Passi</string>
     <string name="health_target_step_desc_title">Passi</string>
     <string name="health_target_steps">Obiettivo</string>
     <string name="health_target_times">Obiettivo</string>
     <string name="health_target_tips1_title">Mancia</string>
     <string name="health_target_total_sport_duration">Ora</string>
+    <string name="health_target_valid_stand_time">In piedi</string>
     <string name="health_time">Ora</string>
     <string name="health_total_sleep_duration">Ora</string>
     <string name="health_tracking_progress_labe_up_refresh">Solo un attimo...</string>
@@ -1311,6 +1342,7 @@ Inizia da capo."</string>
     <string name="identity">Identificazione</string>
     <string name="inconsistent_pwd">"Le password non corrispondono"</string>
     <string name="input_email_address_notice">"Useremo questa email per verificare il tuo account"</string>
+    <string name="input_length_exceeds_limit">Il testo inserito è troppo lungo</string>
     <string name="input_new_pwd">Inserisci una nuova password</string>
     <string name="isornot_your_mi_account">È questo il tuo Mi Account?</string>
     <string name="just_a_second">Attendi…</string>
@@ -1318,6 +1350,15 @@ Inizia da capo."</string>
     <string name="keep_alive_notification_content_connecting">Connessione…</string>
     <string name="languages_en">Inglese</string>
     <string name="languages_in">Indonesia</string>
+    <string name="library_android_database_sqlcipher_author">Zetetic, LLC</string>
+    <string name="library_android_database_sqlcipher_authorWebsite">https://www.zetetic.net/sqlcipher/</string>
+    <string name="library_android_database_sqlcipher_libraryDescription">API SQLite Android basate su SQLCipher</string>
+    <string name="library_android_database_sqlcipher_libraryName">SQLCipher per Android</string>
+    <string name="library_android_database_sqlcipher_libraryVersion">${clientVersionNumber}</string>
+    <string name="library_android_database_sqlcipher_libraryWebsite">https://www.zetetic.net/sqlcipher/</string>
+    <string name="library_android_database_sqlcipher_licenseLink">https://www.zetetic.net/sqlcipher/license/</string>
+    <string name="library_android_database_sqlcipher_repositoryLink">https://github.com/sqlcipher/android-database-sqlcipher</string>
+    <string name="login_by_local_phone_long_text">Accedi ora</string>
     <string name="login_by_local_phone_short_text">Accedi</string>
     <string name="login_camera_title">Scattare foto e registrare video</string>
     <string name="login_common_agree_and_continue">Accetto</string>
@@ -1336,6 +1377,7 @@ Inizia da capo."</string>
     <string name="login_location_title">Accesso alla posizione</string>
     <string name="login_login">Accedi</string>
     <string name="login_next_step">Successivo</string>
+    <string name="login_other">Cambia Mi Account</string>
     <string name="login_privacy_agree_to_terms_kr">Termini e condizioni</string>
     <string name="login_privacy_common_agree">Accetto</string>
     <string name="login_privacy_common_cancel">Annulla</string>
@@ -1469,6 +1511,8 @@ Inizia da capo."</string>
     <string name="mtrl_picker_text_input_date_hint">Data</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
     <string name="mtrl_picker_text_input_day_abbr">dd</string>
+    <string name="network_error_info">Si è verificato un errore di rete. Controlla le impostazioni di rete e riprova.</string>
+    <string name="network_timeout_info">"Impossibile connettersi alla rete. Riprova."</string>
     <string name="nfc_active_bank_card_title_continue">Continua</string>
     <string name="nfc_add_card_bank_global">Aggiungi</string>
     <string name="nfc_add_card_door">Aggiungi</string>
@@ -1516,6 +1560,7 @@ Inizia da capo."</string>
     <string name="nfc_card_list_has_transferin_order">Continua</string>
     <string name="nfc_card_list_has_transferout_order">Continua</string>
     <string name="nfc_card_list_install_now">Aggiungi</string>
+    <string name="nfc_card_list_installed">Aggiunto</string>
     <string name="nfc_card_list_notice_dialog_title">Attenzione</string>
     <string name="nfc_card_list_transfer">Aggiungi</string>
     <string name="nfc_card_list_transfer_unvailable">Non disponibile</string>
@@ -1677,6 +1722,7 @@ Inizia da capo."</string>
     <string name="passport_bad_authentication">Nome utente o password non validi</string>
     <string name="passport_barcode_add_account_prompt">Per connettere un account, scansiona il codice QR dopo aver completato l\'accesso.</string>
     <string name="passport_can_not_receive_verification_code">"Non riesci a ricevere il codice di verifica?"</string>
+    <string name="passport_captcha_title">Captcha</string>
     <string name="passport_checking_account">Controlla la password…</string>
     <string name="passport_close">Chiudi</string>
     <string name="passport_delete_account">Disconetti</string>
@@ -1790,6 +1836,7 @@ Inizia da capo."</string>
     <string name="privacy_permission_write_read_file">Accesso alla memoria</string>
     <string name="privacy_system_permission_granted">Concesso</string>
     <string name="privacy_system_permission_not_granted">Non concesso</string>
+    <string name="progressbar_title">Verifica falle di sicurezza…</string>
     <string name="provider_exercise_goal_accomplished">obiettivo raggiunto</string>
     <string name="provider_exercise_goal_lack_exercise">Attività insufficiente</string>
     <string name="provider_exercise_goal_not_accomplished">"Obiettivo non raggiunto"</string>
@@ -1804,8 +1851,12 @@ Inizia da capo."</string>
     <string name="register_by_local_phone_short_text">Crea account</string>
     <string name="reject">Nega</string>
     <string name="request_agree">Consenti</string>
+    <string name="request_camera_permission_message">"Proteggeremo le tue informazioni personali in conformità alle leggi e ai regolamenti pertinenti. Questa app ha bisogno dei seguenti permessi per funzionare normalmente:&lt;br&gt;&lt;br&gt;&lt;b&gt;Uso della fotocamera (per impostare la foto del tuo profilo)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Se non accetti tali permessi, non sarai in grado di utilizzare alcune funzioni di questa app; tuttavia, la sua funzionalità di base sarà ancora disponibile. È sempre possibile limitare le autorizzazioni o revocare l'autorizzazione nelle Impostazioni."</string>
     <string name="request_cancel">Annulla</string>
     <string name="request_error_invalid_token">"Autenticazione non riuscita"</string>
+    <string name="request_error_network">Si è verificato un errore di rete. Controlla le impostazioni di rete e riprova.</string>
+    <string name="request_error_unknown">Si è verificato un errore di sistema. Riprova.</string>
+    <string name="request_gallery_permission_message">Consenti l\'accesso alla Galleria:&lt;br /&gt;Per impostare le foto profilo</string>
     <string name="resend_active_email">Invia di nuovo</string>
     <string name="resend_email_reach_limit_message">"Hai richiesto troppe email di verifica. Assicurati che l'email di verifica non sia nella cartella Spam."</string>
     <string name="resend_email_reach_limit_title">Troppi tentativi</string>
@@ -1901,6 +1952,7 @@ Inizia da capo."</string>
     <string name="sport_common_goto_set">Impostazioni</string>
     <string name="sport_common_law_info">Termini e condizioni</string>
     <string name="sport_common_loading">Attendi…</string>
+    <string name="sport_common_personal_settings">Personalizzazione</string>
     <string name="sport_common_set_title">Generale</string>
     <string name="sport_common_setting">Impostazioni</string>
     <string name="sport_config">Impostazioni</string>
@@ -1984,9 +2036,11 @@ Inizia da capo."</string>
     <string name="sport_today">Oggi</string>
     <string name="sport_unknow_error">Errore sconosciuto</string>
     <string name="sport_update_discover_new_version">Aggiornamento disponibile</string>
+    <string name="sport_upload_failure">"Impossibile caricare"</string>
     <string name="sport_waist_bag">Marsupio</string>
     <string name="sport_walk_distance">Distanza</string>
     <string name="sport_walking_outdoor">Camminata</string>
+    <string name="stand">In piedi</string>
     <string name="stand_finish_stand">Sì</string>
     <string name="stand_notice">Impostazioni</string>
     <string name="stand_notice_not_show_today">"Non mostrare per oggi"</string>
@@ -2002,6 +2056,7 @@ Inizia da capo."</string>
     <string name="sunday_shortest">Dom</string>
     <string name="sync_password">Password</string>
     <string name="sync_user_name">Nome utente</string>
+    <string name="system_error_info">Il sistema è occupato. Aspetta un minuto o due e riprova.</string>
     <string name="taiwan">Tailandia</string>
     <string name="temporary_not_available">"Questa funzione non è ancora disponibile"</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversario dell\'abolizione della legge marziale</string>
@@ -2094,6 +2149,7 @@ Inizia da capo."</string>
     <string name="trail_label_km">Km</string>
     <string name="trail_label_percent">Percentuale</string>
     <string name="trail_label_time">Ora</string>
+    <string name="trail_label_type">Tipo</string>
     <string name="trail_map_style_common">Predefinita</string>
     <string name="trail_map_style_no_label">Nessuno</string>
     <string name="trail_month_dialog_go_today">Selezionato oggi</string>
@@ -2210,6 +2266,7 @@ Inizia da capo."</string>
     <string name="trail_sport_triathlon_title2">Distanza</string>
     <string name="trail_sport_triathlon_title3">Ora</string>
     <string name="trail_sport_walk">Camminata</string>
+    <string name="trail_stress">Stress</string>
     <string name="trail_summary_best">Registrazioni</string>
     <string name="trail_swim_avg_swolf">Media</string>
     <string name="trail_swim_segment">Intervallo</string>
@@ -2254,6 +2311,7 @@ Inizia da capo."</string>
     <string name="user_avatar_uploading">Attendi…</string>
     <string name="user_id_hint">Email/Telefono</string>
     <string name="user_name_phone_number">Numero di telefono</string>
+    <string name="userinfo_active_stage_stand">In piedi</string>
     <string name="userinfo_allergic_drugs">Allergie ai farmaci</string>
     <string name="userinfo_allergic_drugs_hint">Inserisci i farmaci a cui sei allergico e le loro reazioni</string>
     <string name="userinfo_avatar">Foto profilo</string>
@@ -2338,10 +2396,12 @@ Inizia da capo."</string>
     <string name="userinfo_setting_birthday">Data di nascita</string>
     <string name="userinfo_sport_target_calorie">Calorie</string>
     <string name="userinfo_switch_goal">Suggerite</string>
+    <string name="userinfo_switch_stand_goal">In piedi</string>
     <string name="userinfo_target_data_step">Passi</string>
     <string name="userinfo_target_dynamic_indicators">Statistiche</string>
     <string name="userinfo_target_not_update_mhs_value">OK</string>
     <string name="userinfo_target_not_update_value">Non ora</string>
+    <string name="userinfo_target_stand_times">In piedi</string>
     <string name="userinfo_target_switch_dynamic_indicators">Imposta obiettivo</string>
     <string name="userinfo_target_update_stand_value">OK</string>
     <string name="userinfo_tb_picker_height">Altezza selezionata: %1$s. Scorri verticalmente per selezionare l\'altezza.</string>
