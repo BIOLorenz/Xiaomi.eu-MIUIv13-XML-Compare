@@ -168,6 +168,7 @@ dd/MM"</string>
     <string name="friday">Venerdì</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
+    <string name="has_add_contact">Aggiunto</string>
     <string name="heavenly_stems_bing">Bing</string>
     <string name="heavenly_stems_ding">Ding</string>
     <string name="heavenly_stems_geng">Geng</string>
@@ -178,6 +179,7 @@ dd/MM"</string>
     <string name="heavenly_stems_wu">Wu</string>
     <string name="heavenly_stems_xin">Xin</string>
     <string name="heavenly_stems_yi">Yi</string>
+    <string name="keyguard_charging_battery_level">%s%%</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Seleziona AM o PM</string>
     <string name="material_hour_selection">Seleziona l\'ora</string>
@@ -265,6 +267,7 @@ dd/MM"</string>
     <string name="noon">Mezzogiorno</string>
     <string name="not_add_contact">Non aggiunto</string>
     <string name="not_set">Non impostato</string>
+    <string name="page_detail_version_label">"Versione:"</string>
     <string name="page_time_format_string">dd/MM/yyyy</string>
     <string name="password_toggle_content_description">Mostra password</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
