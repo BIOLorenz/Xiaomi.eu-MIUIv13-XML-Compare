@@ -394,6 +394,7 @@
     <string name="online_recognize_duration_limite">(limite di 10 minuti)</string>
     <string name="online_recognize_fail">"fallito"</string>
     <string name="online_recognize_login_fail">"Impossibile accedere"</string>
+    <string name="online_recognize_order_audio_price">%s CNY</string>
     <string name="online_recognize_order_create">Accedi</string>
     <string name="online_recognize_order_duration_key">Durata</string>
     <string name="online_recognize_order_pay">Paga e ottieni i risultati</string>
@@ -414,6 +415,7 @@
     <string name="online_recognize_service_unavailable">"Il servizio non è al momento disponibile. Riprova più tardi"</string>
     <string name="order_item_duration">Durata %s</string>
     <string name="order_item_number">Numero d\'ordine: %s</string>
+    <string name="order_item_price">%s CNY</string>
     <string name="other_settings_pref_title">Altre impostazioni</string>
     <string name="password_toggle_content_description">Mostra password</string>
     <string name="path_soundrecorder_setting">Applicazioni sistema/Registratore</string>
