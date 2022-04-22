@@ -653,6 +653,20 @@
         <item>Ven</item>
         <item>Sab</item>
     </string-array>
+    <string-array name="minute_spinner">
+        <item>00</item>
+        <item>05</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+        <item>45</item>
+        <item>50</item>
+        <item>55</item>
+    </string-array>
     <string-array name="notification_adv_time_entries">
         <item>All\'ora impostata</item>
         <item>15 minuti prima</item>
@@ -671,7 +685,7 @@
     </string-array>
     <string-array name="stat_volume_button_behaviors">
         <item>无</item>
-        <item>稍后再响</item>
+        <item>Suona piu tardi</item>
         <item>Spegni</item>
     </string-array>
     <string-array name="time">
