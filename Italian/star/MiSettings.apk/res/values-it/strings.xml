@@ -889,6 +889,7 @@ Questa app deve collegarsi a internet e richiede le seguenti autorizzazioni per 
     <string name="usage_state_num_level">"Livello %d: "</string>
     <string name="usage_state_open_focus_mode">Attiva modalità Concentrazione</string>
     <string name="usage_state_over_p">Meglio di</string>
+    <string name="usage_state_percent">%s%%</string>
     <string name="usage_state_remind_new_summary">Ricevi una notifica quando viene raggiunto il limite impostato</string>
     <string name="usage_state_remind_summary">Attiva per ricevere avvisi sul tempo di schermo attivo</string>
     <string name="usage_state_remind_title">Avviso schermo attivo</string>
