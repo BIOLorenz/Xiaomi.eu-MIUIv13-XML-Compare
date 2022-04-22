@@ -874,6 +874,7 @@ Invia questo codice al supervisore."</string>
     <string name="loading">Attendi…</string>
     <string name="loading_tips">Tira in giù per aggiornare</string>
     <string name="local_apps">App locali</string>
+    <string name="local_bookmarks">Mi</string>
     <string name="lockpattern_continue_button_text">Successivo</string>
     <string name="lockpattern_need_to_confirm">Conferma sequenza di sblocco</string>
     <string name="lockpattern_need_to_unlock_wrong">Riprova</string>
@@ -1063,6 +1064,7 @@ Invia questo codice al supervisore."</string>
     <string name="mw_common_open_on_phone">Apri sul telefono</string>
     <string name="mw_common_signin_button_text">Accedi</string>
     <string name="mw_common_signin_button_text_long">Accedi con Google</string>
+    <string name="mw_config_webSettingsDefaultTextEncoding">UTF-8</string>
     <string name="mw_copy_to_clipboard_failure_message">"Impossibile copiare negli Appunti"</string>
     <string name="mw_data_traffic_prompt_change">"L'utilizzo della connessione dati mobile per lo streaming di video aumenterà l'utilizzo dei dati. Se si supera il limite di utilizzo del piano dati, il tuo operatore addebiterà costi aggiuntivi."</string>
     <string name="mw_data_traffic_prompt_message">"L'utilizzo della connessione dati mobile per lo streaming di video aumenterà l'utilizzo dei dati. Se si supera il limite di utilizzo del piano dati, il tuo operatore addebiterà costi aggiuntivi."</string>
@@ -1308,6 +1310,7 @@ Abbandonare questa pagina?"</string>
     <string name="passport_bad_authentication">Nome utente o password non validi</string>
     <string name="passport_barcode_add_account_prompt">Per connettere un account, scansiona il codice QR dopo aver completato l\'accesso.</string>
     <string name="passport_can_not_receive_verification_code">"Non riesci a ricevere il codice di verifica?"</string>
+    <string name="passport_captcha_title">Captcha</string>
     <string name="passport_checking_account">Controlla la password…</string>
     <string name="passport_close">Chiudi</string>
     <string name="passport_delete_account">Disconetti</string>
@@ -1757,6 +1760,7 @@ Alcuni siti non utilizzeranno la tua cronologia di navigazione precedente per pe
     <string name="search_engine_title">Ricerca predefinita</string>
     <string name="search_error_hint">Cerca</string>
     <string name="search_file_type_apk">Apk</string>
+    <string name="search_file_type_doc">Doc</string>
     <string name="search_file_type_music">Musica</string>
     <string name="search_file_type_picture">Foto</string>
     <string name="search_file_type_video">Video</string>
@@ -1764,6 +1768,7 @@ Alcuni siti non utilizzeranno la tua cronologia di navigazione precedente per pe
     <string name="search_menu_title">Cerca</string>
     <string name="search_settings_description">Segnalibri e cronologia web</string>
     <string name="search_shipin">Video</string>
+    <string name="search_taobao">Taobao</string>
     <string name="search_title_hint">Cerca</string>
     <string name="search_trending_new">Nuovo</string>
     <string name="search_trending_title">Di tendenza</string>
