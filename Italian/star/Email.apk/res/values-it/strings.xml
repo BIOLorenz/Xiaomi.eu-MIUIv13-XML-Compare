@@ -28,7 +28,9 @@
     <string name="about_checking_update">Controllo aggiornamenti...</string>
     <string name="about_go_to_update">Da aggiornare</string>
     <string name="about_lasted_version">Non ci sono nuove versioni</string>
+    <string name="account_add_other_sub_des">Altri account</string>
     <string name="account_add_title">Seleziona servizio email</string>
+    <string name="account_cache_provider">Fornitore Cache Account</string>
     <string name="account_change">Cambia account</string>
     <string name="account_child_dialog_neg_text">Esci</string>
     <string name="account_duplicate_dlg_message_fmt">"Utilizzi già questo nome utente per l'account \"%s\"."</string>
@@ -1334,6 +1336,7 @@ Attendi che sia completamente sincronizzata o visualizza il messaggio sul comput
     <string name="select_attachment_type">Scegli tipo di allegato</string>
     <string name="select_no_file">Nessun allegato selezionato per la condivisione.</string>
     <string name="select_path">Seleziona percorso</string>
+    <string name="selected">selezionato</string>
     <string name="send">Invia</string>
     <string name="send_encrypt_dialog_fail_content">"Sembra che il destinatario non abbia il certificato di fiducia richiesto per crittografare questa email. Inviare email normale?"</string>
     <string name="send_encrypt_dialog_fail_title">"Impossibile inviare email cifrate"</string>
