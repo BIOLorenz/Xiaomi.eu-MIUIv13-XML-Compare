@@ -713,6 +713,8 @@
     <string name="timer_continue">Continua</string>
     <string name="timer_continue_timer">Riprendi esecuzione timer</string>
     <string name="timer_created">Timer impostato</string>
+    <string name="timer_desc_use_brush_teeth">Lava i denti</string>
+    <string name="timer_desc_use_facial_mask">Maschera per il viso</string>
     <string name="timer_desc_use_sleep">Sonnellino</string>
     <string name="timer_end_time">Il Timer si fermerà a %s</string>
     <string name="timer_end_time_format">HH:mm dd MMM</string>
@@ -774,6 +776,7 @@
     <string name="wednesday_shortest">Mer</string>
     <string name="week_ringtone_recommend_desc">Sveglia natura riproduce suoni diversi a seconda della data. Impostarlo come suono predefinito?</string>
     <string name="white_noise">Rumore ambientale</string>
+    <string name="white_noise_guide_desc">Aggiungi un suono di sfondo per mantenerti concentrato</string>
     <string name="white_noise_selector">Seleziona audio</string>
     <string name="workday_alarm_clock">Sveglia attiva dal Lun. al Ven.</string>
     <string name="worldclock_edit_label">Orologio mondiale</string>
