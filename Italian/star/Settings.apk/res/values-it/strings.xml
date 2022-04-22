@@ -1062,6 +1062,7 @@ App:
     <string name="battery_tip_unrestrict_app_dialog_message">Quest\'app è in grado di utilizzare la batteria in background. La batteria potrebbe scaricarsi prima del previsto.</string>
     <string name="battery_tip_unrestrict_app_dialog_ok">Rimuovi</string>
     <string name="battery_tip_unrestrict_app_dialog_title">Rimuovere limitazioni?</string>
+    <string name="battery_usage_for_total_time">Totale: %s</string>
     <string name="battery_used_by">%1$s utilizzato da %2$s</string>
     <string name="battery_used_for">Usato per ^1</string>
     <string name="bearer">Portatore</string>
@@ -2096,6 +2097,8 @@ Scorri verso il basso dalla parte superiore dello schermo per aprire la barra a 
     <string name="cool_color">Freddo</string>
     <string name="copy">Copia</string>
     <string name="copyable_slice_toast">%1$s copiato negli appunti.</string>
+    <string name="copyright">Copyright</string>
+    <string name="copyright_title">Copyright</string>
     <string name="corner_assistant_gesture_summary">Scorri verso l\'alto dall\'angolo in basso a sinistra o in basso a destra per attivare Google Assistant</string>
     <string name="corner_assistant_gesture_title">Scorri verso l\'alto dall\'angolo per attivare Google Assistant</string>
     <string name="country_name">%s (sistema)</string>
@@ -4577,10 +4580,12 @@ Ci sono altri utenti presenti su questo dispositivo.
     <string name="menu_stats_total">Totali utilizzo</string>
     <string name="menu_stats_unplugged">%1$s dallo scollegamento</string>
     <string name="menu_use_uss">Utilizza Uss</string>
+    <string name="mi_pay">Mi Wallet</string>
     <string name="mi_pay_indonesia">Akun Mi Pay</string>
     <string name="mi_pay_summary">Scheda di trasporto/Mi Pay/Scheda chiave</string>
     <string name="mi_service">Servizi Mi</string>
     <string name="mi_service_app_detail">Dettagli utilizzo dati</string>
+    <string name="mi_shopping_mall">Mi Store</string>
     <string name="mi_transfer">Mi Mover</string>
     <string name="mi_upi_settings">Akun Mi Pay</string>
     <string name="micloud_service_summary">Sincronizza l\'elenco delle applicazioni, il backup delle impostazioni di sistema e il layout della schermata Home</string>
@@ -5949,6 +5954,7 @@ Leggi e accetta %s prima di utilizzare questo servizio."</string>
     <string name="private_sms_recording_intro_header">Disegna una sequenza di sblocco:</string>
     <string name="private_sms_reset_by_account">Per reimpostare la tua password, accedi al tuo Mi Account</string>
     <string name="process_dex2oat_label">Ottimizzazione app</string>
+    <string name="process_format">%1$s (%2$d)</string>
     <string name="process_kernel_label">Sistema operativo Android</string>
     <string name="process_mediaserver_label">Server media</string>
     <string name="process_provider_in_use_description">Il provider %1$s è in uso.</string>
@@ -6466,6 +6472,7 @@ Per utilizzare il blocco delle app: \u0009
     <string name="se_route_default">Seleziona automaticamente</string>
     <string name="se_route_ese">Elemento di sicurezza incorporato</string>
     <string name="se_route_uicc">Elemento di sicurezza sulla scheda SIM</string>
+    <string name="se_wallet_ese">Mi Wallet</string>
     <string name="se_wallet_hce">Utilizza Portafogli HCE</string>
     <string name="se_wallet_uicc">Utilizza Portafogli SIM %1$s</string>
     <string name="search_about_settings">Info telefono;Modello;Versione Android;Versione MIUI;CPU;RAM;RAM interna;Versione banda base;Versione kernel;Numero build</string>
@@ -6507,6 +6514,7 @@ Per utilizzare il blocco delle app: \u0009
     <string name="search_cloud_backup_settings_section_title">Backup Impostazioni;Backup;Back up;Backup</string>
     <string name="search_cloud_restore_section_title">Ripristina da Mi Cloud;Mi Cloud;Backup Cloud</string>
     <string name="search_connection_and_sharing">Altro;Wireless</string>
+    <string name="search_copyright_title">Copyright</string>
     <string name="search_credentials_install">Installa dall\'archivio</string>
     <string name="search_date_and_time_settings_title">Data e ora;Data ed ora;Data;Ora</string>
     <string name="search_description">Ricerca</string>
@@ -6662,6 +6670,7 @@ Per utilizzare il blocco delle app: \u0009
     <string name="secure_keyguard_business_title">Imposta blocco schermo</string>
     <string name="secure_lock_encryption_warning">Poiché hai attivato un servizio di accessibilità, non verrà usata la password della Schermata di blocco per migliorare la crittografia dei dati.\"</string>
     <string name="security_center_title">Sicurezza</string>
+    <string name="security_check_progress_dialog_message">Verifica falle di sicurezza…</string>
     <string name="security_dashboard_summary">Blocco schermo, impronta digitale</string>
     <string name="security_enable_widgets_disabled_summary">Disabilitato dall\'amministratore</string>
     <string name="security_enable_widgets_title">Abilita widget</string>
@@ -7195,6 +7204,7 @@ Se non accetti di concedere tali permessi, non sarai in grado di utilizzare alcu
     <string name="sos_privacy_policy_no_net_title">"Impossibile connettersi alla rete"</string>
     <string name="sos_privacy_policy_revoke">Revoca autorizzazione...</string>
     <string name="sos_privacy_policy_revoke_title_reject">Attenzione</string>
+    <string name="sos_privacy_revoke_failed_dialog_content">Si è verificato un errore del server. Aspetta e prova di nuovo.</string>
     <string name="sos_privacy_revoke_failed_dialog_title">"Impossibile revocare il consenso"</string>
     <string name="sound_assist_summary">Personalizza le impostazioni audio</string>
     <string name="sound_assist_title">Assistente audio</string>
@@ -9039,6 +9049,7 @@ Consentire questo per tutte le applicazioni che vogliono scansionare?"</string>
     <string name="wifi_turned_on_message">Wi-Fi attivato</string>
     <string name="wifi_type_approval_dialog_title">NTC NO.</string>
     <string name="wifi_type_approval_title">Tipo di approvazione</string>
+    <string name="wifi_type_title">Tipo</string>
     <string name="wifi_unchanged">(invariati)</string>
     <string name="wifi_unmetered_label">Non misurato</string>
     <string name="wifi_unsaved_network_linking">SSID Bridging ‐ Connessione Automatica</string>
@@ -9186,6 +9197,7 @@ Sembra che l'archiviazione delle credenziali non sia stato attivato."</string>
     <string name="work_sync_dialog_yes">Sostituisci</string>
     <string name="work_use_personal_sounds_summary">I suoni sono gli stessi sia per il profilo personale che per quello di lavoro</string>
     <string name="work_use_personal_sounds_title">Usa i suoni del profilo personale</string>
+    <string name="wps_category">WPS</string>
     <string name="wps_connect_summary">"Assicurati che il router supporti il WPS e che sia abilitato"</string>
     <string name="wps_connect_title">Connessione WPS</string>
     <string name="write_settings">Impostazioni di sistema</string>
@@ -9213,6 +9225,7 @@ Sembra che l'archiviazione delle credenziali non sia stato attivato."</string>
     <string name="xiaomi_router_available_notif_title">Un router Xiaomi è disponibile</string>
     <string name="xiaomi_router_notif_summary">Avvisa quando un router Xiaomi è disponibile</string>
     <string name="xiaomi_router_notif_title">Notifica router Xiaomi</string>
+    <string name="xiaomi_transfer">Mi Share</string>
     <string name="xspace">App clonate</string>
     <string name="yes">Sì</string>
     <string name="yesterday">Ieri</string>
