@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="absent_num">
+        <item>NUMERO ASSENTE</item>
+        <item>ABSENTNUMBER</item>
+    </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Animazione disattivata</item>
         <item>Scala animazione 0,5x</item>
@@ -135,6 +139,11 @@
         <item>Vivaci (opzione predefinita)</item>
         <item>Naturali</item>
         <item>Standard</item>
+    </string-array>
+    <string-array name="connect_disconnect_vibrate_entry_values">
+        <item>100</item>
+        <item>50</item>
+        <item>0</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Spenta</item>
