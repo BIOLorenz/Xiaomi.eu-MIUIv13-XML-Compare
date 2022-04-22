@@ -217,6 +217,7 @@ uno screenshot esteso"</string>
     <string name="long_screenshot_top_msg_description_accessibility">Creazione screenshot</string>
     <string name="long_screenshot_top_msg_manual">Ritaglia lo screenshot e tocca il pulsante per terminare</string>
     <string name="main_save_error_msg">"Impossibile salvare le modifiche a causa di un errore"</string>
+    <string name="mi_drop">Mi Share</string>
     <string name="midnight">Notte</string>
     <string name="miuix_access_state_desc">Selezionato</string>
     <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
@@ -454,6 +455,7 @@ uno screenshot esteso"</string>
     <string name="thursday_short">Gio</string>
     <string name="thursday_shortest">Gio</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
+    <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="toast_download_with_metered_network_btn_continue">Scarica</string>
     <string name="toast_download_with_metered_network_msg">"Sembra che il tuo dispositivo non sia connesso al Wi-Fi. Scaricare gli elementi utilizzando i dati mobili?"</string>
     <string name="toast_download_with_metered_network_title">Avviso utilizzo dati</string>
@@ -471,6 +473,7 @@ uno screenshot esteso"</string>
     <string name="wednesday">Mercoledì</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
+    <string name="xiaomi">Mi</string>
     <string name="xiaomi_phone">Xiaomi</string>
     <string name="yesterday">Ieri</string>
 </resources>
