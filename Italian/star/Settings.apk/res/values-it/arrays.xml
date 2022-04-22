@@ -238,6 +238,11 @@
         <item>Massimo 3 processi</item>
         <item>Massimo 4 processi</item>
     </string-array>
+    <string-array name="audio_mode_values">
+        <item>00</item>
+        <item>01</item>
+        <item>02</item>
+    </string-array>
     <string-array name="autofill_logging_level_entries">
         <item>Spenta</item>
         <item>Debug</item>
@@ -1904,6 +1909,10 @@ Nota: solo per Ubuntu 8.04!"</item>
         <item>Scala animazione 2x</item>
         <item>Scala animazione 5x</item>
         <item>Scala animazione 10x</item>
+    </string-array>
+    <string-array name="triple_key_mode_values">
+        <item>02</item>
+        <item>05</item>
     </string-array>
     <string-array name="true_color_screen_optimize_summary">
         <item>Regola i colori in base all\'illuminazione attuale</item>
