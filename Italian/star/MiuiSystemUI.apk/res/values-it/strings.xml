@@ -1041,6 +1041,7 @@ Inserisci il PIN per sbloccare."</string>
     <string name="fs_gesture_switch_recents_summary">Scorri dal basso e attendi un secondo</string>
     <string name="fsg_demo_back">Indietro</string>
     <string name="fsg_demo_go_on">Inizia</string>
+    <string name="game_status">In riproduzione</string>
     <string name="garbage_count">Ci sono %1$s vecchie istanze</string>
     <string name="global_action_lock_message">Sblocca il telefono per ulteriori opzioni</string>
     <string name="go_to_web">Naviga in Internet</string>
@@ -1258,6 +1259,7 @@ Utilizza solo l'alimentatore in dotazione."</string>
     <string name="keyguard_carrier_default">Nessun servizio</string>
     <string name="keyguard_charged">Caricato</string>
     <string name="keyguard_charging_back_to_lockscreen">Torna alla schermata di blocco</string>
+    <string name="keyguard_charging_battery_level">%s%%</string>
     <string name="keyguard_charging_double_fast_and_level_tip">Potenziamento della velocità di ricarica %s</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Oggi %s</string>
@@ -1276,7 +1278,9 @@ Utilizza solo l'alimentatore in dotazione."</string>
     <string name="keyguard_indication_trust_unlocked">Mantenuto sbloccato da Agente di Attendibilità</string>
     <string name="keyguard_instructions_when_pattern_disabled">Premi Menu per sbloccare.</string>
     <string name="keyguard_invalid_sim_puk_hint">Il codice PUK deve contenere %1$d cifre.</string>
+    <string name="keyguard_left_mi_wallet">Mi Wallet</string>
     <string name="keyguard_left_remotecentral">Telecomando Mi</string>
+    <string name="keyguard_left_smarthome">Mi Home</string>
     <string name="keyguard_left_torch">Torcia</string>
     <string name="keyguard_left_view_lock_wallpaper">Sfondi Carousel</string>
     <string name="keyguard_low_battery">Collega il tuo caricabatteria.</string>
@@ -1504,6 +1508,7 @@ d MMMM"</string>
     <string name="missed_call">Chiamata persa</string>
     <string name="miui_clock_city_name_local">Dispositivo</string>
     <string name="miui_clock_city_name_second">Secondo orologio</string>
+    <string name="miui_clock_fancy_colon"></string>
     <string name="miui_digital_clock_dot">:</string>
     <string name="miui_keyboard_shortcut_click">Pressione</string>
     <string name="miui_keyboard_shortcut_double_click">Doppio tocco</string>
@@ -1543,6 +1548,10 @@ dd/MM"</string>
     <string name="miui_snooze_user_set_fail">Vai su Impostazioni &gt; Notifiche &amp; Centro di controllo per opzioni aggiuntive</string>
     <string name="miui_snooze_user_set_success">Applicato con successo. Vai su Impostazioni &gt; Notifiche &amp; Centro di controllo per opzioni aggiuntive.</string>
     <string name="miui_unimportant_notifications">Notifiche non importanti</string>
+    <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+    <string name="miui_vertical_time_format_24">"HH
+mm"</string>
     <string name="miuix_access_state_desc">Selezionato</string>
     <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
