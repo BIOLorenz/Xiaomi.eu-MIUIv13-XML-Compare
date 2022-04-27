@@ -244,9 +244,13 @@
     <string name="help_content">"Se non riesci a trovare il dispositivo che ti serve, chiedi all'altra persona di attivare Mi Share."</string>
     <string name="hide">Nascondi</string>
     <string name="i_know">Ok</string>
+    <string name="lenovo">Lenovo</string>
+    <string name="lenovo_phone">Telefono Lenovo</string>
     <string name="location_enabled">Mi Share ha attivato i servizi di localizzazione per trovare i dispositivi nelle vicinanze</string>
     <string name="menu_item_permission_title">Dettagli permessi</string>
     <string name="menu_item_privacy_title">Informativa sulla Privacy</string>
+    <string name="menu_new_display_open">Apri in una nuova finestra</string>
+    <string name="menu_pc_open">Apri nel computer</string>
     <string name="mi_drop">Mi Share</string>
     <string name="midnight">Notte</string>
     <string name="mishare_folder_in_file_explorer">Gestore File &gt; MiShare</string>
@@ -273,6 +277,7 @@ Questa funzionalità è supportata da OPPO, vivo, realme e altri produttori di s
     <string name="miuix_appcompat_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
+    <string name="miuix_indexer_collect">Raccolte</string>
     <string name="miuix_indexer_selected">Selezionato %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
