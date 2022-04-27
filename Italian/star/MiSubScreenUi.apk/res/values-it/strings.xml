@@ -300,6 +300,7 @@ dd/MM"</string>
     <string name="solar_term_white_dews">Rugiada</string>
     <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
+    <string name="subscreen_brightness">Luminosità</string>
     <string name="subscreen_other">Altro</string>
     <string name="subscreen_other_dialog_cancel">Annulla</string>
     <string name="subscreen_other_dialog_confirm">Attiva</string>
