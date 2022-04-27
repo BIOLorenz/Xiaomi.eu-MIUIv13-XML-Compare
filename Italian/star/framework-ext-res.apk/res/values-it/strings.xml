@@ -329,9 +329,7 @@
     <string name="relaunch_dialog_button_confirm">OK</string>
     <string name="relaunch_dialog_message">"Impossibile regolare la dimensione della finestra mentre stai usando l'app. È possibile riavviare l'applicazione per regolare la dimensione della finestra, ma i dati dell'app generati durante questa sessione andranno persi. Riavviarla comunque?"</string>
     <string name="relaunch_dialog_title">Riavviare \"%s\"?</string>
-    <string name="relaunch_fold_notification_content">\"%s\" app potrebbe essere visualizzata in modo anomalo dopo che il telefono è stato ripiegato, e deve essere riavviata per tornare alla normalità.</string>
     <string name="relaunch_notification_title">Riavvia l\'applicazione \"%s\"</string>
-    <string name="relaunch_unfold_notification_content">\"%s\" app potrebbe essere visualizzata in modo anomalo dopo che il telefono è stato aperto, e deve essere riavviata per tornare normale.</string>
     <string name="remain">Rimanente: %s</string>
     <string name="replace">Sostituisci</string>
     <string name="resolver_app_recommend_flag">Consigliati</string>
