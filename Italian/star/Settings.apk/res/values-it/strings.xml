@@ -2660,6 +2660,7 @@ Se il problema continua a verificarsi, potrebbe essere necessario disinstallare 
     <string name="display_dashboard_summary">Sfondo, sospensione, dimensione carattere</string>
     <string name="display_label">Schermo</string>
     <string name="display_order_text">Ordina per:</string>
+    <string name="display_prompt_confirm">Ok</string>
     <string name="display_settings">Schermo</string>
     <string name="display_settings_title">Schermo</string>
     <string name="display_summary">Sospensione dopo %1$s di inattività</string>
