@@ -1149,6 +1149,7 @@ Invia questo codice al supervisore."</string>
     <string name="health_sleep">Sonno</string>
     <string name="health_sleep_average_time">Ora</string>
     <string name="health_sleep_awake_title">Sveglio</string>
+    <string name="health_sleep_bad">Non male</string>
     <string name="health_sleep_bedtime">Addormentato</string>
     <string name="health_sleep_best">Eccellente</string>
     <string name="health_sleep_better">Eccellente</string>
