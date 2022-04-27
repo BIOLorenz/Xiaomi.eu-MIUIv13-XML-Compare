@@ -435,6 +435,7 @@
     <string name="empty_page_no_artist">Nessun artista.</string>
     <string name="enabled">Attivato</string>
     <string name="enjoy_hungama_pro">Goditi Hungama PRO</string>
+    <string name="enroll_in">Iscriviti</string>
     <string name="enter_garbage_clean">Pulisci memoria interna.</string>
     <string name="eq_auto">Personalizza</string>
     <string name="eq_classical">Classica</string>
@@ -580,6 +581,7 @@
     <string name="google_account_login">Accedi con Google</string>
     <string name="goto_local_search">Cerca nel dispositivo</string>
     <string name="goto_online_search">Cerca online</string>
+    <string name="gps_prompt_title">Suggerimenti</string>
     <string name="handle_later">Non adesso</string>
     <string name="hd_quality_audio">Qualità audio HD</string>
     <string name="headset_and_audio_effect_category">Effetti</string>
@@ -1014,6 +1016,7 @@ attendere o selezionare Musica Online."</string>
     <string name="open_service">Attiva</string>
     <string name="operation_done_close">Chiudi</string>
     <string name="other_song_in_album">Altri brani nello stesso Album.</string>
+    <string name="party">Festa</string>
     <string name="password_toggle_content_description">Mostra password</string>
     <string name="paused_by_app">Pausa</string>
     <string name="paused_in_power_save_mode">In pausa in modalità risparmio energetico</string>
