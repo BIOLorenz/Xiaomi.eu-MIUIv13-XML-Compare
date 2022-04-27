@@ -25,7 +25,6 @@
     <string name="account_other">Altro</string>
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="afternoon">Pomeriggio</string>
-    <string name="app_name">clientSDK</string>
     <string name="casting_tips">Trasmissione in corso…</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
@@ -139,7 +138,6 @@ Visualizza la guida se hai problemi di connessione."</string>
     <string name="dialog_scanning_device">Ricerca dispositivi nelle vicinanze…</string>
     <string name="dialog_scanning_precondition">Attiva il Wi-Fi e il Bluetooth del tuo telefono per utilizzare lo Schermo Wireless.</string>
     <string name="dialog_scanning_precondition_new_china">Attivare Wi-Fi, Bluetooth, e servizi di localizzazione per poter utilizzare la proiezione. Attivarli?</string>
-    <string name="dialog_scanning_precondition_new_global">Attivare Wi-Fi, Bluetooth, e servizi di localizzazione per poter utilizzare la proiezione. Attivarli?</string>
     <string name="dialog_select_tv">Seleziona dispositivo (%d)</string>
     <string name="dialog_show_help">Guida</string>
     <string name="disconnect">Ferma proiezione</string>
