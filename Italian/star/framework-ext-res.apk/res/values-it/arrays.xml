@@ -104,10 +104,6 @@
         <item>com.miui.systemAdSolution</item>
         <item>com.miui.hybrid.accessory</item>
     </string-array>
-    <string-array name="fullscreen_landscape_list">
-        <item>com.android.launcher3</item>
-        <item>com.taobao.taobao,nr</item>
-    </string-array>
     <string-array name="keyguard_whitelist">
         <item>com.google.android.apps.messaging</item>
         <item>com.mi.oa</item>
