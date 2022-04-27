@@ -156,6 +156,7 @@
     <string name="close">Off</string>
     <string name="cloud_data_module_config" />
     <string name="config_camera_component">com.android.camera/com.android.camera.Camera</string>
+    <string name="config_defaultListenerAccessPackages_miui">com.xiaomi.barrage</string>
     <string name="config_flipArea">803 0 1883 2250</string>
     <string name="config_xiaoaiComponent">com.miui.voiceassist/com.xiaomi.voiceassistant.VoiceService</string>
     <string name="configure_input_methods">Choose keyboards</string>
@@ -669,9 +670,9 @@
     <string name="relaunch_dialog_button_confirm">OK</string>
     <string name="relaunch_dialog_message">"Can't adjust window size while you're using the app. You can restart the app to adjust window size, but the app data generated during this session will be lost. Restart anyway?"</string>
     <string name="relaunch_dialog_title">Restart \"%s\"?</string>
-    <string name="relaunch_fold_notification_content">\"%s\" app may display abnormally after the phone is folded, and it needs to be restarted to return to normal.</string>
+    <string name="relaunch_fold_notification_content">This app may display abnormally after the phone is folded, and it needs to be restarted to return to normal</string>
     <string name="relaunch_notification_title">Relaunch \"%s\" application</string>
-    <string name="relaunch_unfold_notification_content">\"%s\" app may display abnormally after the phone is unfolded, and it needs to be restarted to return to normal.</string>
+    <string name="relaunch_unfold_notification_content">This app may display abnormally after the phone is unfolded, and it needs to be restarted to return to normal</string>
     <string name="remain">Remaining: %s</string>
     <string name="replace">Replace</string>
     <string name="resolver_app_recommend_flag">Recommend</string>
