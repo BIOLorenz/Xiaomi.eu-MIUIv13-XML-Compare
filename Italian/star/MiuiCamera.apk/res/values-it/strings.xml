@@ -388,7 +388,10 @@
     <string name="beauty_makeups_gentleman">Argento</string>
     <string name="beauty_makeups_pinkfemale">Petalo</string>
     <string name="beauty_makeups_solid">Contorno</string>
+    <string name="beauty_makeups_subeffect_filter">Filtri</string>
+    <string name="beauty_makeups_subeffect_makeup">Trucco</string>
     <string name="beauty_makeups_toughman">Bronzo</string>
+    <string name="beauty_makeups_yuanqi">Fresco</string>
     <string name="beauty_mo_fe">Naturali</string>
     <string name="beauty_mo_or">Apri il file originale</string>
     <string name="beauty_mode_reset_toast">Effetto Rimodellazione rimosso</string>
@@ -723,6 +726,7 @@ La registrazione a doppio telefono consente anche di connettersi all'altro dispo
     <string name="edit_slim_nose">Naso</string>
     <string name="edit_smile">Sorriso</string>
     <string name="edit_solid">Contorno</string>
+    <string name="edit_touch_up">Trucco</string>
     <string name="emoticon">Pacchetto di sticker</string>
     <string name="eras_ad">AC</string>
     <string name="eras_bc">DC</string>
@@ -1680,11 +1684,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_video_focusmode_entry_auto">Tocca</string>
     <string name="pref_video_focusmode_title">Modalità Concentrazione</string>
     <string name="pref_video_hfr_title">Video HFR</string>
-    <string name="pref_video_quality_entry_1080p">Full HD (1080p)</string>
-    <string name="pref_video_quality_entry_1080p_60fps">FHD 1080P, 60fps</string>
     <string name="pref_video_quality_entry_480p">SD (480p)</string>
-    <string name="pref_video_quality_entry_4kuhd">4K (2160p)</string>
-    <string name="pref_video_quality_entry_720p">HD (720p)</string>
     <string name="pref_video_quality_hfr_title">Frame rate e qualità foto</string>
     <string name="pref_video_quality_title">Qualità video</string>
     <string name="pref_video_speed_entry_fast">Veloce</string>
