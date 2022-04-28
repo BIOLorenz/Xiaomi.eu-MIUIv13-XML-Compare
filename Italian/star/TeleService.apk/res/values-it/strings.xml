@@ -123,6 +123,9 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="ask">Chiedi</string>
     <string name="audio_mode_bluetooth">Bluetooth</string>
     <string name="audio_mode_speaker">Altoparlante</string>
+    <string name="auto_answer_delay_entries_delay_10s">%d secondi</string>
+    <string name="auto_answer_delay_entries_delay_3s">%d secondi</string>
+    <string name="auto_answer_delay_entries_delay_5s">%d secondi</string>
     <string name="auto_answer_scenario_enteries_always">Sempre</string>
     <string name="auto_answer_scenario_enteries_bluetooth_only">Solo Bluetooth</string>
     <string name="auto_answer_summary_not_enabled">Spenta</string>
