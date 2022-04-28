@@ -634,6 +634,32 @@
         <item>asterisco</item>
         <item>mars</item>
     </string-array>
+    <string-array name="config_charge_support_lite">
+        <item>ginkgo</item>
+        <item>wayne</item>
+        <item>whyred</item>
+        <item>tulip</item>
+        <item>lavender</item>
+        <item>lotus</item>
+        <item>laurus</item>
+        <item>merlin</item>
+        <item>lancelot</item>
+        <item>galahad</item>
+        <item>citrus</item>
+        <item>pomelo</item>
+        <item>lemon</item>
+        <item>shiva</item>
+        <item>lime</item>
+        <item>cannon</item>
+        <item>sunny</item>
+        <item>camellia</item>
+    </string-array>
+    <string-array name="config_except_charge_support_lite">
+        <item>curtana</item>
+        <item>excalibur</item>
+        <item>joyeuse</item>
+        <item>gram</item>
+    </string-array>
     <string-array name="config_statusBarIcons">
         <item>micphone</item>
         <item>headset</item>
@@ -700,6 +726,11 @@
         <item>Spenta</item>
         <item>Mostra aree sovradisegnate</item>
         <item>Mostra aree per Deuteranomalia</item>
+    </string-array>
+    <string-array name="device_support_pickup_by_MTK">
+        <item>cactus</item>
+        <item>cereus</item>
+        <item>lotus</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Nessuno</item>
