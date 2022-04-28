@@ -688,6 +688,9 @@ Invia questo codice al supervisore."</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="privacy_category_title">Privacy</string>
     <string name="privacy_policy_title">Informativa sulla privacy</string>
+    <string name="privacy_policy_update_hint">"%1$s Informativa sulla privacy è stata aggiornata:
+%2$s
+Leggi e accetta la nuova versione di %3$s prima di continuare."</string>
     <string name="privacy_policy_update_title">Informativa sulla privacy aggiornata</string>
     <string name="progressbar_title">Verifica falle di sicurezza…</string>
     <string name="protocal_dialog_cancel">Annulla</string>
@@ -891,6 +894,7 @@ Dimensioni: %2$s"</string>
     <string name="user_avatar_uploading">Attendi…</string>
     <string name="user_id_hint">Email/Telefono</string>
     <string name="user_must_known">Attenzione</string>
+    <string name="user_must_known_content">"Non potrai continuare a utilizzare i nostri servizi a meno che non accetti la nuova versione della nostra %s. Accetti l'informativa sulla privacy aggiornata?"</string>
     <string name="user_name_phone_number">Numero di telefono</string>
     <string name="v7_preference_off">DISATTIVATO</string>
     <string name="v7_preference_on">ATTIVATO</string>
@@ -903,6 +907,7 @@ Dimensioni: %2$s"</string>
     <string name="withdraw_consent_failed">"Impossibile revocare il consenso"</string>
     <string name="withdraw_consent_failed_hint">Si è verificato un errore del server. Aspetta e prova di nuovo.</string>
     <string name="withdraw_consent_failed_hint_connect_net">Impossibile collegarsi alla rete. Controlla le impostazioni e riprova.</string>
+    <string name="withdraw_consent_hint">"Continuando, revocherai il tuo consenso all'Informativa sulla privacy di %1$s. Le informazioni personali già raccolte e conservate saranno cancellate entro un periodo di tempo specifico in conformità con le leggi e i regolamenti applicabili, salvo diversamente richiesto. Poiché %2$s fornisce i propri servizi in base alla raccolta delle informazioni personali necessarie, la revoca del consenso verrà considerata come un rifiuto da parte tua di accettare i servizi di %3$s. Revocare il consenso?"</string>
     <string name="withdrawing">Revoca del consenso…</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Connessione al Download Manager fallita, controlla lo stato del Download Manager in Gestione Applicazioni.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Presentazione versione %1$s
