@@ -992,6 +992,39 @@
         <item>Suoneria</item>
         <item>Media</item>
     </string-array>
+    <string-array name="device_support_pickup_by_MTK">
+        <item>cactus</item>
+        <item>cereus</item>
+        <item>lotus</item>
+    </string-array>
+    <string-array name="disable_apptitmer_device_list">
+        <item>cactus</item>
+        <item>pine</item>
+        <item>rosy</item>
+        <item>willow</item>
+        <item>olive</item>
+        <item>tiare</item>
+        <item>cereus</item>
+        <item>riva</item>
+        <item>rolex</item>
+        <item>markw</item>
+        <item>santoni</item>
+        <item>land</item>
+        <item>vince</item>
+        <item>nikel</item>
+        <item>ugglite</item>
+        <item>ugg</item>
+        <item>kate</item>
+        <item>prada</item>
+        <item>dandelion</item>
+        <item>lime</item>
+        <item>citrus</item>
+        <item>cannon</item>
+        <item>lemon</item>
+        <item>rainbow</item>
+        <item>camellian</item>
+        <item>camellia</item>
+    </string-array>
     <string-array name="dream_timeout_entries">
         <item>Mai</item>
         <item>15 secondi</item>
@@ -1605,6 +1638,10 @@ Nota: solo per Ubuntu 8.04!"</item>
         <item>Critico</item>
         <item>\?</item>
     </string-array>
+    <string-array name="remove_oldman_mode_device_list">
+        <item>davinci</item>
+        <item>raphael</item>
+    </string-array>
     <string-array name="screen_button_style">
         <item>Stile mano sinistra</item>
         <item>Stile mano destra</item>
@@ -1770,6 +1807,10 @@ Nota: solo per Ubuntu 8.04!"</item>
         <item>Predefinita</item>
         <item>Compatto</item>
     </string-array>
+    <string-array name="support_accessibility_haptic_device_list">
+        <item>crux</item>
+        <item>venus</item>
+    </string-array>
     <string-array name="support_settings_haptic_device_list">
         <item>apollo</item>
         <item>cas</item>
@@ -1806,6 +1847,24 @@ Nota: solo per Ubuntu 8.04!"</item>
         <item>xagapro</item>
         <item>plato</item>
         <item>mayfly</item>
+    </string-array>
+    <string-array name="support_size_compat_device_list">
+        <item>zizhan</item>
+    </string-array>
+    <string-array name="support_speaker_auto_clean_device_list">
+        <item>willow</item>
+        <item>ginkgo</item>
+        <item>olive</item>
+        <item>olivelite</item>
+        <item>merlin</item>
+        <item>merlinin</item>
+        <item>curtana</item>
+        <item>curtanacn</item>
+        <item>durandal</item>
+        <item>excalibur</item>
+        <item>joyeuse</item>
+        <item>lancelot</item>
+        <item>galahad</item>
     </string-array>
     <string-array name="tabs_taptic_detail">
         <item>Nitido</item>
