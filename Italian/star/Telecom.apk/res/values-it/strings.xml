@@ -685,6 +685,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="notification_channel_in_call_service_crash">App del telefono bloccate</string>
     <string name="notification_channel_incoming_call">Chiamate in entrata</string>
     <string name="notification_channel_missed_call">Chiamate perse</string>
+    <string name="notification_channel_missed_call_DND">ND</string>
     <string name="notification_disconnectedCall_body">La chiamata a %s è stata chiusa a causa di una chiamata di emergenza in corso.</string>
     <string name="notification_disconnectedCall_generic_body">La tua chiamata è stata chiusa a causa di una chiamata di emergenza in corso.</string>
     <string name="notification_disconnectedCall_title">Chiamata chiusa</string>
