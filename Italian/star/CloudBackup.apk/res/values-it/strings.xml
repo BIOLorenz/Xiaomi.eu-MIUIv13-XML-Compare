@@ -255,6 +255,7 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="dialog_msg_restore_require_wlan_china">Il ripristino dei file di backup richiede una rete Wi-Fi.</string>
     <string name="dialog_need_permission">Permessi richiesti</string>
     <string name="dialog_negative_btn_cancel_restore">Interrompi ripristino</string>
+    <string name="dialog_positive_btn_cancel_backup">"Non annullare"</string>
     <string name="dialog_positive_btn_cancel_restore">"Annulla"</string>
     <string name="dialog_title_cancel_restore">Interrompi ripristino</string>
     <string name="dialog_title_require_wlan">E\' richiesta una rete Wi-Fi</string>
@@ -525,6 +526,7 @@ Controlla le tue impostazioni di rete e prova di nuovo."</string>
     <string name="session_backup_apk_data_text">Backup dati WeChat…</string>
     <string name="session_failed_app_usage_denied_title">Permessi richiesti</string>
     <string name="session_failed_dist_no_space_btn_text">Elimina dati</string>
+    <string name="session_failed_no_server_response_title">"Impossibile connettersi al server."</string>
     <string name="session_failed_restore_app_data_btn_text">Indietro</string>
     <string name="session_failed_title_backup">"Backup incompleto"</string>
     <string name="session_failed_title_restore">"Impossibile ripristinare"</string>
