@@ -904,6 +904,11 @@
     <string-array name="code_change_values">
         <item>1</item>
     </string-array>
+    <string-array name="color_game_led_freq_values">
+        <item>1000</item>
+        <item>1500</item>
+        <item>2500</item>
+    </string-array>
     <string-array name="color_mode_descriptions">
         <item>Colori migliorati</item>
         <item>Colori naturali e realistici</item>
@@ -1665,6 +1670,12 @@ Nota: solo per Ubuntu 8.04!"</item>
         <item>1 secondo</item>
         <item>1.5 seconds</item>
         <item>2 secondi</item>
+    </string-array>
+    <string-array name="screen_key_long_press_timeout_value">
+        <item>500</item>
+        <item>1000</item>
+        <item>1500</item>
+        <item>2000</item>
     </string-array>
     <string-array name="screen_key_position_action">
         <item>Tasto Menu a sinistra, tasto Indietro a destra</item>
