@@ -1044,6 +1044,7 @@ Inserisci il PIN per sbloccare."</string>
     <string name="game_status">In riproduzione</string>
     <string name="garbage_count">Ci sono %1$s vecchie istanze</string>
     <string name="global_action_lock_message">Sblocca il telefono per ulteriori opzioni</string>
+    <string name="global_action_screenshot">Screenshot</string>
     <string name="go_to_web">Naviga in Internet</string>
     <string name="got_it">Ok</string>
     <string name="gps_notification_found_text">Posizione GPS stabilita</string>
@@ -2003,6 +2004,7 @@ Se hai domande, contatta %2$s."</string>
     <string name="quick_settings_bluetooth_secondary_label_hearing_aids">Apparecchio Acustico</string>
     <string name="quick_settings_bluetooth_secondary_label_input">Ingresso</string>
     <string name="quick_settings_bluetooth_secondary_label_transient">Attivazione…</string>
+    <string name="quick_settings_brightness_dialog_auto_brightness_label">AUTO</string>
     <string name="quick_settings_brightness_dialog_title">Luminosità</string>
     <string name="quick_settings_brightness_label">Luminosità</string>
     <string name="quick_settings_camera_label">Accesso alla fotocamera</string>
@@ -2110,6 +2112,7 @@ Se hai domande, contatta %2$s."</string>
     <string name="quick_settings_screen_record_stop">Interrompi</string>
     <string name="quick_settings_screenbutton_label">Tasti</string>
     <string name="quick_settings_screenlock_label">Schemata di blocco</string>
+    <string name="quick_settings_screenshot_label">Screenshot</string>
     <string name="quick_settings_secondary_label_until">Fino a %s</string>
     <string name="quick_settings_settings_label">Impostazioni</string>
     <string name="quick_settings_sim_disabled">" (Disabilitato)"</string>
@@ -2363,6 +2366,7 @@ d MMM"</string>
     <string name="status_bar_notification_app_settings_title">%s impostazioni</string>
     <string name="status_bar_notification_inspect_item_title">Impostazioni di notifica</string>
     <string name="status_bar_ongoing_events_title">In corso</string>
+    <string name="status_bar_settings_auto_brightness_label">AUTO</string>
     <string name="status_bar_settings_auto_rotation">Auto-rotazione schermo</string>
     <string name="status_bar_settings_mute_label">Silenzioso</string>
     <string name="status_bar_settings_notifications">Notifiche</string>
