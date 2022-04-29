@@ -1648,6 +1648,7 @@ Questa funzione può essere disattivata in [Settings]</string>
     <string name="camera_key_action_setting_title">Tasto MI</string>
     <string name="camera_key_action_shortcut_call">Chiama</string>
     <string name="camera_key_action_shortcut_home">Schermata Home</string>
+    <string name="camera_key_action_shortcut_screenshot">Screenshot</string>
     <string name="camera_key_action_shortcut_search">Cerca</string>
     <string name="camera_key_action_shortcut_title">Collegamento</string>
     <string name="camera_key_action_shortcut_wake">Blocca dispositivo</string>
@@ -2839,6 +2840,7 @@ Puoi vedere i log generati in File Manager."</string>
     <string name="edge_mode_notification_title">Utilizza i comandi laterali</string>
     <string name="edge_mode_photo">Scatta foto</string>
     <string name="edge_mode_photo_summary">Quando sei nella fotocamera, tocca il bordo per mettere a fuoco e premi di nuovo per scattare la foto</string>
+    <string name="edge_mode_screenshot">Screenshot</string>
     <string name="edge_mode_screenshot_summary">Tocca due volte entrambi i bordi per eseguire uno screenshot</string>
     <string name="edge_mode_state_summary">"L'area intorno ai bordi curvi non risponderà al tocco"</string>
     <string name="edge_mode_state_title">Ignora il tocco accidentale sui bordi</string>
@@ -3515,6 +3517,7 @@ Quando si accende il backup automatico, i dati del dispositivo e dell'app vengon
     <string name="gxzw_anim_dialog_enroll">OK</string>
     <string name="gxzw_anim_dialog_message">Aggiungere la propria impronta digitale per poter vedere l\'animazione delle impronte digitali. Aggiungerla ora?</string>
     <string name="gxzw_anim_dialog_title">Aggiungi impronta</string>
+    <string name="gxzw_anim_light">Neon</string>
     <string name="gxzw_anim_pulse">Pulsazione</string>
     <string name="gxzw_anim_rhythm">Ritmo</string>
     <string name="gxzw_anim_star">Stellare</string>
@@ -4007,6 +4010,7 @@ Apri Xiaomi Cloud e ripristina gli elementi da lì."</string>
     <string name="kid_space_settings">Spazio Bambini</string>
     <string name="kilobyteShort">KB</string>
     <string name="kilobyte_per_second">K/s</string>
+    <string name="knock_guide_set_screenshot">Screenshot</string>
     <string name="knock_guide_set_voiceassist">Mi IA</string>
     <string name="knock_guide_title">Doppio tocco nocca</string>
     <string name="ks_add_title">Aggiungi collegamento</string>
@@ -4016,6 +4020,7 @@ Apri Xiaomi Cloud e ripristina gli elementi da lì."</string>
     <string name="ks_dialog_title">Apri %s</string>
     <string name="ks_launch_control_center">Centro di controllo</string>
     <string name="ks_launch_notification_center">Area di notifica</string>
+    <string name="ks_screenshot">Screenshot</string>
     <string name="ks_search_summary">Cerca</string>
     <string name="ks_title">Assistente scorciatoie tastiera</string>
     <string name="label_available">Reti disponibili</string>
@@ -6456,6 +6461,8 @@ Per utilizzare il blocco delle app: \u0009
     <string name="screensaver_settings_summary_sleep">Durante la ricarica</string>
     <string name="screensaver_settings_title">Salva schermo</string>
     <string name="screensaver_settings_when_to_dream">Quando attivare Daydream</string>
+    <string name="screenshot">Screenshot</string>
+    <string name="screenshot_label">Screenshot</string>
     <string name="screenshot_three_gesture">Scorri tre dita dall\'alto verso il basso per screenshot</string>
     <string name="screenshot_three_gesture_summary">Altre gesture con tre dita verranno disattivate</string>
     <string name="sd_card_settings_label">Archivio USB</string>
@@ -7566,6 +7573,7 @@ Prova ad utilizzare una ^3 più veloce, o usa questa ^4 come memoria portatile"<
     <string name="style_suggestion_title">Personalizza il tuo dispositivo</string>
     <string name="stylus_btn_continue">Successivo</string>
     <string name="stylus_btn_learn">Guida</string>
+    <string name="stylus_btn_screen_shot">Screenshot</string>
     <string name="stylus_btn_skip">Salta</string>
     <string name="stylus_connect_fail_no_reason">"Connessione fallita"</string>
     <string name="stylus_connecting">Connessione…</string>
@@ -7581,6 +7589,7 @@ Prova ad utilizzare una ^3 più veloce, o usa questa ^4 come memoria portatile"<
     <string name="stylus_ota_update_failed">"Impossibile aggiornare il firmware"</string>
     <string name="stylus_ota_updating">Aggiornamento</string>
     <string name="stylus_screen_shot">Esegui screenshot</string>
+    <string name="stylus_shortcut_title_screenshot">Screenshot</string>
     <string name="stylus_success">Fatto</string>
     <string name="subscreen_title">Schermo posteriore</string>
     <string name="subscription_available">Disponibile</string>
