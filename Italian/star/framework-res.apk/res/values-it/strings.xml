@@ -198,6 +198,7 @@ Puoi associare questa scorciatoia a un'altra funzionalità in Impostazioni &gt; 
     <string name="accessibility_system_action_power_dialog_label">Finestra di dialogo Alimentazione</string>
     <string name="accessibility_system_action_quick_settings_label">Impostazioni rapide</string>
     <string name="accessibility_system_action_recents_label">App recenti</string>
+    <string name="accessibility_system_action_screenshot_label">Screenshot</string>
     <string name="accessibility_uncheck_legacy_item_warning">Il servizio %s è stato disattivato</string>
     <string name="action_bar_home_description">Vai alla home page</string>
     <string name="action_bar_up_description">Vai in alto</string>
@@ -705,6 +706,7 @@ Questo di solito spegne lo schermo."</string>
     <string name="global_action_power_off">Spegni</string>
     <string name="global_action_power_options">Spegnimento/Riavvio</string>
     <string name="global_action_restart">Riavvia</string>
+    <string name="global_action_screenshot">Screenshot</string>
     <string name="global_action_settings">Impostazioni</string>
     <string name="global_action_silent_mode_off_status">Audio attivo</string>
     <string name="global_action_silent_mode_on_status">Audio non attivo</string>
