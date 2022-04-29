@@ -557,6 +557,7 @@ Invia questo codice al supervisore."</string>
     <string name="galleryplus_gallery_video_adjust_hint">Sono supportati solo video a 960fps</string>
     <string name="galleryplus_gallery_video_adjust_text">Correggi</string>
     <string name="galleryplus_gallery_video_default_music_text">Auto</string>
+    <string name="galleryplus_gallery_video_icon_is_8k">8K</string>
     <string name="galleryplus_gallery_video_item3_default_text">Emozioni</string>
     <string name="galleryplus_gallery_video_item4_default_text">Alba</string>
     <string name="galleryplus_gallery_video_item5_default_text">Assistente</string>
