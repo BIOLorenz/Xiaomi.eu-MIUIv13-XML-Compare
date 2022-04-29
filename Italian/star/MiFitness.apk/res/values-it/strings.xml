@@ -1906,6 +1906,7 @@ Inizia da capo."</string>
     <string name="login_login">Accedi</string>
     <string name="login_next_step">Successivo</string>
     <string name="login_other">Cambia Mi Account</string>
+    <string name="login_personalize_mode">Classico</string>
     <string name="login_privacy_agree_to_terms_kr">Termini e condizioni</string>
     <string name="login_privacy_common_agree">Accetto</string>
     <string name="login_privacy_common_cancel">Annulla</string>
