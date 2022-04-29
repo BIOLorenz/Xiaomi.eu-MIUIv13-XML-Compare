@@ -620,6 +620,7 @@
     <string name="hungama_category_chart">Classifiche</string>
     <string name="hungama_category_playlist">Playlist</string>
     <string name="hungama_category_video">Video</string>
+    <string name="hungama_category_vip">Pro</string>
     <string name="hungama_free_download_out_summary">"Non è possibile scaricare altre canzoni gratuitamente. Acquistare un abbonamento PRO ora?"</string>
     <string name="hungama_free_download_out_summary_toast">"Hai già scaricato %d canzoni. Acquista un abbonamento per scaricarne di più."</string>
     <string name="hungama_playlist_category">Categoria playlist</string>
