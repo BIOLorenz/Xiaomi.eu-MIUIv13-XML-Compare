@@ -468,6 +468,7 @@
     <string name="status_bar_toggle_quiet_mode">Non disturbare</string>
     <string name="status_bar_toggle_rotate">Disattiva rotazione</string>
     <string name="status_bar_toggle_screen_button">Tasti</string>
+    <string name="status_bar_toggle_screenshot">Screenshot</string>
     <string name="status_bar_toggle_sync">Sincronizza</string>
     <string name="status_bar_toggle_torch">Torcia</string>
     <string name="status_bar_toggle_vibrate">Vibrazione</string>
