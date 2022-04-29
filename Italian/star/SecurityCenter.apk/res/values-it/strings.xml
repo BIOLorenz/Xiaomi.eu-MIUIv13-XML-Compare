@@ -1788,6 +1788,7 @@ terremoti"</string>
     <string name="gamebox_qq_not_find">Installa QQ e riprova.</string>
     <string name="gamebox_recent_task_expand_fail">"Nessuna app instalalta che funzioni con collegamento"</string>
     <string name="gamebox_screenrecord">Registra</string>
+    <string name="gamebox_screenshot">Screenshot</string>
     <string name="gamebox_simcard">Cambia SIM</string>
     <string name="gamebox_time">Conto alla rovescia</string>
     <string name="gamebox_type_close">"Non mostrare"</string>
@@ -2076,6 +2077,8 @@ e prova a Cambiare Voce!"</string>
     <string name="gtb_mode_normal">Normale</string>
     <string name="gtb_mode_performance">Prestazioni</string>
     <string name="gtb_screenrecord">Registra</string>
+    <string name="gtb_screenshot">Screenshot</string>
+    <string name="gtb_screenshot_pinned">Screenshot</string>
     <string name="gtb_setting">Impostazioni</string>
     <string name="gtb_setting_item_summary_smart_5g">Ogni volta che Turbo Videogiochi rileva una rete 5G, può connettere il tuo dispositivo alla migliore rete disponibile per ridurre il ping</string>
     <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Aumenta la velocità di connessione del 10%-20% quando connesso ai router Mi/Redmi</string>
@@ -2843,6 +2846,7 @@ dall'operatore"</string>
     <string name="pc_battery_detail_device_item_title">Statistiche utilizzo batteria</string>
     <string name="pc_battery_history_battery_detail_menu_item">Dettagli</string>
     <string name="pc_battery_history_consume_all_menu_item">Tutto</string>
+    <string name="pc_battery_history_consume_hardware_menu_item">Hardware</string>
     <string name="pc_battery_history_consume_rank_menu_item">Classifica</string>
     <string name="pc_battery_history_consumption_percent_title">Percentuale di consumo energetico</string>
     <string name="pc_battery_history_idletime_title">Sospensione</string>
@@ -3130,6 +3134,7 @@ dall'operatore"</string>
     <string name="power_center_unoffical_battery_title">Rischi causati dall\'uso di batterie non ufficiali</string>
     <string name="power_center_used_time_Introduction">Durata batteria dall\'ultima ricarica oltre %s</string>
     <string name="power_consume_other">Altro</string>
+    <string name="power_consume_rank_hardware">Hardware</string>
     <string name="power_consume_rank_software">Applicazioni</string>
     <string name="power_consume_rank_title">Consumo</string>
     <string name="power_consume_software_total_format">App: %s</string>
@@ -4806,6 +4811,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="vb_fps_settings_tips">Questa funzione regola la frequenza di aggiornamento dello schermo al frame rate del video, risparmia batteria e rende la riproduzione fluida. Attivare i commenti fluttuanti disattiverà la frequenza di aggiornamento automatica.</string>
     <string name="vb_quick_func_auto_bgm">Riconosci musica di sottofondo</string>
     <string name="vb_quick_func_hangup_listening">Riproduci audio del video con schermo spento</string>
+    <string name="vb_quick_func_screen_capture">Screenshot</string>
     <string name="vb_quick_func_screen_record">Registra</string>
     <string name="vb_quick_func_screening">Trasmetti</string>
     <string name="vb_settings">Impostazioni</string>
@@ -4828,6 +4834,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="vb_video_effects_setting_gorgeous">Vibrante</string>
     <string name="vb_video_effects_setting_green_orange">Arancio</string>
     <string name="vb_video_effects_setting_grim">Freddo</string>
+    <string name="vb_video_effects_setting_hdr">HDR</string>
     <string name="vb_video_effects_setting_knight">Metal</string>
     <string name="vb_video_effects_setting_nostalgia">Nostalgico</string>
     <string name="vb_video_effects_setting_old_movie">Retrò</string>
