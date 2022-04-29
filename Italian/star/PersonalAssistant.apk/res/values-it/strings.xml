@@ -411,6 +411,7 @@
     <string name="pa_shortcut_widget_label_4x2">Scorciatoie</string>
     <string name="pa_ski_foreground_service_noitification_name">Accesso alla posizione</string>
     <string name="pa_smart_shortcut_widget_label">App consigliate</string>
+    <string name="pa_sports_action_live">Live</string>
     <string name="pa_sports_action_preview">Anteprima</string>
     <string name="pa_sports_all_league">Agenda</string>
     <string name="pa_sports_all_match">Mostra tutto</string>
