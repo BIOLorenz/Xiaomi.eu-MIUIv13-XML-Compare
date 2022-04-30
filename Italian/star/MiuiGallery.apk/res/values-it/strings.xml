@@ -2312,6 +2312,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="special_type_eye_repair">Sistema gli occhi chiusi con l\'IA</string>
     <string name="special_type_hdr">HDR</string>
     <string name="special_type_hdr10">HDR</string>
+    <string name="special_type_log">LOG</string>
     <string name="special_type_night_beauty">Ritratto IA a basse luci</string>
     <string name="special_type_night_mode">Modalità notturna IA</string>
     <string name="special_type_portrait">Ritratto dipinto IA</string>
