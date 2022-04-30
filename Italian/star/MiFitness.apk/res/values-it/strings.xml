@@ -1143,6 +1143,7 @@ Invia questo codice al supervisore."</string>
     <string name="face_me_watch">Dispositivo</string>
     <string name="face_normal">Schermata Home</string>
     <string name="face_permission_not_agree_tips">"Non sarai in grado di utilizzare questo servizio a meno che non concedi i permessi richiesti Questo non influenzerà l'utilizzo di altri servizi. È sempre possibile limitare i permessi nelle Impostazioni."</string>
+    <string name="face_permission_write_read_file_info">Consenti a questa app di accedere allo spazio di archiviazione per utilizzare questa funzionalità.</string>
     <string name="face_photo_face_style">Stile Libero</string>
     <string name="face_photo_label_band">Imposta le foto come sfondo del bracciale</string>
     <string name="face_photo_label_watch">Imposta le foto come quadrante</string>
@@ -2356,6 +2357,7 @@ Questo passaggio è necessario per pagare con il tuo dispositivo."</string>
     <string name="permission_grant_authorization_title">Permessi richiesti</string>
     <string name="permission_location_desc">La tua posizione viene utilizzata per monitorare i tuoi allenamenti, mostrare il meteo locale e associare i dispositivi.</string>
     <string name="permission_to_grant_authorization">OK</string>
+    <string name="permission_write_read_file_info">Consenti a questa app di accedere allo spazio di archiviazione per utilizzare questa funzionalità.</string>
     <string name="permissionx_manage_external_storage">Accesso a tutti i file</string>
     <string name="permissionx_system_alert_window">Visualizza sopra altre app</string>
     <string name="permissionx_write_settings">Impostazioni di sistema</string>
