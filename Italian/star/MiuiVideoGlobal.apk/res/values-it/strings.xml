@@ -558,6 +558,7 @@ Invia questo codice al supervisore."</string>
     <string name="galleryplus_gallery_video_adjust_text">Correggi</string>
     <string name="galleryplus_gallery_video_default_music_text">Auto</string>
     <string name="galleryplus_gallery_video_icon_is_8k">8K</string>
+    <string name="galleryplus_gallery_video_icon_is_record_log">LOG</string>
     <string name="galleryplus_gallery_video_item3_default_text">Emozioni</string>
     <string name="galleryplus_gallery_video_item4_default_text">Alba</string>
     <string name="galleryplus_gallery_video_item5_default_text">Assistente</string>
@@ -1493,6 +1494,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
     <string name="source">"Sorgente: "</string>
     <string name="special_type_8k">IA 8K</string>
+    <string name="special_type_log">LOG</string>
     <string name="srl_component_falsify" formatted="false">"%s falsifica area,
  Rappresenta l'altezza[%.1fdp] di trascinamento al tempo di esecuzione,
  Non visualizza nulla."</string>
