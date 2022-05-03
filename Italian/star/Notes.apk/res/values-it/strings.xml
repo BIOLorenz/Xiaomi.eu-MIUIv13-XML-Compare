@@ -682,6 +682,7 @@
     <string name="select_account_prompt">Abilita sincronizzazione note</string>
     <string name="send">Invia</string>
     <string name="set_alarm_description">Imposta sveglia</string>
+    <string name="setting_big_screen_layout_columns">Barra laterale</string>
     <string name="setting_layout">Disposizione</string>
     <string name="setting_micloud_sync_title">Sincronizza con il Cloud</string>
     <string name="setting_note_list_layout_title">Disposizione</string>
