@@ -586,6 +586,7 @@ Se cambi idea, prima di utilizzare i nostri servizi, dovrai accettare la nostra 
     <string name="device_language_setting">Lingua</string>
     <string name="device_location_dialog_message">"Non sarai in grado di utilizzare questo servizio a meno che non concedi i permessi richiesti Questo non influenzerà l'utilizzo di altri servizi. È sempre possibile limitare i permessi nelle Impostazioni."</string>
     <string name="device_location_dialog_title">Permessi richiesti</string>
+    <string name="device_lock_off_wrist">PIN</string>
     <string name="device_manager">Dispositivi</string>
     <string name="device_mi_band">Bracciale</string>
     <string name="device_mi_sport_health">Mi Fitness (Attuale)</string>
@@ -848,6 +849,7 @@ Per applicare le modifiche al tuo dispositivo indossabile, vai su Layout dell'ap
     <string name="device_settings_limit_bind_switch_tips">Limita l\'associazione del tuo dispositivo indossabile con un\'altra app</string>
     <string name="device_settings_limit_hint">Suggerimenti</string>
     <string name="device_settings_load_data_failed">"Impossibile caricare info"</string>
+    <string name="device_settings_lock_off_wrist">PIN</string>
     <string name="device_settings_lock_off_wrist_set_pwd">Imposta PIN</string>
     <string name="device_settings_long_sit">Avviso di sedentarietà</string>
     <string name="device_settings_low_hr_warning_title">Frequenza cardiaca bassa</string>
@@ -943,6 +945,7 @@ Questo passaggio è necessario per pagare con il tuo dispositivo."</string>
     <string name="device_settings_unwear_close_cofirm_title">Rimuovi PIN di sblocco</string>
     <string name="device_settings_unwear_close_pwd">Rimuovi PIN di sblocco</string>
     <string name="device_settings_unwear_no_set">Non impostato</string>
+    <string name="device_settings_unwear_set_pwd">PIN</string>
     <string name="device_settings_unwear_set_pwd_huami_alert">Inserisci un PIN di 6 cifre</string>
     <string name="device_settings_unwear_set_pwd_huami_confrim_error">"I PIN non corrispondono"</string>
     <string name="device_settings_unwear_update_pwd">Cambia PIN</string>
