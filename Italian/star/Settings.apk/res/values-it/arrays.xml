@@ -1180,6 +1180,14 @@
         <item>Viola</item>
         <item>Viola</item>
     </string-array>
+    <string-array name="miui_entries_font_size">
+        <item>XS</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+    </string-array>
     <string-array name="miui_entryvalues_font_size">
         <item>piccolo</item>
         <item>normale</item>
