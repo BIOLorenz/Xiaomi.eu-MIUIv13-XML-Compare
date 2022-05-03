@@ -1994,8 +1994,10 @@ e prova a Cambiare Voce!"</string>
     <string name="gd_app_edit_done">Fatto</string>
     <string name="gd_setting_group_custom_gtb_apps">Giochi</string>
     <string name="gd_setting_group_custom_settings">Personalizzazione</string>
+    <string name="gd_setting_group_smart_tool_box">Barra laterale</string>
     <string name="gd_setting_group_title_switch">Scenari</string>
     <string name="gd_setting_shorthand">Note veloci</string>
+    <string name="gd_setting_title">Barra laterale</string>
     <string name="gdpr_msg"><Data>\"Per poter rilevare i rischi per la sicurezza e proteggere i tuoi dati, dobbiamo raccogliere la quantità necessaria di informazioni sul tuo dispositivo. Leggi e accetta la nostra &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Informativa sulla Privacy&lt;/a&gt; prima di utilizzare i nostri servizi. Nel caso in cui non ci concederai di raccogliere tali informazioni, sarai ancora in grado di utilizzare questa app, ma alcune funzioni non saranno disponibili. \"</Data></string>
     <string name="ge">Un</string>
     <string name="get_detail_by_click">Tocca per vedere i dettagli</string>
@@ -3888,6 +3890,7 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="sim_lock_no_sim_notification_title">"SIM non installata"</string>
     <string name="sim_lock_pin_confirm">OK</string>
     <string name="sim_lock_pin_dialog_confirm">Continua</string>
+    <string name="sim_lock_query_pin">PIN</string>
     <string name="sim_lock_start_account_dialog_enable">Accedi</string>
     <string name="sim_lock_start_bind_device_superscript">Consigliato</string>
     <string name="sim_lock_start_close_dialog_enable">OK</string>
@@ -4768,6 +4771,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="unlock_set_unlock_password_summary">Combina caratteri diversi</string>
     <string name="unlock_set_unlock_password_title">Password</string>
     <string name="unlock_set_unlock_pattern_title">Sequenza</string>
+    <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="untrust_app_perm_notification">Consenti notifiche</string>
     <string name="usage_sorted_activity_lable">Utilizzo dati</string>
     <string name="usage_sorted_empty_text">Vuoto</string>
