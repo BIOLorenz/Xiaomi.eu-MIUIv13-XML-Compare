@@ -932,6 +932,7 @@ Ciao, la password dell'applicazione è attivata? Se attiva, vai al sito ufficial
     <string name="message_invite_tentative">Forse</string>
     <string name="message_saved">Messaggio salvato come bozza.</string>
     <string name="message_view_attachment_background_load">Prima dell\'invio verranno scaricati uno o più allegati del messaggio inoltrato.</string>
+    <string name="mi_slide_menu">Barra laterale</string>
     <string name="mibill_privacy_policy_button1">Più tardi</string>
     <string name="mibill_privacy_policy_button2">Accetto</string>
     <string name="mibill_privacy_policy_description">Mi Wallet analizzerà il contenuto delle tue email e recupererà tutti i documenti relativi alle carte di credito. Questo servizio è disattivato di default per gli account aziendali.</string>
