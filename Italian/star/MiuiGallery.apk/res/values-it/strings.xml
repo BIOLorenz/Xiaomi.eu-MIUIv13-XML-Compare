@@ -599,6 +599,7 @@
     <string name="cloud_full_space_tip_negative">Non adesso</string>
     <string name="cloud_full_space_tip_positive">Aggiorna</string>
     <string name="cloud_full_space_tip_title">Spazio cloud insufficiente</string>
+    <string name="cloud_full_space_tip_title_completely">La memoria cloud è piena</string>
     <string name="cloud_guide_auto_backup_title">Scegli gli album di cui fare il backup su Mi Cloud</string>
     <string name="cloud_guide_login_title">Esegui automaticamente il backup di foto e video</string>
     <string name="cloud_guide_welcome_title">Mi Cloud</string>
@@ -1125,6 +1126,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="grant_permission_go_and_set">Imposta</string>
     <string name="grant_permission_go_and_set_2">Impostazioni</string>
     <string name="grant_permission_go_and_set_3">Impostazioni</string>
+    <string name="grant_permission_manage_storage">Permessi richiesti</string>
     <string name="grant_permission_text">"La galleria necessita dell'accesso a 
 %s
  per funzionare correttamente, tocca Imposta per vedere i permessi."</string>
@@ -1234,6 +1236,8 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="kick_sharer_successfully">Partecipante rimosso correttamente</string>
     <string name="kilobyteShort">KB</string>
     <string name="labour_day">Festa del lavoro</string>
+    <string name="lenovo">Lenovo</string>
+    <string name="lenovo_phone">Telefono Lenovo</string>
     <string name="limit_height">L\'altezza dovrebbe essere &gt; 0</string>
     <string name="limit_width">La larghezza dovrebbe essere &gt; 0</string>
     <string name="live_photo">Foto Dinamiche</string>
@@ -1702,6 +1706,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="operation_too_often">L\'operazione supera il limite di frequenza, riprova più tardi.</string>
     <string name="operation_unforce_top">Non fissare più</string>
     <string name="operation_unhide">Mostra</string>
+    <string name="operation_upgrade_gallery">Aggiorna</string>
     <string name="operation_video_compress">Comprimi video</string>
     <string name="operation_watermark">Filigrana protettiva</string>
     <string name="oppo">OPPO</string>
@@ -1874,7 +1879,6 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="photo_vlog_module_loading">Download dell\'editor video…</string>
     <string name="photodetail_failed_already_exist">Questo file esiste già</string>
     <string name="photodetail_rename_failed">"Impossibile rinominare"</string>
-    <string name="photodetail_rename_invalid">"I nomi dei file non possono contenere questi caratteri: /\\:*?&lt;&gt;|."</string>
     <string name="photodetail_rename_success">Rinominato correttamente</string>
     <string name="photodetail_rename_title">Rinomina</string>
     <string name="photodetail_rename_too_long">Il nome del file inserito è troppo lungo</string>
@@ -2191,8 +2195,6 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="send_file_beautify_failed">"Impossibile condividere"</string>
     <string name="send_files_by">Condividi file tramite</string>
     <string name="send_files_to">Invia elementi a</string>
-    <string name="send_heif_summary">Converti le immagini prima dell\'invio per garantire la compatibilità</string>
-    <string name="send_heif_title">Converti HEIF in JPG prima dell\'invio</string>
     <string name="send_multiple_files_hint_format">Invia file (%s)</string>
     <string name="send_public_url">Invia link album</string>
     <string name="send_secret_file_failed">"Impossibile condividere"</string>
@@ -2949,8 +2951,13 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="xiaomi_10_pro">Mi 10 Pro</string>
     <string name="xiaomi_10_ultra">Mi 10 Ultra</string>
     <string name="xiaomi_11">Mi 11</string>
+    <string name="xiaomi_11_lite">Mi 11 Lite 5G</string>
+    <string name="xiaomi_11_lite_ne">Xiaomi 11 Lite 5G NE</string>
     <string name="xiaomi_11_pro">Mi 11 Pro</string>
     <string name="xiaomi_11_ultra">Mi 11 Ultra</string>
+    <string name="xiaomi_12">Xiaomi 12</string>
+    <string name="xiaomi_12_pro">Xiaomi 12 Pro</string>
+    <string name="xiaomi_12x">Xiaomi 12X</string>
     <string name="xiaomi_6">Mi 6</string>
     <string name="xiaomi_6x">Mi 6X</string>
     <string name="xiaomi_8">Mi 8</string>
@@ -2966,6 +2973,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="xiaomi_cc_9_custom">Mi CC9 Meitu Edition</string>
     <string name="xiaomi_cc_9_pro">Mi CC9 Pro</string>
     <string name="xiaomi_cc_9e">Mi CC9e</string>
+    <string name="xiaomi_civi">Xiaomi Civi</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Non ora</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Aggiorna</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Aggiornamento disponibile</string>
