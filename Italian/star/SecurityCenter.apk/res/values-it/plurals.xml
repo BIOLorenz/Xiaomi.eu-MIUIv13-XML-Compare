@@ -828,6 +828,18 @@ Puoi ottenere una prova gratuita di %d giorno!"</item>
         <item quantity="other">%d virus eliminati</item>
         <item quantity="one">%d virus eliminato</item>
     </plurals>
+    <plurals name="sim_lock_puk_dialog_message">
+        <item quantity="other">Hai solo %d tentativi per verificare il PUK. Se raggiungi il limite di PUK errati, la SIM verrà bloccata. Continuare?</item>
+        <item quantity="one">Hai solo %d tentativo per verificare il PUK. Se raggiungi il limite di PUK errati, la SIM verrà bloccata. Continuare?</item>
+    </plurals>
+    <plurals name="simlock_set_pin_error">
+        <item quantity="other">Il PIN inserito non è corretto. %d tentativi rimasti.</item>
+        <item quantity="one">Il PIN inserito non è corretto. %d tentativo rimasto.</item>
+    </plurals>
+    <plurals name="simlock_set_puk_error">
+        <item quantity="other">Inserisci il PUK. %d tentativi rimanenti.</item>
+        <item quantity="one">Inserisci il PUK. %d tentativo rimanente.</item>
+    </plurals>
     <plurals name="sp_monitored_apps_count">
         <item quantity="other">%s app di pagamento sono protette</item>
         <item quantity="one">%s app di pagamento è protetta</item>
@@ -852,9 +864,17 @@ Puoi ottenere una prova gratuita di %d giorno!"</item>
         <item quantity="other">%d numeri</item>
         <item quantity="one">%d numero</item>
     </plurals>
+    <plurals name="summary_absorbed_time_foramt">
+        <item quantity="other">Attiva la modalità Focus per %d minuti</item>
+        <item quantity="one">Attiva la modalità Focus per %d minuto</item>
+    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Aggiornamento disponibile per %d applicazioni.</item>
         <item quantity="one">Aggiornamento disponibile per %d applicazione.</item>
+    </plurals>
+    <plurals name="summary_condition_lock_screen_format">
+        <item quantity="other">Dopo che lo schermo è bloccato per %d min</item>
+        <item quantity="one">Dopo che lo schermo è bloccato per %d min</item>
     </plurals>
     <plurals name="summary_flow_verify">
         <item quantity="other">"Non hai sincronizzato le statistiche sull'utilizzo dei dati con il tuo operatore da %d giorni"</item>
@@ -863,6 +883,14 @@ Puoi ottenere una prova gratuita di %d giorno!"</item>
     <plurals name="summary_result_absorbed_time_format">
         <item quantity="other">%d minuti</item>
         <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="summary_result_lock_screen_format">
+        <item quantity="other">Blocca schermo dopo %d min</item>
+        <item quantity="one">Blocca schermo dopo %d min</item>
+    </plurals>
+    <plurals name="system_anti_fraud_dialog_countdown_unit">
+        <item quantity="other">(%ds)</item>
+        <item quantity="one">(%ds)</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d sicuri</item>
@@ -906,8 +934,16 @@ Fai una pausa!"</item>
         <item quantity="other">%1$d visualizzazioni</item>
         <item quantity="one">%1$d visualizzazione</item>
     </plurals>
+    <plurals name="virus_clear_dialog_content">
+        <item quantity="other">Eliminare %d app selezionate?</item>
+        <item quantity="one">Eliminare %d app selezionata?</item>
+    </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">App pericolose: %d</item>
         <item quantity="one">App pericolosa: %d</item>
+    </plurals>
+    <plurals name="white_list_trojan_header">
+        <item quantity="other">Trojan: %d</item>
+        <item quantity="one">Trojan: %d</item>
     </plurals>
 </resources>
