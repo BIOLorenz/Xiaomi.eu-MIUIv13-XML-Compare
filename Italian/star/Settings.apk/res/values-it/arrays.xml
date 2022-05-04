@@ -1866,9 +1866,7 @@ Nota: solo per Ubuntu 8.04!"</item>
         <item>xagapro</item>
         <item>plato</item>
         <item>mayfly</item>
-    </string-array>
-    <string-array name="support_size_compat_device_list">
-        <item>zizhan</item>
+        <item>daumier</item>
     </string-array>
     <string-array name="support_speaker_auto_clean_device_list">
         <item>willow</item>
