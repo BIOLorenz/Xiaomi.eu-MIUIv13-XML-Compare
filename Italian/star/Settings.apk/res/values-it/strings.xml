@@ -1073,6 +1073,7 @@ App:
     <string name="beauty_camera">Bellezza per videochiamate</string>
     <string name="beauty_camera_summary">Utilizza Bellezza per le videochiamate WeChat</string>
     <string name="beauty_camera_switch">Filtro bellezza</string>
+    <string name="beauty_fc_assistant">Assistente fotocamera frontale</string>
     <string name="billing_cycle">Ciclo addebito</string>
     <string name="billing_cycle_fragment_summary">Avvio mensile %1$s</string>
     <string name="billing_cycle_less_than_one_day_left">Meno di 1 giorno rimanente</string>
@@ -3082,6 +3083,7 @@ Per maggiori dettagli contatta l'amministratore."</string>
     <string name="face_data_siggesstion_next_time">Avanti (%ds)</string>
     <string name="face_data_siggesstion_next_time_cn">OK(%ds)</string>
     <string name="face_data_suggesstion_first">Lo sblocco col volto è meno sicuro di un PIN, una password o una sequenza. Il tuo dispositivo potrebbe essere sbloccato con la tua foto, così come da persone o oggetti con un aspetto simile.</string>
+    <string name="face_data_suggesstion_first_cn_highlight">Lo sblocco col volto è meno sicuro di un PIN, una password o una sequenza. Il tuo dispositivo potrebbe essere sbloccato con la tua foto, così come da persone o oggetti con un aspetto simile.</string>
     <string name="face_data_suggesstion_second">"Assicurati che tutte le parti del viso non siano coperte da oggetti e siano chiaramente visibili. Anche il tuo volto dovrebbe essere ben illuminato."</string>
     <string name="face_intro_error_max">Hai aggiunto il numero massimo di volti</string>
     <string name="face_intro_error_unknown">Impossibile aggiungere altri volti</string>
@@ -3523,7 +3525,6 @@ Quando si accende il backup automatico, i dati del dispositivo e dell'app vengon
     <string name="gxzw_anim_rhythm">Ritmo</string>
     <string name="gxzw_anim_star">Stellare</string>
     <string name="gxzw_anim_title">Animazione lettura impronta</string>
-    <string name="gxzw_aod_show_summary">L\'icona dell\'impronta verrà visualizzata quando lo schermo è spento. Questa funzione aumenta il consumo della batteria.</string>
     <string name="gxzw_aod_show_tittle">Mostra l\'icona dell\'impronta a schermo spento</string>
     <string name="gxzw_dialog_message">"Per essere in grado di utilizzare normalmente il sensore di impronte digitali a schermo, non utilizzare protezioni per lo schermo. Se pensi che sia necessaria una protezione per lo schermo, scegli tra le opzioni compatibili autorizzate."</string>
     <string name="gxzw_dialog_not_show_again">"Non mostrare più"</string>
@@ -5151,6 +5152,7 @@ ed esegui il software.</string>
     <string name="networks_title">Rete mobile</string>
     <string name="never">Mai</string>
     <string name="new_backup_pw_prompt">Digita una nuova password per i backup completi qui</string>
+    <string name="new_fingerprint_to_new_face_dialog_tittle">Aggiungi dati volto</string>
     <string name="new_password_to_new_fingerprint_dialog_msg">Aggiungi la tua impronta digitale per sbloccare il telefono con essa.</string>
     <string name="new_password_to_new_fingerprint_dialog_negative_msg">Annulla</string>
     <string name="new_password_to_new_fingerprint_dialog_positive_msg">Aggiungi</string>
