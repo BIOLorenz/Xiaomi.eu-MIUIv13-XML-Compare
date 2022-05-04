@@ -685,6 +685,7 @@ Selezione"</string>
     <string name="labelCFVoice">Voce</string>
     <string name="labelCW">Chiamate in attesa</string>
     <string name="labelCallerId">ID chiamante</string>
+    <string name="label_available">Reti disponibili</string>
     <string name="lable_disable">Spenta</string>
     <string name="lable_enable">Attivata</string>
     <string name="launch_defaults_none">Nessuna impostazione predefinita</string>
@@ -864,6 +865,7 @@ Selezione"</string>
     <string name="network_4G">4G (consigliato)</string>
     <string name="network_4G_pure">4G</string>
     <string name="network_5G">5G</string>
+    <string name="network_available">Reti disponibili</string>
     <string name="network_connected">Connesso</string>
     <string name="network_connecting">Connessione in corso</string>
     <string name="network_could_not_connect">Impossibile collegarsi</string>
