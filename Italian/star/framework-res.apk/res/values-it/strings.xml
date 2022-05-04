@@ -644,6 +644,7 @@ Per eventuali domande, contatta l'amministratore della tua organizzazione."</str
     <string name="fingerprint_acquired_too_fast">Movimento del dito troppo rapido. Riprova.</string>
     <string name="fingerprint_acquired_too_slow">Movimento del dito troppo lento. Riprova.</string>
     <string name="fingerprint_acquired_try_adjusting">Prova a regolare</string>
+    <string name="fingerprint_app_setting_name">Utilizza impronta</string>
     <string name="fingerprint_authenticated">Impronta autenticata</string>
     <string name="fingerprint_dialog_default_subtitle">Usa l\'impronta digitale per continuare</string>
     <string name="fingerprint_error_canceled">Operazione associata all\'impronta annullata.</string>
