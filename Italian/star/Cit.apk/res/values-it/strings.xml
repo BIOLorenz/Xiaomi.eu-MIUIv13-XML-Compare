@@ -206,6 +206,8 @@ Clicca sul pulsante appropriato in base al numero che ascolterai"</string>
     <string name="cit_gps_first_fix_time">Tempo fix: %s</string>
     <string name="cit_gps_location">Posizione: %s</string>
     <string name="cit_gps_satellite_count">Numero satelliti: %d</string>
+    <string name="cit_gps_satellite_prn">Prn: %s</string>
+    <string name="cit_gps_satellite_snr">Snr: %s</string>
     <string name="cit_gyrodata_sensor_check_summary">I valori delle coordinate X，Y，Z, dovrebbero apparire in basso</string>
     <string name="cit_gyrodata_sensor_check_title">Giroscopio</string>
     <string name="cit_gyrodata_sensor_second_screen_check_title">Giroscopio Secondo Schermo</string>
@@ -230,6 +232,7 @@ Clicca sul pulsante appropriato in base al numero che ascolterai"</string>
     <string name="cit_headset_right_hph_val">Valore di impedenza canale destro：</string>
     <string name="cit_hvdcp_charger_in">Ricarica via (USB_HVDCP)</string>
     <string name="cit_init_fp_fod_test_tip">Ambiente di prova dell\'impronta digitale</string>
+    <string name="cit_ispv3_test">ISPv3 test</string>
     <string name="cit_keyboard_auto_test_summary">I principali eventi da testare sono mostrati di seguito e il verde indica che gli eventi chiave corrispondenti sono normali. Premere il pulsante di accensione per uscire in modalità auto_test_mode.</string>
     <string name="cit_keyboard_test_summary">I principali eventi da testare sono mostrati di seguito e il verde indica che gli eventi corrispondenti sono normali</string>
     <string name="cit_lcdlight_brightness">Retroilluminazione</string>
@@ -365,9 +368,11 @@ Durante la calibrazione, assicurati che non ci sia nulla tra il sensore e la tua
     <string name="cit_tool_bluetooth_le_tx_4x_antenna">Antenna:</string>
     <string name="cit_tool_bluetooth_le_tx_4x_channel">canale:</string>
     <string name="cit_tool_bluetooth_le_tx_4x_payload">carico utile:</string>
+    <string name="cit_tool_bluetooth_le_tx_4x_powerdbm">Pwr/dBm:</string>
     <string name="cit_tool_bluetooth_le_tx_50_antenna">Antenna:</string>
     <string name="cit_tool_bluetooth_le_tx_50_channel">canale:</string>
     <string name="cit_tool_bluetooth_le_tx_50_payload">carico utile:</string>
+    <string name="cit_tool_bluetooth_le_tx_50_powerdbm">Pwr/dBm:</string>
     <string name="cit_tool_bluetooth_le_tx_antenna">Antenna:</string>
     <string name="cit_tool_bluetooth_le_tx_ch0">Avvia la modalità di test Bluetooth LE 2.402GHz test freq. TX</string>
     <string name="cit_tool_bluetooth_le_tx_ch1">Avvia la modalità di test Bluetooth LE 2.404GHz test freq. TX</string>
@@ -412,6 +417,8 @@ Durante la calibrazione, assicurati che non ci sia nulla tra il sensore e la tua
     <string name="cit_tool_bluetooth_le_tx_channel">canale:</string>
     <string name="cit_tool_bluetooth_le_tx_msg">Avvia la modalità di test Bluetooth LE 5.0 modalità test TX:</string>
     <string name="cit_tool_bluetooth_le_tx_msg_old">Avvia la modalità di test Bluetooth LE 4.x modalità test TX:</string>
+    <string name="cit_tool_bluetooth_le_tx_power_dbm">Pwr/dBm:</string>
+    <string name="cit_tool_bluetooth_le_tx_power_level">Pwr/Lv:</string>
     <string name="cit_tool_bluetooth_le_tx_power_msg">Avvia modalità di test potenza BLE TX:</string>
     <string name="cit_tool_bluetooth_not_on">Bluetooth non abilitato</string>
     <string name="cit_tool_bluetooth_off">Disattiva Bluetooth</string>
@@ -419,15 +426,20 @@ Durante la calibrazione, assicurati che non ci sia nulla tra il sensore e la tua
     <string name="cit_tool_bluetooth_rse">Entra Nella Modalità Test Rse Bluetooth</string>
     <string name="cit_tool_bluetooth_rse_chain">Antenna:</string>
     <string name="cit_tool_bluetooth_rse_channel">canale:</string>
+    <string name="cit_tool_bluetooth_rse_power">Pwr/Lv:</string>
     <string name="cit_tool_bluetooth_rx_count_error">Il valore di uscita non è un numero</string>
     <string name="cit_tool_bluetooth_rx_error">Si è verificato un errore durante l\'esecuzione del programma</string>
+    <string name="cit_tool_bluetooth_tx_burst">TX: BR/EDR</string>
     <string name="cit_tool_bluetooth_tx_burst_run">ESEGUI</string>
     <string name="cit_tool_bluetooth_tx_chain">Antenna:</string>
     <string name="cit_tool_bluetooth_tx_channel">canale:</string>
     <string name="cit_tool_bluetooth_tx_h">Avvia la modalità di test Bluetooth freq. BR/EDR 2.480GHz</string>
     <string name="cit_tool_bluetooth_tx_l">Avvia la modalità di test Bluetooth freq. BR/EDR 2.402GHz</string>
+    <string name="cit_tool_bluetooth_tx_level">Pwr/Lv:</string>
     <string name="cit_tool_bluetooth_tx_m">Avvia la modalità di test Freq. Bluetooth BR/EDR 2.441GHz</string>
+    <string name="cit_tool_bluetooth_tx_power">Pwr/dBm:</string>
     <string name="cit_tool_bluetooth_tx_rse_run">ESEGUI</string>
+    <string name="cit_tool_bluetooth_tx_type">BR0/EDR1:</string>
     <string name="cit_tool_check_cal">annulla</string>
     <string name="cit_tool_check_opt">sicuro?</string>
     <string name="cit_tool_check_opt_with_reboot">si riavvierà, sicuro?</string>
@@ -499,6 +511,7 @@ La seconda linea mostra il nome e la versione del MBN predefinito e l'operatore 
     <string name="cit_tool_wlan_rx_exit">Rx: esci</string>
     <string name="cit_tool_wlan_rx_run">Avvia</string>
     <string name="cit_tool_wlan_rx_stop">Interrompi</string>
+    <string name="cit_tool_wlan_rxbg_test">Rx: a/b/g</string>
     <string name="cit_tool_wlan_rxbg_test_channel">canale:</string>
     <string name="cit_tool_wlan_rxn_test_bw">banda:</string>
     <string name="cit_tool_wlan_rxn_test_channel">canale:</string>
@@ -507,6 +520,7 @@ La seconda linea mostra il nome e la versione del MBN predefinito e l'operatore 
     <string name="cit_tool_wlan_sniffer_test_title">Sniffer Test Wi-Fi</string>
     <string name="cit_tool_wlan_test_title">Test Wi-Fi</string>
     <string name="cit_tool_wlan_tx_ax_gI">Intervallo di Guardia:</string>
+    <string name="cit_tool_wlan_tx_bg">Tx: a/b/g</string>
     <string name="cit_tool_wlan_tx_bg_chan">canale:</string>
     <string name="cit_tool_wlan_tx_bg_txpr">potenza tx:</string>
     <string name="cit_tool_wlan_tx_bg_txrt">velocità dati:</string>
