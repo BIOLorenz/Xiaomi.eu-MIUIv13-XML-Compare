@@ -310,6 +310,7 @@ Selezione"</string>
     <string name="change_pin_confirm_pins_dont_match">"I PIN non corrispondono"</string>
     <string name="change_pin_continue_label">Continua</string>
     <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="charge_length_format">%1$s fa</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
@@ -388,6 +389,8 @@ Selezione"</string>
     <string name="close_dialog">OK</string>
     <string name="close_profile">Chiudi</string>
     <string name="config_default_data_sim">Impostazioni</string>
+    <string name="config_simUnlockUiClass">\@null</string>
+    <string name="config_simUnlockUiPackage">\@null</string>
     <string name="confirm_enable_oem_unlock_text">AVVISO. Le funzioni di protezione del dispositivo non funzionano su questo dispositivo se questa impostazione è attiva.</string>
     <string name="confirm_enable_oem_unlock_title">Consentire lo sblocco OEM?</string>
     <string name="confirm_password_label">Conferma nuova password</string>
@@ -430,7 +433,7 @@ Selezione"</string>
     <string name="data_connection_lte">LTE</string>
     <string name="data_connection_lte_plus">LTE+</string>
     <string name="data_enabled">Dati Mobili</string>
-    <string name="data_usage_disable_mobile">Disattivare dati mobili?</string>
+    <string name="data_usage_disable_mobile">Disattivare dati?</string>
     <string name="data_usage_ota">Aggiornamenti di sistema</string>
     <string name="data_usage_title">Utilizzo dati app</string>
     <string name="data_usage_uninstalled_apps">Applicazioni rimosse</string>
@@ -761,7 +764,7 @@ Selezione"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare gli elementi"</string>
     <string name="mobile_advanced_ip_address_title">Indirizzo IP</string>
     <string name="mobile_data_always_on">Dati mobili sempre attivi</string>
-    <string name="mobile_data_always_on_summary">Mantieni sempre i dati mobili attivi, anche se il Wi‑Fi è attivo (per un passaggio fra reti rapido)</string>
+    <string name="mobile_data_always_on_summary">Mantieni sempre i dati attivi, anche se il Wi‑Fi è attivo (per un passaggio fra reti rapido)</string>
     <string name="mobile_data_settings_summary">Accedi ai dati usando la rete dati mobile</string>
     <string name="mobile_data_settings_title">Dati Mobili</string>
     <string name="mock_location_app">Seleziona app di posizione fittizia</string>
@@ -876,7 +879,7 @@ Selezione"</string>
     <string name="network_lte_pure">LTE</string>
     <string name="network_operator_category">Rete</string>
     <string name="network_select_title">Rete</string>
-    <string name="network_settings_information">Disattivare dati mobili?</string>
+    <string name="network_settings_information">Disattivare dati?</string>
     <string name="network_settings_next">Successivo</string>
     <string name="network_settings_title">Rete mobile</string>
     <string name="network_settings_turn_off">Spenta</string>
