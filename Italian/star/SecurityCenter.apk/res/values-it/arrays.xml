@@ -72,10 +72,10 @@
         <item>Carta Tencent</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>"Ieri (dati mobili) "</item>
-        <item>"Oggi (dati mobili) "</item>
-        <item>"Ultimo mese (dati mobili) "</item>
-        <item>"Questo mese (dati mobili) "</item>
+        <item>"Ieri (dati) "</item>
+        <item>"Oggi (dati) "</item>
+        <item>"Ultimo mese (dati) "</item>
+        <item>"Questo mese (dati) "</item>
         <item>"Ieri (Wi-Fi) "</item>
         <item>"Oggi (Wi-Fi) "</item>
         <item>"Ultimo mese (Wi-Fi) "</item>
@@ -150,7 +150,7 @@
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Mostra avviso</item>
-        <item>Avvisa e disattiva i dati mobili</item>
+        <item>Avvisa e disattiva i dati</item>
     </string-array>
     <string-array name="pc_fast_charge_entry">
         <item>10%</item>
@@ -224,7 +224,7 @@
         <item>Piano dati illimitato</item>
     </string-array>
     <string-array name="traffic_type">
-        <item>"Utilizzo dati mobili "</item>
+        <item>"Utilizzo dati "</item>
         <item>"Utilizzo Wi-Fi "</item>
     </string-array>
 </resources>
