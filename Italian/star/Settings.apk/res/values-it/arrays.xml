@@ -971,9 +971,9 @@
         <item>Imposta ciclo di utilizzo...</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>"Oggi (dati mobili) "</item>
-        <item>"Questo mese (dati mobili) "</item>
-        <item>"Ultimo mese (dati mobili) "</item>
+        <item>"Oggi (dati) "</item>
+        <item>"Questo mese (dati) "</item>
+        <item>"Ultimo mese (dati) "</item>
         <item>"Oggi (Wi-Fi) "</item>
         <item>"Questo mese (Wi-Fi) "</item>
         <item>"Ultimo mese (Wi-Fi) "</item>
@@ -1918,7 +1918,7 @@ Nota: solo per Ubuntu 8.04!"</item>
         <item>Estrema</item>
     </string-array>
     <string-array name="traffic_type">
-        <item>"Utilizzo dati mobili "</item>
+        <item>"Utilizzo dati "</item>
         <item>"Utilizzo Wi-Fi "</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
@@ -2135,8 +2135,8 @@ Nota: solo per Ubuntu 8.04!"</item>
         <item>Piena</item>
     </string-array>
     <string-array name="wifi_link_turbo_mode_summary_entries">
-        <item>Aumenta la velocità utilizzando i dati mobili solo quando il segnale Wi-Fi è scadente</item>
-        <item>Combina Wi-Fi e dati mobili per aumentare la velocità di connessione</item>
+        <item>Aumenta la velocità utilizzando i dati solo quando il segnale Wi-Fi è scadente</item>
+        <item>Combina Wi-Fi e dati per aumentare la velocità di connessione</item>
     </string-array>
     <string-array name="wifi_metered_entries">
         <item>Rileva automaticamente</item>
