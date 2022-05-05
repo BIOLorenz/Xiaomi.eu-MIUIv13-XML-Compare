@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="date_time">EEE, dd MMMM</string>
+    <string name="date_time_12">EEE, dd MMMM</string>
     <string name="weather_type_null">'Nessun dato'</string>
     <string name="weather_type_0">Cancella</string>
     <string name="weather_type_1">Nuvoloso</string>
