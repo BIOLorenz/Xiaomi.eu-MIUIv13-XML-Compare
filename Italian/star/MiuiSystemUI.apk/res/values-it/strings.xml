@@ -1410,6 +1410,7 @@ Riprova tra %2$d secondi."</string>
     <string name="lb_playback_controls_thumb_down_outline">Seleziona Pollice Giù</string>
     <string name="lb_playback_controls_thumb_up">Deseleziona Pollice Su</string>
     <string name="lb_playback_controls_thumb_up_outline">Seleziona Pollice Su</string>
+    <string name="lb_playback_time_separator">/</string>
     <string name="lb_search_bar_hint">Cerca</string>
     <string name="lb_search_bar_hint_speech">Parla per cercare</string>
     <string name="lb_search_bar_hint_with_title">Cerca %1$s</string>
@@ -1581,10 +1582,10 @@ mm"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare gli elementi"</string>
     <string name="mobile_data">Dati Mobili</string>
     <string name="mobile_data_always_on">Dati cellulare sempre attivi</string>
-    <string name="mobile_data_always_on_summary">Mantenere sempre attivi i dati mobili, anche quando il Wi-Fi è attivo (per un cambio di rete rapido).</string>
+    <string name="mobile_data_always_on_summary">Mantenere sempre attivi i dati, anche quando il Wi-Fi è attivo (per un cambio di rete rapido).</string>
     <string name="mobile_data_disable_message">Non avrai accesso ai dati o a internet tramite %s. Internet sarà disponibile solo tramite Wi-Fi.</string>
     <string name="mobile_data_disable_message_default_carrier">il tuo operatore</string>
-    <string name="mobile_data_disable_title">Disattivare dati mobili?</string>
+    <string name="mobile_data_disable_title">Disattivare dati?</string>
     <string name="mock_location_app">Seleziona app per false localizzazioni</string>
     <string name="mock_location_app_not_set">Nessuna app impostata su false localizzazioni</string>
     <string name="mock_location_app_set">App con false localizzazioni: %1$s</string>
@@ -2020,8 +2021,8 @@ Se hai domande, contatta %2$s."</string>
     <string name="quick_settings_cellular_detail_data_usage">Utilizzo dati</string>
     <string name="quick_settings_cellular_detail_data_used">%s utilizzati</string>
     <string name="quick_settings_cellular_detail_data_warning">%s attenzione</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnoff">I dati mobili (WCDMA/LTE) saranno disattivati. A meno che non si utilizzi il Wi-Fi, non sarà più possibile utilizzare applicazioni che richiedono la connessione dati. L\'invio o la ricezione di messaggi multimediali saranno limitati.</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnon">I dati mobili saranno attivati. La connessione alle reti mobili potrebbe comportare costi aggiuntivi a seconda del piano di pagamento.</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff">I dati (WCDMA/LTE) saranno disattivati. A meno che non si utilizzi il Wi-Fi, non sarà più possibile utilizzare applicazioni che richiedono la connessione dati. L\'invio o la ricezione di messaggi multimediali saranno limitati.</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnon">I dati saranno attivati. La connessione alle reti mobili potrebbe comportare costi aggiuntivi a seconda del piano di pagamento.</string>
     <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Annulla</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_ok">OK</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Disattiva</string>
