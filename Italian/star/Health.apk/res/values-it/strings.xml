@@ -277,6 +277,7 @@
     <string name="diastolic_pressure">Diastolica</string>
     <string name="disable">Spenta</string>
     <string name="discard_update">Non ora</string>
+    <string name="divider">/</string>
     <string name="download_apk">Scaricamento %s…</string>
     <string name="download_background">Scarica</string>
     <string name="dream_talk_title">Hai parlato</string>
@@ -366,6 +367,7 @@
     <string name="fmt_weekday_date_timezone">zDW</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
+    <string name="forward_slash">/</string>
     <string name="freestyle">Stile Libero</string>
     <string name="friday">Venerdì</string>
     <string name="friday_short">Ven</string>
@@ -532,6 +534,7 @@ Inizia da capo."</string>
     <string name="mi_health">Xiaomi Salute</string>
     <string name="mi_sport">Mi Fit</string>
     <string name="mi_sports">Mi Fit</string>
+    <string name="miao_course_progress_info">%1$d/%2$d</string>
     <string name="middle">Media</string>
     <string name="midnight">Notte</string>
     <string name="mild_abnormal_tip">3 giorni a settimana dopo essersi alzati e prima di andare a letto</string>
@@ -636,6 +639,7 @@ Inizia da capo."</string>
     <string name="not_save">Annulla modifiche</string>
     <string name="not_save_aid_file_desc">Tutte le modifiche non salvate andranno perse.</string>
     <string name="not_set">Non impostato</string>
+    <string name="number_divided">%1$d/%2$d</string>
     <string name="oauth_account_failed">"Impossibile ottenere informazioni sull'account"</string>
     <string name="oauth_invalid">Sessione scaduta, accedi di nuovo.</string>
     <string name="ok">OK</string>
@@ -647,6 +651,7 @@ Inizia da capo."</string>
     <string name="outdoor_hiking">Escursionismo</string>
     <string name="outdoor_running">In esecuzione</string>
     <string name="outdoor_walking">Camminata</string>
+    <string name="page">%1$d/%2$d</string>
     <string name="passable">OK</string>
     <string name="passport_oauth_actionbar_title">Account</string>
     <string name="password_toggle_content_description">Mostra password</string>
