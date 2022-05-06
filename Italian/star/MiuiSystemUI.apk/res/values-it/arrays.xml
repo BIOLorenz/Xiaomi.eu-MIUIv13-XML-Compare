@@ -748,6 +748,11 @@
         <item>Controlla solo per contenuti DRM</item>
         <item>Controlla sempre</item>
     </string-array>
+    <string-array name="hdcp_checking_values">
+        <item>never</item>
+        <item>drm-only</item>
+        <item>always</item>
+    </string-array>
     <string-array name="important_section_whitelist">
         <item>com.tencent.mm</item>
         <item>com.android.mms</item>
