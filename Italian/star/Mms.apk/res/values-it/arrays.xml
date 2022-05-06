@@ -108,6 +108,11 @@
         <item>Solo in modalità silenziosa</item>
         <item>Mai</item>
     </string-array>
+    <string-array name="prefValues_vibrateWhen">
+        <item>always</item>
+        <item>silent</item>
+        <item>never</item>
+    </string-array>
     <string-array name="privacy_update_5g_mms">
         <item>@string/privacy_dialog_tips_update</item>
         <item>@string/privacy_dialog_text_policy_link</item>
