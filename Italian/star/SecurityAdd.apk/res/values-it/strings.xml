@@ -439,6 +439,8 @@
     <string name="parent_center_app_sure">Determina</string>
     <string name="parent_center_app_time_range_2">Fine settimana</string>
     <string name="parent_center_default_home_confirm">Determina</string>
+    <string name="password_change_value_preference_desc">La password iniziale della schermata di blocco dello Spazio verrà utilizzata per la verifica quando si esce dallo Spazio dei bambini</string>
+    <string name="password_change_value_preference_title">Modifica la password</string>
     <string name="password_toggle_content_description">Mostra password</string>
     <string name="pc_activity_title">Ottimizza batteria</string>
     <string name="pm_lable_name">Informazioni sui permessi root</string>
