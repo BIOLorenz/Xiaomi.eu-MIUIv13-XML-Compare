@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="accessibility_button_gesture_selector_titles">
+        <item>Pulsante</item>
+        <item>Gesto</item>
+    </string-array>
     <string-array name="accessibility_button_location_selector_titles">
-        <item>Floating over other apps</item>
+        <item>Fluttuante su altre app</item>
         <item>Barra di navigazione</item>
     </string-array>
     <string-array name="accessibility_button_size_selector_titles">
         <item>Piccolo</item>
         <item>Largo</item>
+    </string-array>
+    <string-array name="agps_apn_entries">
+        <item>CMWAP</item>
+        <item>CMNET</item>
     </string-array>
     <string-array name="agps_network_entries">
         <item>Rete domestica</item>
@@ -16,6 +24,10 @@
         <item>SCOTTANTI</item>
         <item>WARM</item>
         <item>COLD</item>
+    </string-array>
+    <string-array name="agps_si_mode_entries">
+        <item>MSB</item>
+        <item>MSA</item>
     </string-array>
     <string-array name="ai_item_action_array">
         <item>Nessuno</item>
@@ -78,6 +90,16 @@
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP o CHAP</item>
+    </string-array>
+    <string-array name="apn_not_allowed_entries">
+        <item>internet</item>
+        <item>ims</item>
+        <item>tethering</item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Memoria interna</item>
@@ -146,7 +168,7 @@
         <item>Proietta media</item>
         <item>Attiva VPN</item>
         <item>Imposta sfondo</item>
-        <item>Assist structure</item>
+        <item>Assistenza struttura</item>
         <item>Assistenza screenshot</item>
         <item>Lettura stato telefono</item>
         <item>Aggiungi segreteria</item>
@@ -193,42 +215,42 @@
         <item>camera</item>
         <item>accesso diretto al microfono per registrare audio</item>
         <item>riproduci audio</item>
-        <item>read clipboard</item>
-        <item>modify clipboard</item>
-        <item>media buttons</item>
-        <item>audio focus</item>
-        <item>master volume</item>
-        <item>voice volume</item>
-        <item>ring volume</item>
-        <item>media volume</item>
-        <item>alarm volume</item>
-        <item>notification volume</item>
-        <item>bluetooth volume</item>
-        <item>keep awake</item>
-        <item>monitor location</item>
-        <item>monitor high power location</item>
-        <item>get usage stats</item>
-        <item>mute/unmute microphone</item>
-        <item>show toast</item>
-        <item>project media</item>
-        <item>activate VPN</item>
-        <item>write wallpaper</item>
-        <item>assist structure</item>
-        <item>assist screenshot</item>
-        <item>read phone state</item>
+        <item>leggere gli appunti</item>
+        <item>modificare gli appunti</item>
+        <item>pulsanti multimediali</item>
+        <item>focalizzazione audio</item>
+        <item>volume principale</item>
+        <item>volume voce</item>
+        <item>volume suoneria</item>
+        <item>volume multimediale</item>
+        <item>volume sveglia</item>
+        <item>volume notifica</item>
+        <item>volume bluetooth</item>
+        <item>mantieni attivo</item>
+        <item>monitora posizione</item>
+        <item>monitoraggio posizione ad alta precisione</item>
+        <item>ottieni statistiche di utilizzo</item>
+        <item>attiva/disattiva microfono</item>
+        <item>mostra finestra toast</item>
+        <item>proietta media</item>
+        <item>attiva VPN</item>
+        <item>imposta sfondo</item>
+        <item>assistenza struttura</item>
+        <item>assistenza screenshot</item>
+        <item>leggere lo stato del telefono</item>
         <item>aggiunta di un messaggio vocale</item>
-        <item>use sip</item>
-        <item>process outgoing call</item>
-        <item>fingerprint</item>
-        <item>body sensors</item>
-        <item>read cell broadcasts</item>
-        <item>mock location</item>
-        <item>read storage</item>
-        <item>write storage</item>
-        <item>turn on screen</item>
-        <item>get accounts</item>
-        <item>run in background</item>
-        <item>accessibility volume</item>
+        <item>usa sip</item>
+        <item>processa chiamata in uscita</item>
+        <item>impronta</item>
+        <item>sensori biometrici</item>
+        <item>leggi trasmissione cella</item>
+        <item>posizione fittizia</item>
+        <item>leggi memoria</item>
+        <item>scrivi memoria</item>
+        <item>attiva lo schermo</item>
+        <item>ottieni account</item>
+        <item>esegui in background</item>
+        <item>volume accessibilità</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Limite standard</item>
@@ -1040,6 +1062,12 @@
         <item>10 minuti</item>
         <item>30 minuti</item>
     </string-array>
+    <string-array name="eap_method_without_sim_auth">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
     <string-array name="eap_ocsp_type">
         <item>Non convalidare</item>
         <item>Richiedi stato certificato</item>
@@ -1093,6 +1121,19 @@
         <item>Controlla solo per contenuti DRM</item>
         <item>Controlla sempre</item>
     </string-array>
+    <string-array name="hdcp_checking_values">
+        <item>never</item>
+        <item>drm-only</item>
+        <item>always</item>
+    </string-array>
+    <string-array name="inputdebuglog_select_level_entries">
+        <item>Livello 0</item>
+        <item>Livello 1</item>
+        <item>Livello 2</item>
+        <item>Livello 3</item>
+        <item>Livello 4</item>
+        <item>Livello 5</item>
+    </string-array>
     <string-array name="keyguard_notification_status_entries">
         <item>"Non riattivare lo schermo"</item>
         <item>Attivazione schermo</item>
@@ -1137,7 +1178,7 @@
         <item>Mai</item>
     </string-array>
     <string-array name="long_press_timeout_selector_list_titles">
-        <item>Short</item>
+        <item>Breve</item>
         <item>Media</item>
         <item>Lungo</item>
     </string-array>
@@ -1179,6 +1220,14 @@
         <item>Rosa</item>
         <item>Viola</item>
         <item>Viola</item>
+    </string-array>
+    <string-array name="mi2_wifi_security">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wep</item>
+        <item>@string/wifi_security_psk_generic</item>
+        <item>@string/wifi_security_eap</item>
+        <item>WAPI PSK</item>
+        <item>WAPI CERT</item>
     </string-array>
     <string-array name="miui_entries_font_size">
         <item>XS</item>
@@ -2060,6 +2109,12 @@ Nota: solo per Ubuntu 8.04!"</item>
         <item>Tempo scaduto. Riprova…</item>
         <item>Dispositivo connesso</item>
     </string-array>
+    <string-array name="when_to_start_screensaver_values">
+        <item>while_charging_only</item>
+        <item>while_docked_only</item>
+        <item>either_charging_or_docked</item>
+        <item>never</item>
+    </string-array>
     <string-array name="whetstone_level_entries">
         <item>Spenta</item>
         <item>Bassa</item>
@@ -2095,6 +2150,12 @@ Nota: solo per Ubuntu 8.04!"</item>
         <item>Connetti automaticamente</item>
         <item>Connetti manualmente</item>
         <item>Chiedi sempre</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
     </string-array>
     <string-array name="wifi_eap_method">
         <item>PEAP</item>
@@ -2171,6 +2232,16 @@ Nota: solo per Ubuntu 8.04!"</item>
         <item>Manuale</item>
         <item>Configurazione Automatica Proxy</item>
     </string-array>
+    <string-array name="wifi_security_no_eap">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wep</item>
+        <item>@string/wifi_security_psk_generic</item>
+        <item>WAPI PSK</item>
+        <item>WAPI CERT</item>
+    </string-array>
+    <string-array name="wifi_security_only_wapi_cert_entries">
+        <item>WAPI CERT</item>
+    </string-array>
     <string-array name="wifi_signal">
         <item>Scarsa</item>
         <item>Scarsa</item>
@@ -2215,6 +2286,12 @@ Nota: solo per Ubuntu 8.04!"</item>
         <item>0</item>
         <item>1</item>
         <item>0</item>
+    </string-array>
+    <string-array name="wifi_ttls_phase2_entries">
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
     </string-array>
     <string-array name="wifi_wapi_key_type">
         <item>WAPI ASCII</item>
