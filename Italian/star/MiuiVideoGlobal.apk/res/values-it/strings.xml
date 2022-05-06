@@ -1015,6 +1015,7 @@ per i video"</string>
     <string name="offline_opt_in_decline">Non ora</string>
     <string name="ok">OK</string>
     <string name="on_tip_firework_recommend">"Riceverai consigli di contenuti personalizzati da Fireworks"</string>
+    <string name="online_play_hint">Per esempio: http://www.example.com/video.mp4</string>
     <string name="online_play_title">Perfavore inserisic il link url del calendario</string>
     <string name="open_settings">Impostazioni</string>
     <string name="order_recently_subscribe">Iscrizioni recenti</string>
