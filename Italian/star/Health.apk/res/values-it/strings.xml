@@ -1000,6 +1000,7 @@ Inizia da capo."</string>
     <string name="user_invalid_value">--</string>
     <string name="v7_preference_off">DISATTIVATO</string>
     <string name="v7_preference_on">ATTIVATO</string>
+    <string name="value_error_correct">Modifica registro</string>
     <string name="visceral_fat">Grasso viscerale</string>
     <string name="visceral_fat_descripe_content">Il grasso viscerale è essenziale per stabilizzare e proteggere gli organi interni, ma, se elevato, aumenta il rischio di malattie cardiovascolari e metaboliche.</string>
     <string name="volume_normal">OK</string>
