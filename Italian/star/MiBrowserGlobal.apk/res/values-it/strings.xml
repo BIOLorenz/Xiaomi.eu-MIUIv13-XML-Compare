@@ -414,6 +414,7 @@ Disattiva per fermare la sincronizzazione."</string>
     <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
     <string name="common_use_phrase_bottom_bar_text_next">Successivo</string>
     <string name="common_use_phrase_bottom_bar_text_previous">Prec.</string>
+    <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
     <string name="confirm">OK</string>
     <string name="confirm_activate_email">Verificato</string>
     <string name="confirm_bundled_phone_dialog_title">Conferma numero di telefono associato</string>
