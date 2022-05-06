@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="APN_NAME_CMNET">CMNET</string>
+    <string name="APN_NAME_CMWAP">CMWAP</string>
     <string name="APN_NAME_CTLTE">CTLTE</string>
     <string name="Accounts_settings_title">Account</string>
     <string name="Sound_Settings">Effetti sonori</string>
@@ -577,7 +579,9 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
     <string name="aod_to_close">Disattiva</string>
     <string name="ap_connect_failed">"Connessione fallita"</string>
     <string name="apn_auth_type">Tipo di autenticazione</string>
+    <string name="apn_auth_type_chap">CHAP</string>
     <string name="apn_auth_type_none">Nessuno</string>
+    <string name="apn_auth_type_pap">PAP</string>
     <string name="apn_auth_type_pap_chap">PAP o CHAP</string>
     <string name="apn_chinaunicom_3gnet_general">Migliora la connessione 3G</string>
     <string name="apn_chinaunicom_3gwap_general">Migliora la connessione ad internet 3G</string>
@@ -4134,6 +4138,7 @@ Apri Xiaomi Cloud e ripristina gli elementi da lì."</string>
     <string name="location_agps_apn_choose_dialog_title">Tipo di APN</string>
     <string name="location_agps_apn_summary">Scegli i tipi di APN</string>
     <string name="location_agps_apn_type">Tipo di APN</string>
+    <string name="location_agps_def_location_mode">MSB</string>
     <string name="location_agps_def_reset_type">SCOTTANTI</string>
     <string name="location_agps_params_settings_title">Impostazioni A-GPS</string>
     <string name="location_agps_pref_apn_title">APN preferito</string>
@@ -7313,6 +7318,7 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
     <string name="status_imei">IMEI</string>
     <string name="status_latest_area_info">Info operatore</string>
     <string name="status_meid_number">MEID</string>
+    <string name="status_min_number">MIN</string>
     <string name="status_number">Numero di telefono</string>
     <string name="status_number_sim_slot">Numero di telefono (slot sim %1$d)</string>
     <string name="status_number_sim_status">Numero di telefono sulla SIM</string>
@@ -8976,6 +8982,8 @@ Consentire questo per tutte le applicazioni che vogliono scansionare?"</string>
     <string name="wifi_scan_throttling">Limitazione scansione Wi-Fi</string>
     <string name="wifi_scan_throttling_summary">Riduce il consumo della batteria e migliora le prestazioni di rete</string>
     <string name="wifi_security">Sicurezza</string>
+    <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
+    <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_eap_suiteb">WPA3-Enterprise</string>
     <string name="wifi_security_eap_wpa">WPA-Enterprise</string>
@@ -8988,6 +8996,8 @@ Consentire questo per tutte le applicazioni che vogliono scansionare?"</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_security_psk_sae">WPA2/WPA3-Personal</string>
     <string name="wifi_security_sae">SAE</string>
+    <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
+    <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_short_eap_suiteb">Suite-B-192</string>
     <string name="wifi_security_short_eap_wpa">WPA-EAP</string>
