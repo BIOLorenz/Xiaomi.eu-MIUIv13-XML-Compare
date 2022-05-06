@@ -23,6 +23,36 @@
         <item>Nov</item>
         <item>Dic</item>
     </string-array>
+    <string-array name="alphabet_chars">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+        <item>∅</item>
+    </string-array>
     <string-array name="calendar_remind_string_array">
         <item>Stanotte</item>
         <item>domani</item>
@@ -46,11 +76,11 @@
         <item>LOGIN user in black list</item>
         <item>LOGIN failed. Account is blocked. Login to your account via a web browser to verify your identity.</item>
         <item>LOGIN user in black list</item>
-        <item>LOGIN errno:1412 status=51 The password is not changed for a long time. Please modify the password. http://mail.10086.cn</item>
+        <item>LOGIN errno:1412 status=51 La password non viene modificata da molto tempo. Si prega di modificare la password. http://mail.10086.cn</item>
         <item>LOGIN imap4 nosupport</item>
         <item>LOGIN failed. Account is blocked. Login to your account via a web browser to verify your identity.</item>
         <item>ERR Invalid login user or password</item>
-        <item>Login fail. Please using app password to login. More information at http://service.exmail.qq.com/cgi-bin/help?subtype=1&amp;&amp;id=10000&amp;&amp;no=1001494</item>
+        <item>Accesso fallito. Utilizzare la password dell\'app per effettuare il login. Ulteriori informazioni su http://service.exmail.qq.com/cgi-bin/help?subtype=1&amp;&amp;id=10000&amp;&amp;no=1001494</item>
         <item>ERR custom pop3 off</item>
         <item>LOGIN Login error user name or password error</item>
         <item>Invalid login or password</item>
@@ -156,5 +186,10 @@
         <item>Questa email</item>
         <item>Avviso</item>
         <item>Avviso email</item>
+    </string-array>
+    <string-array name="smtp_host_prefixes">
+        <item>pop3</item>
+        <item>pop</item>
+        <item>imap</item>
     </string-array>
 </resources>
