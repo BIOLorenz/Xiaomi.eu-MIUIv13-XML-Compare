@@ -384,6 +384,7 @@ Selezione"</string>
     <string name="choose_profile">Scegli profilo</string>
     <string name="clear_adb_keys">Revoca autorizzazioni debug USB</string>
     <string name="clearable_edittext_clear_description">Cancella</string>
+    <string name="clh_callFailed_invalid_transaction_identifier_value_txt">"Impossibile completare la chiamata. Codice errore 81."</string>
     <string name="clh_callFailed_powerOff_txt">Radio disattivo</string>
     <string name="close">Chiudi</string>
     <string name="close_dialog">OK</string>
@@ -1047,10 +1048,14 @@ Il tuo telefono verrà bloccato automaticamente dopo un altro tentativo fallito"
     <string name="puk_lock_warning">"
 La tua SIM sarà bloccata dopo un altro tentativo fallito."</string>
     <string name="quick_dial_setting_title">Chiamata rapida</string>
+    <string name="radioInfo_cid">CID</string>
     <string name="radioInfo_data_connected">Connesso</string>
     <string name="radioInfo_data_connecting">Connessione</string>
     <string name="radioInfo_data_disconnected">Disconnesso</string>
     <string name="radioInfo_data_suspended">Sospeso</string>
+    <string name="radioInfo_display_asu">asu</string>
+    <string name="radioInfo_display_dbm">dBm</string>
+    <string name="radioInfo_lac">LAC</string>
     <string name="radioInfo_phone_idle">Inattivo</string>
     <string name="radioInfo_phone_offhook">Chiamata in corso</string>
     <string name="radioInfo_phone_ringing">Chiamata in corso</string>
