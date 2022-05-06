@@ -1839,6 +1839,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="photo_editor_talkback_crop_original">Originale</string>
     <string name="photo_editor_talkback_crop_reset">Azzera</string>
     <string name="photo_editor_talkback_crop_rotate">Ruotare</string>
+    <string name="photo_editor_talkback_crop_scale_default_value">Il valore predefinito prima della rotazione è 0 gradi</string>
     <string name="photo_editor_talkback_crop_screen">Schermo intero</string>
     <string name="photo_editor_talkback_doodle_arrow">Freccia</string>
     <string name="photo_editor_talkback_doodle_circular">Cerchio</string>
