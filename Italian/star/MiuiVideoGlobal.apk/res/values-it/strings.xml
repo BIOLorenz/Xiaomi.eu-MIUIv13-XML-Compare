@@ -570,6 +570,7 @@ Invia questo codice al supervisore."</string>
     <string name="galleryplus_gallery_video_no_music_text">Nessuno</string>
     <string name="galleryplus_gallery_video_operate_text">Regolazioni Slow-motion</string>
     <string name="galleryplus_gallery_video_save_video">Creazione video…</string>
+    <string name="galleryplus_gallery_video_slow_edit">Slow-motion</string>
     <string name="galleryplus_gallery_view_tags">Mostra segnalini</string>
     <string name="galleryplus_is_higher_definition">Anteprima HD</string>
     <string name="galleryplus_network_connect_check">"Impossibile connettersi alla rete"</string>
@@ -717,6 +718,7 @@ per i video"</string>
     <string name="lp_video_info_title">Dati</string>
     <string name="lp_video_zoom_crop">Ritaglia</string>
     <string name="lp_video_zoom_stretch">Allungato</string>
+    <string name="lp_video_zoom_title">Zoom</string>
     <string name="lv_advance_sound">Attiva miglioramento audio</string>
     <string name="lv_airkan_control_device_des">Per controllare la riproduzione, tocca la barra in basso.</string>
     <string name="lv_airkan_device_xiaomi_phone">Il mio Telefono Mi</string>
