@@ -380,6 +380,7 @@
     <string name="resolver_recommended_app_name">%1$s&lt;font color=#0099ff&gt;&lt;br/&gt;(%2$s)&lt;/font&gt;</string>
     <string name="resource_select">Seleziona</string>
     <string name="reveries">Inversione (stereo)</string>
+    <string name="robot">Robot</string>
     <string name="rog">ROG</string>
     <string name="rog_phone">ROG</string>
     <string name="samsung">Samsung</string>
@@ -437,6 +438,7 @@
     <string name="small_freeform_check_memory_exception_message">%1$s ha causato un errore di memoria. Chiudere questa app per evitare lag.</string>
     <string name="small_freeform_check_memory_exception_negative_message">Annulla</string>
     <string name="small_freeform_check_memory_exception_positive_message">Chiudi</string>
+    <string name="small_freeform_enter_warning">Finestra fluttuante</string>
     <string name="small_freeform_exit_tip">Chiudi la finestra fluttuante</string>
     <string name="small_freeform_memory_toast_app_type">"Impossibile aprire. Questa app richiede troppa memoria per poter funzionare."</string>
     <string name="small_freeform_memory_toast_game_type">"Impossibile aprire. Questo gioco richiede troppa memoria per poter funzionare."</string>
