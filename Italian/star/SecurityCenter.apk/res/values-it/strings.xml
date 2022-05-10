@@ -1541,6 +1541,7 @@ Comprendi che questa funzione è fornita solo per riferimento. L'avvertimento ch
     <string name="ew_main_open_title">Ricevi avvisi e ottieni aiuto</string>
     <string name="ew_main_place_tips">Scopri dove si trova il riparo di emergenza più vicino ogni volta che ne hai bisogno</string>
     <string name="ew_main_place_title">Ripari di emergenza nelle vicinanze</string>
+    <string name="ew_main_setting_show_desc">Demo</string>
     <string name="ew_main_setting_warning_desc">Maggiori informazioni</string>
     <string name="ew_main_settings">Impostazioni</string>
     <string name="ew_main_warning_all_title">Visualizza avvisi emessi in precedenza</string>
@@ -2095,6 +2096,7 @@ ma aumenta anche il consumo di energia e permette al dispositivo di surriscaldar
     <string name="gb_turbo_time_subtitle">Cronometra le tue sessioni</string>
     <string name="gb_turbo_voice_subtitle">Rendi più vivaci le conversazioni</string>
     <string name="gb_turbo_wonder_subtitle">Registra i momenti chiave</string>
+    <string name="gb_voice_change_audition_tip">Demo</string>
     <string name="gb_voice_change_settinged">Cambio voce attivo</string>
     <string name="gb_voice_changer_cartoon">Cartoni animati</string>
     <string name="gb_voice_changer_dialog_upgrade_vip">Rinnova il tuo abbonamento per poter utilizzare la Risposta in tempo reale.</string>
@@ -2113,6 +2115,7 @@ ma aumenta anche il consumo di energia e permette al dispositivo di surriscaldar
     <string name="gb_voice_changer_permission_dlg_title">Permessi richiesti</string>
     <string name="gb_voice_changer_recommend">Consigliato</string>
     <string name="gb_voice_changer_renew_dailog">Rinnova il tuo abbonamento per poter utilizzare questo effetto.</string>
+    <string name="gb_voice_changer_robot">Robot</string>
     <string name="gb_voice_changer_setting_account_title">Account</string>
     <string name="gb_voice_changer_setting_become_vip">Iscriviti</string>
     <string name="gb_voice_changer_setting_gender_subtitle">Regola gli effetti e i consigli al genere selezionato</string>
@@ -2245,6 +2248,7 @@ e prova a Cambiare Voce!"</string>
     <string name="gtb_garbage_clean">Libera la memoria</string>
     <string name="gtb_guide_finish">Salta</string>
     <string name="gtb_guide_gtb_button_done">Fatto</string>
+    <string name="gtb_guide_gtb_community_title">Community</string>
     <string name="gtb_guide_gtb_func_title">Turbo videogiochi</string>
     <string name="gtb_guide_gtb_game_effected">Applicato</string>
     <string name="gtb_guide_gtb_game_new">Nuovo</string>
@@ -5070,6 +5074,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="vb_video_effects_setting_grim">Freddo</string>
     <string name="vb_video_effects_setting_hdr">HDR</string>
     <string name="vb_video_effects_setting_knight">Metal</string>
+    <string name="vb_video_effects_setting_mecha">Robot</string>
     <string name="vb_video_effects_setting_nostalgia">Nostalgico</string>
     <string name="vb_video_effects_setting_old_movie">Retrò</string>
     <string name="vb_video_effects_setting_outside">All\'aperto</string>
