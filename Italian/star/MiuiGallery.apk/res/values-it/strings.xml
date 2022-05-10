@@ -53,6 +53,7 @@
     <string name="add_automatically_alert_title">Aggiungi automaticamente le foto</string>
     <string name="add_nomedia_with_move_to_rubbish">Aggiungi file \".nomedia\" agli album selezionati per renderli invisibili ad altre applicazioni</string>
     <string name="add_remove_nomedia_dialog_message">"Aggiungi file \".nomedia\" agli album selezionati? Le altre applicazioni non saranno in grado di vedere questi album dopo questo."</string>
+    <string name="add_secret_ensure_message_new">Per visualizzare le foto che hai reso private, scorri verso il basso in \"Album\".</string>
     <string name="add_secret_ensure_title">Nascondi</string>
     <string name="add_sharer">Aggiungi partecipante alla condivisione</string>
     <string name="add_to_album">Aggiungi all\'album</string>
@@ -144,6 +145,8 @@
     <string name="album_permission_activity_title">Gestione permessi</string>
     <string name="album_permission_state_granted">Concesso</string>
     <string name="album_permission_state_non_granted">Concedi</string>
+    <string name="album_permission_subtitle_single">%2$d album (%1$s)</string>
+    <string name="album_permission_tip_text">Galleria ha bisogno dei permessi per poter sincronizzare, modificare e gestire gli elementi mostrati di seguito.</string>
     <string name="album_permission_title_granted">Concesso</string>
     <string name="album_permission_title_non_granted">Non concesso</string>
     <string name="album_quota_fulfiled">Impossibile creare l\'album, è stato raggiunto il numero massimo.</string>
@@ -152,7 +155,9 @@
     <string name="album_rubbish_page_title">Cestino</string>
     <string name="album_rubbish_tip_title">Possibile album duplicato</string>
     <string name="album_scanner">Scanner</string>
+    <string name="album_screen_record">Registrazioni schermo</string>
     <string name="album_screen_recorder">Registrazione Schermo</string>
+    <string name="album_screenshot_and_screen_recorder_name">Screenshot e registrazioni dello schermo</string>
     <string name="album_screenshot_name">Screenshot</string>
     <string name="album_share_cant_move_to_rubbish_tip">"Impossibile spostare gli album condivisi nel cestino"</string>
     <string name="album_share_exit_confirm">Confermi di voler annullare la condivisione di questo album?</string>
@@ -185,6 +190,7 @@
     <string name="alert_secret_album_enter">Ok</string>
     <string name="alert_secret_album_message">Puoi sfogliare l\'album Mi Cloud nell\'album privato.</string>
     <string name="alert_secret_album_message_lower_case"> scorri in basso nell\'Album per vedere gli album nascosti.</string>
+    <string name="alert_secret_album_message_new">Scorri verso il basso in \"Album\" per visualizzare gli elementi privati.</string>
     <string name="alert_secret_album_title">Album Privato</string>
     <string name="alert_secret_album_title_new">Aggiunto con successo</string>
     <string name="alert_selection_description">L\'IA segnalerà con una stella la foto migliore tra quelle simili.</string>
@@ -199,6 +205,8 @@
     <string name="and"> e </string>
     <string name="annual_babies_title">Crescono così velocemente</string>
     <string name="annual_group_people_title">Insieme</string>
+    <string name="annual_pets_title">Zampa a Zampa</string>
+    <string name="annual_year_title">Quest\'anno</string>
     <string name="annula_sports_title">Andare avanti</string>
     <string name="app_is_launching">%s in fase di avvio…</string>
     <string name="app_is_launching_common">Avvio app…</string>
@@ -206,6 +214,7 @@
     <string name="app_name_view_picture">Mostra immagine</string>
     <string name="app_name_view_video">Mostra video</string>
     <string name="app_summary">Gestire e modificare le foto e i video sul tuo dispositivo e su Xiaomi Cloud</string>
+    <string name="app_summary_2">Archiviare, gestire e modificare foto e video su questo dispositivo</string>
     <string name="apply">Applica</string>
     <string name="art_still_download_failed_for_notwork">"Impossibile scaricare. Controlla le impostazioni di rete e riprova."</string>
     <string name="art_still_download_sdk_without_wifi_msg">"Sembra che il dispositivo non sia connesso al Wi-Fi. Scaricare il plug-in utilizzando i dati?"</string>
@@ -214,6 +223,7 @@
     <string name="art_still_load_data_fail">"Impossibile caricare dati"</string>
     <string name="art_still_module_finish">Plugin \"Arte\" scaricato</string>
     <string name="art_still_module_loading">Download del plugin \"Arte\"…</string>
+    <string name="assistant_page_community">Community</string>
     <string name="assistant_page_discovery">Scopri</string>
     <string name="assistant_page_label">Assistente</string>
     <string name="assistant_page_server_error">Controlla le tue impostazioni di rete</string>
@@ -245,6 +255,7 @@
     <string name="baby_album_sharer_recommand_face">Aggiungere le foto esistenti a %1$s?</string>
     <string name="baby_album_sharers_page_title">Condividi con i familiari</string>
     <string name="baby_birthday">Compleanno</string>
+    <string name="baby_birthday_title">Buon Compleanno!</string>
     <string name="baby_face_desc">Condividi album</string>
     <string name="baby_lock_wallpaper">Sfondo Schermata di blocco</string>
     <string name="baby_lock_wallpaper_cancelled">Sfondo predefinito della schermata di blocco impostato</string>
@@ -277,6 +288,7 @@
     <string name="backup_device_space_low_title">Memoria insufficiente</string>
     <string name="backup_dirty_num">Totale: %s</string>
     <string name="backup_dirty_tip">Backup di foto e video non eseguito</string>
+    <string name="backup_disable_message">Galleria deve cancellare la cache dell\'app perché hai disattivato la sincronizzazione cloud.</string>
     <string name="backup_file_over_size_desc">"Impossibile eseguire il backup per foto più grandi di %1$s e video più grandi di %2$s.\""</string>
     <string name="backup_immediately">Backup</string>
     <string name="backup_need_sync_desc">Premi il tasto per continuare il backup</string>
@@ -338,6 +350,9 @@
     <string name="burst_save_error_msg">"Impossibile salvare"</string>
     <string name="burst_save_processing">Elaborazione…</string>
     <string name="burst_save_video">Salva come video</string>
+    <string name="burst_save_video_choice_1080">%dp</string>
+    <string name="burst_save_video_choice_4k">%dK</string>
+    <string name="burst_save_video_choice_720">%dp</string>
     <string name="burst_save_video_fail">"Impossibile salvare"</string>
     <string name="burst_save_video_progerss">Creazione video…</string>
     <string name="burst_save_video_title">Risoluzione video</string>
@@ -440,9 +455,14 @@
     <string name="chinese_digit_three">3</string>
     <string name="chinese_digit_two">2</string>
     <string name="chinese_digit_zero">0</string>
+    <string name="chinese_dragon_boat_festival">Festival delle Dragon Boat %1$s</string>
     <string name="chinese_dragon_boat_festival_title">Festa delle Dragonboat</string>
+    <string name="chinese_dragon_head_up">Festival di Longtaitou %1$s</string>
+    <string name="chinese_dragon_head_up_title">Festival di Longtaitou</string>
+    <string name="chinese_lantern_festival">Festival delle Lanterne %1$s</string>
     <string name="chinese_lantern_festival_title">Festival della Lanterna</string>
     <string name="chinese_leap">Salto</string>
+    <string name="chinese_mid_automn_festival">Festival di Metà Autunno %1$s</string>
     <string name="chinese_mid_automn_festival_title">Festival di metà autunno</string>
     <string name="chinese_month">Mese</string>
     <string name="chinese_month_april">4</string>
@@ -457,6 +477,10 @@
     <string name="chinese_month_november">11</string>
     <string name="chinese_month_october">10</string>
     <string name="chinese_month_september">9</string>
+    <string name="chinese_new_year">Capodanno Cinese %1$s</string>
+    <string name="chinese_new_year_eve">"Capodanno Cinese %1$s"</string>
+    <string name="chinese_new_year_title">Buon %1$s!</string>
+    <string name="chinese_night_of_sevens">Qixi Festival %1$s</string>
     <string name="chinese_night_of_sevens_title">Festival di Qixi</string>
     <string name="chinese_symbol_animals_chicken">Pollo</string>
     <string name="chinese_symbol_animals_cow">Mucca</string>
@@ -577,7 +601,10 @@
     <string name="clip_menu_remove">Elimina</string>
     <string name="clip_menu_reveerse">Invertito</string>
     <string name="clip_menu_speedx">Velocità</string>
+    <string name="clip_speedX_0.25x">0.25X</string>
+    <string name="clip_speedX_0.5x">0.5X</string>
     <string name="clip_speedX_1x">1X</string>
+    <string name="clip_speedX_2.0x">2.0X</string>
     <string name="close">Chiudi</string>
     <string name="close_dialog_desc">Chiudi finestra di dialogo</string>
     <string name="cloud_action_open">Attiva</string>
@@ -644,6 +671,7 @@
     <string name="collage_rotate">Ruotare</string>
     <string name="collage_select_image_range">I Collage possono contenere da 1 a 4 foto</string>
     <string name="collage_title_layout">Disposizione</string>
+    <string name="collage_title_poster">Poster</string>
     <string name="collage_title_stitching">Film</string>
     <string name="collaps_people">Nascondi</string>
     <string name="com.qzone_com.qzonex.module.operation.ui.QZonePublishMoodActivity">Qzone</string>
@@ -686,8 +714,10 @@
     <string name="create_new_face">Nuovo volto</string>
     <string name="create_quick_icon_on_desk">Crea collegamenti</string>
     <string name="creating_baby_album">Creazione album…</string>
+    <string name="creativity_summary">Mostra funzionalità aggiuntive di creatività e modifica</string>
     <string name="creativity_title">Le mie foto modificate</string>
     <string name="crop_label">Ritaglia</string>
+    <string name="cta_network_declare">Per sincronizzare foto e video con Xiaomi Cloud, questa app deve connettersi a internet.</string>
     <string name="custom_select_title_deselect_all">Deseleziona</string>
     <string name="custom_select_title_quickly_share">Condividi</string>
     <string name="custom_select_title_select_all">Seleziona tutto</string>
@@ -1386,9 +1416,11 @@ per personalizzare la Galleria"</string>
     <string name="mark_operation_succeeded">Aggiunto con successo</string>
     <string name="mark_people_ignore_info_message">Tieni premuto sulle foto delle persone per aggiungerle ad un gruppo</string>
     <string name="media_type_doc_photo">Documenti</string>
+    <string name="media_type_fast_motion_video">Time-lapse</string>
     <string name="media_type_motion_photo">Dinamico</string>
     <string name="media_type_pano_photo">Panorama</string>
     <string name="media_type_portrait_photo">Ritratto</string>
+    <string name="media_type_raw">RAW</string>
     <string name="megabyteShort">MB</string>
     <string name="meizu">Meizu</string>
     <string name="meizu_phone">Meizu</string>
@@ -2321,6 +2353,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="special_type_night_beauty">Ritratto IA a basse luci</string>
     <string name="special_type_night_mode">Modalità notturna IA</string>
     <string name="special_type_portrait">Ritratto dipinto IA</string>
+    <string name="special_type_raw">RAW</string>
     <string name="special_type_real_8k">8K</string>
     <string name="special_type_wide_angle">Ultra Grandangolo IA</string>
     <string name="start_debug">Debug Galleria</string>
@@ -2883,16 +2916,23 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="vlog_save_failed">"Impossibile salvare il video"</string>
     <string name="vlog_save_stop_tips">Tocca di nuovo per annullare il salvataggio</string>
     <string name="vlog_saving">Esportazione video…</string>
+    <string name="vlog_speed_double">2.0X</string>
+    <string name="vlog_speed_half">0.5X</string>
+    <string name="vlog_speed_quarter">0.25X</string>
     <string name="vlog_support_max_duration">Un progetto può essere lungo fino a %1$d ore</string>
     <string name="vlog_support_max_number">Puoi aggiungere fino a %1$d video a un progetto</string>
     <string name="vlog_talkback_ratio_1_1">Quadrato</string>
+    <string name="vlog_talkback_speed_half">0.5X</string>
     <string name="vlog_talkback_speed_normal">1X</string>
+    <string name="vlog_talkback_speed_quarter">0.25X</string>
     <string name="vlog_talkback_text_add">Inserisci testo</string>
+    <string name="vlog_talkback_text_baby_vlog1">Sempre più carini</string>
     <string name="vlog_talkback_text_baby_vlog2">Infanzia</string>
     <string name="vlog_talkback_text_bird">Uccelli</string>
     <string name="vlog_talkback_text_chengdu">Chengdu</string>
     <string name="vlog_talkback_text_head_tail_choose">Selezionato %s</string>
     <string name="vlog_talkback_text_memory">Assistente</string>
+    <string name="vlog_talkback_text_on_the_way">In viaggio</string>
     <string name="vlog_talkback_text_travel">Viaggi</string>
     <string name="vlog_talkback_view_pause">Pausa</string>
     <string name="vlog_talkback_view_play">Riproduci</string>
@@ -2946,6 +2986,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="widget_editor_reselect">Seleziona di nuovo</string>
     <string name="widget_editor_title">Modifica</string>
     <string name="widget_label_recommend">Assistente</string>
+    <string name="widget_recommend_default_example">Demo</string>
     <string name="widget_recommend_default_title_on_story">Assistente</string>
     <string name="xiaomi">Mi</string>
     <string name="xiaomi_10">Mi 10</string>
