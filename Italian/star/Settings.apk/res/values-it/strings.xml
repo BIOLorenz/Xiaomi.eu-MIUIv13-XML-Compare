@@ -3268,8 +3268,8 @@ Per maggiori dettagli contatta l'amministratore."</string>
     <string name="flashback_support_apps_title">Applicazioni disponibili</string>
     <string name="flashback_title">Schede fluttuanti app</string>
     <string name="flashback_wangzhe_summary">Mostra conto alla rovescia in gioco</string>
-    <string name="floating_window_switch_label">Mostra finestre popup</string>
-    <string name="floating_window_switch_label_disable">Nascondi finestre popup</string>
+    <string name="floating_window_switch_label">Mostra finestre fluttuanti</string>
+    <string name="floating_window_switch_label_disable">Nascondi finestre fluttuanti</string>
     <string name="fluency_mode">Ottimizza le prestazioni di sistema</string>
     <string name="fluency_mode_confirm_and_reboot">Riavvia desso</string>
     <string name="fmt_chinese_date">dd/MM</string>
@@ -3412,9 +3412,12 @@ Se il testo sul tuo dispositivo è troppo piccolo prova ad utilizzare "</string>
     <string name="freeform_guide_notification_drop_down_title">Apertura di finestre fluttuanti</string>
     <string name="freeform_guide_settings">Finestre fluttuanti</string>
     <string name="freeform_guide_slide_to_small_freeform_summary">"Tieni premuto il fondo della finestra e trascinalo nell'angolo in alto a destra"</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_pad">Trascina l\'angolo per minimizzare un\'app</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Trascina l\'angolo per minimizzare un\'app</string>
     <string name="freeform_guide_slide_to_small_freeform_title">Minimizza un\'app</string>
     <string name="freeform_guide_slide_up_to_close_summary">Scorri verso l\'alto dalla barra azione di una finestra fluttuante</string>
     <string name="freeform_guide_slide_up_to_close_title">Chiusura di finestre fluttuanti</string>
+    <string name="freeform_guide_to_sidehide_title">Nascondere le finestre fluttuanti</string>
     <string name="freeform_vedio_description">"·Tenere premuta e quindi tirare verso giù una notifica per aprirla in una finestra fluttuante.
 ·Toccare \"Finestre fluttuanti\" in Recenti per selezionare le applicazioni."</string>
     <string name="frequently_fragment_delete">Rimuovi</string>
@@ -3552,6 +3555,7 @@ Quando si accende il backup automatico, i dati del dispositivo e dell'app vengon
     <string name="handy_mode_tips_full_screen">"Quando si utilizzano i gesti a schermo intero, è possibile attivare la modalità ad una mano utilizzando l'Assistente tocco. Puoi anche utilizzare i pulsanti anziché i gesti a schermo intero."</string>
     <string name="haptic_agent_completion_01_content_description">Attività completata</string>
     <string name="haptic_cursor_movement_07_content_description">Regolazione della luminosità</string>
+    <string name="haptic_experience">Demo</string>
     <string name="haptic_experience_details">Vibrazione e accessibilità</string>
     <string name="haptic_feedback_enable_title">Vibra al tocco</string>
     <string name="haptic_feedback_level">Vibrazione</string>
@@ -3586,6 +3590,7 @@ Quando si accende il backup automatico, i dati del dispositivo e dell'app vengon
     <string name="hdmi_3d_display_enable_summary">Abilita per supportare i giochi 3D</string>
     <string name="hdmi_3d_display_enable_title">Schermo 3D</string>
     <string name="hdmi_3d_help_title">Info sul supporto all\'HDMI 3D stereoscopico</string>
+    <string name="hdmi_3d_stereo_separation_label">3D</string>
     <string name="hdmi_3dplay_control_disable_subtext">Uscita 3D Stereoscopica verso uno schermo 3D esterno disabilitato</string>
     <string name="hdmi_3dplay_control_enable_subtext">Uscita 3D Stereoscopica verso uno schermo 3D esterno abilitato</string>
     <string name="hdmi_3dplay_control_text">Abilita 3D</string>
@@ -5046,6 +5051,9 @@ ed esegui il software.</string>
     <string name="multi_network_acceleration_app_settings">Accelerazione di rete per le app</string>
     <string name="multi_touch_points_category_title">Multi-tocco</string>
     <string name="multi_touch_points_preference">Riavvia per attivare</string>
+    <string name="multi_window_cvw_summary">Trascinare l\'angolo per passare a una finestra fluttuante e regolare la sua dimensione</string>
+    <string name="multi_window_cvw_summary_global">Trascinare l\'angolo per passare a una finestra fluttuante e regolare la sua dimensione</string>
+    <string name="multi_window_cvw_title">Finestra fluttuante</string>
     <string name="multifunction_keyboard">Multifunzione</string>
     <string name="music_equalizer">Equalizzatore</string>
     <string name="musicfx_title">Effetti musicali</string>
@@ -7606,6 +7614,7 @@ Prova ad utilizzare una ^3 più veloce, o usa questa ^4 come memoria portatile"<
     <string name="stylus_ota_update">Aggiorna</string>
     <string name="stylus_ota_update_failed">"Impossibile aggiornare il firmware"</string>
     <string name="stylus_ota_updating">Aggiornamento</string>
+    <string name="stylus_schematic_diagram">Demo</string>
     <string name="stylus_screen_shot">Esegui screenshot</string>
     <string name="stylus_shortcut_title_screenshot">Screenshot</string>
     <string name="stylus_success">Fatto</string>
