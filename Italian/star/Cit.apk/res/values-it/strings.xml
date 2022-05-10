@@ -151,6 +151,7 @@ Tenere il telefono come se si stesse facendo una chiamata, parlare con il microf
     <string name="cit_camera_deleted">Foto eliminata</string>
     <string name="cit_camera_deleted_failed">Eliminazione foto fallita</string>
     <string name="cit_camera_flash_adjust">Regola il flash</string>
+    <string name="cit_camera_otp_download_title">Test download OTP fotocamera</string>
     <string name="cit_camera_rearsub">Prove sub-camera posteriore in corso, attendere prego....</string>
     <string name="cit_camerasfr_test">Analisi immagine, attendere....</string>
     <string name="cit_capture_fail">Impossibile scattare una foto</string>
@@ -168,6 +169,7 @@ al dispositivo ed alla presa a muro"</string>
     <string name="cit_charger_test_tips_pd">Il dispositivo corrente deve testare USB_PD</string>
     <string name="cit_charger_waiting_in">Collega l\'alimentatore</string>
     <string name="cit_charger_waiting_out">Scollega l\'alimentatore</string>
+    <string name="cit_cust_img_version">Query info versione CUST</string>
     <string name="cit_depth_camera_check_title">Fotocamera di profondità</string>
     <string name="cit_diag_chaging_summary">Copia i file log di carica sulla scheda SD</string>
     <string name="cit_diag_chaging_title">Leggere registro di carica</string>
@@ -175,6 +177,8 @@ al dispositivo ed alla presa a muro"</string>
     <string name="cit_diag_signal_summary">Copia i file di log stabilità segnale su sdcard</string>
     <string name="cit_diag_wait">Attendere prego... Copia in corso</string>
     <string name="cit_dial_emergencycall">Componi il 112</string>
+    <string name="cit_digital_hall_sensor_check_summary">Valore angolare mostrato sotto</string>
+    <string name="cit_digital_hall_sensor_check_title">Test Hall</string>
     <string name="cit_display_check_summary">Verifica che il file .bmp richiesto sia sulla scheda SD. Verifica che i colori siano omogenei su tutto lo schermo. Assicurarti che non ci siano punti luminosi irregolari e macchie scure.</string>
     <string name="cit_display_check_title">Schermo</string>
     <string name="cit_display_continue">Tocca lo schermo per iniziare</string>
@@ -183,6 +187,8 @@ al dispositivo ed alla presa a muro"</string>
     <string name="cit_earpiece">Ricevitore</string>
     <string name="cit_earpiece_summary">"Sentirai due numeri casuali
 Clicca sul pulsante appropriato in base al numero che ascolterai"</string>
+    <string name="cit_emergencycall_check_summary">Clicca sul pulsante Componi 112 per comporre il numero 112 e verificarne l\'effettiva possibilità di posizionamento.</string>
+    <string name="cit_emergencycall_check_title">Chiamata di Emergenza</string>
     <string name="cit_exit_test_summary">Uscire dalla diagnostica? Tutti i relativi dati verranno rimossi.</string>
     <string name="cit_exit_test_title">Chiusura test</string>
     <string name="cit_external_keyboard_test_summary">Inserisci caratteri casuali dopo aver collegato la tastiera e osserva i risultati del test</string>
@@ -199,6 +205,9 @@ Clicca sul pulsante appropriato in base al numero che ascolterai"</string>
     <string name="cit_fold_hall_test_summary">Piegare il dispositivo e riaprirlo. Se il pulsante Pass diventa cliccabile, il test è superato</string>
     <string name="cit_fp_fod_cali_title">Calibrazione Fod sensore biometrico</string>
     <string name="cit_front_camera_check_title">Test Fotocamera anteriore</string>
+    <string name="cit_front_camera_motor_cali_fail">Calibrazione motore fallita</string>
+    <string name="cit_front_camera_motor_cali_success">Calibrazione motore riuscita</string>
+    <string name="cit_front_camera_motor_cali_tips">Non bloccare la fotocamera durante il processo di calibrazione del motore pop-up</string>
     <string name="cit_front_dual_camera_check_title">Camera posteriore doppia anteriore</string>
     <string name="cit_front_sub_camera_check_title">Subcamera posteriore doppia anteriore</string>
     <string name="cit_get_signature_failed">ottenimento firma FALLITO</string>
@@ -209,9 +218,11 @@ Clicca sul pulsante appropriato in base al numero che ascolterai"</string>
     <string name="cit_gps_satellite_count">Numero satelliti: %d</string>
     <string name="cit_gps_satellite_prn">Prn: %s</string>
     <string name="cit_gps_satellite_snr">Snr: %s</string>
+    <string name="cit_gyrodata_second_sensor_check_title">Secondo Giroscopio</string>
     <string name="cit_gyrodata_sensor_check_summary">I valori delle coordinate X，Y，Z, dovrebbero apparire in basso</string>
     <string name="cit_gyrodata_sensor_check_title">Giroscopio</string>
     <string name="cit_gyrodata_sensor_second_screen_check_title">Giroscopio Secondo Schermo</string>
+    <string name="cit_gyroscope_second_cali_title">Test di taratura del secondo giroscopio</string>
     <string name="cit_gyroscope_sensor_cali_title">Test di calibrazione del sensore giroscopico</string>
     <string name="cit_gyroscope_sensor_check_summary">I valori delle coordinate X，Y，Z, dovrebbero apparire in basso</string>
     <string name="cit_hall_far">lontano</string>
@@ -270,6 +281,7 @@ Clicca sul pulsante appropriato in base al numero che ascolterai"</string>
 Durante la calibrazione, assicurati che non ci sia nulla tra il sensore e la tua mano (es. pellicole protettive o guanti)."</string>
     <string name="cit_proximity_sensor_check_title">Sensore di prossimità</string>
     <string name="cit_rear_dual_camera_check_title">Doppia fotocamera posteriore</string>
+    <string name="cit_rear_dual_second_camera_check_title">Fotocamera Bokeh2</string>
     <string name="cit_recovery_signature_failed">firma di recupero FALLITO</string>
     <string name="cit_recovery_signature_passed">firma di recupero PASSATO</string>
     <string name="cit_reverse_wireless_charge_check_tips">Si prega di mettere il telefono e il dispositivo da caricare come richiesto e avviare il test</string>
@@ -296,7 +308,10 @@ Durante la calibrazione, assicurati che non ci sia nulla tra il sensore e la tua
     <string name="cit_soft_torch_first">Il primo flash soft</string>
     <string name="cit_soft_torch_second">Il secondo flash soft</string>
     <string name="cit_start_calibration">Calibra</string>
+    <string name="cit_sub_display_check_title">Sub Display</string>
+    <string name="cit_sub_touch_panel_test_title">Sub Touch sensor</string>
     <string name="cit_tele_camera_check_title">Teleobiettivo</string>
+    <string name="cit_test_results">HistoryTestResult</string>
     <string name="cit_tfcard_available_szie">Dimensione disponibile</string>
     <string name="cit_tfcard_mounted">Rileva Scheda SD</string>
     <string name="cit_tfcard_support_summary">Controlla che la scheda TF sia supportata su questo dispositivo</string>
@@ -304,6 +319,7 @@ Durante la calibrazione, assicurati che non ci sia nulla tra il sensore e la tua
     <string name="cit_tfcard_total_size">Dimensione totale</string>
     <string name="cit_tfcard_unmounted">Scheda SD non disponibile</string>
     <string name="cit_tof_sensor_check_summary">I valori TOF dovrebbero apparire sotto</string>
+    <string name="cit_tof_sensor_check_title">SendoreTof</string>
     <string name="cit_tool">Strumenti</string>
     <string name="cit_tool_active_mbn">attivo</string>
     <string name="cit_tool_active_mbn_notify">aspetta un momento prima di impostare mbn</string>
@@ -565,6 +581,10 @@ La seconda linea mostra il nome e la versione del MBN predefinito e l'operatore 
     <string name="cit_torch">Flash</string>
     <string name="cit_torch_first">Il primo flash</string>
     <string name="cit_torch_second">Il secondo flash</string>
+    <string name="cit_touch_auto_main_tips">Autodiagnosi della schermata Home in corso, non toccare lo schermo</string>
+    <string name="cit_touch_auto_operate_expand_screen_tips">Si prega di aprire lo schermo e quindi eseguire il controllo automatico della schermata principale</string>
+    <string name="cit_touch_auto_operate_fold_screen_tips">Si prega di ripiegare lo schermo e quindi eseguire il controllo automatico dello schermo secondario</string>
+    <string name="cit_touch_auto_vice_tips">Sub-screen autodiagnosi in corso, non toccare lo schermo</string>
     <string name="cit_touch_fw_mode">Modalità FW</string>
     <string name="cit_touch_panel_nead_pencil_tip">Usa la matita per testare di nuovo</string>
     <string name="cit_touch_panel_test_title">Test Touchscreen</string>
@@ -581,7 +601,11 @@ test fallito!"</string>
     <string name="cit_usb_OTG_plug_re_plugin">Test OTG USB completato, nessun ulteriore test necessario</string>
     <string name="cit_usb_charger_in">Ricarica via USB</string>
     <string name="cit_usb_charger_out">Alimentazione USB scollegata</string>
+    <string name="cit_uwb_calibrate_color_gray">Grigio</string>
     <string name="cit_uwb_calibrate_color_white">Bianco</string>
+    <string name="cit_uwb_calibrate_data_cali_tip">Calibrazione Dati</string>
+    <string name="cit_uwb_calibrate_summary">Questo test è dedicato agli ingegneri, si prega di utilizzarlo con cautela</string>
+    <string name="cit_uwb_calibrate_title">Test di calibrazione UWB</string>
     <string name="cit_version_check_summary">Di seguito troverai la versione del SO. Verifica che le informazioni evidenziate in verde siano corrette.</string>
     <string name="cit_version_check_title">Test versione</string>
     <string name="cit_vga_camera_cameralist_fail">Errore: fotocamera non corrispondente</string>
@@ -590,16 +614,20 @@ test fallito!"</string>
 Prego clicca il pulsante corretto in base alle diverse tipologie di vibrazione"</string>
     <string name="cit_vice_display_check_summary">"Dopo che il piccolo schermo è stato acceso toccalo due volte per illuminarlo
  Confermare che i colori siano costantemente visualizzati su tutta la schermata. Assicurati che non ci siano macchie luminose irregolari o macchie scure."</string>
+    <string name="cit_vice_display_check_title">Vice Display</string>
     <string name="cit_vice_touch_panel_test_summary">Dopo che lo schermo piccolo è stato acceso e fai doppio clic per illuminarlo, è necessario capovolgere lo schermo e fare doppio clic sullo schermo posteriore per illuminarlo, disegnare quindi una croce sullo schermo posteriore lungo la griglia</string>
     <string name="cit_vice_touch_panel_test_tips">Si prega di confermare che il display posteriore e Tocca due volte per accendere lo schermo siano stati attivati, clic</string>
+    <string name="cit_vice_touch_panel_test_title">Sensore di tocco secondario</string>
     <string name="cit_wifi_address_check_summary">Di seguito è riportato l\'indirizzo della rete Wi-Fi a cui il telefono è connesso. Confermare che le informazioni evidenziate in verde siano corrette.</string>
     <string name="cit_wifi_address_check_title">Indirizzo Wi-Fi</string>
     <string name="cit_wifi_address_error">"Impossibile ottenere l'indirizzo Wi-Fi. Assicurati che il Wi-Fi sia abilitato."</string>
     <string name="cit_wifi_ap_scan_check_summary">Di seguito sono riportate le informazioni Wi-Fi AP dei dispositivi rilevati nell\'area. Confermare che le informazioni evidenziate in verde siano corrette.</string>
+    <string name="cit_wifi_ap_scan_check_title">Scansiona Wi-Fi AP</string>
     <string name="cit_wifi_ap_scan_retry">Riesegui scansione…</string>
     <string name="cit_wifi_ap_scanning">Scansione…</string>
     <string name="cit_wifi_fail_to_scan">"Impossibile eseguire la scansione"</string>
     <string name="cit_wifi_state_refresh">Aggiorna</string>
+    <string name="cit_x_tele_camera_check_title">Fotocamera Super Tele</string>
     <string name="continue_vibrator">Vibrazione continua</string>
     <string name="current_angle">Angolo Attuale:</string>
     <string name="dispaly_sar_sensor_values">Visualizza tutti i valori del sensore attuale</string>
