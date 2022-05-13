@@ -667,6 +667,7 @@ Test fallito!"</string>
     <string name="mic_tip">Prego parla nel mic. Dopo aver collegato l\'auricolare, ascoltane il suono</string>
     <string name="mic_volume_height_tip">Test volume mic. Riuscito</string>
     <string name="mic_volume_low_tip">Test volume mic. non superato. Prego aumenta il tono della voce durante la registrazione</string>
+    <string name="motor_calibration">Calibrazione Motore</string>
     <string name="nfc_disable_tip">Prego abilita la funzionalità NFC</string>
     <string name="nfc_not_available">NFC non disponibile</string>
     <string name="no_vibrator">Nessun motore di vibrazione</string>
