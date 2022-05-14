@@ -83,9 +83,9 @@
         <item>Accesso fallito. Utilizzare la password dell\'app per effettuare il login. Ulteriori informazioni su http://service.exmail.qq.com/cgi-bin/help?subtype=1&amp;&amp;id=10000&amp;&amp;no=1001494</item>
         <item>ERR custom pop3 off</item>
         <item>LOGIN Login error user name or password error</item>
-        <item>Invalid login or password</item>
+        <item>Nome utente o password non validi</item>
         <item>ip XXXXXXX in blacklist si prega di cambiare rete o login https://mail.sohu.com per configurare l\'ip client in whitelist</item>
-        <item>java.net.UnknownHostException: Unable to resolve host XXXX : No address associated with hostname</item>
+        <item>java.net.UnknownHostException: Impossibile risolvere l\'host XXXX : Nessun indirizzo associato al nome host</item>
     </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
         <item>Testo molto piccolo</item>
