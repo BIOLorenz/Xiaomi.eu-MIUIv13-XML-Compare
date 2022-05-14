@@ -160,6 +160,10 @@
         <item quantity="other">%1$d altri rimanenti</item>
         <item quantity="one">%1$d altro rimanente</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nuove notifiche</item>
+        <item quantity="one">%d nuova notifica</item>
+    </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">Mostra %1$d nuovi messaggi.</item>
         <item quantity="one">Mostra %1$d nuovo messaggio.</item>
