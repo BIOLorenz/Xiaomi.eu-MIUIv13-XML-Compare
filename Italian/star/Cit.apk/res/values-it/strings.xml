@@ -676,6 +676,7 @@ Test fallito!"</string>
 Prego scollega il caricabatterie dal dispositivo e inseriscilo nella presa a muro."</string>
     <string name="pop_camera">Pop Fotocamera</string>
     <string name="pop_push_camera_test_title">Test pop up e rientro fotocamera</string>
+    <string name="push_camera">Spingi la Fotocamera</string>
     <string name="radio_info_asdiv_switch_label">Stato ASDiv:</string>
     <string name="radio_info_call_status_label">Stato chiamata vocale:</string>
     <string name="radio_info_cellinfo_label">Tutte le informazioni sulla cella:</string>
