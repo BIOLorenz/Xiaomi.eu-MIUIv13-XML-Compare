@@ -1232,6 +1232,8 @@ La tua SIM sarà bloccata dopo un altro tentativo fallito."</string>
     <string name="sunday_shortest">Dom</string>
     <string name="supp_service_over_ut_precautions_dialog_dismiss">Rifiuta</string>
     <string name="support_forbidden_fakecell">Nota: limitando la connessione alle celle fasulle potresti ridurre il segnle nelle arre con scarsa copertura.</string>
+    <string name="switch_cancel_btn_text">Annulla</string>
+    <string name="switch_confirm_btn_text">OK</string>
     <string name="switch_off">Spenta</string>
     <string name="switch_on">Attivata</string>
     <string name="tap_to_sign_up">Tocca per registrarti</string>
