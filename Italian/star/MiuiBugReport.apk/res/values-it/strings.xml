@@ -520,7 +520,7 @@ Invia questo codice al supervisore."</string>
     <string name="mobile_data_note_dialog_cancel_china">In attesa di Wi-Fi</string>
     <string name="mobile_data_note_dialog_confirm">Carica</string>
     <string name="mobile_data_note_dialog_content">"Sembra che tu sia connesso a una rete a pagamento. Caricare i log può generare costi aggiuntivi."</string>
-    <string name="mobile_data_note_dialog_content_with_file_size">"Sembra che tu sia connesso a una rete a pagamento. Caricare i log richiede %sMB di dati mobili."</string>
+    <string name="mobile_data_note_dialog_content_with_file_size">"Sembra che tu sia connesso a una rete a pagamento. Caricare i log richiede %sMB di dati."</string>
     <string name="mobile_data_note_dialog_title">Avviso utilizzo dati</string>
     <string name="modem_tool_log_dumping_desc">Fare clic sull\'icona per interrompere</string>
     <string name="modem_tool_log_dumping_title">Acquisizione log modem</string>
