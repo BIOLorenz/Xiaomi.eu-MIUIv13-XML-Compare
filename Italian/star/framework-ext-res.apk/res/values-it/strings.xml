@@ -12,7 +12,6 @@
     <string name="amazonanimals_preview">Foresta pluviale</string>
     <string name="android_ringtone_default_with_actual">Suoneria predefinita (%1$s)</string>
     <string name="android_ringtone_silent">Nessuno</string>
-    <string name="app_continuity_channel_name">Continuità App</string>
     <string name="application_cannot_open_alipay_health_code">"Impossibile aprire il codice sanitario Alipay"</string>
     <string name="application_cannot_open_alipay_payment_code">"Impossibile aprire il codice di pagamento di Alipay"</string>
     <string name="application_cannot_open_alipay_scanner">"Impossibile aprire lo scanner di Alipay"</string>
@@ -184,8 +183,6 @@
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Non ora</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Attiva</string>
     <string name="fp_nav_center_action_choose_dlg_title">Attiva Tocco rapido</string>
-    <string name="freeform_exchange_tip">Rilascia per aprire l\'app</string>
-    <string name="freeform_exchange_tip2">Trascina nell\'angolo per annullare</string>
     <string name="frenchchic">Chic</string>
     <string name="frequent_email">E-mail usata di frequente</string>
     <string name="frequent_phrases">Frasi frequenti</string>
@@ -361,13 +358,10 @@
     <string name="redmi_note_5">Redmi Note 5</string>
     <string name="redmi_note_7">Redmi Note 7</string>
     <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
-    <string name="relaunch_action">Riavvia applicazione</string>
+    <string name="relaunch_action">Riavvia adesso</string>
     <string name="relaunch_dialog_alwaysUsePrompt">Ricorda la mia scelta</string>
     <string name="relaunch_dialog_button_cancel">Annulla</string>
-    <string name="relaunch_dialog_button_confirm">OK</string>
-    <string name="relaunch_dialog_message">"Impossibile regolare la dimensione della finestra mentre stai usando l'app. È possibile riavviare l'applicazione per regolare la dimensione della finestra, ma i dati dell'app generati durante questa sessione andranno persi. Riavviarla comunque?"</string>
-    <string name="relaunch_dialog_title">Riavviare \"%s\"?</string>
-    <string name="relaunch_notification_title">Riavvia l\'applicazione \"%s\"</string>
+    <string name="relaunch_dialog_button_confirm">Riavvia adesso</string>
     <string name="remain">Rimanente: %s</string>
     <string name="replace">Sostituisci</string>
     <string name="resolver_app_recommend_flag">Consigliati</string>
@@ -385,11 +379,8 @@
     <string name="rog_phone">ROG</string>
     <string name="samsung">Samsung</string>
     <string name="samsung_phone">Telefono Samsung</string>
-    <string name="sc_notification_warning_content">Il layout può essere anormale in modalità a schermo intero. È possibile tornare allo stato prima del cambio, o andare sulle impostazioni.</string>
     <string name="sc_notification_warning_restore">Ripristina</string>
-    <string name="sc_notification_warning_settings">Vai alle impostazioni</string>
-    <string name="sc_notification_warning_title">Cambia modalità di visualizzazione</string>
-    <string name="sc_relaunch_dialog_message">"Non adatto per il dispositivo pieghevole mentre stai usando l'app. Puoi riavviare l'applicazione per passare alla modalità a schermo intero. Riavviare comunque?"</string>
+    <string name="sc_notification_warning_settings">Impostazioni</string>
     <string name="scanning_device_tips">Ricerca dispositivi nelle vicinanze… Assicurati che l\'altro dispositivo sia in modalità rilevabile.</string>
     <string name="screen_button_notification_text">Per attivarli, premi contemporaneamente il tasto Home ed il tasto Accensione.</string>
     <string name="screen_button_notification_title">I tasti di navigazione sono disattivati</string>
