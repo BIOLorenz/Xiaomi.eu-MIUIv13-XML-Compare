@@ -145,7 +145,7 @@
     <item>Jabber</item>
   </string-array>
   <string-array name="network_switch_type_name">
-    <item>dati mobili</item>
+    <item>dati</item>
     <item>Wi-Fi</item>
     <item>Bluetooth</item>
     <item>LAN</item>
