@@ -396,6 +396,8 @@ Invia questo codice ai tecnici."</string>
     <string name="login_check_find_device">Recupero informazioni di sicurezza…</string>
     <string name="login_check_find_device_failed_title">"Impossibile verificare le informazioni di sicurezza del dispositivo"</string>
     <string name="login_find_device_bind">Questo account è già associato ad un ID Mi Account (%s).</string>
+    <string name="login_notification_button_text">Accedi</string>
+    <string name="login_notification_title">Login</string>
     <string name="login_with_other">Altre opzioni</string>
     <string name="logout_account">Disconetti</string>
     <string name="logout_failed">"Impossibile uscire"</string>
