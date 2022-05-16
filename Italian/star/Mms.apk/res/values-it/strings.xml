@@ -378,9 +378,7 @@
     <string name="favorite_at_time">Aggiunto ai preferiti alle: %1s</string>
     <string name="fdn_check_failure">Puoi inviare messaggi solo ai numeri memorizzati.</string>
     <string name="feature_mx">Messaggi Mi</string>
-    <string name="feature_mx_summary">&lt;b&gt;Mi Message consente di inviare messaggi ad altri utenti di Mi Message senza costi aggiuntivi&lt;/b&gt;. Per attivare questo servizio è necessario l\'invio di un SMS. Il tuo operatore potrebbe addebitarti questo messaggio. Leggi e accetta il nostro &lt;font color=\"#B3000000\"&gt;&lt;a href=\"http://url1\"&gt;Contratto con l\'utente&lt;/a&gt;&lt;/font&gt; e &lt;font color=\"#B3000000\"&gt;&lt;a href=\"http://url2\"&gt;Informativa sulla privacy&lt;/a&gt;&lt;/font&gt; prima di utilizzare questa funzione.</string>
     <string name="feature_smart_sms">Messaggi smart</string>
-    <string name="feature_smart_sms_summary">&lt;b&gt;Messaggi Smart fornisce il Riconoscimento ID mittente e i menu intelligenti&lt;/b&gt;\". I Messaggi Smart sono forniti in parte da Yulore. Leggi e accetta l\'\"&lt;font color=\"#B3000000\"&gt;&lt;a href=\"http://url3\"&gt;Informativa sulla Privacy&lt;/a&gt;&lt;/font&gt; di Yulore prima di utilizzare questa funzione.</string>
     <string name="festival_sms_loading">Caricamento…</string>
     <string name="file_create_time">Creato alle:</string>
     <string name="file_size">Dimensione:</string>
@@ -441,7 +439,6 @@
     <string name="ft_cfs_dialog_title">Trasferimento file alternativo</string>
     <string name="go_close">Impostazioni</string>
     <string name="go_to">Vai a</string>
-    <string name="google_message_promo_content">Xiaomi raccomanda di passare al applicazione  Messaggi di Google. Questa app permette di inviare messaggi di testo tramite WI-FI, inviare media con una qualità superiore, molto altro. &lt;font color=\"#B3000000\"&gt;&lt;a href=\"https://support.google.com/messages/answer/6089066\"&gt;View details&lt;/a&gt;&lt;/font&gt;.</string>
     <string name="google_message_promo_title">Aggiorna la tua app di messaggistica</string>
     <string name="group_already_kicked_hint">"Impossibile inviare messaggi. Non sei un membro di questa chat di gruppo."</string>
     <string name="group_member_is_composing">Scrivendo…</string>
