@@ -105,7 +105,6 @@ Non tutte le app supportano questa impostazione."</string>
     <string name="accessibility_dialog_button_deny">Nega</string>
     <string name="accessibility_dialog_button_stop">Interrompi</string>
     <string name="accessibility_disable_animations">Rimuovi animazioni</string>
-    <string name="accessibility_display_daltonizer_preference_subtitle">Questa funzionalità è sperimentale e potrebbe influire le prestazioni.</string>
     <string name="accessibility_display_daltonizer_preference_title">Correzione colore</string>
     <string name="accessibility_display_inversion_preference_subtitle">(Sperimentale) Potrebbe influire sulle prestazioni</string>
     <string name="accessibility_display_inversion_preference_title">Inversione colore</string>
@@ -2581,6 +2580,8 @@ Per provare a risolvere questo problema, puoi interrompere %1$s e impedirne l'es
     <string name="dialog_check_title">"Nessun accesso ad Internet, non si riconnetterà automaticamente."</string>
     <string name="dialog_chose_item">Seleziona un elemento da mostrare</string>
     <string name="dialog_content_login">L\'aggiornamento richiede un Mi Account, vuoi proseguire?</string>
+    <string name="dialog_esim_button_negative">Annulla</string>
+    <string name="dialog_esim_button_positive">OK</string>
     <string name="dialog_location_message">"Il tuo telefono non può gestire normalmente la batteria perché %1$s continua a richiedere la tua posizione, a prescindere dall'utilizzo dell'app.
 
 Per risolvere questo problema, puoi disattivare la posizione per quest'app."</string>
@@ -2594,6 +2595,8 @@ Per risolvere questo problema, puoi disattivare la posizione per quest'app."</st
     <string name="dialog_restrict_all_wlan_title">Limita connessione Wi-Fi</string>
     <string name="dialog_restrict_negative">Limitazione</string>
     <string name="dialog_restrict_positive">Annulla</string>
+    <string name="dialog_softbank_esim_wipe_cancel">Mantieni</string>
+    <string name="dialog_softbank_esim_wipe_ok">Cancella</string>
     <string name="dialog_speaker_auto_clean_button">Ok</string>
     <string name="dialog_speaker_auto_clean_content">"La pulizia richiede 30 secondi. Non lasciare questa pagina. Aumentare il volume per ottenere un effetto migliore."</string>
     <string name="dialog_speaker_auto_clean_title">Attenzione</string>
