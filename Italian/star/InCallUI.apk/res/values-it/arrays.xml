@@ -4,4 +4,10 @@
         <item>NUMERO ASSENTE</item>
         <item>ABSENTNUMBER</item>
     </string-array>
+    <string-array name="config_simCardPickNotUseCountDownDevices">
+        <item>thor</item>
+        <item>zizhan</item>
+        <item>unicorn</item>
+        <item>mayfly</item>
+    </string-array>
 </resources>
