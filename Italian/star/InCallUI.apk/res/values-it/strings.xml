@@ -393,6 +393,7 @@
     <string name="month_september_shortest">Set</string>
     <string name="more">Altro</string>
     <string name="morning">Mattina</string>
+    <string name="msim_select_default_last">Usato di recente</string>
     <string name="msim_select_default_time_left">(%d sec)</string>
     <string name="night">Sera</string>
     <string name="noon">Mezzogiorno</string>
@@ -445,7 +446,6 @@
     <string name="relay_network_error">Errore rete</string>
     <string name="relay_network_error_msg">"Non è possibile effettuare chiamate su questo dispositivo a causa di un errore di rete. Torna al telefono."</string>
     <string name="remind_unlock_message">Il tuo dispositivo è stato bloccato. \"%s\" sarà di nuovo disponibile dopo lo sblocco del dispositivo. Sbloccare adesso?</string>
-    <string name="remind_unlock_screen_message">Sblocca il tuo dispositivo per essere in grado di utilizzare \"%s\". Sbloccarlo ora?</string>
     <string name="respond_via_sms_custom_message">Messaggio personalizzato…</string>
     <string name="saf_permission_content">"Le autorizzazioni di sistema sono state aggiornate. Per poter registrare le chiamate, concedi prima la tua autorizzazione.
 
