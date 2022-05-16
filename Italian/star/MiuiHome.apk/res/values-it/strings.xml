@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="Icon_name_classic_mode">Impostazioni Home</string>
     <string name="abc_action_bar_home_description">Vai alla Home</string>
     <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
     <string name="abc_action_menu_overflow_description">Altre opzioni</string>
@@ -35,6 +36,7 @@
     <string name="accessibility_recent_task_exit">Recenti chiusi</string>
     <string name="accessibility_recent_task_locked_state">Bloccata</string>
     <string name="accessibility_recent_task_memory_info">RAM totale: %2$s | RAM disponibile: %1$s. Doppio tap per liberare.</string>
+    <string name="accessibility_recent_task_show_menu">Altre opzioni</string>
     <string name="accessibility_recent_task_unlocked_state">Sbloccato</string>
     <string name="accessibility_recents_item_open_app_info">Apri informazioni applicazione %s.</string>
     <string name="accessibility_splite_screen_primary">Aggiungi come applicazione principale della modalità multi-finestra</string>
@@ -47,6 +49,7 @@
     <string name="add_screen">Aggiungi tasto schermo</string>
     <string name="added_all_category">Aggiunta di tutte le app completata</string>
     <string name="afternoon">Pomeriggio</string>
+    <string name="agree_button">Accetto</string>
     <string name="alexa_notification_add">Aggiungi</string>
     <string name="alexa_notification_cancel">Non adesso</string>
     <string name="alexa_notification_content">Aggiungere il collegamento Alexa al Centro di Controllo?</string>
@@ -133,6 +136,9 @@
     <string name="app_category_sport">Sport</string>
     <string name="app_category_tools">Utilità</string>
     <string name="app_category_travel">Viaggi</string>
+    <string name="app_drawer_double_confirm_title">Attenzione</string>
+    <string name="app_drawer_guide_title">Menù applicazioni</string>
+    <string name="app_install_state">Scaricati</string>
     <string name="app_name">folme</string>
     <string name="application_name">Launcher di sistema</string>
     <string name="apply">Imposta</string>
@@ -156,8 +162,16 @@
     <string name="back">Indietro</string>
     <string name="backup_fail">"Backup launcher non riuscito."</string>
     <string name="bad_wallpaper_source_prompt">"Impossibile caricare lo sfondo"</string>
+    <string name="branch_new_feature">Nuova funzionalità</string>
+    <string name="branch_privacy_policy">Informativa sulla Privacy</string>
+    <string name="branch_terms_condition">Termini e Condizioni</string>
+    <string name="btn_agree">Accetto</string>
+    <string name="btn_cancel">Annulla</string>
+    <string name="btn_close">Disattiva</string>
+    <string name="btn_open">Attiva</string>
     <string name="buffering">Buffer in corso…</string>
     <string name="cancel_action">Annulla</string>
+    <string name="cancel_botton">Annulla</string>
     <string name="cancel_btn_label">Annulla</string>
     <string name="cant_edit_lock_screen">"Impossibile modificare lo stile della schermata di blocco."</string>
     <string name="cant_remove_folder">"Non puoi rimuovere questa cartella"</string>
@@ -248,6 +262,7 @@
     <string name="clearable_edittext_clear_description">Cancella</string>
     <string name="close">Chiudi</string>
     <string name="cloud_app_restore_title">In attesa</string>
+    <string name="common_google_play_services_unknown_issue">%1$s sta avendo problemi con i servizi di Google Play. Per favore riprova.</string>
     <string name="common_home_search_delete">Rimozione barra di ricerca</string>
     <string name="common_home_search_delete_cancle">Annulla</string>
     <string name="common_home_search_delete_confirm">Rimuovi</string>
@@ -432,12 +447,16 @@
     <string name="gadget_weather_title">Meteo</string>
     <string name="gadget_weather_title_14">Meteo</string>
     <string name="gadget_weather_title_24">Meteo</string>
+    <string name="garbage_count">Ci sono %1$s vecchie istanze</string>
     <string name="global_search_hint">Cerca</string>
+    <string name="got_it_botton">Ok</string>
     <string name="group_folder">Nuova cartella</string>
     <string name="group_live_folders">Cartelle</string>
     <string name="group_shortcuts">Scorciatoie</string>
     <string name="guide_install_app_msg">"Applicazione non installata. Vuoi cercare l'app sul Play Store?"</string>
     <string name="guide_install_app_title">Installa l\'applicazione</string>
+    <string name="guide_permission_title">Permessi richiesti</string>
+    <string name="guide_privacy_dialog_title">Condizioni d\'uso</string>
     <string name="guide_tips_editing_mode">Tocca e tieni premuto per modificare un widget</string>
     <string name="heavenly_stems_bing">Bing</string>
     <string name="heavenly_stems_ding">Ding</string>
@@ -501,6 +520,7 @@
     <string name="memory_clear_result">%1$sB cancellati</string>
     <string name="memory_clear_result_giga">%1$sGB puliti</string>
     <string name="memory_clear_result_mega">%1$sMB puliti</string>
+    <string name="memory_leak">Memory leak</string>
     <string name="menu_add">Aggiungi</string>
     <string name="menu_auto_fill_of_uninstall">Riempi le celle delle app disinstallate</string>
     <string name="menu_back_desktop">Torna alla Home</string>
@@ -599,7 +619,9 @@
     <string name="multi_selecting_tips">Tocca un\'icona per iniziare</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">Scorri verso l\'alto dalla parte inferiore dello schermo, quindi scorri verso sinistra o destra</string>
     <string name="navigation_guide_app_quick_switch_summary">Scorri a sinistra o a destra dalla barra fondo allo schermo</string>
+    <string name="navigation_guide_app_quick_switch_summary_pad">Scorri a sinistra o a destra dalla barra fondo allo schermo</string>
     <string name="navigation_guide_app_quick_switch_title">Passa tra le app</string>
+    <string name="navigation_guide_app_quick_switch_title_spec_with_quotation_pad">Passa tra le app</string>
     <string name="navigation_guide_app_summary">Scorri a sinistra o destra dal bordo superiore dello schermo</string>
     <string name="navigation_guide_app_title">"Attiva azione app"</string>
     <string name="navigation_guide_appswitch_anim_summary">Scorri sullo schermo partendo dal bordo per tornare all\'app precedente</string>
@@ -609,11 +631,13 @@
     <string name="navigation_guide_appswitch_title">Passa all\'app precedente</string>
     <string name="navigation_guide_back_summary">Scorri a destra o sinistra sullo schermo</string>
     <string name="navigation_guide_back_title">Indietro</string>
+    <string name="navigation_guide_back_title_spec_with_quotation_pad">Indietro</string>
     <string name="navigation_guide_dialog_dont_show_again">"Non mostrare più"</string>
     <string name="navigation_guide_dialog_ok">Inizia</string>
     <string name="navigation_guide_dialog_skip">Non adesso</string>
     <string name="navigation_guide_dialog_summary">Usa i gesti invece dei tasti virtuali.</string>
     <string name="navigation_guide_dialog_title">Impara i gesti</string>
+    <string name="navigation_guide_dock_title_pad">Mostra barra inferiore app</string>
     <string name="navigation_guide_finish_text">Ok</string>
     <string name="navigation_guide_gesture_line_dialog_summary">Dopo aver nascosto l\'indicatore a schermo intero verrà utilizzato un nuovo gesto per il passaggio tra le applicazioni. Vuoi impararlo ora?</string>
     <string name="navigation_guide_gesture_line_dialog_title">Impara un nuovo gesto</string>
@@ -621,9 +645,18 @@
     <string name="navigation_guide_hide_gesture_line_title">Nascondi indicatore inferiore</string>
     <string name="navigation_guide_home_summary">Scorri verso l\'alto dalla parte inferiore dello schermo</string>
     <string name="navigation_guide_home_title">Come tornare alla home</string>
+    <string name="navigation_guide_home_title_spec_with_quotation_pad">Come tornare alla home</string>
+    <string name="navigation_guide_next_spec_pad">Successivo</string>
+    <string name="navigation_guide_prev_spec_pad">Indietro</string>
+    <string name="navigation_guide_provision_title_pad">Gestures</string>
     <string name="navigation_guide_recent_summary">Scorri verso l\'alto dalla parte inferiore dello schermo e fermi</string>
+    <string name="navigation_guide_recent_summary_pad">Scorri verso l\'alto dalla parte inferiore dello schermo e fermi</string>
     <string name="navigation_guide_recent_title">Come passare a Recenti</string>
+    <string name="navigation_guide_recent_title_spec_with_quotation_pad">Come passare a Recenti</string>
     <string name="navigation_guide_settings">Lezioni</string>
+    <string name="navigation_position_center">Centro</string>
+    <string name="navigation_position_left">Sinistra</string>
+    <string name="navigation_position_right">Destra</string>
     <string name="navigation_set_miui_home_as_default_dialog_cancel">Annulla</string>
     <string name="navigation_set_miui_home_as_default_dialog_ok">OK</string>
     <string name="navigation_set_miui_home_as_default_dialog_title">Attenzione</string>
@@ -635,6 +668,7 @@
     <string name="navigation_type_title_synonyms_4">Pulsanti di navigazione</string>
     <string name="navigation_type_virtual_key">Tasti</string>
     <string name="network_error">"Impossibile collegarsi alla rete"</string>
+    <string name="new_feature_title">"Novità"</string>
     <string name="night">Sera</string>
     <string name="no_detail_page">Nessuna pagina per i dettagli</string>
     <string name="no_space_toast">Spazio insufficiente</string>
@@ -642,6 +676,7 @@
     <string name="noon">Mezzogiorno</string>
     <string name="normal_wallpaper">Sfondo</string>
     <string name="not_set">Non impostato</string>
+    <string name="notification_channel_alerts">Avvisi</string>
     <string name="notification_installed">App installata</string>
     <string name="notification_open_button">Apri</string>
     <string name="notification_reset_title">Auto-pulizia terminata</string>
@@ -673,6 +708,7 @@
     <string name="photo_confirm">Imposta</string>
     <string name="photo_load_failed">"Impossibile caricare foto."</string>
     <string name="please_slide_agian">Per favore trascina di nuovo</string>
+    <string name="popular_search">Popolari</string>
     <string name="pref_cell_layout_size">Vista a griglia</string>
     <string name="pref_enable_drawing_cache_summary">Disattiva per liberare memoria, ma le animazioni saranno meno fluide</string>
     <string name="pref_enable_drawing_cache_title">Utilizzo Cache</string>
@@ -693,6 +729,9 @@
     <string name="privacy_thumbnail_blur_summary">Sfoca le anteprime delle app nei Recenti</string>
     <string name="privacy_thumbnail_blur_title">Sfoca le anteprime delle app</string>
     <string name="quick_app">App Veloci</string>
+    <string name="quick_search_guide_all_apps">Tutte le applicazioni</string>
+    <string name="quick_search_guide_ok_btn">OK</string>
+    <string name="quick_search_guide_quick_search">Ricerca rapida</string>
     <string name="recent_apps">Recenti</string>
     <string name="recent_menu_item_info">Dati</string>
     <string name="recent_menu_item_lock">Blocca</string>
@@ -737,6 +776,7 @@
     <string name="remove_invalidate_gadget_tips">Uno dei widget che usi non è più disponibile. È possibile aggiungerne un altro.</string>
     <string name="remove_sys_app_content">"Sarai in grado di aggiungere di nuovo il collegamento nella schermata Home in Impostazioni &gt; Applicazioni &gt; Gestisci collegamenti schermata Home. Rimuoverlo ora?"</string>
     <string name="remove_sys_app_title">Rimuovere il collegamento della schermata Home?</string>
+    <string name="request_permission_title">Permessi richiesti</string>
     <string name="reset_cate_tip_content">Se continui, i gruppi di default delle app verranno ripristinati. Continuare?</string>
     <string name="reset_cate_tip_title">Ripristina gruppi predefiniti</string>
     <string name="reset_description_first_time">Puoi ripristinare la disposizione da %1$s in 2 ore</string>
@@ -752,6 +792,7 @@
     <string name="screen_cells_config_title">Layout schermata Home</string>
     <string name="screen_locked_toast">La modifica della schermata home è bloccata</string>
     <string name="screen_number">Schermata n° %d</string>
+    <string name="search_guide_btn">Ok</string>
     <string name="search_in_apps_store">Cerca per \"%1$s\" in %2$s</string>
     <string name="search_menu_title">Cerca</string>
     <string name="search_no_result">"Nessun risultato. Riprova con altre parole"</string>
@@ -775,6 +816,7 @@
     <string name="show_most_popular_apps_you_used">Visualizza le app utilizzate di frequente nel drawer</string>
     <string name="show_recents_recommend_title">Mostra suggerimenti nei recenti</string>
     <string name="slide_to_open_newhome">Scorri verso l\'alto per aprire il Centro Contenuti</string>
+    <string name="small_window">Finestra fluttuante</string>
     <string name="small_window_button_complete">Fatto</string>
     <string name="small_window_edit_content">Puoi aggiungere fino a %d app</string>
     <string name="small_window_edit_title">App attuale</string>
@@ -817,9 +859,11 @@
     <string name="status_installing">Installazione</string>
     <string name="status_paused">Pausa</string>
     <string name="status_pending">In attesa</string>
+    <string name="suggestions">Suggerimenti</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="switch_on_button">Attiva</string>
     <string name="switch_personal_assistant_app_vault">Assistente App</string>
     <string name="switch_personal_assistant_none">Nessuno</string>
     <string name="switch_screen_button_order">Inverti tasti</string>
@@ -829,6 +873,7 @@
     <string name="system_shortcuts_remove">Rimuovi</string>
     <string name="system_text">Auto</string>
     <string name="task_access_locked_app_msg">Il contenuto dell\'applicazione è nascosto.</string>
+    <string name="term_of_service">Termini e condizioni</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversario dell\'abolizione della legge marziale</string>
     <string name="the_anti_aggression_day">Giornata della pace</string>
     <string name="the_arbor_day">Giorno dei mestieri</string>
