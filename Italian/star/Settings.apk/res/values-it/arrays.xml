@@ -1916,6 +1916,7 @@ Nota: solo per Ubuntu 8.04!"</item>
         <item>plato</item>
         <item>mayfly</item>
         <item>daumier</item>
+        <item>diting</item>
     </string-array>
     <string-array name="support_speaker_auto_clean_device_list">
         <item>willow</item>
