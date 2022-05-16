@@ -148,7 +148,6 @@
     <string name="account_setup_incoming_delete_policy_delete_label">Quando elimino da Posta in arrivo</string>
     <string name="account_setup_incoming_delete_policy_never_label">Mai</string>
     <string name="account_setup_incoming_imap_path_prefix_hint">Facoltativo</string>
-    <string name="account_setup_incoming_imap_path_prefix_label">Prefisso percorso IMAP</string>
     <string name="account_setup_incoming_password_label">Password</string>
     <string name="account_setup_incoming_port_label">Porta</string>
     <string name="account_setup_incoming_security_label">Tipo di sicurezza</string>
@@ -569,6 +568,11 @@
     <string name="edit_quick_response_dialog">Risposte rapide</string>
     <string name="edit_signature">Modifica firma</string>
     <string name="editor_max_length_limit_hint">Il messaggio inserito è troppo lungo</string>
+    <string name="email_filter_choose_folder">Seleziona cartella</string>
+    <string name="email_filter_choose_item">Seleziona elemento</string>
+    <string name="email_filter_create_folder">Crea cartella</string>
+    <string name="email_filter_enter_folder_name">Inserisci il nome della cartella</string>
+    <string name="email_filter_no_rule">Non c\'è niente qui</string>
     <string name="email_no_snippet">[Questo messaggio non ha testo]</string>
     <string name="email_sync_failed">"Impossibile sincronizzare la posta"</string>
     <string name="eml_parse_message">Il recupero dei file eml richiede un po\' di tempo, attendere prego…</string>
@@ -658,6 +662,7 @@
     <string name="fmt_weekday_date_timezone">zDW</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
+    <string name="folder">Cartelle</string>
     <string name="folder_drafts_name_cn0">Bozze</string>
     <string name="folder_drafts_name_cn1">Bozze</string>
     <string name="folder_drafts_name_cn2">[Gmail]/Bozze</string>
@@ -712,7 +717,7 @@
     <string name="font_underline">Sottolineato</string>
     <string name="font_underline_remove">Rimuovi Sottolineatura</string>
     <string name="forever">Sempre</string>
-    <string name="forget_app_password">Password app dimenticata</string>
+    <string name="forget_app_password">Password dimenticata</string>
     <string name="forward">Inoltra</string>
     <string name="forward_attachment">Inoltra</string>
     <string name="forward_attribution">---------- Messaggio inoltrato ----------<br/>Da: %1$s<br/>Data: %2$s<br/>Oggetto: %3$s<br/>A: %4$s<br/></string>
@@ -974,10 +979,6 @@ Ciao, la password dell'applicazione è attivata? Se attiva, vai al sito ufficial
     <string name="miuix_sbl_tracking_progress_labe_up_none">"E' tutto per ora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare gli elementi"</string>
-    <string name="miuix_search_action_mode_cancel">Annulla</string>
-    <string name="miuix_search_history_clear">Cancella cronologia di ricerca</string>
-    <string name="miuix_search_history_default_title">Cronologia di ricerca</string>
-    <string name="miuix_search_recommendation_item_del_des">Elimina</string>
     <string name="modify_contact_address">"Modifica indirizzo email del contatto"</string>
     <string name="monday">Lunedì</string>
     <string name="monday_short">Lun</string>
