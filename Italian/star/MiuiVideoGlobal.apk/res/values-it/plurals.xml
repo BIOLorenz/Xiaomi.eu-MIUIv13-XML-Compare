@@ -164,4 +164,8 @@
         <item quantity="other">I sottotitoli sono ritardati di %.1f secondi</item>
         <item quantity="one">I sottotitoli sono ritardati di %.1f secondo</item>
     </plurals>
+    <plurals name="video_like_text">
+        <item quantity="other">%s mi piace</item>
+        <item quantity="one">%s mi piace</item>
+    </plurals>
 </resources>
