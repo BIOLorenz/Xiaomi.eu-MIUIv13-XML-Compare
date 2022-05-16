@@ -555,7 +555,6 @@ Invia questo codice al supervisore."</string>
     <string name="galleryplus_double_tap_to_higher_definition">Fai di nuovo doppio tap per l\'anteprima HD</string>
     <string name="galleryplus_fr_unsupport_restore_speed">Frequenza non supportata. Ripristinata velocità normale.</string>
     <string name="galleryplus_gallery_fold_tags">Nascondi segnalini</string>
-    <string name="galleryplus_gallery_video_adjust_hint">Sono supportati solo video a 960fps</string>
     <string name="galleryplus_gallery_video_adjust_text">Correggi</string>
     <string name="galleryplus_gallery_video_default_music_text">Auto</string>
     <string name="galleryplus_gallery_video_icon_is_8k">8K</string>
@@ -689,6 +688,9 @@ per i video"</string>
     <string name="local_hide_folder_setting_goto">Impostazioni</string>
     <string name="local_play_tip">Riproduzione di video locali</string>
     <string name="local_push_title">Popolari oggi</string>
+    <string name="local_subtitle_choose_language_text">Lingua</string>
+    <string name="local_subtitle_search_result_text">Risultati…</string>
+    <string name="local_subtitle_searching_text">Ricerca…</string>
     <string name="local_video_date">Data</string>
     <string name="local_video_dialog_default">Predefinita</string>
     <string name="local_video_name">Nome</string>
@@ -736,7 +738,6 @@ per i video"</string>
     <string name="lv_brightness">Luminosità</string>
     <string name="lv_cast">Trasmetti</string>
     <string name="lv_check_delete_file">Seleziona gli elementi da eliminare</string>
-    <string name="lv_check_send_file">Puoi inviare solo 1 file alla volta</string>
     <string name="lv_confirm_delete_history">Eliminare elementi selezionati?</string>
     <string name="lv_confirm_delete_videos">Eliminare gli elementi?</string>
     <string name="lv_confirm_hide_videos">Nascondere i video?</string>
@@ -1568,6 +1569,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="tab_name_trending">Di tendenza</string>
     <string name="tab_name_video">Video</string>
     <string name="tab_playlist_local">Dispositivo</string>
+    <string name="talkback_video_play">Riproduci video</string>
     <string name="talkback_voice_search">Ricerca vocale</string>
     <string name="temporary_not_available">"Questa funzione non è ancora disponibile"</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversario dell\'abolizione della legge marziale</string>
@@ -1705,6 +1707,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="video_noyet_download_tip">Questo video è ancora in fase di download</string>
     <string name="video_offline">Questo elemento non è più disponibile</string>
     <string name="view">Mostra</string>
+    <string name="vk_video_tab">Per te</string>
     <string name="vp_VideoView_error_button">OK</string>
     <string name="vp_VideoView_error_text_unknown">Si è verificato un errore</string>
     <string name="vp_VideoView_error_title">Errore sconosciuto</string>
