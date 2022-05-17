@@ -474,6 +474,7 @@ utilizzando %s"</string>
     <string name="default_audio_route_name">Telefono</string>
     <string name="default_audio_route_name_dock_speakers">Altoparlanti dock</string>
     <string name="default_audio_route_name_headphones">Cuffie audio</string>
+    <string name="default_audio_route_name_usb">USB</string>
     <string name="default_notification_channel_label">Senza categoria</string>
     <string name="delete">Elimina</string>
     <string name="deleteText">Elimina</string>
@@ -512,6 +513,9 @@ utilizzando %s"</string>
     <string name="dynamic_mode_notification_title">La batteria potrebbe esaurirsi prima della ricarica abituale</string>
     <string name="editTextMenuTitle">Azioni testo</string>
     <string name="edit_accessibility_shortcut_menu_button">Modifica scorciatoie</string>
+    <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
+    <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
+    <string name="ellipsis">…</string>
     <string name="emailTypeCustom">Personalizzato</string>
     <string name="emailTypeHome">Casa</string>
     <string name="emailTypeMobile">Cellulare</string>
@@ -807,6 +811,7 @@ Vuoi abbandonare la pagina?"</string>
     <string name="js_dialog_before_unload_positive_button">Abbandona questa pagina</string>
     <string name="js_dialog_before_unload_title">Conferma navigazione</string>
     <string name="js_dialog_title">La pagina all\'indirizzo \"%s\" indica:</string>
+    <string name="js_dialog_title_default">JavaScript</string>
     <string name="keyboardview_keycode_alt">Alt</string>
     <string name="keyboardview_keycode_cancel">Annulla</string>
     <string name="keyboardview_keycode_delete">Canc</string>
@@ -1229,6 +1234,7 @@ Le notifiche avanzate possono accedere al contenuto delle notifiche, comprese le
     <string name="notification_feedback_indicator_silenced">Questa notifica è stata silenziata. Tocca per fornire un feedback.</string>
     <string name="notification_hidden_text">Nuova notifica</string>
     <string name="notification_history_title_placeholder">Notifica app personalizzata</string>
+    <string name="notification_inbox_ellipsis">…</string>
     <string name="notification_listener_binding_label">Listener di notifica</string>
     <string name="notification_phishing_alert_content_description">Allarme phishing</string>
     <string name="notification_ranker_binding_label">Servizio di classificazione delle notifiche</string>
@@ -1745,6 +1751,7 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
     <string name="searchview_description_search">Cerca</string>
     <string name="searchview_description_submit">Invia query</string>
     <string name="searchview_description_voice">Ricerca vocale</string>
+    <string name="second">sec</string>
     <string name="seconds">sec</string>
     <string name="selectAll">Seleziona tutto</string>
     <string name="selectTextMode">Seleziona testo</string>
