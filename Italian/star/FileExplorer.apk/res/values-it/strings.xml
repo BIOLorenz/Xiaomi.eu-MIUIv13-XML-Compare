@@ -236,6 +236,7 @@
     <string name="display_setting">Elementi visualizzati</string>
     <string name="doc_all">Tutto</string>
     <string name="doc_epub">EPUB</string>
+    <string name="doc_pdf">PDF</string>
     <string name="doc_ppt">PPT</string>
     <string name="doc_txt">TXT</string>
     <string name="doc_word">DOC</string>
@@ -441,6 +442,7 @@
     <string name="menu_item_sort_date">Ultima modifica</string>
     <string name="menu_item_sort_name">Nome</string>
     <string name="menu_item_sort_type">Tipo</string>
+    <string name="menu_item_usb">USB</string>
     <string name="menu_new_display_open">Apri in una nuova finestra</string>
     <string name="menu_pc_open">Apri nel computer</string>
     <string name="menu_set_wallpaper">Imposta come sfondo</string>
@@ -555,6 +557,7 @@
     <string name="mtrl_badge_numberless_content_description">Nuove notifiche</string>
     <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Piu di %1$d nuove notifiche</string>
+    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_a11y_next_month">Passa al mese successivo</string>
     <string name="mtrl_picker_a11y_prev_month">Passa al mese precedente</string>
     <string name="mtrl_picker_announce_current_selection">Selezione corrente: %1$s</string>
@@ -898,6 +901,7 @@
     <string name="unlock_pattern_msg">La password per la protezione della privacy funziona anche per foto e messaggi.</string>
     <string name="unlock_pattern_title">Nuova password</string>
     <string name="upload_user_photo">Carica</string>
+    <string name="usb_label">USB</string>
     <string name="use">Usa</string>
     <string name="use_to_all">Applica a tutti</string>
     <string name="used">Utilizzato:\u0020</string>
