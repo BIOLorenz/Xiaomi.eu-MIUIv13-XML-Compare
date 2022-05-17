@@ -233,6 +233,7 @@
     <string name="columbus_player_learn_more">Scopri di più</string>
     <string name="columbus_player_speed_title">Saltare il Video?</string>
     <string name="columbus_player_speed_video">Salta Il VIDEO</string>
+    <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Salta</string>
     <string name="common_google_play_services_enable_button">Attiva</string>
     <string name="common_google_play_services_enable_text">"%1$s non funzionerà se non attiverai i servizi di Google Play."</string>
@@ -897,6 +898,7 @@ attendere o selezionare Musica Online."</string>
     <string name="mtrl_badge_numberless_content_description">Nuove notifiche</string>
     <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Piu di %1$d nuove notifiche</string>
+    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_a11y_next_month">Passa al mese successivo</string>
     <string name="mtrl_picker_a11y_prev_month">Passa al mese precedente</string>
     <string name="mtrl_picker_announce_current_selection">Selezione corrente: %1$s</string>
@@ -989,8 +991,13 @@ attendere o selezionare Musica Online."</string>
     <string name="nowplaying_circle_style_wave">Onda</string>
     <string name="nowplaying_dialog_title_delete_tracks">Rimuovere dalla playlist?</string>
     <string name="nowplaying_menu_item_delete">Rimuovi dalla coda</string>
+    <string name="offline_notification_text">Tocca per aprire l\'annuncio</string>
+    <string name="offline_notification_title">Visualizza l\'annuncio salvato quando eri offline</string>
     <string name="offline_opt_in_confirm">OK</string>
+    <string name="offline_opt_in_confirmation">"Riceverai una notifica con il link quando sarai di nuovo online"</string>
     <string name="offline_opt_in_decline">Non ora</string>
+    <string name="offline_opt_in_message">"Ti invieremo una notifica con un link che rimanda al sito dell'inserzionista."</string>
+    <string name="offline_opt_in_title">"Apri l'annuncio quando sarai di nuovo online."</string>
     <string name="ok">OK</string>
     <string name="online_apk_acquired">Caricato %d%%</string>
     <string name="online_apk_acquiring">Caricamento… %d%%</string>
