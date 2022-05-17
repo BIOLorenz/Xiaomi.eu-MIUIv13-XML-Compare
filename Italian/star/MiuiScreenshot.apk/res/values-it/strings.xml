@@ -136,6 +136,8 @@
     <string name="device_status_success">Inviato correttamente</string>
     <string name="device_status_waiting">In attesa…</string>
     <string name="device_type_pc">Computer</string>
+    <string name="doodle_paint_select_heavy_talkback">Spesso</string>
+    <string name="doodle_paint_select_light_talkback">Sottile</string>
     <string name="doodle_paint_select_medium_talkback">Normale</string>
     <string name="early_morning">Mattina</string>
     <string name="earthly_branches_chen">Chen</string>
