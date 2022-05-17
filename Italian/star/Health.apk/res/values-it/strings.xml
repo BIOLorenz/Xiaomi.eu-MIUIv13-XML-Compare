@@ -105,6 +105,7 @@
     <string name="channel_desc_background">Per offrire servizi in background</string>
     <string name="channel_id_background_service">Servizi in background</string>
     <string name="channel_name_background">Servizi in background</string>
+    <string name="character_counter_content_description">Caratteri inseriti %1$d di %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
     <string name="character_counter_pattern">%1$d di %2$d</string>
     <string name="chart_no_data">Nessun dato</string>
@@ -176,10 +177,12 @@
     <string name="chinese_symbol_animals_sheep">Pecora</string>
     <string name="chinese_symbol_animals_snake">Serpente</string>
     <string name="chinese_symbol_animals_tiger">Tigre</string>
+    <string name="chip_text">Testo chip</string>
     <string name="choose_from_album">Galleria</string>
     <string name="chronic">Malattie croniche</string>
     <string name="chronic_hint">Descrivere le malattie croniche (ad es. pressione alta, asma, ecc.)</string>
     <string name="clear">Cancella</string>
+    <string name="clear_text_end_icon_content_description">Cancella testo</string>
     <string name="clearable_edittext_clear_description">Cancella</string>
     <string name="click_to_solve">Guida</string>
     <string name="climbing">Scalata</string>
@@ -324,6 +327,7 @@
     <string name="exit_running_tips_confirm">No</string>
     <string name="expand_all">Visualizza tutti</string>
     <string name="expand_button_title">Avanzate</string>
+    <string name="exposed_dropdown_menu_content_description">Mostra menu a discesa</string>
     <string name="external_storage_permission_subtitle">Per impostare le foto del profilo</string>
     <string name="external_storage_permission_title">Accedi e salva gli oggetti nella memoria</string>
     <string name="fast">Veloce</string>
@@ -458,6 +462,7 @@ Inizia da capo."</string>
     <string name="hr_strength_lower_mid">Bassa</string>
     <string name="hr_strength_lowest">Più basso</string>
     <string name="hr_strength_mid">Media</string>
+    <string name="icon_content_description">Icona Dialogo</string>
     <string name="immediately_experience">Aggiorna</string>
     <string name="inactivated">Non attivo</string>
     <string name="indoor_running">Tapiroulant</string>
@@ -616,8 +621,12 @@ Inizia da capo."</string>
     <string name="month_september_short">Set</string>
     <string name="month_september_shortest">Set</string>
     <string name="more_questions">Altro</string>
+    <string name="mtrl_badge_numberless_content_description">Nuova notifica</string>
     <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_date_format">dd MMM, yyyy</string>
+    <string name="mtrl_picker_date_header_title">Seleziona una data</string>
+    <string name="mtrl_picker_range_header_title">Seleziona un intervallo di date</string>
     <string name="muscle_rate">Muscoli</string>
     <string name="name_title_menstruation_today_end">Le mestruazioni dovrebbero terminare oggi</string>
     <string name="network_connect_failure">"Impossibile connettersi alla rete. Verifica le impostazioni di rete e riprova."</string>
