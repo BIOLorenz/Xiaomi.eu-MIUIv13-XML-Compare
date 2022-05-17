@@ -621,6 +621,7 @@
     <string name="picture_go_setting">Vai alle Impostazioni</string>
     <string name="picture_is_being_saved">Salvataggio immagine in corso</string>
     <string name="picture_jurisdiction">Accesso alla scheda di memoria negato</string>
+    <string name="picture_know">Ok</string>
     <string name="picture_long_chart">Lungo</string>
     <string name="picture_message_audio_max_num">Seleziona fino a %1$s Audio</string>
     <string name="picture_message_max_num">Seleziona fino a %1$s immagini</string>
@@ -746,6 +747,7 @@
     <string name="setting_use_last_choose">Ricorda le scelte precedenti</string>
     <string name="setting_wechat">WeChat</string>
     <string name="share">Condividi</string>
+    <string name="share_as_PDF">PDF</string>
     <string name="share_as_picture">Immagine</string>
     <string name="share_error">"Impossibile condividere"</string>
     <string name="share_format">Condividi come</string>
@@ -914,6 +916,7 @@
     <string name="visit">Apri URL</string>
     <string name="waybill_num">"Ordine: "</string>
     <string name="web">Sito web:</string>
+    <string name="web_url">URL</string>
     <string name="website_details">Sito web:</string>
     <string name="wechat_scan_code">Scansiona codice Wechat</string>
     <string name="wechatcode_auto_processing_function_requires_permissions">La funzione di elaborazione automatica del codice WeChat richiede che WeChat abbia i permessi per la fotocamera e i permessi di archiviazione.</string>
