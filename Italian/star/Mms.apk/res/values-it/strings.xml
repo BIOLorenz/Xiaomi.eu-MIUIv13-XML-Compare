@@ -88,6 +88,7 @@
     <string name="batch_adding_progress_message">Aggiunta…</string>
     <string name="batch_deleting_message_progress_message">Eliminazione…</string>
     <string name="batch_deleting_progress_message">Eliminazione…</string>
+    <string name="bcc_label">"Ccn: "</string>
     <string name="block_messaging_entry_title">SMS bloccati</string>
     <string name="block_number_message">Questo numero di telefono verrà aggiunto alla Lista Blocchi. Tutti i messaggi inviati da questo numero saranno bloccati.</string>
     <string name="block_support_text">Supportato da Antiy.</string>
