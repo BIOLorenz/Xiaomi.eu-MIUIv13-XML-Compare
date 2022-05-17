@@ -129,11 +129,14 @@
     <string name="alert_tips">Questo sito potrebbe essere un rischio per la sicurezza</string>
     <string name="all">Tutto</string>
     <string name="allow">Consenti</string>
+    <string name="app_id">Id App Firebase (Clicca Per Esportare)</string>
+    <string name="app_name">MarketDeveloper</string>
     <string name="app_name_bluetooth">Bluetooth</string>
     <string name="app_name_camera">Fotocamera</string>
     <string name="app_name_downloadedrom">Pacchetti</string>
     <string name="app_name_downloads">Download</string>
     <string name="app_name_market">App store</string>
+    <string name="app_name_midrop">ShareMe</string>
     <string name="app_name_miui">MIUI</string>
     <string name="app_name_miuimusic">Musica</string>
     <string name="app_name_miuiringtone">Suoneria</string>
@@ -143,6 +146,7 @@
     <string name="app_uninstall_description_content">"Browser è un'app di sistema. Non potrai utilizzare i servizi di ricerca e navigazione web dopo aver disinstallato l'app."</string>
     <string name="app_uninstall_description_title">Disinstallare Browser?</string>
     <string name="app_update_install">Aggiornamento pronto per l\'installazione.</string>
+    <string name="application_name">Browser</string>
     <string name="aqi_quality_index_break">Molto pericoloso</string>
     <string name="aqi_quality_index_dangerous">Pericolosa</string>
     <string name="aqi_quality_index_good">Normale</string>
@@ -193,10 +197,12 @@ Disattiva per fermare la sincronizzazione."</string>
     <string name="bookmark_url">URL http://</string>
     <string name="bookmark_url_already_exisit">"Hai già salvato questo URL"</string>
     <string name="bookmark_url_can_not_null">Inserisci l\'URL</string>
+    <string name="bookmark_url_lable">URL</string>
     <string name="bookmark_url_not_valid">"Questo URL non è valido"</string>
     <string name="bookmarks_content_is_null">Nessun segnalibro</string>
     <string name="bookmarks_management">Segnalibri</string>
     <string name="bookmarks_root_folder">Cartella principale</string>
+    <string name="bookmarks_search">Browser</string>
     <string name="bottom_bar_tabs_long_click_down_tip_txt">Scorri verso il basso per chiudere</string>
     <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Questa è l\'ultima scheda</string>
     <string name="bottom_bar_tabs_long_click_up_tip_txt">Scorri verso l\'alto per chiudere</string>
@@ -360,6 +366,7 @@ Disattiva per fermare la sincronizzazione."</string>
     <string name="columbus_player_learn_more">Scopri di più</string>
     <string name="columbus_player_speed_title">Saltare il Video?</string>
     <string name="columbus_player_speed_video">Salta Il VIDEO</string>
+    <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Salta</string>
     <string name="com_facebook_device_auth_instructions">Visita &lt;b&gt;facebook.com/device&lt;/b&gt; ed inserisci il codice visualizzato sopra.</string>
     <string name="com_facebook_image_download_unknown_error">Errore inaspettato durante il download di un\'immagine.</string>
@@ -454,6 +461,7 @@ Disattiva per fermare la sincronizzazione."</string>
     <string name="crash_page_button">Riprova</string>
     <string name="create_qr_code">Codice QR</string>
     <string name="current_version_pad">Tablet</string>
+    <string name="current_version_pc">Desktop</string>
     <string name="current_version_phone">Telefono</string>
     <string name="custom">Perfavore inserisic il link url del calendario</string>
     <string name="custom_head_card_text_incognito">"Sei in incognito!
@@ -787,6 +795,7 @@ Invia questo codice al supervisore."</string>
     <string name="go_supermarket_button">Vai</string>
     <string name="go_supermarket_title">Più app, più veloce e minore utilizzo dei dati nell\'App Store</string>
     <string name="gold_medals">Medaglie d’oro</string>
+    <string name="google_bookmarks">Google</string>
     <string name="goto_sign_up">Crea account</string>
     <string name="has_already_subscribed_tips">"Ti sei già iscritto a questo piano"</string>
     <string name="hashtag_action_follow">Segui</string>
@@ -993,7 +1002,9 @@ Invia questo codice al supervisore."</string>
     <string name="more_option">Altre opzioni</string>
     <string name="more_recommend">Più consigli</string>
     <string name="morning">Mattina</string>
+    <string name="most_visited_sites_switch">Mostra i siti più visitati nella pagina iniziale</string>
     <string name="move_bookmark">Sposta</string>
+    <string name="msg_token">Firebase Message Token(Clicca Per Esportare)</string>
     <string name="msn_ad_identification">AD</string>
     <string name="msn_privacy">Dichiarazione sulla Privacy Microsoft</string>
     <string name="msn_privacy_content">Per il feed di contenuti forniti da Microsoft News</string>
@@ -1036,6 +1047,7 @@ Invia questo codice al supervisore."</string>
     <string name="mw_actionbar_web_search">Ricerca web</string>
     <string name="mw_add_to_dictionary">Aggiungi al dizionario</string>
     <string name="mw_autofill_popup_content_description">Mostra popup riempimento automatico</string>
+    <string name="mw_chip_remove_icon_content_description">Rimuovi \"%1$s\"</string>
     <string name="mw_color_picker_button_black">Nero</string>
     <string name="mw_color_picker_button_blue">Blu</string>
     <string name="mw_color_picker_button_cancel">Annulla</string>
@@ -1090,8 +1102,10 @@ Abbandonare questa pagina?"</string>
     <string name="mw_js_dialog_before_unload_positive_button">Chiudi questa pagina</string>
     <string name="mw_js_dialog_before_unload_title">Lasciare questa pagina?</string>
     <string name="mw_js_dialog_title">La pagina all\'indirizzo \"%s\" indica:</string>
+    <string name="mw_js_dialog_title_default">JavaScript</string>
     <string name="mw_last_month">Ultimo mese</string>
     <string name="mw_license_activity_title">Licenza WebView di sistema</string>
+    <string name="mw_link_copied">URL copiato</string>
     <string name="mw_low_memory_error">"Impossibile completare l'operazione precedente a causa di memoria insufficiente"</string>
     <string name="mw_miui_content_copy">Copia</string>
     <string name="mw_miui_content_cut">Taglia</string>
@@ -1196,12 +1210,14 @@ Abbandonare questa pagina?"</string>
     <string name="mw_save_password_notnow">Non adesso</string>
     <string name="mw_save_password_remember">Ricorda</string>
     <string name="mw_search_menu_title">Cerca</string>
+    <string name="mw_speech_recognition_service_not_found">"Impossibile trovare il motore vocale di Google"</string>
     <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
     <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_title">Imposta ora</string>
     <string name="mw_video_buffering_percent">"Caricamento "</string>
     <string name="mw_video_download_no_permission">Permessi richiesti per scaricare elementi</string>
     <string name="mw_video_float_drag_scale_msg">Trascina per ridimensionare</string>
+    <string name="mw_video_float_window">Pop-up</string>
     <string name="mw_video_float_window_playing">Riproduzione video in modalità PiP…</string>
     <string name="mw_video_play_error">"Riproduzione video fallita"</string>
     <string name="mw_webview_find_on_page">Trova nella pagina</string>
@@ -1234,6 +1250,7 @@ Abbandonare questa pagina?"</string>
     <string name="news_native_see_all">Articolo completo</string>
     <string name="next">Successivo</string>
     <string name="nf_choose_reason">Descrivi il problema</string>
+    <string name="nf_content_gif_label">GIF</string>
     <string name="nf_detail_collection">Aggiungi ai preferiti</string>
     <string name="nf_dislike">Non interessante</string>
     <string name="nf_feed_list_exit_toast">Tocca di nuovo per chiudere il feed dei contenuti</string>
@@ -1281,14 +1298,21 @@ Abbandonare questa pagina?"</string>
     <string name="noti_web_allow">Permesso</string>
     <string name="noti_web_push">Notifiche del sito</string>
     <string name="notif_install_successful">Download completato</string>
+    <string name="notification_category_browser">Browser</string>
     <string name="notification_category_downloads">Download</string>
+    <string name="notification_category_facebook">Facebook</string>
     <string name="notification_category_group_general">Generale</string>
     <string name="notification_category_media">Media</string>
     <string name="notification_download_completed">Scaricato con successo</string>
     <string name="notification_download_failed">"Download fallito."</string>
     <string name="notification_wechat_expired_empty">WeChat ha già eliminato questi video.</string>
+    <string name="offline_notification_text">Tocca per aprire l\'annuncio</string>
+    <string name="offline_notification_title">Visualizza l\'annuncio salvato quando eri offline</string>
     <string name="offline_opt_in_confirm">OK</string>
+    <string name="offline_opt_in_confirmation">"Riceverai una notifica con il link quando sarai di nuovo online"</string>
     <string name="offline_opt_in_decline">Non ora</string>
+    <string name="offline_opt_in_message">"Ti invieremo una notifica con un link che rimanda al sito dell'inserzionista."</string>
+    <string name="offline_opt_in_title">"Apri l'annuncio quando sarai di nuovo online."</string>
     <string name="ok">OK</string>
     <string name="open_app_confirm_message">Consentire a questa pagina di aprire %s?</string>
     <string name="open_private_folder">Creazione cartella nascosta…</string>
@@ -1508,6 +1532,7 @@ Abbandonare questa pagina?"</string>
     <string name="pref_key_gesture_title">Pulsanti e gesti</string>
     <string name="pref_nav_mode_summary_pad">Tablet</string>
     <string name="pref_nav_mode_summary_phone">Telefono</string>
+    <string name="pref_nav_mode_title">Desktop</string>
     <string name="pref_navscreen_layoutstate_title">Gestione multi-finestra</string>
     <string name="pref_notifications_title">Notifiche</string>
     <string name="pref_other_title">Altro</string>
@@ -1515,6 +1540,7 @@ Abbandonare questa pagina?"</string>
     <string name="pref_privacy_clear_cache">Cache</string>
     <string name="pref_privacy_clear_cache_dlg">Eliminare tutti gli elementi memorizzati nella cache durante la navigazione?</string>
     <string name="pref_privacy_clear_cache_summary">Mi Browser salva in cache alcune pagine web per caricarle più velocemente la prossima volta che le visiti. La cancellazione della cache elimina gli elementi salvati dai siti durante la navigazione.</string>
+    <string name="pref_privacy_clear_cookies">Cookies</string>
     <string name="pref_privacy_clear_cookies_dlg">Cancellare tutti i cookies?</string>
     <string name="pref_privacy_clear_cookies_summary">Elimina tutti i cookie memorizzati sul tuo dispositivo. I cookie sono creati dai siti visitati e poi memorizzati sul tuo dispositivo in modo da poter godere di un\'esperienza di navigazione più conveniente.</string>
     <string name="pref_privacy_clear_form_data">Dati modulo</string>
@@ -1530,6 +1556,7 @@ Abbandonare questa pagina?"</string>
     <string name="pref_privacy_clear_site_settings">Impostazioni del sito</string>
     <string name="pref_privacy_clear_site_settings_dlg">Eliminare tutte le impostazioni del sito?</string>
     <string name="pref_privacy_clear_site_settings_summary">Cancella tutte le impostazioni del sito. I siti chiederanno i permessi la prossima volta che li visiterai.</string>
+    <string name="pref_privacy_cookies_title">Cookies</string>
     <string name="pref_privacy_enable_geolocation">Posizione</string>
     <string name="pref_privacy_enable_geolocation_summary">Consenti al browser di richiedere l\'accesso alla tua posizione</string>
     <string name="pref_privacy_formdata_title">Dati modulo</string>
@@ -1578,6 +1605,7 @@ Alcuni siti non utilizzeranno la tua cronologia di navigazione precedente per pe
     <string name="pref_site_settings_category_ask">Chiedi sempre</string>
     <string name="pref_site_settings_category_block">Blocca</string>
     <string name="pref_site_settings_category_blocked">Filtro sconosciuti</string>
+    <string name="pref_site_settings_cookie">Cookies</string>
     <string name="pref_site_settings_cookie_allow_summary">I siti funzioneranno normalmente</string>
     <string name="pref_site_settings_cookie_allow_title">Consenti l\'utilizzo dei cookie</string>
     <string name="pref_site_settings_cookie_block_summary">La maggior parte delle funzioni del sito potrebbe non funzionare correttamente</string>
@@ -1634,6 +1662,7 @@ Alcuni siti non utilizzeranno la tua cronologia di navigazione precedente per pe
     <string name="privacy_message_welcome_tip_first">- Navigazione web veloce e sicura</string>
     <string name="privacy_message_welcome_tip_second">- Scaricamento di immagini e video da piattaforme di social media</string>
     <string name="privacy_policy">Informativa sulla Privacy</string>
+    <string name="privacy_reset_fail">"Impossibile reimpostare. Riprova."</string>
     <string name="privacy_sub_title">Termini e condizioni</string>
     <string name="privacy_title">Benvenuto in Mi Browser</string>
     <string name="private_title">File nascosti</string>
@@ -1645,6 +1674,7 @@ Alcuni siti non utilizzeranno la tua cronologia di navigazione precedente per pe
     <string name="pull_to_refresh_release_label">Rilascia per andare ai Suggeriti ed aggiornare</string>
     <string name="pwa_app_name">App web</string>
     <string name="pwa_hint_added_success">Aggiunto con successo</string>
+    <string name="qr_code_title">QR Code</string>
     <string name="qr_description">Rileva codice QR</string>
     <string name="quicklink_bookmark_save">Salva in</string>
     <string name="quicklink_cannot_save_url">"Questo URL non può essere aggiunto."</string>
@@ -1656,6 +1686,7 @@ Alcuni siti non utilizzeranno la tua cronologia di navigazione precedente per pe
     <string name="quicklink_saved">Salvato nella pagina iniziale</string>
     <string name="quicklink_saved_before">Questo sito è già stato aggiunto.</string>
     <string name="quicklink_user_define_webpage_title">Nome</string>
+    <string name="quicklink_user_define_webpage_url">URL</string>
     <string name="quicklinks_group_default_subtitle">Vuoto</string>
     <string name="quicklinks_management">Popolari</string>
     <string name="quicklinks_most_visited">Aggiungi alla pagina iniziale</string>
@@ -1699,6 +1730,7 @@ Alcuni siti non utilizzeranno la tua cronologia di navigazione precedente per pe
     <string name="renew_sub_now">Rinnova</string>
     <string name="replace">Sostituisci</string>
     <string name="replay">Riproduci nuovamente</string>
+    <string name="reply_comment_title">Re: %s</string>
     <string name="report_action_manual_pull_refresh">Trascina per aggiornare</string>
     <string name="request_camera_permission_message">Questo servizio richiede la tua autorizzazione, rispetteremo rigorosamente le leggi pertinenti per proteggere le tue informazioni personali: &lt;br&gt;&lt;br&gt;&lt;b&gt; Accesso Fotocamera: necessario per l\'impostazione di Avatar &lt;/b&gt;&lt;br&gt;&lt;br&gt; Se non accetti di consentire i permessi di cui sopra, questa funzione non funzionerà correttamente, ma non influenzerà l\'uso delle funzioni di base di questa applicazione. È possibile scegliere di disattivare l\'autorizzazione di cui sopra nelle impostazioni di sistema.</string>
     <string name="request_profile_error">"Impossibile ottenere informazioni sull'account"</string>
@@ -1713,12 +1745,19 @@ Alcuni siti non utilizzeranno la tua cronologia di navigazione precedente per pe
     <string name="return_to_homepage">Torna alla pagina iniziale</string>
     <string name="risk_continue">Continua</string>
     <string name="risk_detail">Dettagli</string>
+    <string name="risk_malicious_url">Questo sito web potrebbe comportare rischi per la sicurezza.</string>
+    <string name="risk_protect_browsing">Mi Browser controlla i siti Web per rilevare problemi di sicurezza</string>
+    <string name="risk_safe_url">Questo sito web è sicuro</string>
+    <string name="risk_setting_des">Consenti a Mi Browser di controllare i siti Web per rilevare problemi di sicurezza</string>
+    <string name="risk_setting_title">Navigazione sicura</string>
     <string name="risk_stop">Interrompi</string>
+    <string name="risk_unspecified_url">"Si è verificato un problema con il certificato di sicurezza di questo sito web."</string>
     <string name="rlv_last_refreshing_time">%1$s aggiornato</string>
     <string name="rlv_loading_more">Attendi…</string>
     <string name="rlv_pull_to_refresh">Tira in giù per aggiornare</string>
     <string name="rlv_refreshing">Aggiornamento…</string>
     <string name="rlv_release_to_refresh">Rilascia per aggiornare</string>
+    <string name="rlz_access_point">Y%1$d</string>
     <string name="root_folder_lable">Nessuno</string>
     <string name="router_download_exist">Questo file esiste già</string>
     <string name="router_download_failed">"Impossibile scaricare"</string>
@@ -1760,7 +1799,11 @@ Alcuni siti non utilizzeranno la tua cronologia di navigazione precedente per pe
     <string name="screenshot_loading_dialog_title">Cattura...</string>
     <string name="sdcard_error">Controlla la tua scheda SD</string>
     <string name="search">Cerca</string>
+    <string name="search_baidu">Baidu</string>
+    <string name="search_bing">Bing</string>
     <string name="search_button_text">Vai</string>
+    <string name="search_dianping">Cate</string>
+    <string name="search_easou">Easou</string>
     <string name="search_empty_view_hint">"Nessun risultato"</string>
     <string name="search_engine_title">Ricerca predefinita</string>
     <string name="search_error_hint">Cerca</string>
@@ -1769,7 +1812,9 @@ Alcuni siti non utilizzeranno la tua cronologia di navigazione precedente per pe
     <string name="search_file_type_music">Musica</string>
     <string name="search_file_type_picture">Foto</string>
     <string name="search_file_type_video">Video</string>
+    <string name="search_google">Google</string>
     <string name="search_hint">Cerca</string>
+    <string name="search_label">Browser</string>
     <string name="search_menu_title">Cerca</string>
     <string name="search_settings_description">Segnalibri e cronologia web</string>
     <string name="search_shipin">Video</string>
@@ -1778,6 +1823,7 @@ Alcuni siti non utilizzeranno la tua cronologia di navigazione precedente per pe
     <string name="search_trending_new">Nuovo</string>
     <string name="search_trending_title">Di tendenza</string>
     <string name="search_tupian">Immagine</string>
+    <string name="search_yahoo">Yahoo!</string>
     <string name="secure_download_in_xiaomi_market">Scarica nell\'App Store</string>
     <string name="secureaccess">Passa alla modalità provvisoria</string>
     <string name="secureaccess_cancel">Ignora</string>
