@@ -1412,6 +1412,7 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
     <string name="earthly_branches_zi">Zi</string>
     <string name="edit_new_task_name">Nome</string>
     <string name="edit_phone_num">Modifica numero SIM</string>
+    <string name="ellipsis">…</string>
     <string name="email">E-mail</string>
     <string name="empty_app">Nessuna app</string>
     <string name="empty_title_auto_start_list">Nessuna app in avvio automatico</string>
@@ -2804,9 +2805,11 @@ dall'operatore"</string>
     <string name="never_new">%d volta</string>
     <string name="new_condition_communication">Interazione</string>
     <string name="new_condition_event">Evento</string>
+    <string name="new_condition_setting_item">Impostazione</string>
     <string name="new_condition_situation">Situazione</string>
     <string name="new_result_function">Funzionalità</string>
     <string name="new_result_screen_display">Schermo</string>
+    <string name="new_result_setting_item">Impostazione</string>
     <string name="new_result_sound_and_vibration">Suono e vibrazione</string>
     <string name="new_task_condition_name">Se</string>
     <string name="new_task_result_name">Poi</string>
@@ -3649,6 +3652,7 @@ dall'operatore"</string>
     <string name="pref_warning_values">Soglia avviso utilizzo dati</string>
     <string name="pref_whitelist_setting">Eccezioni dati roaming</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
+    <string name="preferred_app_entries_browser">Browser</string>
     <string name="preferred_app_entries_camera">Fotocamera</string>
     <string name="preferred_app_entries_dial">Chiama</string>
     <string name="preferred_app_entries_email">E-mail</string>
