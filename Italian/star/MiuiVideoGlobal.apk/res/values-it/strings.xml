@@ -70,6 +70,7 @@
     <string name="ad_join">Unisciti alla community</string>
     <string name="ad_more">Altro</string>
     <string name="add_local_shortcut_add">Aggiungi</string>
+    <string name="add_search_channel_link">URL</string>
     <string name="add_search_channel_name">Nome</string>
     <string name="add_search_channel_tip">Cerca \"%s\" sul sito web di destinazione, quindi copia e incolla l\'URL qui.</string>
     <string name="add_to_trust_device">Questo device è affidabile</string>
@@ -154,6 +155,7 @@
     <string name="cast_unmute">Riattiva l\'audio</string>
     <string name="change_activate_email">Cambia indirizzo email</string>
     <string name="change_password">Cambia password</string>
+    <string name="character_counter_content_description">Caratteri inseriti %1$d di %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="check_nothing">"Non hai selezionato alcun elemento"</string>
@@ -225,9 +227,11 @@
     <string name="chinese_symbol_animals_sheep">Pecora</string>
     <string name="chinese_symbol_animals_snake">Serpente</string>
     <string name="chinese_symbol_animals_tiger">Tigre</string>
+    <string name="chip_text">Testo chip</string>
     <string name="choose">Scegli</string>
     <string name="choose_to_signin">Sì</string>
     <string name="choose_to_signup">"No, ne creerò uno"</string>
+    <string name="clear_text_end_icon_content_description">Cancella testo</string>
     <string name="clearable_edittext_clear_description">Cancella</string>
     <string name="click_to_reload_more">Tocca per caricare altro</string>
     <string name="click_to_retry">Riprova</string>
@@ -246,6 +250,7 @@
     <string name="columbus_player_learn_more">Scopri di più</string>
     <string name="columbus_player_speed_title">Saltare il Video?</string>
     <string name="columbus_player_speed_video">Salta Il VIDEO</string>
+    <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Salta</string>
     <string name="com_facebook_device_auth_instructions">Visita &lt;b&gt;facebook.com/device&lt;/b&gt; ed inserisci il codice visualizzato sopra.</string>
     <string name="com_facebook_image_download_unknown_error">Errore inaspettato durante il download di un\'immagine.</string>
@@ -351,7 +356,9 @@ Invia questo codice al supervisore."</string>
     <string name="dialog_disagree_privacychange_title">"Non sei d'accordo?"</string>
     <string name="dialog_edit_bookmarks">Modifica segnalibro</string>
     <string name="dialog_edit_hint_bookmarks_name">Nome del segnalibro</string>
+    <string name="dialog_edit_hint_bookmarks_url">URL</string>
     <string name="dialog_edit_hint_name">Nome</string>
+    <string name="dialog_edit_hint_url">URL</string>
     <string name="dialog_jumpto_choose">"Non mostrare più"</string>
     <string name="dialog_no_video_confirm">Ok</string>
     <string name="dialog_privacy_change_info">"Abbiamo aggiornato l'Informativa sulla privacy di Mi Video a causa delle modifiche apportate ai servizi che offriamo. Per comprendere pienamente i tuoi diritti come utente e i modi in cui utilizziamo i tuoi dati, leggi e accetta il nostro &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e &lt;a href=%2$s&gt;Informativa sulla privacy&lt;/a&gt; prima di utilizzare l'app."</string>
@@ -455,6 +462,7 @@ Invia questo codice al supervisore."</string>
     <string name="expand_button_title">Avanzate</string>
     <string name="explore">Scopri</string>
     <string name="explore_on_mi_video">Trova di più su Mi Video</string>
+    <string name="exposed_dropdown_menu_content_description">Mostra menu a discesa</string>
     <string name="failed_dup_secure_phone_number">Questo numero di telefono è già associato ad un altro MI account</string>
     <string name="failed_to_fetch_data">"Impossibile caricare informazioni."</string>
     <string name="failure">"Impossibile scaricare"</string>
@@ -656,6 +664,7 @@ Invia questo codice al supervisore."</string>
     <string name="history_local_video">Dispositivo</string>
     <string name="hot">Popolari</string>
     <string name="i_know">Ok</string>
+    <string name="icon_content_description">Icona Dialogo</string>
     <string name="identity">Identificazione</string>
     <string name="inconsistent_pwd">"Le password non corrispondono"</string>
     <string name="init_channels">Ripristina predefinite</string>
@@ -669,6 +678,7 @@ Invia questo codice al supervisore."</string>
     <string name="item_card_open_in">"Apri con "</string>
     <string name="item_card_related">Correlati</string>
     <string name="item_setting_go_back">Revoca autorizzazione...</string>
+    <string name="item_view_role_description">Tab</string>
     <string name="just_a_second">Attendi…</string>
     <string name="language_later_setting_tips">È possibile modificare le preferenze della lingua in Profilo &gt; Lingua.</string>
     <string name="language_select_tips">"Seleziona la tua lingua preferita
@@ -852,6 +862,8 @@ per i video"</string>
     <string name="material_hour_suffix">"%1$s in punto"</string>
     <string name="material_minute_selection">Seleziona i minuti</string>
     <string name="material_minute_suffix">%1$s minuti</string>
+    <string name="material_slider_range_end">Fine intervallo,</string>
+    <string name="material_slider_range_start">Inizio intervallo,</string>
     <string name="material_timepicker_clock_mode_description">Passa alla modalità orologio per inserire l\'ora.</string>
     <string name="material_timepicker_hour">Ora</string>
     <string name="material_timepicker_minute">Minuto</string>
@@ -891,6 +903,7 @@ per i video"</string>
     <string name="mnc_live_unsubscribe_toast">Iscrizione annullata correttamente</string>
     <string name="moment_guide_desc">Usa i gesti per ingrandire e rimpicciolire</string>
     <string name="moment_tab_all">Tutto</string>
+    <string name="moment_tab_facebook">Facebook</string>
     <string name="moment_tab_image">Immagini</string>
     <string name="moment_tab_qq">QQ</string>
     <string name="moment_tab_sina_weibo">Weibo</string>
@@ -963,15 +976,36 @@ per i video"</string>
     <string name="mr_dialog_route_header">Riproduci in un gruppo</string>
     <string name="mr_system_route_name">Sistema</string>
     <string name="mr_user_route_category_name">Dispositivi</string>
+    <string name="mtrl_badge_numberless_content_description">Nuova notifica</string>
     <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Più di %1$d nuove notifiche</string>
+    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+    <string name="mtrl_picker_a11y_next_month">Passa al mese successivo</string>
+    <string name="mtrl_picker_a11y_prev_month">Passa al mese precedente</string>
     <string name="mtrl_picker_announce_current_selection">Selezione attuale: %1$s</string>
     <string name="mtrl_picker_confirm">OK</string>
     <string name="mtrl_picker_date_header_title">Seleziona Data</string>
+    <string name="mtrl_picker_date_header_unselected">Data selezionata</string>
+    <string name="mtrl_picker_day_of_week_column_header">Colonna dei giorni: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Formato non valido.</string>
+    <string name="mtrl_picker_invalid_format_example">Esempio: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Usa: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Intervallo non valido.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Vai all\'anno %1$s</string>
+    <string name="mtrl_picker_out_of_range">Fuori dall\'intervallo: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Data di inizio – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Data di fine</string>
     <string name="mtrl_picker_range_header_title">Seleziona Intervallo</string>
+    <string name="mtrl_picker_range_header_unselected">Data di inizio – Data di fine</string>
     <string name="mtrl_picker_save">Salva</string>
     <string name="mtrl_picker_text_input_date_hint">Data</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
     <string name="mtrl_picker_text_input_day_abbr">dd</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Passa alla modalità di inserimento calendario</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tocca per selezionare un giorno</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Passa alla modalità di inserimento testo</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tocca per selezionare un anno</string>
     <string name="mtrl_timepicker_confirm">OK</string>
     <string name="music_new_user_dialog_got_it">Ok</string>
     <string name="my_favorite_channels">I miei canali preferiti</string>
@@ -1014,8 +1048,13 @@ per i video"</string>
     <string name="notification_recall_title">Attiva notifiche</string>
     <string name="notify_apk_installed">Scaricato con successo</string>
     <string name="off_tip_firework_recommend">"Non riceverai consigli di contenuti personalizzati da Fireworks"</string>
+    <string name="offline_notification_text">Tocca per aprire l\'annuncio</string>
+    <string name="offline_notification_title">Visualizza l\'annuncio salvato quando eri offline</string>
     <string name="offline_opt_in_confirm">OK</string>
+    <string name="offline_opt_in_confirmation">"Riceverai una notifica con il link quando sarai di nuovo online"</string>
     <string name="offline_opt_in_decline">Non ora</string>
+    <string name="offline_opt_in_message">"Ti invieremo una notifica con un link che rimanda al sito dell'inserzionista."</string>
+    <string name="offline_opt_in_title">"Apri l'annuncio quando sarai di nuovo online."</string>
     <string name="ok">OK</string>
     <string name="on_tip_firework_recommend">"Riceverai consigli di contenuti personalizzati da Fireworks"</string>
     <string name="online_play_hint">Per esempio: http://www.example.com/video.mp4</string>
@@ -1698,6 +1737,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="video_download_network_error">Errore rete</string>
     <string name="video_download_play_video_guide">Per prima cosa, riproduci il video.</string>
     <string name="video_download_play_video_guide2">Quindi tocca il pulsante per scaricare.</string>
+    <string name="video_download_site_search">URL</string>
     <string name="video_download_source">Download web</string>
     <string name="video_download_start">Download in corso…</string>
     <string name="video_download_storage_error">Memoria insufficiente</string>
