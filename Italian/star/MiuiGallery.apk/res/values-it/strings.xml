@@ -605,6 +605,7 @@
     <string name="clip_speedX_0.5x">0.5X</string>
     <string name="clip_speedX_1x">1X</string>
     <string name="clip_speedX_2.0x">2.0X</string>
+    <string name="clip_speedX_3.0x">3.0X</string>
     <string name="close">Chiudi</string>
     <string name="close_dialog_desc">Chiudi finestra di dialogo</string>
     <string name="cloud_action_open">Attiva</string>
@@ -670,6 +671,12 @@
     <string name="collage_ratio_text">Proporzioni</string>
     <string name="collage_rotate">Ruotare</string>
     <string name="collage_select_image_range">I Collage possono contenere da 1 a 4 foto</string>
+    <string name="collage_talkback_margin_large">Margine spesso</string>
+    <string name="collage_talkback_margin_medium">Margine normale</string>
+    <string name="collage_talkback_margin_non">Nessun margine</string>
+    <string name="collage_talkback_margin_small">Margine sottile</string>
+    <string name="collage_talkback_ratio_1_1">Proporzioni: quadrata</string>
+    <string name="collage_talkback_ratio_3_4">Proporzioni: tre per quattro</string>
     <string name="collage_title_layout">Disposizione</string>
     <string name="collage_title_poster">Poster</string>
     <string name="collage_title_stitching">Film</string>
@@ -717,6 +724,7 @@
     <string name="creativity_summary">Mostra funzionalità aggiuntive di creatività e modifica</string>
     <string name="creativity_title">Le mie foto modificate</string>
     <string name="crop_label">Ritaglia</string>
+    <string name="cta_agreement_declare"><Data>Per comprendere appieno i tuoi diritti come utente e i modi in cui utilizziamo i tuoi dati, leggi e accetti il nostro &lt;a href=\"%1$s\"&gt;Contratto utente&lt;/a&gt; e &lt;a href=\"%2$s\"&gt;Informativa sulla privacy&lt;/a&gt; prima di utilizzare questa app.</Data></string>
     <string name="cta_network_declare">Per sincronizzare foto e video con Xiaomi Cloud, questa app deve connettersi a internet.</string>
     <string name="custom_select_title_deselect_all">Deseleziona</string>
     <string name="custom_select_title_quickly_share">Condividi</string>
@@ -735,6 +743,7 @@
     <string name="default_relation_name">Nuovo gruppo</string>
     <string name="define_by_user">Personalizza</string>
     <string name="delete">Elimina</string>
+    <string name="delete_account_message">Galleria deve cancellare la cache dell\'app perché hai effettuato l\'accesso al tuo Mi Account.</string>
     <string name="delete_album_failed">"Eliminazione album fallita."</string>
     <string name="delete_album_msg_format">Eliminare album \"%2$s\" %1$s%3$s?</string>
     <string name="delete_album_msg_format_cloud">Eliminare %1$s %2$s da Xiaomi Cloud e da tutti i dispositivi sincronizzati?</string>
@@ -752,6 +761,8 @@
     <string name="delete_third_party_photo">Eliminare questa foto?</string>
     <string name="delete_third_party_video">Eliminare questo video?</string>
     <string name="deny">Rifiuto</string>
+    <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
+    <string name="detail_ms">%1$02d:%2$02d</string>
     <string name="detail_title">Dettagli</string>
     <string name="device_list_all">Tutti i dispositivi</string>
     <string name="device_list_more">Altro</string>
@@ -761,8 +772,12 @@
     <string name="device_status_sending">Invio in corso...</string>
     <string name="device_status_success">Inviato correttamente</string>
     <string name="device_status_waiting">In attesa…</string>
+    <string name="device_storage_space_low_dialog_des">Memorizza foto e video originali nel cloud mantenendo copie di alta qualità più piccole su questo dispositivo per liberare fino a %s di memoria.</string>
     <string name="device_storage_space_low_dialog_title">Memoria insufficiente</string>
+    <string name="device_storage_space_low_notice_des">Sincronizza foto e video con il cloud per liberare %s</string>
+    <string name="device_storage_space_low_notice_title">Memoria in esaurimento</string>
     <string name="device_storage_space_low_textline_button">Avvia</string>
+    <string name="device_storage_space_low_textline_des">"Libera %s di memoria. "</string>
     <string name="device_type_pc">Computer</string>
     <string name="disable_auto_upload_tip">Le foto nuove e quelle eliminate non verranno sincronizzate con Mi Cloud. Questo album verrà spostato in \"Altri album\".</string>
     <string name="disable_auto_upload_title">Disattiva sincronizzazione con Mi Cloud</string>
@@ -772,11 +787,16 @@
     <string name="document_provider_guide_step_3">%d. Tocca il pulsante del menu laterale.</string>
     <string name="document_provider_guide_step_4">%d. Seleziona \"SD card\".</string>
     <string name="document_provider_guide_step_5">%d. Tocca \"Seleziona\".</string>
+    <string name="doodle_paint_select_heavy_talkback">Spesso</string>
+    <string name="doodle_paint_select_light_talkback">Sottile</string>
     <string name="doodle_paint_select_medium_talkback">Normale</string>
+    <string name="doodle_paint_select_talkback">Larghezza tratto</string>
     <string name="double_tap_for_hr_preview_108m">Tocca due volte per passare all\'anteprima a 108MP</string>
     <string name="double_tap_to_higher_definition">Fai di nuovo doppio tap per l\'anteprima HD</string>
     <string name="download_canceled">Download annullato</string>
+    <string name="download_delete_error_desc">"Impossibile ripristinare questo elemento perché lo hai eliminato da questo dispositivo e dal cloud. Rimuovere il file vuoto?"</string>
     <string name="download_delete_error_positive">Rimuovi</string>
+    <string name="download_delete_error_title">Elemento mancante</string>
     <string name="download_error_format">"Impossibile scaricare %s"</string>
     <string name="download_error_tip">. I download sono stati interrotti.</string>
     <string name="download_retry_message">"Impossibile scaricare i file, verifica la connessione di rete e riprova"</string>
@@ -902,6 +922,7 @@
     <string name="error_storage_full_msg">Libera spazio sul dispositivo e prova di nuovo.</string>
     <string name="error_storage_full_tip">Memoria insufficiente</string>
     <string name="error_storage_no_write_permission_tip_action">Concedi</string>
+    <string name="error_storage_no_write_permission_tip_title">"Alcuni album richiedono dei permessi per essere sincronizzati. "</string>
     <string name="error_sync_off_action">Attiva</string>
     <string name="error_sync_off_msg">"Assicurati di aver attivate la sincronizzazione con Mi Cloud."</string>
     <string name="error_sync_off_tip">La sincronizzazione Mi Cloud è disattivata</string>
@@ -1151,6 +1172,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="generate_story_summary">Scatta abbastanza foto, collega il caricabatterie e spegni lo schermo per far apparire i ricordi.</string>
     <string name="generate_story_title">Assistente</string>
     <string name="get_album_info_in_process">"Richiesta informazioni album condiviso, attendere…"</string>
+    <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="global_pad">Il mio tablet</string>
     <string name="global_pc">Il mio portatile</string>
@@ -1165,6 +1187,11 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="grant_permission_title">Concedi accesso</string>
     <string name="grant_permission_unlock_and_set">Sblocca e imposta</string>
     <string name="grant_permission_unlock_and_set_2">Sblocca</string>
+    <string name="grant_permission_write_clipboard">Per copiare gli elementi, consenti a questa app di salvarli negli appunti.</string>
+    <string name="group_header_title_immutable_album">Organizza le foto</string>
+    <string name="group_header_title_media_group">Tipi di media</string>
+    <string name="group_header_title_third_album">Altri album</string>
+    <string name="group_header_title_user_create_album">I miei album</string>
     <string name="has_invalid_recipient">Destinatari non validi: %1$s</string>
     <string name="have_known">Ok</string>
     <string name="heavenly_stems_bing">Bing</string>
@@ -1181,10 +1208,16 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="help">"Visualizza la guida"</string>
     <string name="help_content">"Se non riesci a trovare il dispositivo che ti serve, chiedi all'altra persona di attivare Mi Share."</string>
     <string name="hidden_album_display_name">Album nascosto</string>
+    <string name="hide_nearby_photos">Nascondi foto e video nelle vicinanze</string>
     <string name="hisense">Hisense</string>
     <string name="hisense_phone">Hisense</string>
+    <string name="holiday_travel_title_one">%1$s vacanza</string>
+    <string name="holiday_travel_title_two">Torna al lavoro</string>
+    <string name="home_menu_all_photos">Mostra tutti gli elementi</string>
     <string name="home_menu_art_still">Arte</string>
+    <string name="home_menu_camera">Mostra solo elementi Fotocamera</string>
     <string name="home_menu_cleaner">Libera spazio</string>
+    <string name="home_menu_collage">Collage</string>
     <string name="home_menu_macarons">Vignetta magica</string>
     <string name="home_menu_magic_matting">Magico</string>
     <string name="home_menu_photo_movie">Traccia video</string>
@@ -1244,6 +1277,9 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="input_or_select_a_name">Inserisci o scegli un nome</string>
     <string name="input_relation_name">Inserisci il nome del gruppo</string>
     <string name="install_fail">"Impossibile caricare il plug-in a causa di un errore."</string>
+    <string name="install_media_editor_function_message">Scarica l\'ultima versione di Editor Galleria per essere in grado di utilizzare \"%1$s\".</string>
+    <string name="install_media_editor_latest_message">Per essere in grado di modificare gli elementi, scaricare l\'ultimo plugin.</string>
+    <string name="install_media_editor_message">Per essere in grado di modificare gli elementi, scaricare il plug-in. Scaricare ora?</string>
     <string name="install_media_editor_title">Scarica plug-in</string>
     <string name="internal_storage_device">Memoria interna</string>
     <string name="invalid_invition_url">Link di invito non valido</string>
@@ -1258,9 +1294,11 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="keyboard_shortcut_cut">Taglia</string>
     <string name="keyboard_shortcut_day">Giorno</string>
     <string name="keyboard_shortcut_delete">Elimina</string>
+    <string name="keyboard_shortcut_month">Vista mensile</string>
     <string name="keyboard_shortcut_paste">Incolla</string>
     <string name="keyboard_shortcut_search">Cerca</string>
     <string name="keyboard_shortcut_select_all">Seleziona tutto</string>
+    <string name="keyboard_shortcut_year">Vista annuale</string>
     <string name="kick_owner_user_positive_button_text">Rimuovi</string>
     <string name="kick_owner_user_title">Rimuovere questo partecipante?</string>
     <string name="kick_sharer">Rimuovi partecipante</string>
@@ -1268,6 +1306,10 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="kick_sharer_successfully">Partecipante rimosso correttamente</string>
     <string name="kilobyteShort">KB</string>
     <string name="labour_day">Festa del lavoro</string>
+    <string name="last_some_day_pets_title">Zampe e baffi</string>
+    <string name="last_some_day_show_title">Showtime</string>
+    <string name="last_some_day_surfing_title">Venti giusti</string>
+    <string name="last_some_day_travel_title_four">Ciao %1$s!</string>
     <string name="lenovo">Lenovo</string>
     <string name="lenovo_phone">Telefono Lenovo</string>
     <string name="limit_height">L\'altezza dovrebbe essere &gt; 0</string>
@@ -1417,6 +1459,7 @@ per personalizzare la Galleria"</string>
     <string name="mark_people_ignore_info_message">Tieni premuto sulle foto delle persone per aggiungerle ad un gruppo</string>
     <string name="media_type_doc_photo">Documenti</string>
     <string name="media_type_fast_motion_video">Time-lapse</string>
+    <string name="media_type_gif">GIF</string>
     <string name="media_type_motion_photo">Dinamico</string>
     <string name="media_type_pano_photo">Panorama</string>
     <string name="media_type_portrait_photo">Ritratto</string>
@@ -2919,6 +2962,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="vlog_speed_double">2.0X</string>
     <string name="vlog_speed_half">0.5X</string>
     <string name="vlog_speed_quarter">0.25X</string>
+    <string name="vlog_speed_treble">3.0X</string>
     <string name="vlog_support_max_duration">Un progetto può essere lungo fino a %1$d ore</string>
     <string name="vlog_support_max_number">Puoi aggiungere fino a %1$d video a un progetto</string>
     <string name="vlog_talkback_ratio_1_1">Quadrato</string>
