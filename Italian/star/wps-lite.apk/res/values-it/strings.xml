@@ -232,6 +232,7 @@
     <string name="public_other_app">Apri in un\'altra app</string>
     <string name="public_outline">Contenuto</string>
     <string name="public_paste">Incolla</string>
+    <string name="public_pdf_converter_item_name">PDF</string>
     <string name="public_pdf_converter_normal">Normale</string>
     <string name="public_pdf_converter_open_tip">Aprire questo documento?</string>
     <string name="public_pdf_converter_success">"Esportato in "</string>
