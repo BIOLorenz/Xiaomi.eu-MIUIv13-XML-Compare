@@ -765,6 +765,7 @@ per accedere dalla schermata di blocco"</string>
 Alcune applicazioni clonate richiedono il supporto di Google Services Framework (Framework dei servizi) in questi casi, verrà clonato anche quello."</string>
     <string name="xspace_disable">Non creato</string>
     <string name="xspace_enable">Creato</string>
+    <string name="xspace_facebook_title">Facebook</string>
     <string name="xspace_guide_content_bound">Applicazioni disponibili</string>
     <string name="xspace_guide_des">Le app clonate consentono di utilizzare due account contemporaneamente senza passare da uno all\'altro</string>
     <string name="xspace_guide_description">"Ogni account
