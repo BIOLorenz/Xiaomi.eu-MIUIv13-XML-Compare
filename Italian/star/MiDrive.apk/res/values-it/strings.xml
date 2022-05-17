@@ -189,6 +189,7 @@
     <string name="dialog_upload_storage_full_title">"Impossibile caricare"</string>
     <string name="doc_all">Tutto</string>
     <string name="doc_other">Altro</string>
+    <string name="doc_pdf">PDF</string>
     <string name="doc_picker_title">Seleziona i documenti</string>
     <string name="doc_ppt">PPT</string>
     <string name="doc_word">DOC</string>
