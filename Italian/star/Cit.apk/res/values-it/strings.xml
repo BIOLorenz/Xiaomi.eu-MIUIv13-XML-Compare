@@ -650,6 +650,8 @@ Test fallito!"</string>
     <string name="fod_fingerprint_input_description">Test input Fod per impronte digitali</string>
     <string name="fod_fingerprint_input_title">Test input Fod per impronte digitali</string>
     <string name="front_mic_check_record_tip">Registrazione in corso... Per favore parla al mic anteriore del telefono</string>
+    <string name="get_USB">USB</string>
+    <string name="get_WIFI">WIFI</string>
     <string name="get_dsi_tips">Valore DSI Attuale</string>
     <string name="headset_plug_check_tip">Ora riproduci la traccia ed ascolta gli auricolari (per favore scollega gli auricolari al termine del test)</string>
     <string name="headset_press">Pressione</string>
@@ -675,6 +677,8 @@ Test fallito!"</string>
     <string name="plugout_and_reverse_plugin">"
 Prego scollega il caricabatterie dal dispositivo e inseriscilo nella presa a muro."</string>
     <string name="pop_camera">Pop Fotocamera</string>
+    <string name="pop_push_camera_test_summary">"Tocca il tasto Pop Camera per vedere se la camera compare
+Tocca il tasto di rientro della fotocamera per vedere se la fotocamera rientra"</string>
     <string name="pop_push_camera_test_title">Test pop up e rientro fotocamera</string>
     <string name="push_camera">Spingi la Fotocamera</string>
     <string name="radio_info_asdiv_switch_label">Stato ASDiv:</string>
@@ -700,6 +704,8 @@ Prego scollega il caricabatterie dal dispositivo e inseriscilo nella presa a mur
     <string name="radio_info_phone_offhook">Chiamata in corso</string>
     <string name="radio_info_phone_ringing">Chiamata in corso</string>
     <string name="radio_info_radio_power">Potenza radio cellulare</string>
+    <string name="radio_info_roaming_in">Roaming</string>
+    <string name="radio_info_roaming_label">Roaming:</string>
     <string name="radio_info_roaming_not">Non in roaming</string>
     <string name="radio_info_service_emergency">Solo chiamate di emergenza</string>
     <string name="radio_info_service_in">In servizio</string>
@@ -720,6 +726,7 @@ Prego scollega il caricabatterie dal dispositivo e inseriscilo nella presa a mur
     <string name="sar_sensor_calibrate_fail">Calibrazione sensore SAR non riuscita</string>
     <string name="sar_sensor_calibrate_success">Calibrazione sensore SAR riuscita</string>
     <string name="sar_sensor_collect_data">Inizia raccolta dati</string>
+    <string name="sar_sensor_collect_data_self_cali">Auto-calibrazione</string>
     <string name="sar_sensor_collect_test_summary">"Ruota il telefono, posizionalo sulla fixture
 Tocca il tasto di avvio acquissizione dati
 Controlla la fixture vicino e lontano dal telefono"</string>
@@ -748,8 +755,10 @@ Clicca sul pulsante appropriato in base al numero che ascolterai"</string>
     <string name="tips_not_placed_right_angle">Il telefono non è correttamente angolato</string>
     <string name="tips_show_current_angle">Mostra angolo corrente</string>
     <string name="tips_show_current_sar_sensor_data">Mostra dati sensore attuali</string>
+    <string name="top_high_speaker_title">Test del tweeter superiore</string>
     <string name="top_left_high_speaker">Test tweeter superiore sinistro</string>
     <string name="top_left_low_speaker">Test woofer superiore sinistro</string>
+    <string name="top_low_speaker_title">Test woofer superiore</string>
     <string name="top_mic_check_record_tip">Registrazione in corso.... Per favore parla al mic. situato nella parte superiore del telefono</string>
     <string name="top_right_high_speaker">Test tweeter superiore destro</string>
     <string name="top_right_low_speaker">Test woofer superiore destro</string>
