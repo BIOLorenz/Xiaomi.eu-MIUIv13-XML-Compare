@@ -280,6 +280,7 @@ Invia questo codice ai tecnici."</string>
     <string name="exceed_binded_phone_times_notice">Questo numero di telefono è già associato ad un altro MI account.</string>
     <string name="exit">Esci</string>
     <string name="expand_button_title">Avanzate</string>
+    <string name="facebook">Facebook</string>
     <string name="facebook_login">Accedi con Facebook</string>
     <string name="failed_dup_secure_phone_number">Questo numero di telefono è già associato ad un altro MI account</string>
     <string name="family_share">Condivisione familiare</string>
@@ -357,6 +358,7 @@ Invia questo codice ai tecnici."</string>
     <string name="get_identity_auth_url_failed">"Impossibile verificare l'ID"</string>
     <string name="get_phone_bind_exceed_limit">"È possibile associare fino a 3 Mi Account a un numero di telefono. Impossibile aggiungere nuovi account."</string>
     <string name="get_phone_verifycode_exceed_limit">Troppi codici di verifica sono stati inviati a questo numero. Attendere 24 ore e riprovare.</string>
+    <string name="google">Google</string>
     <string name="google_login">Accedi con Google</string>
     <string name="goto_accept">OK</string>
     <string name="guest_account_label">Mi Account Ospite</string>
