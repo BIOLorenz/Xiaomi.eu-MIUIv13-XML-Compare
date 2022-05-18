@@ -15,4 +15,11 @@
         <item>Solo Wi-Fi</item>
         <item>Disattivato</item>
     </string-array>
+    <string-array name="special_locale_names_global">
+        <item>简体中文</item>
+        <item>繁體中文 (台灣)</item>
+        <item>繁體中文 (香港)</item>
+        <item>Español (América)</item>
+        <item>Português (Brasil)</item>
+    </string-array>
 </resources>
