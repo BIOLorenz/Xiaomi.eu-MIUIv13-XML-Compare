@@ -1269,6 +1269,7 @@ La tua SIM sarà bloccata dopo un altro tentativo fallito."</string>
     <string name="switch_confirm_btn_text">OK</string>
     <string name="switch_off">Spenta</string>
     <string name="switch_on">Attivata</string>
+    <string name="t9_indexing_method_pinyin">Pinyin</string>
     <string name="tap_to_sign_up">Tocca per registrarti</string>
     <string name="telephony_setting">Telefono</string>
     <string name="telocation_confim_delete_title">Cancellare questo messaggio?</string>
