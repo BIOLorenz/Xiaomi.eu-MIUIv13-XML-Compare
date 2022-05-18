@@ -1506,6 +1506,7 @@ d MMMM"</string>
     <string name="megabyte_per_second">M/s</string>
     <string name="memory_leak">Perdita di memoria</string>
     <string name="menu_ime">Cambio tastiera</string>
+    <string name="messages_count_overflow_indicator">%d+</string>
     <string name="mic_active">Microfono Attivo</string>
     <string name="mic_and_camera_recording_announcement">Fotocamera e Microfono stanno registrando</string>
     <string name="mic_camera_stopped_recording_announcement">Fotocamera e Microfono hanno interrotto la registrazione</string>
