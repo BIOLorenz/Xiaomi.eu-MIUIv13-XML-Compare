@@ -26,6 +26,9 @@
     <string name="afternoon">Pomeriggio</string>
     <string name="agree">Accetto</string>
     <string name="cancel">Annulla</string>
+    <string name="check_protocol_msg">Per utilizzare la modalità manutenzione fare clic qui accettare il </string>
+    <string name="check_protocol_msg_detail">Prima di avviare la modalità riparazione, assicurati che i dati siano stati salvati, il servizio post-vendita non è responsabile di eventuali perdite di dati causate dal prodotto riparato.</string>
+    <string name="check_protocol_msg_sub">Disclaimer Dati Utente</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
     <string name="chinese_day_11">11</string>
@@ -95,9 +98,15 @@
     <string name="chinese_symbol_animals_snake">Serpente</string>
     <string name="chinese_symbol_animals_tiger">Tigre</string>
     <string name="clearable_edittext_clear_description">Cancella</string>
+    <string name="click_to_close">Clicca qui per uscire dalla Modalità Manutenzione</string>
     <string name="close">Chiudi</string>
+    <string name="close_maintenance_mode">Chiudi modalità Manutenzione</string>
+    <string name="create_fail">Creazione della modalità manutenzione fallita, riprova più tardi</string>
+    <string name="create_fail_because_max_user">Il numero massimo di utenti nel sistema è stato raggiunto, si prega di eliminare avatar, app clonate o modalità bambino e riprovare</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
+    <string name="delete_maintenance_mode">elimina modalità manutenzione...</string>
+    <string name="disagree">Non accetto</string>
     <string name="early_morning">Mattina</string>
     <string name="earthly_branches_chen">Chen</string>
     <string name="earthly_branches_chou">Chou</string>
@@ -135,6 +144,7 @@
     <string name="fmt_date_timezone">zD</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
+    <string name="forbid_create">La modalità manutenzione può essere creata solo nello spazio utente principale</string>
     <string name="friday">Venerdì</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
@@ -148,6 +158,11 @@
     <string name="heavenly_stems_wu">Wu</string>
     <string name="heavenly_stems_xin">Xin</string>
     <string name="heavenly_stems_yi">Yi</string>
+    <string name="maintenance_mode">Modalità manutenzione</string>
+    <string name="maintenance_mode_close_title">In modalità manutenzione</string>
+    <string name="maintenance_mode_loading">Avvio modalità riparazione, riavvio del dispositivo…</string>
+    <string name="maintenance_mode_reboot">Riavvio in modalità manutenzione</string>
+    <string name="maintenance_mode_title">Protezione completa dei dati del dispositivo</string>
     <string name="maintenance_mode_watch_out">Proteggere dati privati importanti come foto, video, contatti, registro chiamate e messaggi di testo durante la manutenzione post-vendita</string>
     <string name="midnight">Notte</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
