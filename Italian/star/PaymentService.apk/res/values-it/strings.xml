@@ -274,6 +274,7 @@ Invia questo codice al supervisore."</string>
     <string name="mibi_button_cancel">Annulla</string>
     <string name="mibi_button_confirm">Conferma</string>
     <string name="mibi_button_custom_service_phone">Ok</string>
+    <string name="mibi_button_disagree">Non accetto</string>
     <string name="mibi_button_next">Successivo</string>
     <string name="mibi_button_pay">Conferma</string>
     <string name="mibi_button_reget">Invia di nuovo</string>
