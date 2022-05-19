@@ -448,7 +448,9 @@ Invia questo codice al supervisore."</string>
     <string name="exo_media_action_repeat_all_description">Ripeti tutto</string>
     <string name="exo_media_action_repeat_off_description">Non ripetere</string>
     <string name="exo_media_action_repeat_one_description">Ripeti una volta</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Nessuno</string>
     <string name="exo_track_selection_title_audio">Audio</string>
@@ -622,6 +624,7 @@ Invia questo codice al supervisore."</string>
     <string name="galleryplus_talkback_btn_unfold_speed_view">Velocità di riproduzione</string>
     <string name="galleryplus_talkback_btn_unmute">Riattiva l\'audio</string>
     <string name="galleryplus_talkback_btn_volume_adjust">Volume</string>
+    <string name="galleryplus_talkback_sound_track_item_no_music">Nessuna colonna sonora</string>
     <string name="galleryplus_v_agree">Accetto</string>
     <string name="galleryplus_v_cancel">Annulla</string>
     <string name="galleryplus_v_confirm_cancel_edit_subtitle_msg">Scartare tutte le modifiche e interrompere la modifica dei sottotitoli?</string>
@@ -634,6 +637,9 @@ Invia questo codice al supervisore."</string>
     <string name="galleryplus_v_dialog_hint_too_long">Il nome del file è troppo lungo</string>
     <string name="galleryplus_v_network_failed">"Impossibile connettersi alla rete"</string>
     <string name="galleryplus_v_ok">OK</string>
+    <string name="galleryplus_video_circulate_error">"Impossibile trasferire la riproduzione. Attendi un minuto o due e riprova."</string>
+    <string name="galleryplus_video_circulate_loading">Trasferimento della riproduzione…</string>
+    <string name="galleryplus_video_circulate_quit">Ferma la riproduzione video</string>
     <string name="galleryplus_video_edit_save_video">Generazione di video con sottotitoli…</string>
     <string name="galleryplus_vp_hardware_unsported">"Questo video non può essere riprodotto sul tuo dispositivo."</string>
     <string name="galleryplus_vp_videoview_error_button">Ok</string>
@@ -1113,6 +1119,7 @@ per i video"</string>
     <string name="ovp_navigation_favorites">Preferiti</string>
     <string name="ovp_navigation_feedback">Segnalazione</string>
     <string name="ovp_navigation_history">Cronologia</string>
+    <string name="ovp_navigation_home">Casa</string>
     <string name="ovp_navigation_language">Lingua</string>
     <string name="ovp_navigation_localvideo">Dispositivo</string>
     <string name="ovp_navigation_notice">Notifiche</string>
@@ -1756,6 +1763,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="vp_copyright_unsported_video">"Impossibile riprodurre questo video a causa di restrizioni sul copyright"</string>
     <string name="vp_hardware_unsported">"Questo video non può essere riprodotto sul tuo dispositivo."</string>
     <string name="vp_notify_apk_installed">Scaricato con successo</string>
+    <string name="vp_replay">Replay</string>
     <string name="vp_upcoming_auto_play">Riproduzione automatica</string>
     <string name="vp_upcoming_title">A seguire</string>
     <string name="website_button_add_bookmarks">Aggiungi Segnalibro</string>
