@@ -1991,6 +1991,7 @@ Questa funzione può essere disattivata in [Settings]</string>
     <string name="condition_hotspot_title">Hotspot attivo</string>
     <string name="condition_night_display_summary">Lo schermo diventa di colore ambra. Potrebbe aiutarti a prendere sonno.</string>
     <string name="condition_night_display_title">Luce Notturna attivata</string>
+    <string name="condition_summary">%1$d</string>
     <string name="condition_turn_off">Disattiva</string>
     <string name="condition_turn_on">Attiva</string>
     <string name="condition_work_summary">App, sincronizzazione background ed altre funzionalità relative al tuo profilo di lavoro sono disattivate.</string>
@@ -3683,6 +3684,7 @@ Quando si accende il backup automatico, i dati del dispositivo e dell'app vengon
     <string name="history_toggled_on_title">Nessuna notifica recente</string>
     <string name="home">Impostazioni Home</string>
     <string name="home_app">App Home</string>
+    <string name="home_key">Casa</string>
     <string name="home_title">Schermata Home</string>
     <string name="home_work_profile_not_supported">"Profili di lavoro non supportati"</string>
     <string name="homepage_all_settings">Tutte le impostazioni</string>
@@ -5809,6 +5811,7 @@ Leggi e accetta %s prima di utilizzare questo servizio."</string>
     <string name="pref_bg_network_title">Connessione in background</string>
     <string name="pref_button_light">Luce tasti</string>
     <string name="pref_button_light_summary">Retroilluminazione tasti Menu, %1$s e Indietro</string>
+    <string name="pref_button_light_summary_sub">Casa</string>
     <string name="pref_edge_handgrip">Comandi laterali</string>
     <string name="pref_key_tethering_setting">Limite dati ad uso singolo</string>
     <string name="pref_key_tethering_title">Limite dati ad uso singolo</string>
