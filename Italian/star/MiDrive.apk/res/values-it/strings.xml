@@ -166,6 +166,7 @@
     <string name="delete_file_success">Rimozione completata</string>
     <string name="delete_operation_record">Eliminare questo elemento?</string>
     <string name="delete_operation_record_timeout">"Impossibile eliminare. Attendi e riprova."</string>
+    <string name="delete_record_only">"Gli elementi a cui si riferiscono i record selezionati non verranno eliminati."</string>
     <string name="delete_success">Rimozione completata</string>
     <string name="detail_download_path">"Luogo: "</string>
     <string name="detail_download_time">"Scaricato: "</string>
