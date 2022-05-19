@@ -489,7 +489,9 @@
     <string name="exo_media_action_repeat_all_description">Ripeti tutto</string>
     <string name="exo_media_action_repeat_off_description">Non ripetere</string>
     <string name="exo_media_action_repeat_one_description">Ripeti una volta</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternato</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commento</string>
@@ -613,6 +615,7 @@
     <string name="higher_quality_music">Audio di alta qualità</string>
     <string name="higher_quality_music_summary">Esegui download e streaming alla massima qualità</string>
     <string name="hint_search_songs_playlists_artists">Cerca canzoni, playlist e artisti</string>
+    <string name="home_tab_home">Casa</string>
     <string name="home_tab_local">Musica</string>
     <string name="home_tab_more_music">Altra musica</string>
     <string name="home_tab_online">Cerca</string>
