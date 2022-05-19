@@ -386,7 +386,9 @@
     <string name="exo_download_paused_for_network">Download in attesa della rete</string>
     <string name="exo_download_paused_for_wifi">Download in attesa del WiFi</string>
     <string name="exo_download_removing">Rimozione download</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternato</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commento</string>
@@ -1270,6 +1272,7 @@ mm"</string>
     <string name="theme_component_title_contact">Tastiera telefono</string>
     <string name="theme_component_title_font">Caratteri</string>
     <string name="theme_component_title_framework">Temi</string>
+    <string name="theme_component_title_homepage">Casa</string>
     <string name="theme_component_title_icon">Icone</string>
     <string name="theme_component_title_launcher">Schermata Home</string>
     <string name="theme_component_title_lockstyle">Schermata di blocco</string>
