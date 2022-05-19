@@ -121,7 +121,9 @@
     <string name="country_name_mt">MT</string>
     <string name="country_name_ne">NO</string>
     <string name="country_name_nl">N</string>
+    <string name="country_name_no">NO</string>
     <string name="country_name_se">S-E</string>
+    <string name="country_name_sm">SM</string>
     <string name="country_name_sv">SV</string>
     <string name="date_picker_dialog_title">Imposta data</string>
     <string name="date_picker_lunar">Calendario cinese tradizionale</string>
