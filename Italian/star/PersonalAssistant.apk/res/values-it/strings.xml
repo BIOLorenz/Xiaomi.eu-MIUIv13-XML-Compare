@@ -414,6 +414,7 @@
     <string name="pa_smart_shortcut_widget_label">App consigliate</string>
     <string name="pa_sports_action_live">Live</string>
     <string name="pa_sports_action_preview">Anteprima</string>
+    <string name="pa_sports_action_review">Replay</string>
     <string name="pa_sports_all_league">Agenda</string>
     <string name="pa_sports_all_match">Mostra tutto</string>
     <string name="pa_sports_cancel_followed">Non seguire più</string>
