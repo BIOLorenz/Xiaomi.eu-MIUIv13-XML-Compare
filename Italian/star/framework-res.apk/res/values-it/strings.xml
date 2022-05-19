@@ -191,6 +191,7 @@ Puoi associare questa scorciatoia a un'altra funzionalità in Impostazioni &gt; 
     <string name="accessibility_system_action_back_label">Indietro</string>
     <string name="accessibility_system_action_dismiss_notification_shade">Ignora tendina notifiche</string>
     <string name="accessibility_system_action_hardware_a11y_shortcut_label">Scorciatoia Accessibilità</string>
+    <string name="accessibility_system_action_home_label">Casa</string>
     <string name="accessibility_system_action_lock_screen_label">Schermata di blocco</string>
     <string name="accessibility_system_action_notifications_label">Notifiche</string>
     <string name="accessibility_system_action_on_screen_a11y_shortcut_chooser_label">Selettore scorciatoia Accessibilità sullo schermo</string>
