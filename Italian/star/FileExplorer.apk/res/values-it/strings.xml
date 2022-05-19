@@ -188,6 +188,7 @@
     <string name="confirm_know">OK</string>
     <string name="connection_error">"Connessione fallita"</string>
     <string name="connection_lost">Disconnesso</string>
+    <string name="content_preview_ratio">1:1</string>
     <string name="copy">Copia</string>
     <string name="copy_failed">"Impossibile copiare"</string>
     <string name="copy_to">Copia in…</string>
