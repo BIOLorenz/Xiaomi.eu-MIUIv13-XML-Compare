@@ -415,6 +415,8 @@
     <string name="history_statistics">Statistiche</string>
     <string name="home_tip_open_data_sync">Attiva sincronizzazione con il Cloud</string>
     <string name="home_tip_sync_done">Sincronizzazione riuscita</string>
+    <string name="hour_in_day_format">%1$d</string>
+    <string name="hour_in_day_format_short">%1$d</string>
     <string name="hr_camera_permission_desc">Per ottenere la frequenza dei cambiamenti di luce attorno al dito attraverso la fotocamera al fine di determinare il valore della frequenza cardiaca</string>
     <string name="hr_cover_to_red">"Coprire completamente la fotocamera con il dito.
 Attendere fino a quando il cerchio diventa rosso."</string>
@@ -509,6 +511,7 @@ Inizia da capo."</string>
     <string name="mcv2_full_screen_button_desc">Schermo intero</string>
     <string name="mcv2_pause_button_desc">Pausa</string>
     <string name="mcv2_play_button_desc">Riproduci</string>
+    <string name="mcv2_replay_button_desc">Replay</string>
     <string name="mcv2_seek_bar_desc">Avanzamento riproduzione</string>
     <string name="mcv2_settings_button_desc">Impostazioni</string>
     <string name="medical_file_desc1">Info mediche essenziali in caso di emergenza</string>
@@ -997,6 +1000,7 @@ Inizia da capo."</string>
     <string name="unable_record_future_menstruation">"Impossibile registrare periodi futuri"</string>
     <string name="unbound">Rimosso</string>
     <string name="unit_day">Giorno</string>
+    <string name="unit_number_format">%1$d</string>
     <string name="unknown">Sconosciuto</string>
     <string name="unknown_birthday">Sconosciuto</string>
     <string name="unknown_full_name">Sconosciuto</string>
