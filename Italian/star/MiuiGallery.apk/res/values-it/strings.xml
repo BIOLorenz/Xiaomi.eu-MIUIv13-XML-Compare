@@ -933,6 +933,8 @@
     <string name="error_unknown_msg">Si è verificato un errore. Inviaci la tua segnalazione.</string>
     <string name="error_unknown_tip">Si è verificato un errore.</string>
     <string name="evening">Pomeriggio</string>
+    <string name="exif_tag_smart_fusion">Fusione Intelligente</string>
+    <string name="exif_title_smart_fusion">Miglioramento dell\'immagine:</string>
     <string name="exit">Esci</string>
     <string name="exit_choice_mode">Hai abbandonato la finestra di dialogo Condivisione</string>
     <string name="exit_share">Esci dall\'album</string>
@@ -1161,6 +1163,11 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="fmt_weekday_date_timezone">zDW</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
+    <string name="foods_travel_title_one">Un assaggio di %1$s</string>
+    <string name="foods_travel_title_three">"Foodie %1$s"</string>
+    <string name="foods_travel_title_two">%1$s cibo</string>
+    <string name="frame_color_selector_talkback_hide">Nascondi selettore colore</string>
+    <string name="frame_color_selector_talkback_show">Mostra selettore colore</string>
     <string name="frame_not_support_image_ratio">"Questo rapporto di aspetto non è supportato"</string>
     <string name="free_view_desc">Visuale 3D</string>
     <string name="friday">Venerdì</string>
@@ -1177,10 +1184,15 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="global_pad">Il mio tablet</string>
     <string name="global_pc">Il mio portatile</string>
     <string name="global_phone">Il mio telefono</string>
+    <string name="google_storage_bucket">migallery-global.appspot.com</string>
     <string name="grant_permission_go_and_set">Imposta</string>
     <string name="grant_permission_go_and_set_2">Impostazioni</string>
     <string name="grant_permission_go_and_set_3">Impostazioni</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_manage_storage">Permessi richiesti</string>
+    <string name="grant_permission_shortcut">Consenti a questa app di creare collegamenti sulla schermata Home.</string>
+    <string name="grant_permission_storage">Consenti a questa app di accedere alla memoria.</string>
+    <string name="grant_permission_storage_unlock">Sblocca il tuo dispositivo e consenti a questa app di accedere alla memoria.</string>
     <string name="grant_permission_text">"La galleria necessita dell'accesso a 
 %s
  per funzionare correttamente, tocca Imposta per vedere i permessi."</string>
@@ -1310,6 +1322,9 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="last_some_day_show_title">Showtime</string>
     <string name="last_some_day_surfing_title">Venti giusti</string>
     <string name="last_some_day_travel_title_four">Ciao %1$s!</string>
+    <string name="last_some_day_travel_title_one">Tra %1$s</string>
+    <string name="last_some_day_travel_title_three">Esplorare %1$s</string>
+    <string name="last_some_day_travel_title_two">Memorie di %1$s</string>
     <string name="lenovo">Lenovo</string>
     <string name="lenovo_phone">Telefono Lenovo</string>
     <string name="limit_height">L\'altezza dovrebbe essere &gt; 0</string>
@@ -1447,7 +1462,17 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="manual_hide_state">File \".nomedia\" aggiunto con successo</string>
     <string name="map_album">Mappa</string>
     <string name="map_album_detail_page_title">Posizione</string>
+    <string name="map_enable_position_service_message">Per visualizzare foto e video sulla mappa, attiva i servizi di localizzazione.</string>
     <string name="map_enable_position_service_title">Abilita servizi di localizzazione</string>
+    <string name="map_grant_position_permission_after_declined_twice_message">Per visualizzare foto e video sulla mappa, consenti alla Galleria di accedere alla tua posizione.</string>
+    <string name="map_grant_position_permission_subtitle">Per mostrare foto e video nelle vicinanze sulla mappa</string>
+    <string name="map_guide_message">Visualizza le tue foto e video sulla mappa</string>
+    <string name="map_location">Sposta alla posizione attuale</string>
+    <string name="map_positioning_failed_tip">"Impossibile ottenere informazioni sulla posizione, il segnale è debole"</string>
+    <string name="map_privacy_dialog_content"><Data>Questo servizio consente di visualizzare foto e video con informazioni sulla posizione su una mappa. Utilizziamo Baidu Map Open SDK per fornirti questo servizio. Leggi e accetta la &lt;a href=\"%1$s\"&gt;Dichiarazione sulla condivisione dei dati di terze parti di Gallery Map&lt;/a&gt; prima di continuare.</Data></string>
+    <string name="map_privacy_dialog_message"><Data>Questo servizio consente di visualizzare foto e video con informazioni sulla posizione su una mappa. Utilizziamo Baidu Map Open SDK per fornirti questo servizio. Leggi l\'&lt;a href=\"%1$s\"&gt;Informativa sulla Privacy di Baidu Map per prodotti e Servizi Open Platform&lt;/a&gt; per saperne di più.</Data></string>
+    <string name="map_privacy_dialog_title">Foto su Mappa</string>
+    <string name="map_privacy_policy">Informativa sulla privacy di Foto su Mappa</string>
     <string name="map_privacy_policy_1">Informativa sulla Privacy</string>
     <string name="mark_myself_default_name">Io</string>
     <string name="mark_myself_suggestion_load_more">"Non sono io"</string>
@@ -1457,13 +1482,18 @@ per personalizzare la Galleria"</string>
     <string name="mark_operation_processing">Elaborazione…</string>
     <string name="mark_operation_succeeded">Aggiunto con successo</string>
     <string name="mark_people_ignore_info_message">Tieni premuto sulle foto delle persone per aggiungerle ad un gruppo</string>
+    <string name="media_type_burst_photo">Raffica</string>
+    <string name="media_type_clone_photo">Cloni</string>
     <string name="media_type_doc_photo">Documenti</string>
     <string name="media_type_fast_motion_video">Time-lapse</string>
+    <string name="media_type_front_photo">Selfie</string>
     <string name="media_type_gif">GIF</string>
+    <string name="media_type_live_vv">Vlog</string>
     <string name="media_type_motion_photo">Dinamico</string>
     <string name="media_type_pano_photo">Panorama</string>
     <string name="media_type_portrait_photo">Ritratto</string>
     <string name="media_type_raw">RAW</string>
+    <string name="media_type_slow_motion_video">Slo-mo</string>
     <string name="megabyteShort">MB</string>
     <string name="meizu">Meizu</string>
     <string name="meizu_phone">Meizu</string>
@@ -1502,8 +1532,14 @@ per personalizzare la Galleria"</string>
     <string name="mi_pad_5_pro_5g">Xiaomi Pad 5 Pro 5G</string>
     <string name="micloud_introduce">Esegui automaticamente il backup di foto e video (è necessario un Mi Account)</string>
     <string name="midnight">Notte</string>
+    <string name="migrate_msg">Alcuni album richiedono dei permessi per spostare le foto dopo un aggiornamento di sistema.</string>
+    <string name="miplay_adjust_volume">Imposta il volume a %d</string>
+    <string name="miplay_circulate_failed">"Impossibile trasferire la riproduzione. Attendi un minuto o due e riprova."</string>
+    <string name="miplay_circulating_msg">Trasferimento della riproduzione…</string>
     <string name="miplay_pause_video">Pausa</string>
     <string name="miplay_play_video">Riproduci</string>
+    <string name="miplay_seekbar_content_description">Progresso riproduzione: %1$s %2$s</string>
+    <string name="miplay_stop_video">Ferma la riproduzione video</string>
     <string name="miplay_volume_btn">Volume</string>
     <string name="mishare_all_devices">Tutti i dispositivi</string>
     <string name="miuix_access_state_desc">Selezionato</string>
@@ -1574,7 +1610,9 @@ per personalizzare la Galleria"</string>
     <string name="month_view_tip_button_text">Ok</string>
     <string name="month_view_tip_sub_title">Pizzica lo schermo per passare alla vista mensile</string>
     <string name="month_view_tip_title">Vista mensile</string>
+    <string name="monthly_pets_title">Amici pelosi</string>
     <string name="monthly_sports_title">Pieno di energia</string>
+    <string name="monthly_travel_title">Viaggi in %1$s</string>
     <string name="more">Altro</string>
     <string name="more_album_hint">, ecc.</string>
     <string name="more_album_tip">Altri album</string>
@@ -1594,6 +1632,8 @@ per personalizzare la Galleria"</string>
     <string name="movie_audio_custom">Dispositivo</string>
     <string name="movie_audio_dream">Sogno</string>
     <string name="movie_audio_electronics">Elettrico</string>
+    <string name="movie_audio_local_cd">Musica nel dispositivo</string>
+    <string name="movie_audio_no_cd">Nessuna colonna sonora</string>
     <string name="movie_audio_none">Nessuno</string>
     <string name="movie_audio_point1">Neon</string>
     <string name="movie_audio_point2">Tramonto</string>
@@ -2007,6 +2047,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="privacy_cloud_confirm_rejected">Il consenso all\'Informativa sulla Privacy di Xiaomi Cloud è stato revocato per questo account. Prova ad usare un altro account.</string>
     <string name="privacy_detail">Visualizza Informativa sulla Privacy</string>
     <string name="privacy_entrance">Privacy</string>
+    <string name="privacy_map">Foto su Mappa</string>
     <string name="privacy_permission">Permessi</string>
     <string name="privacy_permission_account">Account</string>
     <string name="privacy_permission_agree">Concesso</string>
@@ -2046,6 +2087,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="publish_succeeded">Album pubblicato</string>
     <string name="publishing">Pubblicazione in corso, attendere…</string>
     <string name="purge_or_recovery_processing">Elaborazione…</string>
+    <string name="quotation">\"%s\"</string>
     <string name="realme">Realme</string>
     <string name="realme_phone">Realme</string>
     <string name="recent_album_empty_title">"Non ha aggiunto foto recentemente"</string>
@@ -2483,6 +2525,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="syncing_normal_title">Backup foto e video</string>
     <string name="system_album">Album di sistema</string>
     <string name="talkback_delete_search_history">Cancella cronologia di ricerca</string>
+    <string name="talkback_signature_select_color_1">Nero</string>
     <string name="talkback_signature_select_color_2">Rosso</string>
     <string name="talkback_signature_select_color_3">Arancio</string>
     <string name="talkback_signature_select_color_4">Blu</string>
@@ -2508,6 +2551,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="text_edit_dialog_style_transparent">Opacità</string>
     <string name="text_edit_sub_menu_text">Bolla</string>
     <string name="text_item_type_talkback_bubble_signature">Firma</string>
+    <string name="text_item_type_talkback_bubble_watermark_1">Always believe that something wonderful is about to happen</string>
     <string name="text_item_type_talkback_bubble_watermark_3">Viaggi</string>
     <string name="text_item_type_talkback_bubble_watermark_4">Vacanze</string>
     <string name="text_item_type_talkback_city_beijing">Pechino</string>
@@ -2965,6 +3009,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="vlog_speed_treble">3.0X</string>
     <string name="vlog_support_max_duration">Un progetto può essere lungo fino a %1$d ore</string>
     <string name="vlog_support_max_number">Puoi aggiungere fino a %1$d video a un progetto</string>
+    <string name="vlog_talkback_audio_null">Nessuna colonna sonora</string>
     <string name="vlog_talkback_ratio_1_1">Quadrato</string>
     <string name="vlog_talkback_speed_half">0.5X</string>
     <string name="vlog_talkback_speed_normal">1X</string>
