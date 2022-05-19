@@ -73,6 +73,7 @@
     <string name="btn_sure">OK</string>
     <string name="bubble">Bolla</string>
     <string name="bullfrog">Ranocchio</string>
+    <string name="burst">Raffica</string>
     <string name="button_text_cancel">Annulla</string>
     <string name="button_text_delete">Disinstalla</string>
     <string name="button_text_delete_timer">Disinstalla (%d)</string>
@@ -114,7 +115,9 @@
     <string name="country_name_mt">MT</string>
     <string name="country_name_ne">NO</string>
     <string name="country_name_nl">N</string>
+    <string name="country_name_no">NO</string>
     <string name="country_name_se">S-E</string>
+    <string name="country_name_sm">SM</string>
     <string name="country_name_sv">SV</string>
     <string name="countryside">Campagna</string>
     <string name="cowboy">Cowboy</string>
