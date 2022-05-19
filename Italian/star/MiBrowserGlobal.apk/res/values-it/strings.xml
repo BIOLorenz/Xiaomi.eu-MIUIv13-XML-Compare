@@ -417,7 +417,11 @@ Disattiva per fermare la sincronizzazione."</string>
     <string name="common_open_on_phone">Apri sul telefono</string>
     <string name="common_signin_button_text">Accedi</string>
     <string name="common_signin_button_text_long">Accedi con Google</string>
+    <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
+    <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
     <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
+    <string name="common_use_phrase_bottom_bar_net_txt">.net</string>
+    <string name="common_use_phrase_bottom_bar_org_txt">.org</string>
     <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
     <string name="common_use_phrase_bottom_bar_text_next">Successivo</string>
     <string name="common_use_phrase_bottom_bar_text_previous">Prec.</string>
@@ -459,11 +463,14 @@ Disattiva per fermare la sincronizzazione."</string>
     <string name="copy_url">Copia URL link</string>
     <string name="could_not_load_data">"Impossibile caricare i dati, aggiorna e riprova"</string>
     <string name="crash_page_button">Riprova</string>
+    <string name="crash_page_description">Qualcosa è andato storto durante la visualizzazione di questa pagina.</string>
+    <string name="crash_page_title">On, no!</string>
     <string name="create_qr_code">Codice QR</string>
     <string name="current_version_pad">Tablet</string>
     <string name="current_version_pc">Desktop</string>
     <string name="current_version_phone">Telefono</string>
     <string name="custom">Perfavore inserisic il link url del calendario</string>
+    <string name="custom_head_card_text">Always believe that something wonderful is about to happen</string>
     <string name="custom_head_card_text_incognito">"Sei in incognito!
 Le pagine visualizzate non appariranno nella cronologia."</string>
     <string name="custom_page_guide_content">Segnalibri, impostazioni e strumenti sono qui!</string>
@@ -472,6 +479,8 @@ Le pagine visualizzate non appariranno nella cronologia."</string>
     <string name="data_format_ymd">dd/MM/yyyy</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
+    <string name="debug_crash">Abilita debug crash</string>
+    <string name="debug_youtube_file">Debug file youtube</string>
     <string name="debug_youtube_in_release">Debug di youtube nella versione</string>
     <string name="delete">Elimina</string>
     <string name="delete_bookmark">Elimina</string>
@@ -564,6 +573,7 @@ Invia questo codice al supervisore."</string>
     <string name="download_filter_others">Altro</string>
     <string name="download_filter_text">Documenti</string>
     <string name="download_filter_video">Video</string>
+    <string name="download_filter_zip">ZIP</string>
     <string name="download_in_process">In download</string>
     <string name="download_keep_queued_download">Mantieni</string>
     <string name="download_list_no_items_tip">Nessun contenuto.</string>
@@ -678,7 +688,9 @@ Invia questo codice al supervisore."</string>
     <string name="exo_download_failed">Download non riuscito</string>
     <string name="exo_download_notification_channel_name">Download</string>
     <string name="exo_download_removing">Rimozione download</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Nessuno</string>
     <string name="exo_track_selection_title_audio">Audio</string>
@@ -772,6 +784,7 @@ Invia questo codice al supervisore."</string>
     <string name="friday_shortest">Ven</string>
     <string name="gaid">GAID(Clicca Per Esportare)</string>
     <string name="game_center_recommend_play">Riproduci</string>
+    <string name="game_center_recommend_title">Consigliato per te</string>
     <string name="game_news_flow_download_bar_download">Scarica</string>
     <string name="game_news_flow_download_bar_play">Riproduci</string>
     <string name="game_played">Recenti</string>
@@ -823,8 +836,10 @@ Invia questo codice al supervisore."</string>
     <string name="heavenly_stems_yi">Yi</string>
     <string name="hint">Suggerimento</string>
     <string name="history">Cronologia</string>
+    <string name="home_description">Casa</string>
     <string name="home_feed_channel">Mostra \"Notizie\" nella barra di navigazione</string>
     <string name="home_game_channel">Mostra \"Giochi\" nella barra di navigazione</string>
+    <string name="home_list_item_click">Clic voce elenco Home</string>
     <string name="home_nf">Feed del contenuto</string>
     <string name="home_nf_recommend_on">Consigliato per te</string>
     <string name="homepage_delete_card_menu">Elimina</string>
@@ -859,6 +874,7 @@ Invia questo codice al supervisore."</string>
     <string name="input_new_pwd">Inserisci una nuova password</string>
     <string name="ins_login_tips">Accedi per scaricare i video da Instagram</string>
     <string name="ins_register_btn">Crea un account tramite email o numero di telefono</string>
+    <string name="instance_id">Id Istanza Firebase (Clicca Per Esportare)</string>
     <string name="interest_card_button">Continua</string>
     <string name="interest_card_title">Seleziona i tuoi interessi</string>
     <string name="into_info_flow_guide">Visualizza altri articoli</string>
@@ -876,6 +892,7 @@ Invia questo codice al supervisore."</string>
     <string name="just_now">Un momento fa</string>
     <string name="le_download_failed_server_error">"Download fallito a causa di un errore del server."</string>
     <string name="le_network_chagne_to_none">Disconnesso dalla rete. Tutti i download sono stati sospesi.</string>
+    <string name="list_item_click">Clic voce elenco</string>
     <string name="list_menu_add_to_pf">Sposta nella cartella privata</string>
     <string name="list_menu_delete_task">Elimina attività</string>
     <string name="list_menu_delete_task_and_file">Elimina attività e file</string>
@@ -1002,6 +1019,7 @@ Invia questo codice al supervisore."</string>
     <string name="more_option">Altre opzioni</string>
     <string name="more_recommend">Più consigli</string>
     <string name="morning">Mattina</string>
+    <string name="most_visited_sites">Più visitati</string>
     <string name="most_visited_sites_switch">Mostra i siti più visitati nella pagina iniziale</string>
     <string name="move_bookmark">Sposta</string>
     <string name="msg_token">Firebase Message Token(Clicca Per Esportare)</string>
@@ -1134,6 +1152,7 @@ Abbandonare questa pagina?"</string>
     <string name="mw_miuichromium_error_page_diagnose_timeout">Connessione scaduta</string>
     <string name="mw_miuichromium_error_page_diagnose_website">Il sito è offline</string>
     <string name="mw_miuichromium_error_page_diagnosing">Verifica rete</string>
+    <string name="mw_miuichromium_error_page_homepage">Casa</string>
     <string name="mw_miuichromium_error_page_mobile">Dati Mobili</string>
     <string name="mw_miuichromium_error_page_network_hijack">"Rete non sicura"</string>
     <string name="mw_miuichromium_error_page_network_off">Attiva il Wi-Fi o i dati</string>
@@ -1816,14 +1835,18 @@ Alcuni siti non utilizzeranno la tua cronologia di navigazione precedente per pe
     <string name="search_hint">Cerca</string>
     <string name="search_label">Browser</string>
     <string name="search_menu_title">Cerca</string>
+    <string name="search_s139">%1$d</string>
     <string name="search_settings_description">Segnalibri e cronologia web</string>
     <string name="search_shipin">Video</string>
+    <string name="search_sm">SM</string>
+    <string name="search_sogou">Sogou</string>
     <string name="search_taobao">Taobao</string>
     <string name="search_title_hint">Cerca</string>
     <string name="search_trending_new">Nuovo</string>
     <string name="search_trending_title">Di tendenza</string>
     <string name="search_tupian">Immagine</string>
     <string name="search_yahoo">Yahoo!</string>
+    <string name="search_yicha">Yicha</string>
     <string name="secure_download_in_xiaomi_market">Scarica nell\'App Store</string>
     <string name="secureaccess">Passa alla modalità provvisoria</string>
     <string name="secureaccess_cancel">Ignora</string>
@@ -1853,6 +1876,7 @@ Alcuni siti non utilizzeranno la tua cronologia di navigazione precedente per pe
     <string name="setting_app_language">Lingua del browser</string>
     <string name="setting_feed_language">Lingua feed dei contenuti</string>
     <string name="setting_privacy_password">Imposta sequenza</string>
+    <string name="setting_swipe_up">Scorri verso l\'alto nella Home</string>
     <string name="share_image_text">Guarda cosa ho condiviso! @MIUI</string>
     <string name="share_page_text">Guarda cosa ho condiviso: %1$s @MIUI| %2$s</string>
     <string name="share_slide_video_text">Guarda cosa ho condiviso: %1$s</string>
@@ -1932,10 +1956,12 @@ Alcuni siti non utilizzeranno la tua cronologia di navigazione precedente per pe
     <string name="subscribe_success">Iscritto correttamente</string>
     <string name="subscription_status_error">"Impossibile iscriversi"</string>
     <string name="subscriptions_title">Gestisci il tuo abbonamento</string>
+    <string name="suggest_access_appstore">Mi App Store</string>
     <string name="suggest_access_btn_install">Installa</string>
     <string name="suggest_access_btn_open">Apri</string>
     <string name="suggest_access_btn_play">Riproduci</string>
     <string name="suggest_access_btn_view">Mostra</string>
+    <string name="suggest_access_item_app_size">%.2fMB</string>
     <string name="suggest_access_item_app_update">Aggiornamento: %s</string>
     <string name="suggest_access_music">Musica Mi</string>
     <string name="suggest_item_delete_text">Elimina</string>
@@ -1947,6 +1973,7 @@ Alcuni siti non utilizzeranno la tua cronologia di navigazione precedente per pe
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="support_pwa">PWA</string>
     <string name="switchText">SI</string>
     <string name="switch_proxy_dialog_msg">"Rilevato dirottamento di rete. Usa l'app di sicurezza integrata MIUI o segnalala al tuo operatore mobile."</string>
     <string name="switch_proxy_dialog_title">Dirottamento di rete</string>
@@ -1959,6 +1986,7 @@ Alcuni siti non utilizzeranno la tua cronologia di navigazione precedente per pe
     <string name="tab_feed">Notizie</string>
     <string name="tab_file">File</string>
     <string name="tab_game">Giochi</string>
+    <string name="tab_home">Casa</string>
     <string name="tab_mine">Centro utente</string>
     <string name="tab_quicklinks">Funzioni</string>
     <string name="tab_yellowpage">Collegamenti</string>
@@ -2025,6 +2053,7 @@ Alcuni siti non utilizzeranno la tua cronologia di navigazione precedente per pe
     <string name="toast_exit_browser">Tocca di nuovo per uscire dal browser</string>
     <string name="today">Oggi</string>
     <string name="tomorrow">domani</string>
+    <string name="topsite_click">Clicca i Siti Migliori</string>
     <string name="traffic_fail_device_limit">Raggiunto il limite di dispositivi registrati</string>
     <string name="traffic_fail_free_no_left">"Hai terminato il traffico dati. Abbonati per continuare."</string>
     <string name="traffic_fail_no_left">"Hai terminato il traffico VPN"</string>
@@ -2042,7 +2071,9 @@ Alcuni siti non utilizzeranno la tua cronologia di navigazione precedente per pe
     <string name="tuesday">Martedì</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
+    <string name="twitter_moments">Twitter Moments</string>
     <string name="type_not_support">"Questo formato non è supportato. Scompatta questo file e riprova."</string>
+    <string name="unSwitchText">NO</string>
     <string name="undo">Annulla</string>
     <string name="unsecurity_url_toast">"Questo sito web non è sicuro"</string>
     <string name="up_to_loading_tips">Rilascia per aggiornare</string>
@@ -2112,6 +2143,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_downloader_fail">"Impossibile scaricare questo elemento"</string>
     <string name="video_downloader_retry">Riprova</string>
     <string name="video_play_next">A seguire</string>
+    <string name="video_replay_btn">Replay</string>
     <string name="video_retry_btn">Riprova</string>
     <string name="view_certificate">Visualizza certificato</string>
     <string name="view_document_downloaded_files">Accedi ai file scaricati su Download</string>
