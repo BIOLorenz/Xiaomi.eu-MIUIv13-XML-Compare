@@ -99,9 +99,9 @@
         <item>Selvaggio e libero</item>
     </string-array>
     <string-array name="group_people_title">
-        <item>Our get-togethers</item>
+        <item>I nostri ritrovi</item>
         <item>In compagnia degli amici</item>
-        <item>Long time no see</item>
+        <item>Non vedi da molto tempo</item>
     </string-array>
     <string-array name="holiday_last_year">
         <item>"Il Capodanno precedente"</item>
@@ -121,7 +121,7 @@
     </string-array>
     <string-array name="important_people_title">
         <item>I tuoi soggetti preferiti</item>
-        <item>Kindred spirits</item>
+        <item>Spiriti gentili</item>
         <item>"I momenti brillanti della vita"</item>
     </string-array>
     <string-array name="last_month">
@@ -154,10 +154,10 @@
     </string-array>
     <string-array name="last_some_day_playground_title">
         <item>Sorridi e saluta!</item>
-        <item>Playtime</item>
+        <item>Tempo di gioco</item>
     </string-array>
     <string-array name="last_some_day_ski_title">
-        <item>The great outdoors</item>
+        <item>Momenti all\'aperto</item>
         <item>Tracce sulla neve</item>
     </string-array>
     <string-array name="last_some_day_sports_title">
@@ -166,7 +166,7 @@
     </string-array>
     <string-array name="last_some_day_wedding_title">
         <item>Un grande giorno</item>
-        <item>Down the aisle!</item>
+        <item>Lungo il corridoio!</item>
     </string-array>
     <string-array name="last_week_baby_title">
         <item>È ora di giocare</item>
