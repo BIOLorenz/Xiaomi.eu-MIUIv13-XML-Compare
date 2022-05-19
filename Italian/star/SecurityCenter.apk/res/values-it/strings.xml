@@ -807,6 +807,7 @@
     <string name="auto_task_rule_read_mode">È possibile attivare la modalità di lettura automaticamente durante l\'utilizzo delle app di lettura. Creare questa attività?</string>
     <string name="auto_task_rule_zen_mode">È possibile attivare la modalità ND durante i pisolini tra le 12:00 e le 14:00 automaticamente. Creare questa attività?</string>
     <string name="auto_task_select_address_company">Di lavoro</string>
+    <string name="auto_task_select_address_home">Casa</string>
     <string name="auto_task_select_address_leave">Esci</string>
     <string name="auto_task_select_address_no_set">Non impostato</string>
     <string name="auto_task_select_address_other">Indirizzi frequenti</string>
@@ -1659,7 +1660,9 @@ terremoti"</string>
     <string name="exo_download_notification_channel_name">Download</string>
     <string name="exo_download_removing">Rimozione download</string>
     <string name="exo_player_time_seperate">/</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternato</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commento</string>
