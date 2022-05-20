@@ -202,6 +202,7 @@ Puoi associare questa scorciatoia a un'altra funzionalità in Impostazioni &gt; 
     <string name="accessibility_system_action_screenshot_label">Screenshot</string>
     <string name="accessibility_uncheck_legacy_item_warning">Il servizio %s è stato disattivato</string>
     <string name="action_bar_home_description">Vai alla home page</string>
+    <string name="action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="action_bar_up_description">Vai in alto</string>
     <string name="action_menu_overflow_description">Altre opzioni</string>
     <string name="action_mode_done">Fine</string>
