@@ -336,6 +336,7 @@
     <string name="pa_picker_detail_download_app_dialog_message_install_suffix">Aggiunto</string>
     <string name="pa_picker_detail_download_app_dialog_message_upgrade_prefix">Aggiorna</string>
     <string name="pa_picker_detail_download_maml_dialog_cancel">In attesa di Wi-Fi</string>
+    <string name="pa_picker_detail_download_maml_dialog_checkbox_text">"Non mostrare più per %d minuti"</string>
     <string name="pa_picker_detail_download_maml_dialog_confirm">Scarica</string>
     <string name="pa_picker_detail_download_maml_dialog_title">Avviso utilizzo dati</string>
     <string name="pa_picker_detail_edit_maml_net_unavailable">"Impossibile connettersi alla rete. Verifica le impostazioni di rete e riprova."</string>
