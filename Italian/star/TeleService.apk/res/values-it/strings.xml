@@ -92,7 +92,9 @@
     <string name="add">Aggiungi</string>
     <string name="add_sip_account">Aggiungi account</string>
     <string name="add_user_failed">Creazione nuovo utente non riuscita</string>
+    <string name="additional_cdma_call_settings">Impostazioni aggiuntive per chiamate CDMA</string>
     <string name="additional_gsm_call_settings">Altre impostazioni</string>
+    <string name="additional_gsm_call_settings_with_label">Impostazioni aggiuntive (%s)</string>
     <string name="advanced_mobile_settings">Impostazioni avanzate</string>
     <string name="advanced_options_title">Avanzate</string>
     <string name="afternoon">Pomeriggio</string>
@@ -115,6 +117,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="allow_mock_location">Posizioni fittizie</string>
     <string name="allow_mock_location_summary">Posizioni fittizie</string>
     <string name="animator_duration_scale_title">Scala durata animatore</string>
+    <string name="answer_state_setting_summary">Opzioni aggiuntive chiamate in arrivo</string>
     <string name="antispam_notification_title">Numero sconosciuto</string>
     <string name="antispam_setting">Blacklist</string>
     <string name="apn_settings">APN</string>
@@ -437,6 +440,7 @@ Selezione"</string>
     <string name="data_connection_gprs">GPRS</string>
     <string name="data_connection_lte">LTE</string>
     <string name="data_connection_lte_plus">LTE+</string>
+    <string name="data_enable_warning">Consentire di utilizzare sempre i dati può generare costi aggiuntivi. Connettersi comunque?</string>
     <string name="data_enabled">Dati Mobili</string>
     <string name="data_usage_disable_mobile">Disattivare dati?</string>
     <string name="data_usage_ota">Aggiornamenti di sistema</string>
@@ -865,6 +869,7 @@ Selezione"</string>
     <string name="msim_setting_screen_title">SIM e reti mobili</string>
     <string name="msim_sim_lock">Bloccata</string>
     <string name="msim_sim_radio_off">Spenta</string>
+    <string name="msim_switch_data_conn_toast">Il tipo di rete è cambiato. Visualizza informazioni aggiuntive nelle schede SIM e nelle reti mobili nel menu Impostazioni.</string>
     <string name="mtn_simlock_emergency">Emergenza</string>
     <string name="mtrl_badge_numberless_content_description">Nuova notifica</string>
     <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
@@ -958,6 +963,7 @@ Selezione"</string>
     <string name="ota_try_again">Riprova</string>
     <string name="other_settings">Altre impostazioni di chiamata</string>
     <string name="other_settings_category">Altro</string>
+    <string name="other_settings_categorys">Funzionalità aggiuntive</string>
     <string name="overlay_display_devices_title">Simula display secondari</string>
     <string name="overseas_roaming_setting">Roaming dati</string>
     <string name="password">Password</string>
@@ -1057,6 +1063,7 @@ Il tuo telefono verrà bloccato automaticamente dopo un altro tentativo fallito"
     <string name="preferred_network_type_pref_entries_auto">Automatico</string>
     <string name="preferred_network_type_pref_entries_global">NR/LTE/CDMA/EvDo/GSM/WCDMA</string>
     <string name="preferred_network_type_pref_entries_only_2g">Solo reti 2G</string>
+    <string name="preferred_network_type_pref_entries_only_2g_jp_sb">GSM</string>
     <string name="preferred_network_type_pref_entries_only_2g_lm_cr">Solo reti GSM</string>
     <string name="preferred_network_type_pref_entries_only_3g">Solo reti 3G</string>
     <string name="preferred_network_type_pref_entries_only_3g_lm_cr">Solo reti WCDMA</string>
@@ -1143,6 +1150,7 @@ La tua SIM sarà bloccata dopo un altro tentativo fallito."</string>
     <string name="running_process_item_user_label">Utente: %1$s</string>
     <string name="runningservices_settings_summary">Visualizza e controlla i servizi attualmente in esecuzione</string>
     <string name="runningservices_settings_title">Servizi in esecuzione</string>
+    <string name="sa_switch_debug_summary">Mostra opzioni della rete 5G nelle impostazioni SIM aggiuntive</string>
     <string name="saturday">Sabato</string>
     <string name="saturday_short">Sab</string>
     <string name="saturday_shortest">Sab</string>
@@ -1215,6 +1223,7 @@ La tua SIM sarà bloccata dopo un altro tentativo fallito."</string>
     <string name="sip_menu_discard">Ignora</string>
     <string name="sip_menu_save">Salva</string>
     <string name="sip_system_decide">Automatico</string>
+    <string name="smart_dual_sim_prompt">Il dispositivo si connetterà a una rete dati mobile utilizzando la SIM secondaria se la connettività attuale è scarsa. Questo potrebbe generare costi aggiuntivi. Imposta un limite di utilizzo dei dati per evitare costi aggiuntivi.</string>
     <string name="smart_dual_sim_prompt_ok">Impostazioni</string>
     <string name="smart_multinetwork_acceleration_title">Accelerazione della rete smart</string>
     <string name="sms_messages_title">SMS</string>
@@ -1256,17 +1265,23 @@ La tua SIM sarà bloccata dopo un altro tentativo fallito."</string>
     <string name="strict_mode_summary">Flash dello schermo in caso di lunghe operazioni sul thread principale</string>
     <string name="sum_call_barring_disabled">Spenta</string>
     <string name="sum_call_barring_enabled">Attivata</string>
+    <string name="sum_cdma_call_settings">Impostazioni aggiuntive chiamate CDMA</string>
     <string name="sum_cfb_disabled">Spenta</string>
     <string name="sum_cfnrc_disabled">Spenta</string>
     <string name="sum_cfnry_disabled">Spenta</string>
     <string name="sum_cfu_disabled">Spenta</string>
+    <string name="sum_gsm_call_settings">Impostazioni aggiuntive chiamate GSM</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="supp_service_additional_call_forwarded">Chiamata aggiuntiva inoltrata.</string>
+    <string name="supp_service_additional_ect_connected">Trasferimento di chiamata esplicito completato.</string>
+    <string name="supp_service_additional_ect_connecting">Trasferimento di chiamata esplicito in corso.</string>
     <string name="supp_service_over_ut_precautions_dialog_dismiss">Rifiuta</string>
     <string name="support_forbidden_fakecell">Nota: limitando la connessione alle celle fasulle potresti ridurre il segnle nelle arre con scarsa copertura.</string>
     <string name="switch_cancel_btn_text">Annulla</string>
     <string name="switch_confirm_btn_text">OK</string>
+    <string name="switch_debug_menu">Impostazioni di rete aggiuntive</string>
     <string name="switch_off">Spenta</string>
     <string name="switch_on">Attivata</string>
     <string name="t9_indexing_method_pinyin">Pinyin</string>
@@ -1418,6 +1433,8 @@ Qualsiasi utente può aggiornare le app per tutti gli altri."</string>
     <string name="v7_preference_on">ATTIVATO</string>
     <string name="verify_apps_over_usb_summary">Controlla che le app installate tramite ADB/ADT non abbiano un comportamento dannoso</string>
     <string name="verify_apps_over_usb_title">Verifica app tramite USB</string>
+    <string name="vice_card_data_in_use_alert">Potrebbero essere generati costi aggiuntivi per i dati.</string>
+    <string name="vice_slot_volte_data_switch_prompt">Il dispositivo si connetterà a una rete dati mobile utilizzando la SIM secondaria durante le chiamate VoLTE in corso. Questo potrebbe generare costi aggiuntivi per i dati. Contatta il tuo operatore locale per informazioni sul tuo piano dati.</string>
     <string name="video_calling_settings_title">Videochiamata operatore</string>
     <string name="voice_report_incoming_call">Chiamata</string>
     <string name="voice_report_unknown_num">Numero sconosciuto</string>
