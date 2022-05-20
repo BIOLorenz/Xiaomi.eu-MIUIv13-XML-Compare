@@ -44,6 +44,10 @@
         <item quantity="other">Ritorno alla home page tra %1$d secondi…</item>
         <item quantity="one">Ritorno alla home page tra %1$d secondo…</item>
     </plurals>
+    <plurals name="follower">
+        <item quantity="other">%d follower</item>
+        <item quantity="one">%d follower</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">mezz\'ora fa</item>
         <item quantity="other">mezz\'ora fa</item>
@@ -68,9 +72,17 @@
         <item quantity="one">Proprio adesso</item>
         <item quantity="other">ora</item>
     </plurals>
+    <plurals name="local_video_floder">
+        <item quantity="other">%d cartelle</item>
+        <item quantity="one">%d cartella</item>
+    </plurals>
     <plurals name="long_video_minute">
         <item quantity="other">%d minuti</item>
         <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="long_video_season">
+        <item quantity="other">%d stagioni</item>
+        <item quantity="one">%d stagione</item>
     </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">I sottotitoli verranno mostrati %.1f secondi prima</item>
@@ -87,6 +99,18 @@
     <plurals name="lv_video_count">
         <item quantity="other">%d video</item>
         <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title1">
+        <item quantity="other">%1$1d episodi su %2$2d disponibili</item>
+        <item quantity="one">%1$1d episodio su %2$2d disponibile</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title2">
+        <item quantity="other">%1$1d episodi su %2$2d disponibili</item>
+        <item quantity="one">%1$1d episodio su %2$2d disponibile</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title_all">
+        <item quantity="other">%d episodi totali</item>
+        <item quantity="one">%d episodio totale</item>
     </plurals>
     <plurals name="mediation_animate_close_after">
         <item quantity="other">%s sec rimasti</item>
@@ -151,6 +175,10 @@
     <plurals name="s_double_tap_forward">
         <item quantity="other">Tocca due volte per avanzare di %d secondi</item>
         <item quantity="one">Tocca due volte per avanzare di %d secondo</item>
+    </plurals>
+    <plurals name="s_forward_tip">
+        <item quantity="other">%1$s sec</item>
+        <item quantity="one">%1$s sec</item>
     </plurals>
     <plurals name="subscriber">
         <item quantity="other">%s iscritti</item>
