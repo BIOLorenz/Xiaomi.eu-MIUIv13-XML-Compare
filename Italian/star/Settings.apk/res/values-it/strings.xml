@@ -133,8 +133,15 @@ Non tutte le app supportano questa impostazione."</string>
     <string name="accessibility_magnification_mode_dialog_option_full_screen">Ingrandisci schermo intero</string>
     <string name="accessibility_magnification_mode_dialog_option_switch">Schermo intero e parte dello schermo</string>
     <string name="accessibility_magnification_mode_dialog_option_window">Ingrandisce parte dello schermo</string>
+    <string name="accessibility_magnification_mode_dialog_title">Scegli modalità di ingrandimento</string>
     <string name="accessibility_magnification_mode_title">Area di ingrandimento</string>
     <string name="accessibility_magnification_service_settings_title">Impostazioni di ingrandimento</string>
+    <string name="accessibility_magnification_switch_shortcut_message">"L'uso del triplo tocco per ingrandire parte dello schermo causa un ritardo della digitazione e altri ritardi.
+
+Il pulsante Accessibilità è mobile sullo schermo e rimane sopra altre app. Toccalo per ingrandire."</string>
+    <string name="accessibility_magnification_switch_shortcut_negative_button">Usa il triplo tocco</string>
+    <string name="accessibility_magnification_switch_shortcut_positive_button">Passa a pulsante Accessibilità</string>
+    <string name="accessibility_magnification_switch_shortcut_title">Vuoi passare al pulsante Accessibilità?</string>
     <string name="accessibility_manual_zen_less_time">Meno tempo.</string>
     <string name="accessibility_manual_zen_more_time">Più tempo.</string>
     <string name="accessibility_menu_description">"Il menu di accessibilità fornisce collegamenti comodi che consentono di controllare il dispositivo.
@@ -224,6 +231,7 @@ Nota: il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera
     <string name="accessibility_shortcut_edit_dialog_summary_software">"Tocca il pulsante accessibilità %s nella parte inferiore dello schermo.
 
 Per cambiare funzionalità, tocca e tieni premuto il pulsante accessibilità."</string>
+    <string name="accessibility_shortcut_edit_dialog_summary_software_floating"><annotation id="link">Altre opzioni</annotation></string>
     <string name="accessibility_shortcut_edit_dialog_summary_software_gesture">"Scorri verso l'alto dalla parte inferiore dello schermo con 2 dita.
 
 Per passare tra le caratteristiche, scorri verso l'alto con 2 dita e tieni premuto."</string>
@@ -234,10 +242,12 @@ Per passare tra le caratteristiche, scorri verso l'alto con 3 dita e tieni premu
     <string name="accessibility_shortcut_edit_dialog_title_advance">Avanzate</string>
     <string name="accessibility_shortcut_edit_dialog_title_hardware">Tieni premuti i tasti del volume</string>
     <string name="accessibility_shortcut_edit_dialog_title_software">Tocca il pulsante accessibilità</string>
+    <string name="accessibility_shortcut_edit_dialog_title_software_by_gesture">Usa il gesto Accessibilità</string>
     <string name="accessibility_shortcut_edit_dialog_title_software_gesture">Scorri verso l\'alto con 2 dita</string>
     <string name="accessibility_shortcut_edit_dialog_title_software_gesture_talkback">Scorri verso l\'alto con 3 dita</string>
     <string name="accessibility_shortcut_edit_dialog_title_triple_tap">Tocca 3 volte lo schermo</string>
     <string name="accessibility_shortcut_edit_summary_software">Pulsante accessibilità</string>
+    <string name="accessibility_shortcut_edit_summary_software_gesture">Gesto Accessibilità</string>
     <string name="accessibility_shortcut_hardware_keyword">tieni premuti i tasti del volume</string>
     <string name="accessibility_shortcut_service_on_lock_screen_title">Consenti da lockscreen</string>
     <string name="accessibility_shortcut_service_title">Servizio collegamento</string>
@@ -248,6 +258,7 @@ Per passare tra le caratteristiche, scorri verso l'alto con 3 dita e tieni premu
     <string name="accessibility_shortcut_type_software">Pulsante accessibilità</string>
     <string name="accessibility_shortcut_type_software_gesture">Scorri 2 dita dall\'alto al basso</string>
     <string name="accessibility_shortcut_type_triple_tap">Tocca 3 volte lo schermo</string>
+    <string name="accessibility_shortcuts_settings_title">Collegamento Accessibilità</string>
     <string name="accessibility_summary_default_combination">%1$s/%2$s</string>
     <string name="accessibility_summary_shortcut_disabled">Spenta</string>
     <string name="accessibility_summary_shortcut_enabled">Scorciatoia attiva</string>
@@ -259,6 +270,9 @@ Per passare tra le caratteristiche, scorri verso l'alto con 3 dita e tieni premu
     <string name="accessibility_sync_enabled">Sincronizzazione abilitata</string>
     <string name="accessibility_sync_error">Errore di sincronizzazione.</string>
     <string name="accessibility_sync_in_progress">Sincronizza ora</string>
+    <string name="accessibility_system_controls_title">Controlli di sistema</string>
+    <string name="accessibility_tap_assistance_title">Controlli basati sul tempo</string>
+    <string name="accessibility_text_and_display_title">Testo e visualizzazione</string>
     <string name="accessibility_timeout_10secs">10 secondi</string>
     <string name="accessibility_timeout_1min">1 minuto</string>
     <string name="accessibility_timeout_2mins">2 minuti</string>
@@ -279,10 +293,12 @@ Per passare tra le caratteristiche, scorri verso l'alto con 3 dita e tieni premu
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Aggiorna ingrandimento schermo per transizioni app</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Aggiorn. autom. ingrandim. schermo</string>
     <string name="accessibility_touch_vibration_title">Vibra al tocco</string>
+    <string name="accessibility_turn_screen_darker_title">Scurisci lo schermo</string>
     <string name="accessibility_tutorial_dialog_button">Ok</string>
     <string name="accessibility_tutorial_dialog_message_button">"Per attivare o disattivare questo servizio, tocca il pulsante di accessibilità%snella parte inferiore dello schermo.
 
 Per passare da un servizio all'altro, tocca e tieni premuto il pulsante di accessibilità."</string>
+    <string name="accessibility_tutorial_dialog_message_floating_button">Per usare questa funzionalità, tocca il pulsante Accessibilità sullo schermo.</string>
     <string name="accessibility_tutorial_dialog_message_gesture">"Per utilizzare questa funzione, scorri verso l'alto dal basso dello schermo con 2 dita.
 
 Per passare tra le funzionalità, scorri verso l'alto con 2 dita e tieni premuto."</string>
@@ -362,8 +378,13 @@ Per passare tra le funzionalità, scorri verso l'alto con 3 dita e tieni premuto
     <string name="activity_picker_label">Scegli attività</string>
     <string name="activity_title_power_manager">Risparmio batteria;Riduzione consumo</string>
     <string name="ad_service">Servizi pubblicitari (AD)</string>
+    <string name="adaptive_battery_main_switch_title">Usa batteria adattiva</string>
+    <string name="adaptive_brightness_main_switch_title">Usa luminosità adattiva</string>
+    <string name="adaptive_connectivity_summary">Estende la durata della batteria e migliora le prestazioni del dispositivo gestendo automaticamente le connessioni di rete</string>
     <string name="adaptive_connectivity_switch_off">Spenta</string>
     <string name="adaptive_connectivity_switch_on">Attivata</string>
+    <string name="adaptive_connectivity_title">Connettività adattiva</string>
+    <string name="adaptive_sleep_camera_lock_summary">La fotocamera deve essere sbloccata per Attenzione allo Schermo</string>
     <string name="adaptive_sleep_contextual_slice_summary">Mantieni lo schermo acceso quando lo guardi</string>
     <string name="adaptive_sleep_contextual_slice_title">Attiva \'Attenzione sullo schermo\'</string>
     <string name="adaptive_sleep_description">Impedisce allo schermo di spegnersi se lo stai guardando.</string>
@@ -411,6 +432,7 @@ Per passare tra le funzionalità, scorri verso l'alto con 3 dita e tieni premuto
     <string name="add_account_label">Aggiungi account</string>
     <string name="add_auto_startup_application">Aggiungi applicazioni in avvio automatico</string>
     <string name="add_back_fingerprint_instruction_msg">Posiziona il dito sul sensore</string>
+    <string name="add_broadcast_audio_source">Aggiungi sorgente audio broadcast</string>
     <string name="add_broadsize_fingerprint_instruction_msg">Il sensore di impronte digitali si trova sul bordo destro del dispositivo</string>
     <string name="add_device_admin">Attiva</string>
     <string name="add_device_admin_msg">Attivare amministratore dispositivo?</string>
@@ -438,10 +460,15 @@ Per passare tra le funzionalità, scorri verso l'alto con 3 dita e tieni premuto
     <string name="add_new">Aggiungi</string>
     <string name="add_one_text_app_name_once">È possibile aggiungere un pacchetto alla volta</string>
     <string name="add_rule">Aggiungi regola</string>
+    <string name="add_source_button_text">Aggiungi Sorgente Broadcast</string>
+    <string name="add_source_group">Aggiungi sorgente Broadcast al gruppo</string>
     <string name="add_text_app_name">Aggiungi un pacchetto app di prova</string>
     <string name="add_text_app_name_here">Inserisci il nome del pacchetto</string>
     <string name="add_text_app_package_name">Aggiungi un pacchetto app di prova</string>
+    <string name="add_user_failed">"Impossibile creare un nuovo utente"</string>
     <string name="add_virtual_keyboard">Gestione tastiere</string>
+    <string name="added_sources_dashboard_title">Fonti Di Broadcast Aggiunte</string>
+    <string name="added_sources_title">Fonti broadcast</string>
     <string name="adding_profile_owner_warning">"Proseguendo, l'utente sarà gestito dall'amministratore che può essere in grado di memorizzare i dati associati, oltre ai vostri dati personali.
 
 L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'accesso, applicazioni e dati associati a questo utente, tra cui attività di rete e le informazioni sulla posizione del dispositivo \"."</string>
@@ -456,12 +483,16 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
     <string name="adjust_temperature_title">Temperatura colore</string>
     <string name="admin_device_owner_message">"Il tuo amministratore può monitorare e gestire app e dati associati a questo dispositivo, incluse impostazioni, permessi, accessi aziendali, attività di rete e informazioni sulla posizione."</string>
     <string name="admin_disabled_other_options">Altre opzioni sono disabilitate per il tuo amministratore.</string>
+    <string name="admin_financed_message">L\'amministratore del dispositivo potrebbe essere in grado di accedere ai dati associati a questo dispositivo, gestire le app e modificare le impostazioni di questo dispositivo.</string>
     <string name="admin_more_details">Altri dettagli</string>
     <string name="admin_profile_owner_message">"Il tuo amministratore può monitorare e gestire app e dati associati al tuo profilo, incluse impostazioni, permessi, accessi aziendali, attività di rete e informazioni sulla posizione."</string>
     <string name="admin_profile_owner_user_message">"Il tuo amministratore può monitorare e gestire app e dati associati a questo utente, incluse impostazioni, permessi, accessi aziendali, attività di rete e informazioni sulla posizione."</string>
     <string name="admin_support_more_info">Altri dettagli</string>
     <string name="advanced_apps">Avanzate</string>
     <string name="advanced_battery_graph_subtext">La stima della batteria è basata sull\'utilizzo del dispositivo</string>
+    <string name="advanced_battery_preference_summary">Utilizzo dall\'ultima ricarica completa</string>
+    <string name="advanced_battery_preference_summary_with_hours">Utilizzo delle ultime 24 ore</string>
+    <string name="advanced_battery_preference_title">Utilizzo Batteria</string>
     <string name="advanced_battery_title">Consumo batteria</string>
     <string name="advanced_gesture">Gesti personalizzati</string>
     <string name="advanced_screen_paper_mode_title">Lettura</string>
@@ -501,10 +532,14 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
     <string name="alarm_template_far">su %1$s</string>
     <string name="alarm_volume_option_title">Sveglia</string>
     <string name="alarm_volume_title">Sveglia</string>
+    <string name="alarms_and_reminders_footer_title">"Consenti a questa app di impostare gli avvisi e pianificare azioni sensibili al tempo. Questo consente all'app di essere eseguita in background e potrebbe utilizzare più batteria.
+
+Se questa autorizzazione è disattivata, gli avvisi esistenti e gli eventi basati sul tempo programmati da questa app non funzioneranno."</string>
     <string name="alarms_and_reminders_label">Sveglie e promemoria</string>
     <string name="alarms_and_reminders_switch_title">Consenti l\'impostazione di sveglie e promemoria</string>
     <string name="alarms_and_reminders_title">Sveglie e promemoria</string>
     <string name="all_apps">Tutte le applicazioni</string>
+    <string name="all_network_unavailable">Nessuna rete disponibile</string>
     <string name="all_volume_title">Volumi</string>
     <string name="allow">Consenti</string>
     <string name="allow_all_rotations_title">Permetti tutte le rotazioni</string>
@@ -532,9 +567,12 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
     <string name="already_delete_system_app">App di sistema disinstallate</string>
     <string name="always">Sempre</string>
     <string name="always_allow_bind_appwidgets_text">Hai scelto di consentire a questa applicazione di creare widget e di accedere ai relativi dati.</string>
+    <string name="always_on">Sempre attivo</string>
     <string name="always_running">Sempre in esecuzione (%s)</string>
     <string name="amber_alerts_summary">Ricevi i bollettini sui rapimenti di bambini</string>
     <string name="amber_alerts_title">Avvisi AMBER</string>
+    <string name="ambient_camera_battery_saver_off">Disattiva risparmio batteria</string>
+    <string name="ambient_camera_summary_battery_saver_on">Disabilitata temporaneamente a causa del risparmio energetico</string>
     <string name="ambient_display_category_triggers">Quando mostrare</string>
     <string name="ambient_display_pickup_summary">Prendi il telefono per leggere le notifiche più velocemente.</string>
     <string name="ambient_display_pickup_title">Alza per controllare</string>
@@ -577,6 +615,8 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
     <string name="aod_style_title">Stile Libero</string>
     <string name="aod_to_close">Disattiva</string>
     <string name="ap_connect_failed">"Connessione fallita"</string>
+    <string name="ap_connected_battery_level">" | Batteria %1$s"</string>
+    <string name="apn_apn">APN</string>
     <string name="apn_auth_type">Tipo di autenticazione</string>
     <string name="apn_auth_type_chap">CHAP</string>
     <string name="apn_auth_type_none">Nessuno</string>
@@ -587,9 +627,12 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
     <string name="apn_edit">Modifica punto di accesso</string>
     <string name="apn_general">Generale</string>
     <string name="apn_http_port">Porta</string>
+    <string name="apn_http_proxy">Proxy</string>
     <string name="apn_mms">MMS</string>
     <string name="apn_mms_port">Porta MMS</string>
     <string name="apn_mms_proxy">Proxy MMS</string>
+    <string name="apn_mmsc">MMSC</string>
+    <string name="apn_mnc">MNC</string>
     <string name="apn_name">Nome</string>
     <string name="apn_new">Nuovo punto d\'accesso</string>
     <string name="apn_not_set">Non impostato</string>
@@ -633,14 +676,21 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="app_install_location_summary">Cambia il percorso preferito per l\'installazione di nuove applicazioni</string>
     <string name="app_install_location_title">Percorso di installazione</string>
     <string name="app_invisible">App Invisibile</string>
+    <string name="app_launch_add_link">Aggiungi collegamento</string>
+    <string name="app_launch_checking_links_title">Controllo di altri collegamenti supportati…</string>
     <string name="app_launch_dialog_cancel">Annulla</string>
     <string name="app_launch_dialog_ok">OK</string>
     <string name="app_launch_domain_links_title">App link</string>
+    <string name="app_launch_footer">Un\'app può verificare i collegamenti da aprire automaticamente nell\'app.</string>
+    <string name="app_launch_links_category">Collegamenti da aprire in questa app</string>
     <string name="app_launch_open_domain_urls_summary">Apri senza chiedere</string>
     <string name="app_launch_open_domain_urls_title">Apri link supportati</string>
     <string name="app_launch_other_defaults_title">Altre impostazioni</string>
     <string name="app_launch_supported_domain_urls_title">Link supportati</string>
     <string name="app_launch_supported_links_add">Aggiungi</string>
+    <string name="app_launch_supported_links_subtext">Si apre in %s</string>
+    <string name="app_launch_top_intro_message">Consenti l\'apertura dei link web in questa app</string>
+    <string name="app_launch_verified_links_info_description">Mostra elenco collegamenti verificati</string>
     <string name="app_link_open_always">Apri</string>
     <string name="app_link_open_ask">Chiedi sempre</string>
     <string name="app_link_open_never">"Non aprire mai con questa app"</string>
@@ -649,12 +699,15 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="app_list_preference_none">Nessuno</string>
     <string name="app_memory_use">Memoria usata</string>
     <string name="app_mobile">Dati Mobili</string>
+    <string name="app_name">SplitLib</string>
     <string name="app_name_label">Applicazione</string>
     <string name="app_name_na">Utilizzo dati</string>
+    <string name="app_names_concatenation_template_3">%1$s, %2$s, %3$s</string>
     <string name="app_not_found_dlg_text">Impossibile trovare l\'applicazione nell\'elenco di applicazioni installate.</string>
     <string name="app_notification_block_summary">Non mostrare mai notifiche da questa app</string>
     <string name="app_notification_block_title">Blocca tutto</string>
     <string name="app_notification_field">Impostazioni dell\'app</string>
+    <string name="app_notification_field_summary">Controlla le notifiche delle singole app</string>
     <string name="app_notification_importance_title">Importante</string>
     <string name="app_notification_listing_summary_zero">Attivato per tutte le app</string>
     <string name="app_notification_override_dnd_summary">Consenti il proseguimento di queste notifiche quando la funzionalità Anti Disturbo è impostata su Solo Priorità</string>
@@ -675,6 +728,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="app_permissions">Gestione permessi</string>
     <string name="app_permissions_summary">Le app stanno utilizzando %1$s</string>
     <string name="app_permissions_summary_more">Applicazioni con %1$s e altro</string>
+    <string name="app_pinning_intro">La funzionalità di blocco delle app su schermo ti consente di mantenere visibile l\'app in uso finché non decidi di sbloccarla. Questa funzionalità può essere usata, ad esempio, per consentire a un amico di cui ti fidi di giocare a un gioco specifico.</string>
     <string name="app_process_limit_title">Limitatore processi in background</string>
     <string name="app_restrictions_custom_label">Imposta restrizioni applicazioni</string>
     <string name="app_sees_restricted_accounts">Questa app può accedere ai tuoi account</string>
@@ -3049,6 +3103,7 @@ Per maggiori dettagli contatta l'amministratore."</string>
     <string name="every_day">Ogni giorno</string>
     <string name="exceptional_case">Eccezioni</string>
     <string name="expand_button_title">Avanzate</string>
+    <string name="expand_card_action">Altre schede</string>
     <string name="expandable_under_keyguard_title">Mostra su schermata di blocco</string>
     <string name="experimental_category_title">Sperimentale</string>
     <string name="experimental_preference">(Sperimentale)</string>
@@ -4035,6 +4090,7 @@ Apri Xiaomi Cloud e ripristina gli elementi da lì."</string>
     <string name="kid_space_settings">Spazio Bambini</string>
     <string name="kilobyteShort">KB</string>
     <string name="kilobyte_per_second">K/s</string>
+    <string name="knock_guide_dialog_title">Seleziona un\'azione per questo gesto. Puoi cambiarla più tardi in Impostazioni &gt; Altre Impostazioni &gt; Collegamenti Pulsanti.</string>
     <string name="knock_guide_set_screenshot">Screenshot</string>
     <string name="knock_guide_set_voiceassist">Mi IA</string>
     <string name="knock_guide_title">Doppio tocco nocca</string>
@@ -5196,6 +5252,8 @@ ed esegui il software.</string>
     <string name="network_speed_for_apps_title">Connessione</string>
     <string name="network_speed_for_apps_total">Velocità di connessione</string>
     <string name="network_state_label">Stato rete:</string>
+    <string name="network_world_mode_cdma_lte">LTE / CDMA</string>
+    <string name="network_world_mode_gsm_lte">LTE / GSM / UMTS</string>
     <string name="networkid_label">ID rete:</string>
     <string name="networks">Selezione operatore</string>
     <string name="networks_available">Reti disponibili</string>
@@ -6082,6 +6140,7 @@ Leggi e accetta %s prima di utilizzare questo servizio."</string>
     <string name="proxy_hostname_label">Nome Host</string>
     <string name="proxy_port_label">Porta</string>
     <string name="proxy_settings_label">Impostazioni proxy</string>
+    <string name="proxy_settings_title">Proxy</string>
     <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
     <string name="proxy_warning_limited_support">Il proxy HTTP viene utilizzato dal browser ma potrebbe non essere utilizzato da altre applicazioni.</string>
     <string name="qtifeedback_settings_subtitle">Qualcomm Technologies Reporting</string>
@@ -7333,6 +7392,7 @@ Se non accetti di concedere tali permessi, non sarai in grado di utilizzare alcu
     <string name="spellcheckers_settings_for_work_title">Controllo ortografico per il lavoro</string>
     <string name="spellcheckers_settings_title">Controllo ortografico</string>
     <string name="split_screen">Attiva Schermo diviso</string>
+    <string name="ssid_label">SSID:</string>
     <string name="ssl_ca_cert_warning">La rete può essere monitorata</string>
     <string name="ssl_ca_cert_warning_message">"Una terza parte può monitorare la tua attività di rete, inclusi siti web protetti, email e applicazioni.
 
@@ -8321,6 +8381,11 @@ Disattivare gli annunci personalizzati?"</string>
     <string name="user_add_user_item_summary">Gli utenti hanno applicazioni e contenuti personali</string>
     <string name="user_add_user_item_title">Utente</string>
     <string name="user_add_user_menu">Aggiungi utente</string>
+    <string name="user_add_user_message_long">"È possibile condividere questo dispositivo con altre persone creando utenti aggiuntivi. Ogni utente ha il proprio spazio, che può personalizzare con le proprie applicazioni, sfondi e così via. Gli utenti possono anche regolare le impostazioni del dispositivo come il Wi-Fi.
+
+Dopo aver creato un nuovo utente, quella persona dovrà effettuare un processo di installazione.
+
+Qualsiasi utente può accettare i permessi aggiornati delle app per conto di tutti gli utenti."</string>
     <string name="user_add_user_message_short">"Quando aggiungi un nuovo utente, quella persona dovrà impostare il proprio spazio.
      
 Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
@@ -8799,6 +8864,7 @@ Controlla la politica sulla privacy del tuo fornitore di servizi."</string>
     <string name="wifi_dialog_remind_type_title">Rete dati cellulare</string>
     <string name="wifi_disabled_by_recommendation_provider">Non connesso a causa di connessione debole</string>
     <string name="wifi_disabled_generic">Disabilitato</string>
+    <string name="wifi_disabled_help">Il Wi-Fi è stato disconnesso a causa di connettività scarsa. È possibile disattivare questa funzione in Impostazioni &gt; Wi-Fi &gt; Impostazioni aggiuntive.</string>
     <string name="wifi_disabled_network_failure">"Configurazione IP fallita"</string>
     <string name="wifi_disabled_password_failure">Problema di autenticazione</string>
     <string name="wifi_disabled_wifi_failure">"Impossibile collegarsi alla rete Wi-Fi"</string>
@@ -8950,6 +9016,7 @@ L'impostazione della rete come nascosta non cambierà le impostazioni del router
     <string name="wifi_link_turbo_on">Attivata</string>
     <string name="wifi_link_turbo_recommendation">App consigliate</string>
     <string name="wifi_link_turbo_recommendation_summary">Ricevi raccomandazioni in base alle statistiche di utilizzo dei dati</string>
+    <string name="wifi_link_turbo_summary">Utilizzare i dati per aumentare la velocità di connessione. L\'utilizzo di questa funzione potrebbe generare costi aggiuntivi.</string>
     <string name="wifi_menu_advanced">Avanzate</string>
     <string name="wifi_menu_configure">Configura</string>
     <string name="wifi_menu_connect">Collegato alla rete</string>
