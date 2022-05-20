@@ -42,11 +42,11 @@
         <item>Password</item>
     </string-array>
     <string-array name="auto_task_text_layout_size_level">
-        <item>Extra small</item>
+        <item>Molto piccolo</item>
         <item>Piccolo</item>
         <item>Media</item>
         <item>Largo</item>
-        <item>Extra large</item>
+        <item>Molto grande</item>
         <item>XXL</item>
     </string-array>
     <string-array name="cache_sort_type">
