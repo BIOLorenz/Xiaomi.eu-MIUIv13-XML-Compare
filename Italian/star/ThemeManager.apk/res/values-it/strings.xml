@@ -925,6 +925,7 @@ mm"</string>
     <string name="resource_detail_comment_title">Commenti</string>
     <string name="resource_detail_description_pic_text">%1$d icone totali</string>
     <string name="resource_detail_header_theme_designer_title">Autore: %1$s</string>
+    <string name="resource_detail_jump_to_online_title">Online</string>
     <string name="resource_detail_jump_to_same_author_title">Stesso autore</string>
     <string name="resource_detail_recommend_desiner_other_themes">Altri temi realizzati da %1$s</string>
     <string name="resource_detail_recommend_other_themes">Ad altri utenti piace anche</string>
@@ -984,6 +985,7 @@ mm"</string>
     <string name="resource_no_result">"Nessun risultato"</string>
     <string name="resource_notification_default">Notifiche</string>
     <string name="resource_on_trial">Prova: %1$s</string>
+    <string name="resource_online">Online</string>
     <string name="resource_online_picker">Scegli una suoneria online</string>
     <string name="resource_pack_confirm">"Hai già acquistato %1$d oggetti, l'attuale prezzo di acquisto è migliore rispetto all'acquisto dei singoli oggetti. Vuoi continuare?"</string>
     <string name="resource_pack_discount_info">%1$s Salvato!</string>
