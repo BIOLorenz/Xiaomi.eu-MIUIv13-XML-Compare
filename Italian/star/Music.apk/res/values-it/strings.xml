@@ -72,6 +72,7 @@
     <string name="album_cover">Copertina album</string>
     <string name="album_is_empty">Il nome dell\'album non può essere vuoto.</string>
     <string name="album_label">Album</string>
+    <string name="album_name">Album</string>
     <string name="all_album_count">Tutti gli album (%d)</string>
     <string name="all_albums">Tutti gli album</string>
     <string name="all_artists">Tutti gli artisti</string>
@@ -419,6 +420,8 @@
     <string name="downloading_empty">Vuoto</string>
     <string name="downloading_pause_apk">Pausa...Continua a scaricare nella barra delle notifiche o sul desktop</string>
     <string name="due_date">In Data: %s</string>
+    <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
+    <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
     <string name="early_morning">AM</string>
     <string name="earthly_branches_chen">Chen</string>
     <string name="earthly_branches_chou">Chou</string>
@@ -619,6 +622,7 @@
     <string name="home_tab_local">Musica</string>
     <string name="home_tab_more_music">Altra musica</string>
     <string name="home_tab_online">Cerca</string>
+    <string name="home_tab_recommend">Online</string>
     <string name="home_tab_search">Cerca</string>
     <string name="hungama_batch_download_alert_summary">Solo i membri PRO possono scaricare più brani. Acquistare un abbonamento PRO ora?</string>
     <string name="hungama_batch_download_alert_summary_toast">Compra un abbonamento per scaricare l\'intera playlist.</string>
@@ -1157,6 +1161,7 @@ E gioiscine"</string>
     <string name="search_empty">"Nessun risultato. Riprova con altre parole"</string>
     <string name="search_empty_subtitle_online_music">Tocca il pulsante qui sotto per aprire %s.</string>
     <string name="search_empty_title_online_music">Nessun contenuto.</string>
+    <string name="search_for_album">Album</string>
     <string name="search_for_artist">Artista</string>
     <string name="search_hint">Artista, brano o album</string>
     <string name="search_hint_local">Cerca brani sul dispositivo</string>
@@ -1164,9 +1169,11 @@ E gioiscine"</string>
     <string name="search_history_clear_all">Cancella</string>
     <string name="search_history_delete_all_dialog_titile">Cancellare la cronologia di ricerca?</string>
     <string name="search_in_youtube">Cerca su YouTube</string>
+    <string name="search_instant_online_music">Online</string>
     <string name="search_menu_title">Cerca</string>
     <string name="search_more">Altro</string>
     <string name="search_result_local_songs">Dispositivo</string>
+    <string name="search_result_online_songs">Online</string>
     <string name="search_songs">Cerca canzoni</string>
     <string name="search_songs_count">Canzone: %d</string>
     <string name="select">Scegli</string>
