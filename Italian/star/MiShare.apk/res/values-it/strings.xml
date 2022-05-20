@@ -384,6 +384,8 @@ Questa funzionalità è supportata da OPPO, vivo, realme e altri produttori di s
     <string name="oppo_phone">OPPO</string>
     <string name="pad_device_model_name">Xiaomi Pad</string>
     <string name="pc_device_model_name">Computer</string>
+    <string name="pc_redmi_device_model_name">Portatile Redmi</string>
+    <string name="pc_xiaomi_device_model_name">Portatile Xiaomi</string>
     <string name="permission_denied_hint">Concedi i permessi necessari per poter utilizzare Mi Share</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="progress_ratio">%1$d%%</string>
