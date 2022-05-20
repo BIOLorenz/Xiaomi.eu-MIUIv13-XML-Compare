@@ -104,6 +104,7 @@
     <string name="back_to_mainpage">Scopri</string>
     <string name="bind_sign_in_title">Aggiungi Mi Account</string>
     <string name="bottomsheet_action_expand_halfway">Espandi a metà</string>
+    <string name="box_title_mivideo">Funzionalità aggiuntive</string>
     <string name="brvah_app_name">Raccolta</string>
     <string name="btn_clear_history">Cancella cronologia</string>
     <string name="btn_empty_go_to_download">Scarica</string>
@@ -360,6 +361,7 @@ Invia questo codice al supervisore."</string>
     <string name="dialog_edit_hint_name">Nome</string>
     <string name="dialog_edit_hint_url">URL</string>
     <string name="dialog_jumpto_choose">"Non mostrare più"</string>
+    <string name="dialog_jumpto_content">Passare a Mi Video per accedere a funzionalità di riproduzione aggiuntive?</string>
     <string name="dialog_no_video_confirm">Ok</string>
     <string name="dialog_privacy_change_info">"Abbiamo aggiornato l'Informativa sulla privacy di Mi Video a causa delle modifiche apportate ai servizi che offriamo. Per comprendere pienamente i tuoi diritti come utente e i modi in cui utilizziamo i tuoi dati, leggi e accetta il nostro &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e &lt;a href=%2$s&gt;Informativa sulla privacy&lt;/a&gt; prima di utilizzare l'app."</string>
     <string name="dialog_privacy_change_title">Aggiornamento Informativa sulla privacy</string>
@@ -666,8 +668,10 @@ Invia questo codice al supervisore."</string>
     <string name="hidden_channels">"I seguenti canali non saranno visualizzati nella pagina iniziale."</string>
     <string name="hide">Nascondi</string>
     <string name="hint_icon_ad_title">Consigliato</string>
+    <string name="hint_in_mivideo">Ora puoi trovare funzionalità aggiuntive nel pannello laterale</string>
     <string name="history">Cronologia</string>
     <string name="history_local_video">Dispositivo</string>
+    <string name="history_online_video">Online</string>
     <string name="hot">Popolari</string>
     <string name="i_know">Ok</string>
     <string name="icon_content_description">Icona Dialogo</string>
@@ -1109,6 +1113,8 @@ per i video"</string>
     <string name="ovp_home_local">Dispositivo</string>
     <string name="ovp_home_me">Account</string>
     <string name="ovp_home_no_data_callback">"Impossibile caricare le informazioni. Scorri verso il basso per aggiornare."</string>
+    <string name="ovp_home_online">Online</string>
+    <string name="ovp_home_online_content_title">Online</string>
     <string name="ovp_info_video_loading">Attendi…</string>
     <string name="ovp_load_playinfo_failure">"Nessun dato richiesto"</string>
     <string name="ovp_loading_video_netplay_label_v5">Attendi…</string>
@@ -1277,6 +1283,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="play_list_save_dialog_create">Crea playlist</string>
     <string name="play_list_save_dialog_title">Aggiungi</string>
     <string name="play_list_user_local">Dispositivo</string>
+    <string name="play_list_user_online">Online</string>
     <string name="playlist_create">Crea</string>
     <string name="playlist_detail_recomm_title">Playlist consigliate</string>
     <string name="playlist_finish">Fatto</string>
@@ -1615,6 +1622,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="tab_name_trending">Di tendenza</string>
     <string name="tab_name_video">Video</string>
     <string name="tab_playlist_local">Dispositivo</string>
+    <string name="tab_playlist_online">Online</string>
     <string name="talkback_video_play">Riproduci video</string>
     <string name="talkback_voice_search">Ricerca vocale</string>
     <string name="temporary_not_available">"Questa funzione non è ancora disponibile"</string>
