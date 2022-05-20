@@ -116,6 +116,7 @@
     <string name="country_name_ne">NO</string>
     <string name="country_name_nl">N</string>
     <string name="country_name_no">NO</string>
+    <string name="country_name_nr">NR</string>
     <string name="country_name_se">S-E</string>
     <string name="country_name_sm">SM</string>
     <string name="country_name_sv">SV</string>
@@ -295,6 +296,7 @@
     <string name="morning">Mattina</string>
     <string name="mountainspring">Sorgente di montagna</string>
     <string name="multi_file_name">%1$s，%2$s</string>
+    <string name="name_with_ellipsize">%1$s…%2$s</string>
     <string name="nearby_share">Condivisione nelle vicinanze</string>
     <string name="notice_audition">Suoni della natura</string>
     <string name="notification_channel_hotspot">Notifica hotspot</string>
@@ -315,6 +317,8 @@
     <string name="passionflower">Passione</string>
     <string name="paste">Incolla</string>
     <string name="pc_device_model_name">Computer</string>
+    <string name="pc_redmi_device_model_name">Portatile Redmi</string>
+    <string name="pc_xiaomi_device_model_name">Portatile Xiaomi</string>
     <string name="perm_send_push_dspt">Consenti messaggi Mi push</string>
     <string name="perm_send_push_lab">Invia messaggio push</string>
     <string name="permdesc_manageFingerprint">Consente all\'app di richiamare metodi per aggiungere e rimuovere modelli di impronte da utilizzare.</string>
