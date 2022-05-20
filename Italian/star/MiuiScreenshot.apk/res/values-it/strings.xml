@@ -312,6 +312,7 @@ uno screenshot esteso"</string>
     <string name="more">Altro</string>
     <string name="morning">Mattina</string>
     <string name="name_split">,</string>
+    <string name="name_with_ellipsize">%1$s…%2$s</string>
     <string name="nearby_share">Condivisione nelle vicinanze</string>
     <string name="night">Sera</string>
     <string name="noon">Mezzogiorno</string>
@@ -405,9 +406,18 @@ uno screenshot esteso"</string>
     <string name="screen_save_dialog_btn_save">Salva in Galleria</string>
     <string name="screen_talkback_a_little_large">Largo</string>
     <string name="screen_talkback_a_little_small">Piccolo</string>
+    <string name="screen_talkback_alpha_x">Opacità %s</string>
+    <string name="screen_talkback_color_x">Colore %d</string>
     <string name="screen_talkback_eraser">Gomma</string>
+    <string name="screen_talkback_large">Molto grande</string>
+    <string name="screen_talkback_mark">Evidenziatore</string>
     <string name="screen_talkback_medium">Media</string>
     <string name="screen_talkback_mosaic">Mosaico</string>
+    <string name="screen_talkback_mosaic_size_x">Area mosaico: %s</string>
+    <string name="screen_talkback_pen">Penna</string>
+    <string name="screen_talkback_row_x_column_x">Riga %1$d. Posizione %2$d.</string>
+    <string name="screen_talkback_shape">Forma</string>
+    <string name="screen_talkback_small">Molto piccolo</string>
     <string name="screen_talkback_text">Testo</string>
     <string name="screenshot_edit">Modifica</string>
     <string name="screenshot_failed_in_landscape_mode">"Impossibile effettuare screenshot estesi in modalità orizzontale"</string>
