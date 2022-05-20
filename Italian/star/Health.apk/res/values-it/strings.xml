@@ -53,18 +53,52 @@
     <string name="altitude">Altitudine</string>
     <string name="altitude_range">Altitudine</string>
     <string name="app_setting">Applicazioni</string>
+    <string name="audio_permission_dialog_desc">Per analizzare il ciclo del sonno e registrare quando parli e russi, Xiaomi Health ha bisogno del permesso di registrare l\'audio.</string>
+    <string name="audio_permission_dialog_title">Permetti la registrazione audio</string>
+    <string name="audio_permission_subtitle">Per rilevare se russi o parli</string>
     <string name="audio_permission_title">Registra audio</string>
     <string name="audio_record_perm_description">Registra i tuoi sogni e quanto russi durante il sonno</string>
     <string name="audio_record_permission_description">Per registrare quanto russi e parli durante l\'analisi del tuo ciclo di sonno</string>
+    <string name="auth_description">Consenti a %1$s di sincronizzare i dati dai seguenti dispositivi</string>
+    <string name="auth_dialog_description">"Attivare i consigli?
+
+Per fornirti dei consigli, condivideremo i tuoi dati di Salute con un fornitore di servizi di terze parti. Gli elementi che condivideremo includono informazioni personali (età, sesso), statistiche di salute (altezza, peso, routine di allenamento), dati di comportamento (orario di inizio e di fine, durata degli allenamenti).
+
+Analizzeremo questi elementi prima di condividerli per impedire ai fornitori di servizi terzi di identificarti personalmente in base ai dati ricevuti.
+
+Se non vuoi sfruttare i consigli personalizzati, puoi comunque effettuare allenamenti regolari."</string>
+    <string name="auth_dialog_link">Per comprendere appieno i tuoi diritti come utente e i modi in cui utilizziamo i tuoi dati, leggi e accetta il nostro &lt;font color=\"#0D84FF\"&gt;&lt;a href=%1$s&gt;Accordo utente&lt;/a&gt;&lt;/font&gt; e &lt;font color=\"#0D84FF\"&gt;&lt;a href=%2$s&gt;Informativa sulla privacy&lt;/a&gt;&lt;/font&gt;.</string>
+    <string name="auth_dialog_title">Lezioni consigliate</string>
+    <string name="auto_start_fail">"Impossibile concedere il permesso"</string>
+    <string name="auto_start_success">Permesso concesso</string>
+    <string name="auto_start_tips">Tocca \"Impostazioni\" per aprire le impostazioni di Xiaomi Health e dare i permessi necessari.</string>
     <string name="avatar">Foto profilo</string>
+    <string name="avatar_upload_failure">"Impossibile caricare. Controlla le impostazioni di rete e riprova."</string>
     <string name="average_cycle_days">Ciclo medio</string>
     <string name="average_menstruation_days">Durata media delle mestruazioni</string>
+    <string name="avg_altitude">Altitudine media</string>
     <string name="avg_day">Media</string>
     <string name="avg_earphone_listening_duration">Cuffie</string>
+    <string name="avg_finish_stand">Media giornaliera</string>
+    <string name="avg_freq">Frequenza media</string>
     <string name="avg_heart_rate">Frequenza cardiaca media</string>
+    <string name="avg_high_pressure">Media Sistolica (massima)</string>
+    <string name="avg_jump">Altitudine media</string>
+    <string name="avg_low_pressure">Media Diastolica (minima)</string>
+    <string name="avg_pace">Ritmo medio</string>
+    <string name="avg_steps">Passi giornalieri</string>
+    <string name="avg_treble_duration">Rumori forti</string>
     <string name="awake_count">Svegliato</string>
+    <string name="awake_count_abnormal_description">Ti sei svegliato molto durante la notte.</string>
+    <string name="awake_count_normal_description">Ti sei svegliato una volta la notte. È normale.</string>
+    <string name="awake_duration">Durata del risveglio</string>
+    <string name="awake_duration_abnormal_description">I tuoi risvegli notturni sono relativamente lunghi.</string>
+    <string name="awake_duration_description">Potrebbero verificarsi risvegli notturni durante il sonno. Risvegli frequenti o difficoltà nel riaddormentarsi potrebbero portare alla frammentazione del sonno e influenzare seriamente la qualità del sonno.</string>
+    <string name="awake_duration_good_description">"Non ti sei svegliato stanotte."</string>
+    <string name="awake_duration_normal_description">Hai avuto alcuni risvegli notturni.</string>
     <string name="back">Indietro</string>
     <string name="back_stroke">Dorso</string>
+    <string name="background_run_tips">Tocca \"Impostazioni\" e consenti a Xiaomi Health di funzionare sempre in background.</string>
     <string name="backtrack">Indietro</string>
     <string name="basic_info_label_age">Età</string>
     <string name="basic_info_label_birthday">Compleanno</string>
@@ -72,21 +106,43 @@
     <string name="basic_info_label_height">Altezza</string>
     <string name="basic_info_label_weight">Peso</string>
     <string name="basic_info_save">Salva</string>
+    <string name="bedTime_early_description">"Sei andato a letto presto. Se questa è la tua abitudine a lungo termine, puoi seguirla e ignorare questo messaggio."</string>
+    <string name="bedTime_late_description">Sei andato a letto tardi.</string>
+    <string name="bedTime_normal_description">Sei andato a letto in orario. Continua così!</string>
     <string name="bedtime">Programma notturno</string>
+    <string name="bedtime_description">"'A letto alle' è il momento in cui vai a letto e metti giù il telefono. Si calcola in base alla programmazione dell'orario in cui vai a letto e all'utilizzo del dispositivo."</string>
+    <string name="below_speed_km_per_hour">&lt;%d km/h</string>
+    <string name="below_speed_km_per_hour_1">&lt;%.1f km/h</string>
     <string name="bg_control_dialog_go_set">Impostazioni</string>
+    <string name="bg_control_dialog_msg">"Il risparmio batteria limiterà le attività di Xiaomi Health. Consenti a Xiaomi Health di rimanere attivo in background per ottenere statistiche precise."</string>
+    <string name="bg_control_dialog_title">Attività in background</string>
     <string name="birthday">Data di nascita</string>
     <string name="blood_pressure">Pressione sanguigna</string>
+    <string name="blood_pressure_format">%1$d-%2$d mmHg</string>
+    <string name="blood_pressure_high_tip">Pressione sanguigna alta: %1$s mmHg sistolica, %2$s mmHg diastolica</string>
+    <string name="blood_pressure_low_tip">Pressione sanguigna bassa: %1$s mmHg sistolica, %2$s mmHg diastolica</string>
+    <string name="blood_pressure_measure_remind">Promemoria misurazione</string>
+    <string name="blood_pressure_measure_remind_tip">"Ricevi promemoria su quando misurare la pressione sanguigna e non dimenticarti di registrare i risultati"</string>
+    <string name="blood_pressure_noraml_tip">Pressione sanguigna normale: %1$s mmHg sistolica, %2$s mmHg diastolica</string>
     <string name="blood_pressure_notice_subtitle1">"Non dimenticarti di registrare questa misurazione"</string>
     <string name="blood_pressure_notice_subtitle2">"Non dimenticarti di registrare questa misurazione"</string>
     <string name="blood_pressure_notice_title1">E\' ora di misurare la tua pressione sanguigna</string>
     <string name="blood_pressure_notice_title2">Misura la tua pressione sanguigna</string>
+    <string name="blood_pressure_unit">Millimetri di mercurio</string>
+    <string name="blood_pressure_unit_short">mmHg</string>
     <string name="blood_type">Gruppo sanguigno</string>
     <string name="blood_type_rh">Rh</string>
     <string name="body_bmi_descripe_content">L\'indice di massa corporea (BMI) è definito come massa corporea in chilogrammi divisi per l\'altezza corporea in metri. Conoscere il tuo BMI potrebbe aiutarti a capire se il tuo peso ha un impatto negativo sulla tua salute.</string>
     <string name="body_composition">Composizione del corpo</string>
+    <string name="body_sport_permission_subtitle">Per tracciare i tuoi passi</string>
+    <string name="body_sport_permission_title">Accesso ai dati sanitari e alle attività</string>
     <string name="body_water">Acqua</string>
     <string name="body_water_descripe_content">La percentuale di acqua si riferisce alla proporzione dell\'acqua nel peso totale del corpo umano. Di solito, il tessuto muscolare contiene più acqua di altre parti del corpo.</string>
     <string name="body_weight">Peso</string>
+    <string name="body_weight_2fkg">%1$.2f KG</string>
+    <string name="body_weight_descripe_content">L\'indice di massa corporea (BMI) è la massa corporea divisa dal quadrato dell\'altezza corporea (kg/m2).</string>
+    <string name="body_weight_extremely_obesity">Leggermente obeso</string>
+    <string name="body_weight_fkg">%1$.1f KG</string>
     <string name="body_weight_normal">Normale</string>
     <string name="body_weight_overweight">Sovrappeso</string>
     <string name="body_weight_thin">Sottopeso</string>
@@ -207,6 +263,7 @@
     <string name="current_phone">Questo dispositivo</string>
     <string name="custom_scheme">Personalizza</string>
     <string name="custom_scheme_tip">Imposta tempo e frequenza personalizzate</string>
+    <string name="cycle">Ciclismo</string>
     <string name="daily_consumption_label">Calorie</string>
     <string name="daily_distance_label">Distanza</string>
     <string name="daily_reminders">Promemoria giornaliero</string>
@@ -284,6 +341,7 @@
     <string name="download_apk">Scaricamento %s…</string>
     <string name="download_background">Scarica</string>
     <string name="dream_talk_title">Hai parlato</string>
+    <string name="drink_water">Bevi un po\' d\'acqua e fai una passeggiata.</string>
     <string name="each_week_day_format1">Ogni %1$s</string>
     <string name="early_morning">Mattina</string>
     <string name="earphone_listening_duration">Cuffie</string>
@@ -674,6 +732,7 @@ Inizia da capo."</string>
     <string name="permission_check_result">Impostato correttamente!</string>
     <string name="permission_check_result_failed">"Impostazione fallita"</string>
     <string name="permission_manage">Gestione permessi</string>
+    <string name="personal_course_recommend_title">Lezioni consigliate</string>
     <string name="photograph">Fotocamera</string>
     <string name="picker_day">Giorno selezionato: %1$d. Scorri verticalmente per selezionare.</string>
     <string name="picker_month">Mese selezionato: %1$d. Scorri verticalmente per selezionare.</string>
@@ -859,6 +918,7 @@ Inizia da capo."</string>
     <string name="sporting_key_step">Passi</string>
     <string name="sporting_key_time">Durata</string>
     <string name="sporting_location">Individua</string>
+    <string name="sporting_title_outdoor_riding">Ciclismo</string>
     <string name="sporting_title_pause">Pausa</string>
     <string name="sporting_title_running">In esecuzione</string>
     <string name="sporting_title_waking">Camminata</string>
@@ -882,6 +942,7 @@ Inizia da capo."</string>
     <string name="subtitle_keep_warm">Tieniti caldo e resta fedele alla tua dieta</string>
     <string name="subtitle_record_and_start_predict">Registra le tue mestruazioni per stimare l\'inizio delle prossime</string>
     <string name="subtitle_stick_record">Registra i tuoi cicli per ottenere previsioni più accurate</string>
+    <string name="suggestion_move_title">È ora di muoversi!</string>
     <string name="suggestion_title">Suggerimenti</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
@@ -993,13 +1054,20 @@ Inizia da capo."</string>
     <string name="total_distance_label">Distanza totale</string>
     <string name="total_time_label">Tempo totale</string>
     <string name="treadmill">Tapiroulant</string>
+    <string name="treble_duration">Rumori forti</string>
+    <string name="treble_sum_duration">Rumori forti</string>
     <string name="try_again">Riprova</string>
     <string name="tuesday">Martedì</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
     <string name="unable_record_future_menstruation">"Impossibile registrare periodi futuri"</string>
     <string name="unbound">Rimosso</string>
+    <string name="unit_centimeter">" cm"</string>
     <string name="unit_day">Giorno</string>
+    <string name="unit_kilo_calorie">" kcal"</string>
+    <string name="unit_kilometre">" km"</string>
+    <string name="unit_metre">" m"</string>
+    <string name="unit_min">" m"</string>
     <string name="unit_number_format">%1$d</string>
     <string name="unknown">Sconosciuto</string>
     <string name="unknown_birthday">Sconosciuto</string>
