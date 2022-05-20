@@ -118,6 +118,10 @@
         <item>Filtro attivo</item>
         <item>Attiva</item>
     </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
     <string-array name="cdma_system_select_choices">
         <item>Solo domestica</item>
         <item>Automatico</item>
@@ -200,20 +204,20 @@
         <item>720p, 1080p (doppio schermo)</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
-        <item>GSM/WCDMA preferred</item>
+        <item>Preferito GSM/WCDMA </item>
         <item>Solo reti GSM</item>
         <item>Solo reti WCDMA</item>
-        <item>GSM/WCDMA auto</item>
-        <item>CDMA/EvDo auto</item>
-        <item>CDMA w/o EvDo</item>
-        <item>EvDo only</item>
+        <item>Auto GSM/WCDMA</item>
+        <item>Auto CDMA/EvDo</item>
+        <item>CDMA senza EvDo</item>
+        <item>Solo EvDo</item>
         <item>CDMA/EvDo/GSM/WCDMA</item>
         <item>CDMA + LTE/EvDo</item>
         <item>GSM/WCDMA/LTE</item>
         <item>NR/LTE/CDMA/EvDo/GSM/WCDMA</item>
         <item>LTE</item>
-        <item>LTE / WCDMA</item>
-        <item>TDSCDMA only</item>
+        <item>LTE/WCDMA</item>
+        <item>Solo TDSCDMA</item>
         <item>TDSCDMA/WCDMA</item>
         <item>LTE/TDSCDMA</item>
         <item>TDSCDMA/GSM</item>
@@ -223,7 +227,7 @@
         <item>LTE/TDSCDMA/GSM/WCDMA</item>
         <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
         <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
-        <item>NR only</item>
+        <item>Solo NR</item>
         <item>NR/LTE</item>
         <item>NR/LTE/CDMA/EvDo</item>
         <item>NR/LTE/GSM/WCDMA</item>
