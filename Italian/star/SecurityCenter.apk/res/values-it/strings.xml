@@ -4543,6 +4543,7 @@ La formattazione cancellerà il contenuto esistente sulla ^2. Per evitare di per
     <string name="suggest_app_tolock_masked">Nascoste</string>
     <string name="suggest_app_tolock_unmasked">Notifiche visibili</string>
     <string name="suggest_scan_again">Si consigli a di completare la scansione per una sicurezza totale.</string>
+    <string name="suggest_to_use_mi_sim">Usa Mi Sim per impedirti di generare costi aggiuntivi.</string>
     <string name="summary_app_lock_disable">Proteggi i tuoi dati con Blocco App</string>
     <string name="summary_app_update_new">Aggiorna le app per accedere a nuove funzionalità</string>
     <string name="summary_auto_update">MIUI sceglierà il momento migliore per scaricare ed installare gli aggiornamenti.</string>
@@ -4644,6 +4645,7 @@ La formattazione cancellerà il contenuto esistente sulla ^2. Per evitare di per
     <string name="system_permission_declare_no_say_no">"Se scegli di non dare i permessi richiesti o non consentirci di raccogliere e utilizzare i tuoi dati, questa app non sarà in grado di funzionare normalmente."</string>
     <string name="system_permission_declare_no_say_no_analytics">"Se non si desidera concedere queste autorizzazioni, è possibile annullare la registrazione in Impostazioni &gt; Impostazioni aggiuntive &gt; Privacy &gt; Programma esperienza utente."</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">"Se scegli di non dare le autorizzazioni richieste o non consentirci di raccogliere e utilizzare i tuoi dati, questa applicazione non sarà in grado di funzionare normalmente."</string>
+    <string name="system_permission_declare_optional">"Per fornirti servizi aggiuntivi durante l'utilizzo dell'app, potremmo aver bisogno dei seguenti permessi: %s. Puoi sempre modificare le tue preferenze sui permessi nelle Impostazioni."</string>
     <string name="system_permission_declare_privacy_declare">Questa applicazione deve collegarsi ad internet e richiede le seguenti autorizzazioni per essere in grado di funzionare correttamente:</string>
     <string name="system_permission_declare_privacy_no_network">Questa app ha bisogno dei seguenti permessi per poter funzionare normalmente:</string>
     <string name="system_permission_declare_privacy_no_permission">Questa app deve connettersi a internet e raccogliere i dati personali necessari per poter funzionare normalmente.</string>
