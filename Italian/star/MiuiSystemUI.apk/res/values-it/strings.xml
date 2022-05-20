@@ -1034,6 +1034,7 @@ Inserisci il PIN per sbloccare."</string>
     <string name="fs_gesture_back_ready_title">Indietro</string>
     <string name="fs_gesture_final_over">"Finito"</string>
     <string name="fs_gesture_final_restart">Studia ancora</string>
+    <string name="fs_gesture_final_see_more">Visualizza più demo in Impostazioni &gt; Pagina iniziale &gt; Navigazione di sistema</string>
     <string name="fs_gesture_final_summary">Potrai modificare questa scelta in [Impostazioni-Visualizzazione a schermo intero]</string>
     <string name="fs_gesture_final_title">"Studio terminato"</string>
     <string name="fs_gesture_finish">Ottimo!</string>
