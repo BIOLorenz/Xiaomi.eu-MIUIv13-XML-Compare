@@ -433,7 +433,10 @@
     <string name="miui_penengine_tool_done">Salva</string>
     <string name="miui_penengine_tool_eraser">Gomma</string>
     <string name="miui_penengine_tool_eraser_stroke4">Gomma</string>
+    <string name="miui_penengine_tool_ink">Penna</string>
+    <string name="miui_penengine_tool_mark">Evidenziatore</string>
     <string name="miui_penengine_tool_more">Altro</string>
+    <string name="miui_penengine_tool_pencil">Matita</string>
     <string name="miui_penengine_tool_redo">Ripristina</string>
     <string name="miui_penengine_tool_text_hint">Tocca per inserire il testo</string>
     <string name="miui_penengine_tool_undo">Annulla</string>
