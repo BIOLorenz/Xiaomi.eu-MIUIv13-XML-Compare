@@ -928,15 +928,19 @@
     <string name="weixinqrcode_process_fail_tip">"Impossibile elaborare il codice WeChat"</string>
     <string name="welcome_to_thesweepversion">Benvenuto in Scanner Beta!</string>
     <string name="wifi">Wi-Fi</string>
+    <string name="wifi_details">Wi-Fi:</string>
     <string name="wifi_exist_fail">L\'hotspot Wi-Fi \"%1$s\" é già esistente. Eliminalo e riprova.</string>
     <string name="wifi_low_version_prompt">Il Wi-Fi deve essere attivato manualmente</string>
     <string name="wifi_open_fail">"Impossibile attivare il Wi-Fi"</string>
     <string name="wifi_psd_toolong">La password è troppo lunga. Inseriscila manualmente.</string>
+    <string name="wifi_pwd">Password:</string>
     <string name="wifi_security">Sicurezza:</string>
+    <string name="wifi_ssid">SSID:</string>
     <string name="will_be_sent_tothe_background_review">" (La tua richiesta verrà inviata presto per la revisione.)"</string>
     <string name="word_to_be_recognized_is_aligned_with_cross">La parola da riconoscere è allineata alla croce</string>
     <string name="word_translation">Traduttore</string>
     <string name="wx_not_installed_toast">Questa funzionalità deve usare WeChat. Installa prima WeChat.</string>
+    <string name="xiaoai_classmate_scan_text">Scansiona con Mi AI</string>
     <string name="xiaoai_dialog">"Prova a dire quello che vuoi
 scansionare su Mi IA"</string>
     <string name="xiaoai_text">Piccolo pulsante adorabile</string>
