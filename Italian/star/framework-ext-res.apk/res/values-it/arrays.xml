@@ -1294,10 +1294,13 @@
         <item>com.android.systemui:sliderview</item>
         <item>com.android.camera</item>
         <item>com.tencent.mm</item>
+        <item>com.tencent.mm:push</item>
         <item>com.tencent.mobileqq</item>
+        <item>com.tencent.mobileqq:MSF</item>
         <item>com.xiaomi.joyose</item>
         <item>com.phonetest.application:CameraMemoryWatcher</item>
         <item>com.miui.securitycenter.bootaware</item>
+        <item>com.xiaomi.metoknlp</item>
     </string-array>
     <string-array name="process_disable_trim_list">
         <item>com.android.launcher3</item>
