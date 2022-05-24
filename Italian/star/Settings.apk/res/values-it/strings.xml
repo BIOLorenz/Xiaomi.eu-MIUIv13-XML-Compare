@@ -442,7 +442,6 @@ Per passare tra le funzionalità, scorri verso l'alto con 3 dita e tieni premuto
     <string name="add_fingerprint_done_msg">Adesso puoi sbloccare il dispositivo con le impronte digitali.</string>
     <string name="add_fingerprint_done_title">"Studio terminato"</string>
     <string name="add_fingerprint_edge_instruction_msg">Sposta il dito sul sensore così che possa leggere i dettagli della tua impronta digitale.</string>
-    <string name="add_fingerprint_edge_instruction_title">Sposta leggermente il dito</string>
     <string name="add_fingerprint_failed_retry_text">"Impossibile aggiungere l'impronta. Riprova."</string>
     <string name="add_fingerprint_finished_button_text">Fatto</string>
     <string name="add_fingerprint_instruction_msg">Sblocca il dispositivo o verifica il pagamento con l\'impronta digitale</string>
@@ -3372,6 +3371,7 @@ Per maggiori dettagli contatta l'amministratore."</string>
     <string name="fmt_weekday_date_timezone">zDW</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
+    <string name="fold_game_adaptation">Giochi</string>
     <string name="fold_rule_default">Consigliato</string>
     <string name="fold_rule_important">Importante</string>
     <string name="fold_rule_unimportant">Non importante</string>
@@ -3545,6 +3545,9 @@ Quando si accende il backup automatico, i dati del dispositivo e dell'app vengon
     <string name="go_back_button_label">Indietro</string>
     <string name="go_to_sleep">Disattiva schermo</string>
     <string name="google_account_title">Google</string>
+    <string name="google_assistant_guide_cancel">Annulla</string>
+    <string name="google_assistant_guide_ok">Imposta</string>
+    <string name="google_assistant_guide_title">Assistente Google</string>
     <string name="google_assistant_label">Assistente Google</string>
     <string name="google_backup_enable">Attiva backup</string>
     <string name="google_backup_section_title">Backup e ripristino di Google</string>
@@ -4690,6 +4693,8 @@ Ci sono altri utenti presenti su questo dispositivo.
     <string name="mi_shopping_mall">Mi Store</string>
     <string name="mi_transfer">Mi Mover</string>
     <string name="mi_upi_settings">Akun Mi Pay</string>
+    <string name="mi_wallet">Mi Wallet</string>
+    <string name="mi_wallet_desc">Mi Wallet</string>
     <string name="micloud_service_summary">Sincronizza l\'elenco delle applicazioni, il backup delle impostazioni di sistema e il layout della schermata Home</string>
     <string name="micloud_service_title">Mi Cloud</string>
     <string name="middle_function_key">Zona centrale</string>
@@ -4799,6 +4804,7 @@ Ci sono altri utenti presenti su questo dispositivo.
     <string name="miui_allow_light">LED Notifica</string>
     <string name="miui_allow_music">Media</string>
     <string name="miui_allow_vibrate">Vibra</string>
+    <string name="miui_bubbles_notification_status_opened">Attivata</string>
     <string name="miui_data_usage_menu_metered">Hotspot portatile</string>
     <string name="miui_experience_optimization">Attiva ottimizzazione MIUI</string>
     <string name="miui_face_enroll_risk_warning_btn_cancel">Annulla</string>
@@ -4830,6 +4836,8 @@ Continua ad accedere alle impostazioni aggiuntive."</string>
     <string name="miui_master_clear_prompt_battery_low">"Impossibile eseguire un reset di fabbrica quando hai meno del %1$s di batteria. Carica il dispositivo prima di continuare."</string>
     <string name="miui_master_clear_summary">Elimina tutti i dati sul telefono</string>
     <string name="miui_more_special_feature">Esplora nuove funzionalità</string>
+    <string name="miui_nfc_dialog_negative">Disattiva</string>
+    <string name="miui_nfc_dialog_positive">Annulla</string>
     <string name="miui_optimization_disabled">Disattiva ottimizzazione MIUI</string>
     <string name="miui_sos_audio_summary">Riproduci messaggio SOS durante comunicazione con contatto di emergenza</string>
     <string name="miui_sos_audio_title">Messaggio vocale SOS</string>
@@ -6612,6 +6620,8 @@ Per utilizzare il blocco delle app: \u0009
     <string name="sdcard_settings_unmounted_status">Puoi rimuovere l\'archivio USB.</string>
     <string name="sdcard_settings_used_bytes_label">Byte utilizzati:</string>
     <string name="sdcard_unmount">Smonta scheda SD</string>
+    <string name="se_in_ese">Elemento di sicurezza incorporato</string>
+    <string name="se_in_ese_desc">Elemento di sicurezza incorporato</string>
     <string name="se_route_default">Seleziona automaticamente</string>
     <string name="se_route_ese">Elemento di sicurezza incorporato</string>
     <string name="se_route_uicc">Elemento di sicurezza sulla scheda SIM</string>
@@ -8677,6 +8687,7 @@ Durante una chiamata vocale, non è possibile utilizzare Internet e alcune app p
     <string name="wallpaper_desktop">Schermata Home</string>
     <string name="wallpaper_live">Sfondo animato</string>
     <string name="wallpaper_lockscreen">Schemata di blocco</string>
+    <string name="wallpaper_setting_title">Sfondo</string>
     <string name="wallpaper_settings_fragment_title">Scegli sfondo da</string>
     <string name="wallpaper_settings_summary_custom">Personalizza</string>
     <string name="wallpaper_settings_summary_default">Predefinita</string>
