@@ -172,10 +172,6 @@
         <item quantity="other">%d tentativi</item>
         <item quantity="one">%d tentativo</item>
     </plurals>
-    <plurals name="enterprise_privacy_number_packages">
-        <item quantity="other">%d app</item>
-        <item quantity="one">%d app</item>
-    </plurals>
     <plurals name="enterprise_privacy_number_packages_lower_bound">
         <item quantity="other">Minimo %d app</item>
         <item quantity="one">Minimo %d app</item>
@@ -516,10 +512,6 @@ Per maggiori informazioni su questo certificato contatta l'amministratore."</ite
         <item quantity="other">%d minuti</item>
         <item quantity="one">%d minuto</item>
     </plurals>
-    <plurals name="usage_state_miunte_text">
-        <item quantity="other">" min"</item>
-        <item quantity="one">" min"</item>
-    </plurals>
     <plurals name="usage_state_noti_count">
         <item quantity="other">%d notifiche</item>
         <item quantity="one">%d notifica</item>
@@ -547,10 +539,6 @@ Per maggiori informazioni su questo certificato contatta l'amministratore."</ite
     <plurals name="usagestats_device_notification_des_hour">
         <item quantity="other">" ore"</item>
         <item quantity="one">" ora"</item>
-    </plurals>
-    <plurals name="usagestats_device_notification_des_min">
-        <item quantity="other">" min"</item>
-        <item quantity="one">" min"</item>
     </plurals>
     <plurals name="virus_scan_app_find_risk">
         <item quantity="other">%d rischi rilevati</item>
