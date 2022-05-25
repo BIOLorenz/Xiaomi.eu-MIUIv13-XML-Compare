@@ -366,10 +366,10 @@
     <string name="pa_recommend_card">Consigliati</string>
     <string name="pa_recommend_card_image_text_null_des">Nessun dato</string>
     <string name="pa_recommend_card_title">Consigliato</string>
-    <string name="pa_rtk_card_title">Cruscotto</string>
+    <string name="pa_rtk_card_title">Dashboard</string>
     <string name="pa_rtk_more_content_description">Opzioni</string>
     <string name="pa_rtk_unlike_text">Non fissare più</string>
-    <string name="pa_rts_text">Cruscotto</string>
+    <string name="pa_rts_text">Dashboard</string>
     <string name="pa_scan">Scansione</string>
     <string name="pa_scan_app">Scanner</string>
     <string name="pa_search_hint">Cerca</string>
