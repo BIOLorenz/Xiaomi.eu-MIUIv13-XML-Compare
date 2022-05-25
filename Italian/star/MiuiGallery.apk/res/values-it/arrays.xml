@@ -243,6 +243,13 @@
         <item>ID</item>
         <item>Permesso di soggiorno</item>
     </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Teo cuns</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
+    </string-array>
     <string-array name="magic_idp_size_category_education">
         <item>Applicazione di ammissione</item>
         <item>Rete di studenti</item>
@@ -261,7 +268,7 @@
         <item>Test di Laurea in Inglese</item>
         <item>PET per università</item>
         <item>PET Livello 3</item>
-        <item>National Computer Rank Examination 1</item>
+        <item>Esame Nazionale Rango Informatico 1</item>
         <item>Esame Nazionale Rango Informatico 2</item>
     </string-array>
     <string-array name="magic_idp_size_category_profession">
