@@ -58,7 +58,7 @@ dd/MM"</string>
     <string name="aod_mode_style">Stile e sfondo orologio</string>
     <string name="aod_mode_style_title">Altre opzioni</string>
     <string name="aod_mode_summary">Mostra ora, data, notifiche e immagini di sfondo quando lo schermo è spento</string>
-    <string name="aod_mode_time_summary">Pianifica l\'attivazioe e disattivazione della modalità Always on</string>
+    <string name="aod_mode_time_summary">Pianifica l\'attivazioe e disattivazione della mod. Always on</string>
     <string name="aod_mode_time_title">Pianifica</string>
     <string name="aod_mode_title">Always-on display</string>
     <string name="aod_show_date_and_time">Mostra data e ora</string>
@@ -70,7 +70,6 @@ dd/MM"</string>
     <string name="apply">Applica</string>
     <string name="apply_succeed">Applicato correttamente</string>
     <string name="background_icon">Sfondo</string>
-    <string name="battery_meter_progress_mask_path">M2.5638852 0C1.6723665 0 1.3490802 0.09282561 1.0231543 0.2671327 0.69722837 0.4414398 0.4414398 0.69722837 0.2671327 1.0231543 0.09282561 1.3490802 0 1.6723665 0 2.5638852L0 0 2.5638852 0Zm0 18L0 18 0 15.436115c0 0.891518 0.09282561 1.214805 0.2671327 1.540731 0.1743071 0.325926 0.43009567 0.581714 0.7560216 0.756021C1.3490802 17.907174 1.6723665 18 2.5638852 18Z</string>
     <string name="below_image">Giù</string>
     <string name="btn_know">Ok</string>
     <string name="cancel">Annulla</string>
@@ -343,9 +342,9 @@ dd/MM"</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
     <string name="mtrl_picker_text_input_day_abbr">dd</string>
-    <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambia a modalità inserimento calendario</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambia a mod. inserimento calendario</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tocca cambia per scegliere un giorno</string>
-    <string name="mtrl_picker_toggle_to_text_input_mode">Passa a modalità inserimento testo</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Passa a mod. inserimento testo</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tocca per selezionare un anno</string>
     <string name="my_style_title">Il mio tema</string>
     <string name="night">Sera</string>
