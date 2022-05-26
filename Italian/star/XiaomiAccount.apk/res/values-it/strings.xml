@@ -364,6 +364,7 @@ Invia questo codice ai tecnici."</string>
     <string name="google_login">Accedi con Google</string>
     <string name="goto_accept">OK</string>
     <string name="guest_account_label">Mi Account Ospite</string>
+    <string name="has_no_new_version">Aggiornato</string>
     <string name="health_action_activate">Attiva</string>
     <string name="health_action_install">Installa</string>
     <string name="health_action_update">Aggiorna</string>
@@ -710,7 +711,7 @@ Invia questo codice ai tecnici."</string>
     <string name="passport_restart_register_prompt">Potrebbe essere necessario un altro messaggio di verifica per creare il tuo account.</string>
     <string name="passport_restart_register_title">Crea un Mi Account</string>
     <string name="passport_retry">Riprova</string>
-    <string name="passport_select_reg_ways_title">Altre modalità di accesso</string>
+    <string name="passport_select_reg_ways_title">Altre mod. di accesso</string>
     <string name="passport_select_the_login_account">Selezionane uno con il quale vuoi accedere</string>
     <string name="passport_select_the_recycle_phone_login">Seleziona uno che ti appartiene</string>
     <string name="passport_select_the_register_phone">Selezionane uno con il quale hai creato un account</string>
