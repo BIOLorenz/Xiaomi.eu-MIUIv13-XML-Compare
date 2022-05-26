@@ -3236,6 +3236,7 @@ dall'operatore"</string>
     <string name="phone_manage_system_tool_summary">Utili strumenti a livello di sistema</string>
     <string name="phone_manage_system_tool_title">Utilità</string>
     <string name="phone_manager_edit_commonly_used_func_title">Modifica funzionalità comuni</string>
+    <string name="phone_manager_title">Strumenti</string>
     <string name="pkg_traffic">Limite utilizzo dati</string>
     <string name="pm_auto_start_by_other">Avvio automatico</string>
     <string name="pm_auto_start_by_other_app">Consenti l\'avvio delle app tramite altre applicazioni</string>
