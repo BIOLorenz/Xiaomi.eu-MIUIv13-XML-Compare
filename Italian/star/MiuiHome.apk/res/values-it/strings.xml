@@ -30,8 +30,8 @@
     <string name="accessibility_enter_all_app_settings">Apri impostazioni cassetto app</string>
     <string name="accessibility_menu_item_smallwindow_disable">"Questa app non supporta le finestre fluttuanti"</string>
     <string name="accessibility_menu_item_smallwindow_enable">Questa app supporta le finestre fluttuanti</string>
-    <string name="accessibility_menu_item_split_disable">"L'app non supporta la modalità Multi-finestra."</string>
-    <string name="accessibility_menu_item_split_enable">L\'app supporta la modalità Multi-finestra.</string>
+    <string name="accessibility_menu_item_split_disable">"L'app non supporta la mod. Multi-finestra."</string>
+    <string name="accessibility_menu_item_split_enable">L\'app supporta la mod. Multi-finestra.</string>
     <string name="accessibility_recent_task_enter">Aperti recentemente</string>
     <string name="accessibility_recent_task_exit">Recenti chiusi</string>
     <string name="accessibility_recent_task_locked_state">Bloccata</string>
@@ -39,8 +39,8 @@
     <string name="accessibility_recent_task_show_menu">Altre opzioni</string>
     <string name="accessibility_recent_task_unlocked_state">Sbloccato</string>
     <string name="accessibility_recents_item_open_app_info">Apri informazioni applicazione %s.</string>
-    <string name="accessibility_splite_screen_primary">Aggiungi come applicazione principale della modalità multi-finestra</string>
-    <string name="accessibility_splite_screen_secondary">Aggiungi come applicazione secondaria della modalità multi-finestra</string>
+    <string name="accessibility_splite_screen_primary">Aggiungi come applicazione principale della mod. multi-finestra</string>
+    <string name="accessibility_splite_screen_secondary">Aggiungi come applicazione secondaria della mod. multi-finestra</string>
     <string name="action_add_to_workspace">Aggiungi allo spazio di lavoro</string>
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="activity_not_found">"Applicazione non installata sul dispositivo."</string>
@@ -81,6 +81,7 @@
     <string name="all_apps_setting_drawer_tips_desc">L\'app drawer si apre scorrendo verso l\'alto nella schermata Home. Attivare l\'app drawer rimuoverà la ricerca. Cambiare comunque?</string>
     <string name="all_apps_setting_drawer_tips_title">Utilizzare l\'app drawer</string>
     <string name="all_apps_setting_drawer_title">Con app drawer</string>
+    <string name="all_apps_setting_letter_scrollbar">A-Z</string>
     <string name="all_apps_setting_original_scrollbar">Layout originale</string>
     <string name="all_apps_setting_scroll_bar">Barra di scorrimento</string>
     <string name="all_apps_setting_title">Schermata Home</string>
@@ -93,6 +94,7 @@
     <string name="announce_for_close_folder">Chiudi cartella</string>
     <string name="announce_for_close_launcher_menu">Chiudi menu</string>
     <string name="announce_for_create_folder_with_app">Cartella creata con %1$s</string>
+    <string name="announce_for_delete_gadget_and_widget">Widget</string>
     <string name="announce_for_delete_item">%1$s è stato eliminato</string>
     <string name="announce_for_drag_enter_delete_zone">Spostamento degli elementi nell\'area di eliminazione</string>
     <string name="announce_for_drag_enter_folder_grid">Metti l\'icona nella cartella</string>
@@ -105,8 +107,8 @@
     <string name="announce_for_drop_thumbnail_container">Nella schermata di anteprima, numero %1$d</string>
     <string name="announce_for_drop_trash">Zona di disinstallazione</string>
     <string name="announce_for_drop_workspace">nella schermata %1$d, al numero di riga %2$d，numero colonna %3$d</string>
-    <string name="announce_for_edit_mode">Inserisci modalità modifica</string>
-    <string name="announce_for_edit_mode_disable">Esci dalla modalità modifica</string>
+    <string name="announce_for_edit_mode">Inserisci mod. modifica</string>
+    <string name="announce_for_edit_mode_disable">Esci dalla mod. modifica</string>
     <string name="announce_for_move">Sposta a fila %1$d colonna %2$d</string>
     <string name="announce_for_move_hotseat">Sposta alla posizione dock %1$d</string>
     <string name="announce_for_open_default_preview">Aprila pagina per la sclta della Home</string>
@@ -136,6 +138,7 @@
     <string name="app_category_sport">Sport</string>
     <string name="app_category_tools">Utilità</string>
     <string name="app_category_travel">Viaggi</string>
+    <string name="app_category_vr">VR</string>
     <string name="app_drawer_double_confirm_title">Attenzione</string>
     <string name="app_drawer_guide_title">Menù applicazioni</string>
     <string name="app_install_state">Scaricati</string>
@@ -281,6 +284,11 @@
     <string name="copy">Copia</string>
     <string name="current_preview">Anteprima</string>
     <string name="current_wallpaper">Attuale</string>
+    <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Per effettuare chiamate a contatti di emergenza in modalità Lite</string>
+    <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Per visualizzare i contatti di emergenza in modalità Lite</string>
+    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Per mostrare lo stato del dispositivo</string>
+    <string name="custom_define_permission_desc_android.permission_group.CALENDAR">Per mostrare i widget Calendario</string>
+    <string name="custom_define_permission_desc_android.permission_group.CAMERA">Per mostrare i widget Galleria</string>
     <string name="custom_define_permission_desc_android.permission_group.LOCATION">Per accedere al nome del widget Wi-Fi in Android Q</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Per accedere e salvare i dati della schermata Home</string>
     <string name="custom_wallpaper_picker">Naviga</string>
@@ -769,7 +777,7 @@
     <string name="recents_empty_message_multi_window">Prego vai sulla home per aprire un\'applicazione</string>
     <string name="recents_exit_multi_window_mode">Esci</string>
     <string name="recents_forbid_dock_when_screening_toast_text">"Impossibile utilizzare lo split screen durante la proiezione"</string>
-    <string name="recents_incompatible_app_message">"L'app non supporta la modalità a schermo diviso"</string>
+    <string name="recents_incompatible_app_message">"L'app non supporta la mod. a schermo diviso"</string>
     <string name="recents_layout_style">Disposizione App Recenti</string>
     <string name="recents_layout_style_horizontal">Orizzontale</string>
     <string name="recents_layout_style_vertical">Verticale</string>
@@ -829,7 +837,7 @@
     <string name="settings">Impostazioni</string>
     <string name="settings_shortcut">Impostazioni</string>
     <string name="shake_to_align_icons">Scuoti il dispositivo per riempire le celle vuote con le icone</string>
-    <string name="shake_to_align_icons_summary">Scuoti il dispositivo mentre sei in modalità modifica per riempire le celle vuote con le icone automaticamente</string>
+    <string name="shake_to_align_icons_summary">Scuoti il dispositivo mentre sei in mod. modifica per riempire le celle vuote con le icone automaticamente</string>
     <string name="shake_to_align_icons_title">Scuoti per riempire le celle vuote</string>
     <string name="share">Condividi</string>
     <string name="shortcut_share_dialog_content">"I file inviati dal telefono, così come i destinatari vengono selezionati e determinati da te. Prestare attenzione quando si scelgono i file da condividere e si selezionano i destinatari. Non è consentito utilizzare il telefono per trasmettere virus, malware, trojan, bombe a orologeria e altri oggetti dannosi ad altre persone. Non utilizzare il telefono per trasmettere alcun software che possa influire sull'utilizzo regolare del dispositivo del destinatario o di elementi che potrebbero danneggiare, interferire, intercettare o eliminare dati di sistema o informazioni personali sui dispositivi terminali mobili. Sarai responsabile di eventuali danni causati ad altri utenti o dispositivi terminali mobili. Xiaomi farà del suo meglio per garantire che le funzionalità di condivisione, così come la tecnologia e le informazioni coinvolte siano sicure, efficaci, accurate e affidabili. Tuttavia, a causa delle attuali limitazioni tecnologiche, Xiaomi non garantisce che la funzionalità di condivisione sia impeccabile e soddisfi tutte le tue esigenze."</string>
