@@ -33,6 +33,7 @@
     <string name="ad_notification_title">Messaggi non importanti</string>
     <string name="addBlackList">Blocca</string>
     <string name="add_attachment">Allega</string>
+    <string name="add_contact">vCard</string>
     <string name="add_miui_contact">Contatto</string>
     <string name="add_music">Aggiungi musica</string>
     <string name="add_number_to_sender">Aggiungi numero a %s</string>
@@ -43,6 +44,10 @@
     <string name="add_slide_hint">Tocca per creare una nuova diapositiva.</string>
     <string name="add_smiley">Smiley</string>
     <string name="add_timing">Programma</string>
+    <string name="add_to_block_by_number">"Aggiunto %s
+alla lista blocchi"</string>
+    <string name="add_to_block_by_tag">"Messaggi contenenti \"%s\"
+aggiunti alla lista blocchi"</string>
     <string name="add_to_browser_favorite_failed">"Impossibile aggiungere"</string>
     <string name="add_to_browser_favorite_success">Aggiunto con successo</string>
     <string name="add_video">Aggiungi video</string>
@@ -50,6 +55,8 @@
     <string name="adding_attachments_title">Aggiunta di allegati</string>
     <string name="adding_recipients">Aggiungo destinatari…</string>
     <string name="afternoon">Pomeriggio</string>
+    <string name="aim_show_card">Mostra scheda</string>
+    <string name="aim_show_original">Mostra messaggio</string>
     <string name="alert_dlg_cancel_button">Annulla</string>
     <string name="alert_dlg_ok_button">OK</string>
     <string name="allow">OK</string>
@@ -73,6 +80,7 @@
     <string name="attach_transaction">Invia denaro</string>
     <string name="attach_video">Video</string>
     <string name="attach_video_call">Videochiamata</string>
+    <string name="attachment_panel_show_part">Pagina %1$d</string>
     <string name="audio_download_failed">"Download audio fallito"</string>
     <string name="audio_message_expired">Questo messaggio vocale è scaduto.</string>
     <string name="audio_message_mx_offline">"Impossibile scaricare l'audio. Mi Message è offline o non disponibile."</string>
@@ -224,7 +232,7 @@
     <string name="confirm_dialog_title">Confermare l\'eliminazione?</string>
     <string name="confirm_dlg__msg">Avviso CMCC: il servizio gratuito post-vendita di CMCC non sarà fornito se annulli la registrazione al servizio. Continuare?</string>
     <string name="confirm_dlg_title">Gestione del dispositivo</string>
-    <string name="confirm_export_dialog_description">Rimuove il contatto privato selezionato e ripristina la conversazione alla modalità normale. Continuare?</string>
+    <string name="confirm_export_dialog_description">Rimuove il contatto privato selezionato e ripristina la conversazione alla mod. normale. Continuare?</string>
     <string name="confirm_export_dialog_title">Rimuovi contatto privato</string>
     <string name="confirm_no_block_positive">Sblocca</string>
     <string name="confirm_no_block_title">Non bloccare numero e ripristinare tutti i messaggi?</string>
@@ -533,7 +541,7 @@
     <string name="menu_view_contact">Mostra contatto</string>
     <string name="menu_view_group_info">Info di gruppo</string>
     <string name="message_cannot_send_air_mode">"Impossibile inviare messaggi.
-Disattiva la modalità aereo."</string>
+Disattiva la mod. aereo."</string>
     <string name="message_cannot_send_sim_unavailable">"Impossibile inviare messaggi.
 Controlla la tua SIM."</string>
     <string name="message_class_label">"Classe messaggio: "</string>
@@ -893,7 +901,7 @@ Per attivare Mi Message è necessario l'invio di un SMS. Il tuo operatore potreb
     <string name="privacy_dialog_text_policy_link">Informativa sulla Privacy</string>
     <string name="privacy_dialog_title_revoke_confim">Revoca autorizzazione...</string>
     <string name="privacy_dialog_title_update">Informativa sulla privacy aggiornata</string>
-    <string name="privacy_mode_hint">"Non è possibile inviare messaggi in Modalità Ospite"</string>
+    <string name="privacy_mode_hint">"Non è possibile inviare messaggi in Mod. Ospite"</string>
     <string name="privacy_password_message1">La password di protezione privacy funziona per le app, foto, note e cartelle nascoste.</string>
     <string name="privacy_password_message2">Utilizza la password di protezione privacy. Funziona per le app, foto, note e cartelle nascoste.</string>
     <string name="privacy_password_message3">\"La password dei messaggi privati verrà sostituita dalla password di protezione privacy funziona per le app, foto, note e cartelle nascoste.</string>
@@ -1208,7 +1216,7 @@ Dai un'occhiata alle app consigliate!"</string>
     <string name="slide_show_part">Parte %1$d/%2$d</string>
     <string name="slide_up_to_cancel">Scorri in alto per annullare</string>
     <string name="slideshow_activity">Presentazione</string>
-    <string name="small_window_log_text">"La fotocamera non funziona in modalità split screen"</string>
+    <string name="small_window_log_text">"La fotocamera non funziona in mod. split screen"</string>
     <string name="smart_message_title">Messaggi smart</string>
     <string name="smart_message_upgrade_title">Aggiornamento della politica sulla privacy di Smart Messaging</string>
     <string name="smart_messages_network_allow_message">Mi Message deve accedere ad internet per poter fornire correttamente i suoi servizi. Consentire adesso?</string>
@@ -1289,8 +1297,8 @@ Dai un'occhiata alle app consigliate!"</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
-    <string name="switch_to_editor">Modalità editor</string>
-    <string name="switch_to_menu">Modalità menu</string>
+    <string name="switch_to_editor">Mod. editor</string>
+    <string name="switch_to_menu">Mod. menu</string>
     <string name="system_permission_declare_agree">Accetto</string>
     <string name="system_permission_declare_disagree">Annulla</string>
     <string name="system_permission_declare_double_link" formatted="false">Leggi e accetta i nostri %1s e %2s prima di usare questa funzione.</string>
@@ -1403,10 +1411,11 @@ Dai un'occhiata alle app consigliate!"</string>
     <string name="type_picture">Immagine</string>
     <string name="type_to_compose_text_enter_to_send">Scrivi messaggio</string>
     <string name="type_to_compose_text_or_leave_blank">Digita il messaggio o lascia vuoto</string>
+    <string name="type_vcard">vCard</string>
     <string name="type_video">Video</string>
-    <string name="unable_connect_camera">"Sei in modalità incognito. Non puoi usare la fotocamera ora."</string>
-    <string name="unable_get_location">"Sei in modalità incognito. Non puoi usare i servizi di localizzazione."</string>
-    <string name="unable_use_microphone">"Sei in modalità incognito. Non puoi usare il microfono."</string>
+    <string name="unable_connect_camera">"Sei in mod. incognito. Non puoi usare la fotocamera ora."</string>
+    <string name="unable_get_location">"Sei in mod. incognito. Non puoi usare i servizi di localizzazione."</string>
+    <string name="unable_use_microphone">"Sei in mod. incognito. Non puoi usare il microfono."</string>
     <string name="undelivered_msg_dialog_body">"Invio messaggio non riuscito. Tentativo numero: %s."</string>
     <string name="undelivered_msg_dialog_title">Messaggio non consegnato</string>
     <string name="undelivered_sms_dialog_body">"Invio messaggio non riuscito."</string>
