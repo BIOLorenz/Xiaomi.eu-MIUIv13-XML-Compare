@@ -105,7 +105,7 @@
     </string-array>
     <string-array name="prefEntries_vibrateWhen">
         <item>Sempre</item>
-        <item>Solo in modalità silenziosa</item>
+        <item>Solo in mod. silenziosa</item>
         <item>Mai</item>
     </string-array>
     <string-array name="prefValues_vibrateWhen">
