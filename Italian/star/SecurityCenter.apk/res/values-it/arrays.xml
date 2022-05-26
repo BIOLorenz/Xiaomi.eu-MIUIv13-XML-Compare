@@ -41,6 +41,11 @@
         <item>PIN</item>
         <item>Password</item>
     </string-array>
+    <string-array name="auto_task_screen_zoom_level">
+        <item>XS</item>
+        <item>S</item>
+        <item>L</item>
+    </string-array>
     <string-array name="auto_task_text_layout_size_level">
         <item>Molto piccolo</item>
         <item>Piccolo</item>
@@ -168,14 +173,14 @@
         <item>Priorità alle prestazioni</item>
     </string-array>
     <string-array name="pc_settings_thermal_summaries">
-        <item>Uso della modalità predefinita di controllo della temperatura</item>
+        <item>Uso della mod. predefinita di controllo della temperatura</item>
         <item>Priorità alle prestazioni</item>
     </string-array>
     <string-array name="perm_intercept_notification">
         <item>Leggi tutte le tue notifiche, incluso il contenuto dei tuoi messaggi di testo e altri elementi che potrebbero contenere informazioni personali</item>
         <item>Limita i permessi di notifica per alcune app</item>
         <item>Simula il tocco sulla notifica e apre le app</item>
-        <item>Attiva e disattiva la modalità ND</item>
+        <item>Attiva e disattiva la mod. ND</item>
     </string-array>
     <string-array name="perm_intercept_statitics">
         <item>Raccoglie i dati sui tuoi interessi e comportamenti imparando quali app usi e quanto spesso le usi</item>
