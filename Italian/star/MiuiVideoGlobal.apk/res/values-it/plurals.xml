@@ -172,8 +172,16 @@
         <item quantity="other">I sottotitoli sono ritardati di %.1f secondi</item>
         <item quantity="one">I sottotitoli sono ritardati di %.1f secondo</item>
     </plurals>
+    <plurals name="toast_bookmark_max_size">
+        <item quantity="other">Aggiungi fino a %d preferiti</item>
+        <item quantity="one">Aggiungi fino a %d preferito</item>
+    </plurals>
     <plurals name="video_like_text">
         <item quantity="other">%s mi piace</item>
         <item quantity="one">%s mi piace</item>
+    </plurals>
+    <plurals name="video_view_count">
+        <item quantity="other">%d visualizzazioni</item>
+        <item quantity="one">%d visualizzazione</item>
     </plurals>
 </resources>
