@@ -40,7 +40,7 @@
         <item>Apri fotocamera frontale</item>
         <item>Apri app precedente</item>
         <item>Attiva la torcia</item>
-        <item>Attiva la Modalità Lettura</item>
+        <item>Attiva la Mod. Lettura</item>
         <item>Nessuno</item>
     </string-array>
     <string-array name="alarm_repeat_type">
@@ -1255,7 +1255,7 @@
     <string-array name="common_password_business_names">
         <item>Schemata di blocco</item>
         <item>Password privacy</item>
-        <item>Modalità bambino</item>
+        <item>Mod. bambino</item>
         <item>Gestore file</item>
         <item>Blocco app</item>
         <item>Secondo spazio</item>
@@ -2069,6 +2069,11 @@ Nota: solo per Ubuntu 8.04!"</item>
         <item>10 minuti</item>
         <item>Mai</item>
     </string-array>
+    <string-array name="screen_zoom_level">
+        <item>XS</item>
+        <item>S</item>
+        <item>L</item>
+    </string-array>
     <string-array name="security_settings_premium_sms_values">
         <item>Chiedi</item>
         <item>Non consentire mai</item>
@@ -2338,13 +2343,13 @@ Nota: solo per Ubuntu 8.04!"</item>
         <item>GSM</item>
         <item>TDSCDMA</item>
         <item>LTE</item>
-        <item>Modalità tripla</item>
+        <item>Mod. tripla</item>
     </string-array>
     <string-array name="uplmn_prefer_network_mode_w_choices">
         <item>GSM</item>
         <item>WCDMA</item>
         <item>LTE</item>
-        <item>Modalità tripla</item>
+        <item>Mod. tripla</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Tempo di utilizzo</item>
@@ -2396,6 +2401,17 @@ Nota: solo per Ubuntu 8.04!"</item>
         <item>Connesso</item>
         <item>Timeout</item>
         <item>Fallito</item>
+    </string-array>
+    <string-array name="vpn_types">
+        <item>PPTP</item>
+        <item>L2TP/IPSec PSK</item>
+        <item>L2TP/IPSec RSA</item>
+        <item>IPSec Xauth PSK</item>
+        <item>IPSec Xauth RSA</item>
+        <item>IPSec Hybrid RSA</item>
+        <item>IKEv2/IPSec MSCHAPv2</item>
+        <item>IKEv2/IPSec PSK</item>
+        <item>IKEv2/IPSec RSA</item>
     </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
@@ -2485,6 +2501,12 @@ Nota: solo per Ubuntu 8.04!"</item>
         <item>PEAP</item>
         <item>SIM</item>
     </string-array>
+    <string-array name="wifi_eap_method_target_strings">
+        <item>"AKA'"</item>
+    </string-array>
+    <string-array name="wifi_eap_method_tts_strings">
+        <item>AKA prime</item>
+    </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Automatico</item>
         <item>Solo 5 GHz</item>
@@ -2522,6 +2544,10 @@ Nota: solo per Ubuntu 8.04!"</item>
         <item>Premi il pulsante</item>
         <item>PIN del dispositivo peer</item>
         <item>PIN di questo dispositivo</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries_with_sim_auth">
         <item>MSCHAPV2</item>
