@@ -22,7 +22,7 @@
     <string name="abc_shareactionprovider_share_with">Condividi con</string>
     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
     <string name="abc_toolbar_collapse_description">Riduci</string>
-    <string name="accessibility_airplane_mode">Modalità aereo.</string>
+    <string name="accessibility_airplane_mode">Mod. aereo.</string>
     <string name="accessibility_back">Indietro</string>
     <string name="accessibility_brightness">Luminosità Schermo</string>
     <string name="accessibility_desc_close">Chiudi</string>
@@ -46,7 +46,7 @@
     <string name="accessibility_volume_expand">Espandi</string>
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="afternoon">Pomeriggio</string>
-    <string name="airplane_mode">Modalità Aereo</string>
+    <string name="airplane_mode">Mod. Aereo</string>
     <string name="already_in_small_freeform">Alcune app sono aperte in finestre fluttuanti</string>
     <string name="app_name">systemui-controls</string>
     <string name="auto_brightness_off">Luminosità automatica spenta</string>
@@ -182,7 +182,7 @@
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
     <string name="disabled">Non disponibile</string>
     <string name="dnd_popup_close_message">Ok</string>
-    <string name="dnd_popup_message">È possibile attivare la modalità ND per silenziare le chiamate e le notifiche senza disattivare l\'audio multimediale.</string>
+    <string name="dnd_popup_message">È possibile attivare la mod. ND per silenziare le chiamate e le notifiche senza disattivare l\'audio multimediale.</string>
     <string name="dolby_atoms_sound_effect_label">Dolby Atmos</string>
     <string name="drag_to_add_tiles">Trascina per aggiungere delle funzioni</string>
     <string name="early_morning">Mattina</string>
@@ -264,8 +264,8 @@
     <string name="heavenly_stems_yi">Yi</string>
     <string name="icon_content_description">Icona di dialogo</string>
     <string name="item_view_role_description">Tocca</string>
-    <string name="kddi_miui_toast_zen_standard_to_off">"La modalità silenziosa è disattivata. Le chiamate e le notifiche non saranno silenziate."</string>
-    <string name="kddi_miui_toast_zen_to_standard">Passato alla modalità silenziosa. Chiamate e notifiche verranno silenziate.</string>
+    <string name="kddi_miui_toast_zen_standard_to_off">"La mod. silenziosa è disattivata. Le chiamate e le notifiche non saranno silenziate."</string>
+    <string name="kddi_miui_toast_zen_to_standard">Passato alla mod. silenziosa. Chiamate e notifiche verranno silenziate.</string>
     <string name="loading">Sconosciuto</string>
     <string name="material_slider_range_end">Fine intervallo,</string>
     <string name="material_slider_range_start">Inizio intervallo,</string>
@@ -289,7 +289,7 @@
 %s"</string>
     <string name="miui_guide_dialog_button_negative_text">Impostazioni</string>
     <string name="miui_guide_dialog_button_positive_text">Ok</string>
-    <string name="miui_guide_dialog_message">I suoni multimediali (musica, video, etc.) verranno comunque riprodotti in modalità silenziosa. Potrai modificare questa funzionalità dalle Impostazioni.</string>
+    <string name="miui_guide_dialog_message">I suoni multimediali (musica, video, etc.) verranno comunque riprodotti in mod. silenziosa. Potrai modificare questa funzionalità dalle Impostazioni.</string>
     <string name="miui_ringer_count_down">Conto alla rovescia</string>
     <string name="miui_ringer_standard">Silenzia</string>
     <string name="miui_ringer_standard_description">[Silent] Suonerie silenziose per chiamate e notifiche in arrivo</string>
@@ -297,7 +297,7 @@
     <string name="miui_ringer_status_open">Attivata</string>
     <string name="miui_ringer_total">ND</string>
     <string name="miui_ringer_total_description">[DND] Silenzia i suoni e disattiva la vibrazione per tutti gli elementi ad esclusione della sveglia</string>
-    <string name="miui_screen_rotation_freeze_message">Orientamento dello schermo bloccato in modalità orizzontale</string>
+    <string name="miui_screen_rotation_freeze_message">Orientamento dello schermo bloccato in mod. orizzontale</string>
     <string name="miui_toast_zen_dnd_to_off">"Chiamate e notifiche non verranno più silenziate"</string>
     <string name="miui_toast_zen_dnd_to_off_T">Le notifiche non sono più silenziate</string>
     <string name="miui_toast_zen_standard_to_off">Silenzioso disattivato</string>
@@ -396,9 +396,9 @@
     <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
     <string name="mtrl_picker_text_input_day_abbr">dd</string>
-    <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambia a modalità inserimento calendario</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambia a mod. inserimento calendario</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tocca cambia per scegliere un giorno</string>
-    <string name="mtrl_picker_toggle_to_text_input_mode">Passa a modalità inserimento testo</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Passa a mod. inserimento testo</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tocca per selezionare un anno</string>
     <string name="night">Sera</string>
     <string name="no_avaliable_application">Nessuna app disponibile</string>
@@ -425,7 +425,7 @@
     <string name="qs_control_expand_detail_title">I miei dati</string>
     <string name="qs_control_header_tiles_title">Centro di controllo</string>
     <string name="qs_customize_title">Modifica</string>
-    <string name="qs_open_night_mode_alert_summary">"Alcune impostazioni di visualizzazione non sono compatibili con la modalità Scura. Tuttavia, esse saranno ripristinate una volta disattivata."</string>
+    <string name="qs_open_night_mode_alert_summary">"Alcune impostazioni di visualizzazione non sono compatibili con la mod. Scura. Tuttavia, esse saranno ripristinate una volta disattivata."</string>
     <string name="quick_controls_subtitle">Aggiungi controlli per i tuoi dispositivi connessi</string>
     <string name="quick_controls_title">Controlli del dispositivo</string>
     <string name="quick_settings_aitranslate_label">Traduzione MI IA</string>
@@ -450,19 +450,20 @@
     <string name="quick_settings_location_label">Posizione</string>
     <string name="quick_settings_more_settings">Altre impostazioni</string>
     <string name="quick_settings_mute_label">Silenzioso</string>
-    <string name="quick_settings_nightmode_label">Modalità scura</string>
+    <string name="quick_settings_nightmode_label">Mod. scura</string>
     <string name="quick_settings_papermode_label">Lettura</string>
     <string name="quick_settings_pcmode_cancel_button">Annulla</string>
-    <string name="quick_settings_pcmode_dialog_message_turnoff">Disattiva la modalità PC</string>
-    <string name="quick_settings_pcmode_dialog_message_turnon">Attiva la modalità PC</string>
+    <string name="quick_settings_pcmode_dialog_message_turnoff">Disattiva la mod. PC</string>
+    <string name="quick_settings_pcmode_dialog_message_turnon">Attiva la mod. PC</string>
     <string name="quick_settings_pcmode_dialog_remember_text">"Non mostrare più"</string>
     <string name="quick_settings_pcmode_error">"Impossibile trovare questa app. Installala."</string>
-    <string name="quick_settings_pcmode_label">Modalità PC</string>
+    <string name="quick_settings_pcmode_label">Mod. PC</string>
     <string name="quick_settings_pcmode_ok_button">OK</string>
-    <string name="quick_settings_pcmode_turn_off_description">"Il display del telefono verrà mostrato su un monitor esterno. Disattivare la modalità PC?"</string>
-    <string name="quick_settings_pcmode_turn_on_description">"Il display del computer verrà mostrato su un monitor esterno. Attivare la modalità PC?"</string>
-    <string name="quick_settings_powermode_label">Modalità prestazioni</string>
+    <string name="quick_settings_pcmode_turn_off_description">"Il display del telefono verrà mostrato su un monitor esterno. Disattivare la mod. PC?"</string>
+    <string name="quick_settings_pcmode_turn_on_description">"Il display del computer verrà mostrato su un monitor esterno. Attivare la mod. PC?"</string>
+    <string name="quick_settings_powermode_label">Mod. prestazioni</string>
     <string name="quick_settings_quietmode_label">ND</string>
+    <string name="quick_settings_rotationlock_label">Rotazione spenta</string>
     <string name="quick_settings_scanner_label">Scanner</string>
     <string name="quick_settings_screenbutton_label">Tasti</string>
     <string name="quick_settings_screenlock_label">Schemata di blocco</string>
@@ -601,7 +602,7 @@ Un'esposizione prolungata a volumi elevati può causare problemi di udito."</str
     <string name="wireless_charging_saver_message">Risparmio batteria abilitato. Mantenere la ricarica wireless inversa attiva?</string>
     <string name="wireless_charging_saver_ok">Mantieni</string>
     <string name="wireless_charging_tips_disable">"Non mostrare più"</string>
-    <string name="wireless_charging_tips_message">Posizionare il dispositivo che si desidera caricare in modalità wireless (ad es. telefono, smartwatch, auricolari) sul retro del telefono. Assicurati che questo telefono sia carico almeno al %d%% prima di utilizzare la ricarica wireless inversa.</string>
+    <string name="wireless_charging_tips_message">Posizionare il dispositivo che si desidera caricare in mod. wireless (ad es. telefono, smartwatch, auricolari) sul retro del telefono. Assicurati che questo telefono sia carico almeno al %d%% prima di utilizzare la ricarica wireless inversa.</string>
     <string name="wireless_charging_tips_sub_message">L\'altro dispositivo deve supportare lo standard di ricarica wireless Qi.</string>
     <string name="wireless_charging_tips_title">Ricarica wireless inversa</string>
     <string name="yesterday">Ieri</string>
