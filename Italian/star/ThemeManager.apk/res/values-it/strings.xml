@@ -349,7 +349,7 @@
     <string name="exchange_code_dialog_title">Attenzione</string>
     <string name="exit_extreme_mode_dialog_agree">Accetto</string>
     <string name="exit_extreme_mode_dialog_cancel">Annulla</string>
-    <string name="exit_extreme_mode_dialog_title">Disattiva Modalità estrema</string>
+    <string name="exit_extreme_mode_dialog_title">Disattiva Mod. estrema</string>
     <string name="exo_controls_cc_disabled_description">Abilita sottotitoli</string>
     <string name="exo_controls_cc_enabled_description">Disabilita sottotitoli</string>
     <string name="exo_controls_custom_playback_speed">%1$.2fx</string>
@@ -376,7 +376,7 @@
     <string name="exo_controls_shuffle_on_description">Riproduzione Casuale</string>
     <string name="exo_controls_stop_description">Interrompi</string>
     <string name="exo_controls_time_placeholder">00:00:00</string>
-    <string name="exo_controls_vr_description">Modalità VR</string>
+    <string name="exo_controls_vr_description">Mod. VR</string>
     <string name="exo_download_completed">Download completato</string>
     <string name="exo_download_description">Scarica</string>
     <string name="exo_download_downloading">In download</string>
@@ -405,7 +405,7 @@
     <string name="exo_track_unknown">Sconosciuto</string>
     <string name="expand_button_title">Avanzate</string>
     <string name="exposed_dropdown_menu_content_description">Mostra menu a tendina</string>
-    <string name="extreme_mode_dialog_message">"Questa funzione non è disponibile in modalità Extreme. Disattivare la modalità Extreme per poterla utilizzare."</string>
+    <string name="extreme_mode_dialog_message">"Questa funzione non è disponibile in mod. Extreme. Disattivare la mod. Extreme per poterla utilizzare."</string>
     <string name="extreme_mode_dialog_ok">Ok</string>
     <string name="extreme_mode_dialog_title">Avviso</string>
     <string name="fail_to_add_account">"Impossibile aggiungere account"</string>
@@ -572,11 +572,11 @@ Per disattivare questa funzione, vai in Impostazioni &gt; Suoni e Vibrazione &gt
     <string name="material_minute_suffix">%1$s minuti</string>
     <string name="material_slider_range_end">Fine intervallo,</string>
     <string name="material_slider_range_start">Inizio intervallo,</string>
-    <string name="material_timepicker_clock_mode_description">Passa alla modalità orologio per inserire l\'ora.</string>
+    <string name="material_timepicker_clock_mode_description">Passa alla mod. orologio per inserire l\'ora.</string>
     <string name="material_timepicker_hour">Ora</string>
     <string name="material_timepicker_minute">Minuto</string>
     <string name="material_timepicker_select_time">Imposta ora</string>
-    <string name="material_timepicker_text_input_mode_description">Passa alla modalità di inserimento testo per inserire l\'ora.</string>
+    <string name="material_timepicker_text_input_mode_description">Passa alla mod. di inserimento testo per inserire l\'ora.</string>
     <string name="mi_wallpaper">Sfondo MIUI</string>
     <string name="midnight">AM</string>
     <string name="mine_tab_not_login">"Accedi per visualizzare.
@@ -735,9 +735,9 @@ mm"</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
     <string name="mtrl_picker_text_input_day_abbr">dd</string>
-    <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambia a modalità inserimento calendario</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambia a mod. inserimento calendario</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tocca cambia per scegliere un giorno</string>
-    <string name="mtrl_picker_toggle_to_text_input_mode">Passa a modalità inserimento testo</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Passa a mod. inserimento testo</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tocca per selezionare un anno</string>
     <string name="multi_sim_mms_ringtone_settings_dialog_message">Questa suoneria verrà utilizzata per entrambe le SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_message">La suoneria viene applicata alla SIM 1 e alla SIM 2 allo stesso tempo.</string>
@@ -780,6 +780,7 @@ mm"</string>
     <string name="password_toggle_content_description">Mostra password</string>
     <string name="personalize">Personalizzazione</string>
     <string name="personalize_alarm_ringtone_title">Sveglie</string>
+    <string name="personalize_aod_title">AOD</string>
     <string name="personalize_call_ringtone_title">Suoneria</string>
     <string name="personalize_charge_style_title">Ricarica</string>
     <string name="personalize_default_font">Carattere predefinito</string>
@@ -829,7 +830,7 @@ mm"</string>
     <string name="privacy_revoke_agree_content">Revoca autorizzazione...</string>
     <string name="privacy_revoke_succeed">Consenso revocato</string>
     <string name="privacy_revoking_warning">Revoca del consenso…</string>
-    <string name="privacy_select_mode">Seleziona modalità</string>
+    <string name="privacy_select_mode">Seleziona mod.</string>
     <string name="privacy_settings">Privacy</string>
     <string name="privacy_update_prompt_title">Informativa sulla privacy aggiornata</string>
     <string name="provision_default_theme_title">Predefinita</string>
@@ -1262,6 +1263,7 @@ mm"</string>
     <string name="theme_comment_dialog_ok">Recensione</string>
     <string name="theme_comment_sub_comment_bar_hint">Condividi le tue idee con la  community</string>
     <string name="theme_community">Community</string>
+    <string name="theme_component_aod">AOD</string>
     <string name="theme_component_icon">Icone</string>
     <string name="theme_component_title_alarm">Sveglia</string>
     <string name="theme_component_title_alarmstyle">Stili sveglia</string>
@@ -1471,6 +1473,7 @@ mm"</string>
     <string name="wallpaper_set_as_lockscreen">Imposta su Schermata di blocco</string>
     <string name="wallpaper_set_as_loop_extra_msg">Tutti stanno usando</string>
     <string name="wallpaper_setting_all">Tutti gli sfondi</string>
+    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
     <string name="wallpaper_setting_find_more_text">Altri sfondi online</string>
     <string name="wallpaper_setting_home_wallpaper_banner_button_text">Schermata Home</string>
     <string name="wallpaper_setting_library">Raccolta</string>
