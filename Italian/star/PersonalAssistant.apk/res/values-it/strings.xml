@@ -239,6 +239,7 @@
     <string name="pa_accessibility_home_widget_drop_workspace">Spostato alla riga %1$d, posizione %2$d</string>
     <string name="pa_accessibility_olympic_info_title">Maggior informazioni</string>
     <string name="pa_accessibility_picker_widget_detail_edit">Modifica</string>
+    <string name="pa_announce_for_delete_gadget_and_widget">Widget</string>
     <string name="pa_app_label">Assistente App</string>
     <string name="pa_base_hour_minute">%1$do %2$dm</string>
     <string name="pa_base_time_just_now">Un momento fa</string>
@@ -409,6 +410,7 @@
     <string name="pa_shortcut_group_title_start_page">Funzioni</string>
     <string name="pa_shortcut_memory_clean_nothing">Niente da cancellare nella cache</string>
     <string name="pa_shortcut_memory_clean_result">%1$sB cancellati</string>
+    <string name="pa_shortcut_paycode">Alipay</string>
     <string name="pa_shortcut_setting_activity_subtitle">Trascinare gli elementi per ridisporre </string>
     <string name="pa_shortcut_widget_label_4x2">Scorciatoie</string>
     <string name="pa_ski_foreground_service_noitification_name">Accesso alla posizione</string>
