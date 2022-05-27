@@ -84,6 +84,7 @@ aggiunti alla lista blocchi"</string>
     <string name="audio_download_failed">"Download audio fallito"</string>
     <string name="audio_message_expired">Questo messaggio vocale è scaduto.</string>
     <string name="audio_message_mx_offline">"Impossibile scaricare l'audio. Mi Message è offline o non disponibile."</string>
+    <string name="audio_playing_seconds">%d\"</string>
     <string name="audio_sim_card_mismatching">Nessuna connessione di rete o nessuna SIM installata. Installa la SIM dalla quale è stato inviato il messaggio e collegati alla rete.</string>
     <string name="auto_identify_btn_text_only_smart_messaging">Attiva Messaggi Smart</string>
     <string name="auto_identify_btn_text_when_all_disabled">Identifica ID Mittente automaticamente</string>
@@ -259,7 +260,12 @@ aggiunti alla lista blocchi"</string>
     <string name="context_menu_send_sms">Invia messaggio</string>
     <string name="context_menu_view_contact">Mostra contatto</string>
     <string name="context_menu_view_mms">Leggi MMS</string>
+    <string name="conv_content_defraud_tip">Segnala frode</string>
+    <string name="conv_content_risk">Inviato da un numero sconosciuto</string>
+    <string name="conv_head_link_tip">Segnala frode</string>
+    <string name="conv_head_risk_tip">Potrebbe essere frode estera</string>
     <string name="conv_item_official">Ufficiale</string>
+    <string name="conv_item_risk_tip">Rischio</string>
     <string name="conversation">Messaggi</string>
     <string name="conversation_listitem_avatar">Immagine</string>
     <string name="converting_to_picture_message">Conversione in messaggio multimediale…</string>
@@ -276,10 +282,12 @@ aggiunti alla lista blocchi"</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
     <string name="debug_about_mms">Info su Mms</string>
+    <string name="debug_category_db">Database</string>
     <string name="debug_category_others">Altri</string>
     <string name="debug_close_success">Debug non disponibile</string>
     <string name="debug_enable_success">Debug disponibile</string>
     <string name="debug_export_db">Esporta Database</string>
+    <string name="debug_title">Debug</string>
     <string name="default_google_message_promo_content">"Hai impostato l'app messaggi di Google come applicazione di messaggistica predefinita. Premi \"Apri\" per usare l’app."</string>
     <string name="delete">Elimina</string>
     <string name="delete_block_conversation">Elimina questa conversazione</string>
@@ -389,6 +397,7 @@ aggiunti alla lista blocchi"</string>
     <string name="feature_mx">Messaggi Mi</string>
     <string name="feature_smart_sms">Messaggi smart</string>
     <string name="festival_sms_loading">Caricamento…</string>
+    <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Creato alle:</string>
     <string name="file_size">Dimensione:</string>
     <string name="file_title">Nome:</string>
@@ -508,6 +517,11 @@ aggiunti alla lista blocchi"</string>
     <string name="is_composing">Scrivendo…</string>
     <string name="kilobyte">KB</string>
     <string name="layout_selector_title">"Layout presentazione "</string>
+    <string name="leave_mms_tips_context_app">Lasciare Messaggi e aprire l\'app ora?</string>
+    <string name="leave_mms_tips_context_app_name">Uscire da Messaggi e aprire \"%s\"?</string>
+    <string name="leave_mms_tips_context_browser">Uscire da Messaggi e aprire il browser web ora?</string>
+    <string name="leave_mms_tips_context_email">Lasciare Messaggi e aprire il client di posta?</string>
+    <string name="leave_mms_tips_context_map">Lasciare Messaggi e aprire la mappa?</string>
     <string name="loading_all_messages">Attendi…</string>
     <string name="loading_conversations">Attendi…</string>
     <string name="loading_mms">Attendi…</string>
@@ -604,6 +618,8 @@ Controlla la tua SIM."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare gli elementi"</string>
     <string name="mms">MMS</string>
+    <string name="mms_5g_mms_privacy_policy">Messaggi 5G Informativa sulla privacy</string>
+    <string name="mms_5g_mms_privacy_policy_revoke">Ritira il consenso all\'Informativa sulla privacy di Messaggi 5G</string>
     <string name="mms_block_alert_message">Tutti gli MMS inviati tranne i messaggi inviati da mittenti autorizzati saranno bloccati. I mittenti autorizzati includono i vettori di rete, i sistemi ferroviari nazionali, ecc.</string>
     <string name="mms_block_alert_ok">Blocca</string>
     <string name="mms_block_alert_title">Blocca MMS</string>
@@ -662,6 +678,7 @@ Questo messaggio potrebbe non essere apprezzato."</string>
     <string name="msg_type_hint_mms">Messaggio multimediale</string>
     <string name="msg_type_hint_mms_omit">MMS</string>
     <string name="msg_type_hint_mx">Messaggi Mi</string>
+    <string name="msg_type_hint_mx_omit">Mi Msg</string>
     <string name="msg_type_hint_sms">SMS</string>
     <string name="msg_type_hint_sms_omit">SMS</string>
     <string name="msg_type_sms_rcs">SMS, MMS, e messaggi internet</string>
@@ -671,6 +688,7 @@ Questo messaggio potrebbe non essere apprezzato."</string>
     <string name="msglist_release_to_more">Rilascia per vedere altro</string>
     <string name="multimedia_message">Messaggio multimediale</string>
     <string name="multimedia_notification">Notifica messaggio multimediale</string>
+    <string name="mx2_type_description">[%s]</string>
     <string name="mx_activate_allow_notice">Il tuo operatore potrebbe addebitarti il costo di un SMS utilizzato per attivare i servizi di messaggi e chiamate gratuiti.</string>
     <string name="mx_activate_dlg_title">Attiva Mi Message</string>
     <string name="mx_activate_dlg_title_ex">Attiva Mi Message e Voce</string>
@@ -722,6 +740,7 @@ Per attivare Mi Message è necessario l'invio di un SMS. Il tuo operatore potreb
     <string name="mx_on_sim_2">Mi Message slot SIM 2</string>
     <string name="mx_online">In linea</string>
     <string name="mx_privacy_policy">Informativa sulla Privacy Mi Message</string>
+    <string name="mx_privacy_policy_revoke">Ritira il consenso all\'informativa sulla privacy di Mi Message</string>
     <string name="mx_reactivate">Riattiva messaggi Mi Cloud</string>
     <string name="mx_recommend_msg">Abilita i messaggi Mi Cloud per inviare messaggi gratuitamente</string>
     <string name="mx_stranger_recommend_msg">Tocca per bloccare Messaggi Mi da numeri sconosciuti</string>
@@ -785,6 +804,7 @@ Per attivare Mi Message è necessario l'invio di un SMS. Il tuo operatore potreb
     <string name="perm_purpose_rcs_account">"Per visualizzare la guida per nuovi utenti"</string>
     <string name="perm_purpose_rcs_phone_state">Per l\'accesso IMEI per identificare il tuo dispositivo</string>
     <string name="perm_purpose_rcs_storage">Per salvare immagini, video, file e altri allegati RCS</string>
+    <string name="permission_new_retry_dialog_msg">Messaggi deve accedere ai contatti per poter funzionare normalmente. È possibile modificare i permessi in Impostazioni &gt; Applicazioni &gt; Impostazioni App di Sistema.</string>
     <string name="permission_retry_deny">Annulla</string>
     <string name="permission_retry_dialog_msg">L\'app di messaggistica necessita dei permessi per funzionare normalmente. Per dare i permessi necessari  vai in  \"impostazioni\", seleziona \"permessi\", e consenti all\'app  di accedere a Telefono, SMS, e contatti.</string>
     <string name="permission_retry_setting">Impostazioni</string>
@@ -840,6 +860,7 @@ Per attivare Mi Message è necessario l'invio di un SMS. Il tuo operatore potreb
     <string name="pref_summary_on_system_mms_priority">"L'applicazione di sistema Messaggi riceverà messaggi per prima"</string>
     <string name="pref_summary_privacy_authority">Attiva/disattiva questo pulsante per concedere o revocare la tua autorizzazione</string>
     <string name="pref_summary_send_delivery_reports">Invia rapporto di consegna per i messaggi ricevuti</string>
+    <string name="pref_summary_switch_aim_card">Visualizza messaggi contenenti video, immagini e formattazione complessa come schede</string>
     <string name="pref_summary_voice_report">Attiva per la lettura dei messaggi ad alta voce quando vengono ricevuti. Premere il pulsante Volume giù o Ferma per interrompere la riproduzione.</string>
     <string name="pref_summary_wake_up_screen">Attiva lo schermo alla ricezione di un nuovo SMS</string>
     <string name="pref_switch_sdk_setting">Cambia servizio provider smart SMS</string>
