@@ -384,7 +384,6 @@ dd/MM"</string>
     <string name="select_notification_notify_style">Seleziona effetto notifica</string>
     <string name="send">Invia</string>
     <string name="share">Condividi</string>
-    <string name="share_to_community">Condividi su Mi Community</string>
     <string name="show_battery">Mostra stato batteria</string>
     <string name="show_battery_status">Mostra stato batteria</string>
     <string name="show_lunar">Mostra calendario cinese tradizionale</string>
@@ -425,7 +424,6 @@ wonderful is about to happen"</string>
  i termini e le condizioni di Salute per continuare.</string>
     <string name="step_component_info_desc">Il conteggio dei passi si trasformerà in un trofeo quando il tuo obiettivo sarà raggiunto. Il conteggio dei passi è fornito da Xiaomi Health.</string>
     <string name="step_component_info_tip">Il conteggio dei passi è fornito da Xiaomi Health. Installa o aggiorna Xiaomi Health e accetta i termini e le condizioni per continuare.</string>
-    <string name="step_to_image_community">Trova altri in Mi Community</string>
     <string name="summary">"Per ridurre il consumo di energia, gli elementi non verranno visualizzati quando il dispositivo si trova al buio per molto tempo."</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
@@ -483,6 +481,7 @@ dd/MM"</string>
     <string name="the_valentines_day">"San Valentino"</string>
     <string name="the_water_lantern_festival">Festa delle Lanterne d\'Acqua</string>
     <string name="theme_cate_title">tema</string>
+    <string name="theme_manager_other">Altri elementi</string>
     <string name="thursday">Giovedì</string>
     <string name="thursday_short">Gio</string>
     <string name="thursday_shortest">Gio</string>
