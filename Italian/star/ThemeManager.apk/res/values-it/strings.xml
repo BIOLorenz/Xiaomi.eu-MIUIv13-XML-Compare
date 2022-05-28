@@ -777,6 +777,7 @@ mm"</string>
     <string name="ota_recovery_theme_notity_btn">Ripristina</string>
     <string name="ota_recovery_theme_notity_content">"Puoi tornare al tema che hai usato prima dell'aggiornamento"</string>
     <string name="ota_recovery_theme_notity_title">Ripristina il tuo tema</string>
+    <string name="pad_fold_no_permission">Permessi di archiviazione richiesti</string>
     <string name="password_toggle_content_description">Mostra password</string>
     <string name="personalize">Personalizzazione</string>
     <string name="personalize_alarm_ringtone_title">Sveglie</string>
