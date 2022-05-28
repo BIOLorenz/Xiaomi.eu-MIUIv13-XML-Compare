@@ -350,7 +350,7 @@
     <string name="writer_paragraph_set_rightindent" formatted="false">Rientro a destra: %.2f%2$s</string>
     <string name="writer_paragraph_set_spaceafter" formatted="false">Spazio dopo la riga: %.2f%2$s</string>
     <string name="writer_paragraph_set_spacebefore" formatted="false">Spazio prima della riga: %.2f%2$s</string>
-    <string name="writer_read_mode">Modalità di visualizzazione</string>
+    <string name="writer_read_mode">Mod. di visualizzazione</string>
     <string name="writer_revision_edit_nottrack">"Questa operazione non sarà contrassegnata come revisione. Continuare comunque?"</string>
     <string name="writer_revision_unsupportedRevisionSubDocument">"Impossibile modificare questa revisione"</string>
     <string name="writer_rom_bottom_tools_show_categoary">Visualizza cartella</string>
