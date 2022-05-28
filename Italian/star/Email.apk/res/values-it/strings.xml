@@ -135,7 +135,7 @@ Per comprendere appieno i tuoi diritti come utente e i modi in cui trattiamo i t
     <string name="account_setup_failed_certificate_required">Certificato client richiesto. Connettersi al server con certificato client?</string>
     <string name="account_setup_failed_check_credentials_message">Il server ha risposto con un errore. Controlla nome utente e password e riprova.</string>
     <string name="account_setup_failed_dlg_auth_message">"Nome utente o password errata."</string>
-    <string name="account_setup_failed_dlg_bar_title">Modalità di accesso a %s</string>
+    <string name="account_setup_failed_dlg_bar_title">Mod. di accesso a %s</string>
     <string name="account_setup_failed_dlg_certificate_message">"Impossibile connettersi in modo sicuro al server."</string>
     <string name="account_setup_failed_dlg_certificate_message_fmt">"Impossibile connettersi in modo sicuro al server.
 (%s)"</string>
@@ -531,8 +531,8 @@ path prefix"</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
     <string name="db_error">Eccezione dati, si prega di effettuare nuovamente il login</string>
-    <string name="debug_mode_preferencecategory">Prego imposta modalità di esportazione Log</string>
-    <string name="debug_mode_settings">Modalità Debug</string>
+    <string name="debug_mode_preferencecategory">Prego imposta mod. di esportazione Log</string>
+    <string name="debug_mode_settings">Mod. Debug</string>
     <string name="default_">\u0020PREDEFINITO</string>
     <string name="default_exchange">EXCHANGE</string>
     <string name="default_imap">IMAP</string>
@@ -950,7 +950,7 @@ Ciao, la password dell'applicazione è attivata? Se attiva, vai al sito ufficial
     <string name="long_string">luuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuungo</string>
     <string name="mail">E-Mail</string>
     <string name="mail_body_turncated">Email troppo grande per essere caricata, ne verrà visualizzata una parte e potrai leggerla per intero dal PC più tardi</string>
-    <string name="mail_description_content">E-mail è un client email capace di gestire più account, supporta l\'invio e la ricezione, tag email e fornisce funzionalità quali la Modalità Sessione, mail di fatturazione, ordinamento email ed altri servizi. Dopo la cancellazione di questa app tutti i dati delle email verranno persi.</string>
+    <string name="mail_description_content">E-mail è un client email capace di gestire più account, supporta l\'invio e la ricezione, tag email e fornisce funzionalità quali la Mod. Sessione, mail di fatturazione, ordinamento email ed altri servizi. Dopo la cancellazione di questa app tutti i dati delle email verranno persi.</string>
     <string name="mail_description_title">Presentazione Email</string>
     <string name="mail_header_network_not_available">"Non hai una connessione di rete."</string>
     <string name="mail_outlook_login_tips">"Verrai reindirizzato su Microsoft per inserire la password"</string>
@@ -1162,9 +1162,9 @@ Ciao, la password dell'applicazione è attivata? Se attiva, vai al sito ufficial
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
     <string name="mtrl_picker_text_input_day_abbr">dd</string>
     <string name="mtrl_picker_text_input_month_abbr">m</string>
-    <string name="mtrl_picker_toggle_to_calendar_input_mode">Passa alla modalità di inserimento calendario</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Passa alla mod. di inserimento calendario</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tocca per selezionare un giorno</string>
-    <string name="mtrl_picker_toggle_to_text_input_mode">Passa alla modalità di inserimento testo</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Passa alla mod. di inserimento testo</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tocca per selezionare un anno</string>
     <string name="multiple_new_message_notification_item">%1$s\"   %2$s\"</string>
     <string name="mute">Silenzioso</string>
@@ -1217,7 +1217,7 @@ Prova a passare ad un diverso account email."</string>
     <string name="notification_off">Spenta</string>
     <string name="notification_on">Attivata</string>
     <string name="notify_channel_new_mail">Notifica nuovi messaggi</string>
-    <string name="notify_channel_no_disterb">Modalità Non Disturbare</string>
+    <string name="notify_channel_no_disterb">Mod. Non Disturbare</string>
     <string name="notify_channel_permission_notice">Permessi richiesti</string>
     <string name="notify_channel_send_fail">Notifica in caso di mancata consegna</string>
     <string name="notify_channel_service">Sincronizzazione background</string>
