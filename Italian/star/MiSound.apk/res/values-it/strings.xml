@@ -259,11 +259,11 @@
     <string name="material_minute_suffix">%1$s minuti</string>
     <string name="material_slider_range_end">Fine intervallo,</string>
     <string name="material_slider_range_start">Inizio intervallo,</string>
-    <string name="material_timepicker_clock_mode_description">Passa alla modalità orologio per inserire l\'ora.</string>
+    <string name="material_timepicker_clock_mode_description">Passa alla mod. orologio per inserire l\'ora.</string>
     <string name="material_timepicker_hour">Ora</string>
     <string name="material_timepicker_minute">Minuto</string>
     <string name="material_timepicker_select_time">Imposta ora</string>
-    <string name="material_timepicker_text_input_mode_description">Passa alla modalità di inserimento testo per inserire l\'ora.</string>
+    <string name="material_timepicker_text_input_mode_description">Passa alla mod. di inserimento testo per inserire l\'ora.</string>
     <string name="midnight">Notte</string>
     <string name="misound_effect_setting">Audio Mi</string>
     <string name="miuix_access_state_desc">Selezionato</string>
@@ -357,9 +357,9 @@
     <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
     <string name="mtrl_picker_text_input_day_abbr">dd</string>
-    <string name="mtrl_picker_toggle_to_calendar_input_mode">Passa alla modalità di inserimento calendario</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Passa alla mod. di inserimento calendario</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tocca per selezionare un giorno</string>
-    <string name="mtrl_picker_toggle_to_text_input_mode">Passa alla modalità di inserimento testo</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Passa alla mod. di inserimento testo</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tocca per selezionare un anno</string>
     <string name="multi_music_coexistence_summary">"Consente all'audio proveniente da più sorgenti di essere riprodotto contemporaneamente, disattivandola impedisci a suoni secondari di influenzare quello dell'app primaria (es: quando si avvia Google Assistant, la musica va in pausa)."</string>
     <string name="multi_music_coexistence_title">Sorgenti audio multiple</string>
