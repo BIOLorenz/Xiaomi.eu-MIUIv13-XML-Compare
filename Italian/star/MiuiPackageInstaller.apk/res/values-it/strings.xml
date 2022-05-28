@@ -254,9 +254,9 @@
     <string name="install_control_cancel_install">"Non installare"</string>
     <string name="install_control_cancel_vip_account_install">Esci</string>
     <string name="install_control_continue_install">Installa comunque</string>
-    <string name="install_control_lite_mode_explain_des">Questa app proviene da una sorgente sconosciuta e potrebbe non funzionare in modalità Semplificata.</string>
+    <string name="install_control_lite_mode_explain_des">Questa app proviene da una sorgente sconosciuta e potrebbe non funzionare in mod. Semplificata.</string>
     <string name="install_control_lite_mode_solution_des">"Puoi scegliere di installare questa app manualmente.
-In alternativa, puoi disattivare la modalità Semplificata e riprovare."</string>
+In alternativa, puoi disattivare la mod. Semplificata e riprovare."</string>
     <string name="install_control_normal_mode_explain_des">"Impossibile installare questa app a causa di restrizioni legali"</string>
     <string name="install_control_vip_account_install">Registrati per la Beta</string>
     <string name="install_done">App installata.</string>
