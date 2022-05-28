@@ -133,8 +133,8 @@
         <item quantity="one">%d nuova notifica</item>
     </plurals>
     <plurals name="numSelectedFile">
-        <item quantity="other"> %1$d selezionati</item>
-        <item quantity="one"> %1$d selezionato</item>
+        <item quantity="other">%1$d selezionati</item>
+        <item quantity="one">%1$d selezionato</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuti fa</item>
