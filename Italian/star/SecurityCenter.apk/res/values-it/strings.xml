@@ -97,6 +97,7 @@
     <string name="activity_mine_task">Le mie attività</string>
     <string name="activity_new_condition_name">Aggiungi condizione</string>
     <string name="activity_new_result_name">Aggiungi risultato</string>
+    <string name="activity_new_task_name">Aggiungi attività</string>
     <string name="activity_no_task">Non ci sono attività</string>
     <string name="activity_task_center">Centro attività</string>
     <string name="activity_title_antispam">Blacklist</string>
@@ -724,6 +725,7 @@
     <string name="auto_task_default_task_title_driver_car">Guida</string>
     <string name="auto_task_default_task_title_get_up">Alzati</string>
     <string name="auto_task_default_task_title_listen_music">Ascolta musica</string>
+    <string name="auto_task_default_task_title_meet">Riunione</string>
     <string name="auto_task_default_task_title_noon_break">Sonnellino</string>
     <string name="auto_task_default_task_title_save_power">Risparmia batteria</string>
     <string name="auto_task_default_task_title_sleep">Sonno</string>
@@ -2071,6 +2073,9 @@ riducendo la frequenza di aggiornamento e i limiti di temperatura"</string>
     <string name="gb_performance_mode">Mod. gioco</string>
     <string name="gb_performance_tips">"La mod. Prestazioni migliora le prestazioni grafiche,
 ma aumenta anche il consumo di energia e permette al dispositivo di surriscaldarsi."</string>
+    <string name="gb_predownload_dialog_cancel">Non ora</string>
+    <string name="gb_predownload_dialog_checked">"Non mostrare più"</string>
+    <string name="gb_predownload_dialog_confirm">Attiva</string>
     <string name="gb_shortcut_pref_title">Collegamento Home</string>
     <string name="gb_shoulder_guide_title2">Sequenza</string>
     <string name="gb_shoulder_key_add_show_btn">Mostra pulsanti virtuali durante le partite</string>
@@ -2098,6 +2103,7 @@ ma aumenta anche il consumo di energia e permette al dispositivo di surriscaldar
     <string name="gb_signed_gift_loading_fail">"Caricamento non riuscito"</string>
     <string name="gb_signed_gift_loading_summary">Attendi…</string>
     <string name="gb_signed_title">Registrato in questo mese</string>
+    <string name="gb_smart_battery_surplus_new">%1$s %2$s rimanenti</string>
     <string name="gb_sound_audition">Prova</string>
     <string name="gb_storage_game_dialog_button_timer">%d s</string>
     <string name="gb_storage_game_dialog_message">"È possibile memorizzare automaticamente i giochi in Turbo Videogiochi. Non appariranno nella schermata Home se si attiva questa funzione. Attivarla?"</string>
@@ -2252,6 +2258,9 @@ e prova a Cambiare Voce!"</string>
     <string name="gtb_dialog_btn_close">Disattiva</string>
     <string name="gtb_dialog_btn_open">Attiva</string>
     <string name="gtb_dialog_hint_smart_5g">Puoi attivare e disattivare questa funzione in Turbo Videogiochi &gt; Impostazioni.</string>
+    <string name="gtb_dialog_privacy_speed_message">"Stai per utilizzare Booster di Gioco Xunyou. Questo servizio raccoglierà il tuo ID Mi Account per registrare la durata del tuo abbonamento."</string>
+    <string name="gtb_dialog_privacy_speed_tips"><Data>\"Ho letto e accettato l\'&lt;a href=\"%1$s\"&gt;Informativa sulla privacy.&lt;/a&gt; di Booster di Gioco Xunyou\"</Data></string>
+    <string name="gtb_dialog_privacy_speed_title">Booster di Gioco Xunyou</string>
     <string name="gtb_dialog_privacy_voice_message">"Stai per utilizzare Xunyou Game Voice Changer. Questo servizio raccoglierà il tuo ID Mi Account per registrare la durata dell'abbonamento."</string>
     <string name="gtb_dialog_summary_smart_5g">Ogni volta che Turbo Videogiochi rileva una rete 5G, può connettere il tuo dispositivo alla migliore rete disponibile per ridurre il ping. Attivare questa funzione ora?</string>
     <string name="gtb_dialog_title_smart_5g">Ottimizzazioni rete 5G</string>
@@ -3808,6 +3817,7 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="privacy_revoke_dialog_title_cn">Attenzione</string>
     <string name="privacy_revoke_failed_dialog_content">Si è verificato un errore del server. Aspetta e prova di nuovo.</string>
     <string name="privacy_revoke_failed_dialog_title">"Impossibile revocare il consenso"</string>
+    <string name="privacy_revoke_tip_dialog_title">"Impossibile utilizzare l'app"</string>
     <string name="privacy_revoke_title">Revoca autorizzazione...</string>
     <string name="privacy_risk_app">App rischiose</string>
     <string name="privacy_risk_app_fuzzy">App senza anteprima sfocata</string>
@@ -4049,6 +4059,7 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="sd_format_summary">Cancella tutti i dati sulla scheda SD (incluse canzoni e foto)</string>
     <string name="sd_insert_summary">Inserisci la scheda SD da montare</string>
     <string name="sd_mount">Monta scheda SD</string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
     <string name="search_menu_title">Cerca</string>
     <string name="search_result_text">"Non è stato possibile trovare alcuna app"</string>
     <string name="section_clear_acc_item_title">"Liberato %s. Se non hai ancora abbastanza spazio, prova ad utilizzare Pulizia."</string>
@@ -4540,6 +4551,7 @@ Per usare questo ^1 con questo dispositivo, devi prima configurarlo."</string>
     <string name="storage_mount_failure">"Impossibile montare %1$s"</string>
     <string name="storage_mount_success">Montato %1$s con successo</string>
     <string name="storage_space_release_hint">Hai bisogno di più spazio?</string>
+    <string name="storage_system_log">Log di sistema</string>
     <string name="storage_system_memory_expansion">Estensione memoria</string>
     <string name="storage_unmount_failure">"Impossibile smontare %1$s"</string>
     <string name="storage_unmount_success">Smontato %1$s con successo</string>
@@ -4835,6 +4847,7 @@ La formattazione cancellerà il contenuto esistente sulla ^2. Per evitare di per
     <string name="title_condition_incall">Chiama</string>
     <string name="title_condition_location">Posizione</string>
     <string name="title_condition_lock_screen">Schemata di blocco</string>
+    <string name="title_condition_meeting">Riunione</string>
     <string name="title_condition_message">Messaggio</string>
     <string name="title_condition_nfc">NFC</string>
     <string name="title_condition_start_activity">Apri app</string>
