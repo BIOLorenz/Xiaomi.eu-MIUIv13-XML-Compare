@@ -1602,6 +1602,7 @@ per l'account %s."</string>
     <string name="phoneTypeOther">Altro</string>
     <string name="phoneTypeOtherFax">Altro fax</string>
     <string name="phoneTypePager">Cercapersone</string>
+    <string name="phoneTypeRadio">Radio</string>
     <string name="phoneTypeTelex">Telex</string>
     <string name="phoneTypeTtyTdd">TTY TDD</string>
     <string name="phoneTypeWork">Lavoro</string>
