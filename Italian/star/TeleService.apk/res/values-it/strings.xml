@@ -3,6 +3,7 @@
     <string name="HIPS_Perm_External_Storage">Archiviazione</string>
     <string name="HIPS_Perm_External_Storage_Desc">Accesso e salvataggio di file e foto sul dispositivo:</string>
     <string name="HIPS_Perm_Read_Contact">Contatti</string>
+    <string name="HIPS_Perm_Read_Contact_Desc">Accedi ai tuoi contatti</string>
     <string name="abc_action_bar_home_description">Vai alla Home</string>
     <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
     <string name="abc_action_menu_overflow_description">Altre opzioni</string>
@@ -56,6 +57,7 @@
     <string name="accessor_expires_text">Scadenza lease: %s</string>
     <string name="accessor_info_title">App che condividono dati</string>
     <string name="accessor_no_description_text">Nessuna descrizione fornita dall\'app.</string>
+    <string name="according_to_carrier">Mostra preferenze</string>
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="active_input_method_subtypes">Metodi di immissione attivi</string>
     <string name="activity_title_fakecell">Protezione da celle fasulle</string>
@@ -90,6 +92,7 @@
     <string name="adbwifi_warning_message">Il debug wireless è solo a scopo di sviluppo. Utilizzalo per copiare dati tra il computer e il dispositivo, per installare app sul tuo dispositivo senza notifica e per leggere i dati dei log.</string>
     <string name="adbwifi_warning_title">Consentire debug wireless?</string>
     <string name="add">Aggiungi</string>
+    <string name="add_fdn_contact">Aggiungi numero a selezione fissa</string>
     <string name="add_sip_account">Aggiungi account</string>
     <string name="add_user_failed">Creazione nuovo utente non riuscita</string>
     <string name="additional_cdma_call_settings">Impostazioni aggiuntive per chiamate CDMA</string>
@@ -468,6 +471,7 @@ Selezione"</string>
     <string name="default_preference_summary_domain_address">&lt;Non impostato&gt;</string>
     <string name="default_preference_summary_password">&lt;Non impostato&gt;</string>
     <string name="default_preference_summary_username">&lt;Non impostato&gt;</string>
+    <string name="default_transport">UDP</string>
     <string name="delete">Elimina</string>
     <string name="delete_blob_confirmation_text">Eliminare i dati condivisi?</string>
     <string name="delete_blob_text">Elimina dati condivisi</string>
