@@ -546,7 +546,7 @@
     <string name="menstruation_card_default_title">Nessuna mestruazione registrata</string>
     <string name="menstruation_card_error_sub_title">Riavvia Calendario.</string>
     <string name="menstruation_card_error_title">"Impossibile ottenere dati"</string>
-    <string name="menstruation_card_private_mode_sub_title">Modalità Privata</string>
+    <string name="menstruation_card_private_mode_sub_title">Mod. Privata</string>
     <string name="menstruation_card_private_mode_title">Ciclo mestruale ****</string>
     <string name="menstruation_cycle">Ciclo mestruale</string>
     <string name="menstruation_cycle_description">Intervallo fra le date di inizio di %d cicli consecutivi</string>
