@@ -352,9 +352,9 @@ Non cambiare o rinominare i file di backup."</string>
     <string name="gallery_summary">Impostaizoni galleria (foto non incluse)</string>
     <string name="grant_all_permission_content">Concedi tutti i permessi obbligatori per poter eseguire il backup e ripristinare gli elementi.</string>
     <string name="grant_all_permission_title">Permessi richiesti</string>
-    <string name="guarded_mode_dialog_backup_message">"I backup non sono consentiti in modalità Ospite"</string>
-    <string name="guarded_mode_dialog_title">"Sei in modalità Ospite"</string>
-    <string name="guarded_mode_dialog_transfer_message">"Impossibile utilizzare Mi Mover in modalità Ospite"</string>
+    <string name="guarded_mode_dialog_backup_message">"I backup non sono consentiti in mod. Ospite"</string>
+    <string name="guarded_mode_dialog_title">"Sei in mod. Ospite"</string>
+    <string name="guarded_mode_dialog_transfer_message">"Impossibile utilizzare Mi Mover in mod. Ospite"</string>
     <string name="heavenly_stems_bing">Bing</string>
     <string name="heavenly_stems_ding">Ding</string>
     <string name="heavenly_stems_geng">Geng</string>
@@ -398,10 +398,6 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
     <string name="icloud_need_wifi_title">E\' richiesta una rete Wi-Fi</string>
     <string name="import_again">Importa di nuovo</string>
     <string name="import_data_from_icloud">Importa dati da iCloud</string>
-    <string name="import_from_xiaomi_account_hint1">"\"1.\u0009Installa Mi Talk ed accedi.
-\u0009http://www.miliao.com
-
-2.\u0009Entra nelle impostazioni di Mi Talk e seleziona \"Backup contatti sul tuo Mi Account\""</string>
     <string name="import_from_xiaomi_account_hint2">Nota: Vai al prossimo punto se il backup è già esistente</string>
     <string name="import_from_xiaomi_account_hint_title">Usa Mi Talk per il backup dei contatti su dispositivi di altre marche</string>
     <string name="import_tip_summary">Per ragioni di compatibilità, sono supportati solo Contatti e Foto. Devi prima caricare i dati dei vecchi dispositivi su iCloud.</string>
@@ -524,9 +520,9 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
     <string name="more">Altro</string>
     <string name="morning">Mattina</string>
     <string name="multi_select_title">Selezionati %1$s elemento(i)</string>
-    <string name="multi_user_mode_backup_message">"Impossibile utilizzare il Backup in modalità Multi-utente. Disattiva la modalità Multi-utente per continuare."</string>
-    <string name="multi_user_mode_dialog_message">"Non puoi utilizzare Mi Mover in modalità Multi-utente. Disattiva la modalità Multi-utente per continuare."</string>
-    <string name="multi_user_mode_dialog_title">"Sei in modalità Multi-utente"</string>
+    <string name="multi_user_mode_backup_message">"Impossibile utilizzare il Backup in mod. Multi-utente. Disattiva la mod. Multi-utente per continuare."</string>
+    <string name="multi_user_mode_dialog_message">"Non puoi utilizzare Mi Mover in mod. Multi-utente. Disattiva la mod. Multi-utente per continuare."</string>
+    <string name="multi_user_mode_dialog_title">"Sei in mod. Multi-utente"</string>
     <string name="name_password_not_consistent">Nome utente o password sbagliati</string>
     <string name="never">Mai</string>
     <string name="new_backup">Backup</string>
