@@ -197,6 +197,7 @@
     <string name="alert_selection_title">Selezionate da IA</string>
     <string name="all_faces">Tutte le foto con persone</string>
     <string name="all_items_synced">E\' stato eseguito il backup di tutti gli album su Mi Cloud</string>
+    <string name="all_story_empty_desc">Nessun ricordo</string>
     <string name="all_video_album_display_name">Tutti i video</string>
     <string name="already_authorize_to_device">Autorizzato</string>
     <string name="already_cancel_authorize_to_device">Autorizzazione Annullata</string>
@@ -858,6 +859,7 @@
     <string name="empty_recommend_back">Indietro</string>
     <string name="empty_recommend_face_page_view">Nessun altro suggerimento</string>
     <string name="empty_relation">"Il nome del gruppo non può essere vuoto"</string>
+    <string name="empty_tip_btn">Scatta una foto</string>
     <string name="empty_title_no_cards">Assistente</string>
     <string name="empty_title_no_photos">Nessuna foto o video</string>
     <string name="enable_auto_upload_tip">Questo album verrà rimosso da \"Altri album\" dopo l\'attivazione.</string>
@@ -1243,6 +1245,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="home_page_camera">Fotocamera</string>
     <string name="home_page_custom">Personalizza</string>
     <string name="home_page_empty_action">Scatta foto</string>
+    <string name="home_page_empty_action_new">Importa dal vecchio dispositivo</string>
     <string name="home_page_label">Foto</string>
     <string name="homepage_allphotos_tip_dialog_button_negative">Salta</string>
     <string name="homepage_allphotos_tip_dialog_button_positive">OK</string>
@@ -1739,6 +1742,7 @@ per personalizzare la Galleria"</string>
     <string name="ocr_cancelled">Riconoscimento del testo annullato</string>
     <string name="ocr_copy">Copia</string>
     <string name="ocr_entrance">Riconosci il testo</string>
+    <string name="ocr_extract">Estrai</string>
     <string name="ocr_no_network">"Impossibile connettersi alla rete"</string>
     <string name="ocr_no_text_recognized">"Impossibile trovare testo da riconoscere"</string>
     <string name="ocr_note_not_existed">Prima installa Note</string>
@@ -1748,7 +1752,10 @@ per personalizzare la Galleria"</string>
     <string name="ocr_save_to_note_new">Salva su note</string>
     <string name="ocr_send">Condividi</string>
     <string name="ocr_text_copied">Copiato con successo</string>
+    <string name="ocr_text_copied_selected">Copiato con successo</string>
+    <string name="ocr_text_link">URL</string>
     <string name="ocr_title">Risultato</string>
+    <string name="ocr_translation">Traduci</string>
     <string name="ocr_using_cellular_negative">Riconosci</string>
     <string name="ocr_using_cellular_positive">Annulla</string>
     <string name="ocr_using_cellular_text">Riconoscere il testo utilizzando i dati potrebbe generare ulteriori spese. Proseguire?</string>
@@ -2587,6 +2594,12 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="story_cancel_download">Annulla</string>
     <string name="story_download">Scarica</string>
     <string name="story_download_failed_for_notwork">"Impossibile scaricare. Collegati alla rete e prova di nuovo."</string>
+    <string name="story_guide_tip_download_btn">Scarica</string>
+    <string name="story_guide_tip_generate_btn">Avvia</string>
+    <string name="story_guide_tip_open_btn">Attiva</string>
+    <string name="story_guide_tip_open_desc">Rivivi i tuoi momenti più belli</string>
+    <string name="story_guide_tip_open_title">Assistente</string>
+    <string name="story_guide_tip_revisit_btn">Avvia</string>
     <string name="story_option_menu_delete">Elimina storia</string>
     <string name="story_option_menu_rename">Rinomina</string>
     <string name="story_photo_downloading">Download in corso…</string>
@@ -2739,6 +2752,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="text_item_type_talkback_spot_xihu">Lago Occidentale</string>
     <string name="text_item_type_talkback_spot_yiheyuan">Palazzo Estivo</string>
     <string name="text_item_type_talkback_spot_zhangjiajie">Zhangjiajie</string>
+    <string name="text_recognition">Riconosci il testo</string>
     <string name="text_tab_bubble">Bolla</string>
     <string name="text_tab_city">Città</string>
     <string name="text_tab_festival">Vacanze</string>
@@ -2833,6 +2847,10 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="toast_orientation_unlock">L\'orientamento dello schermo è sbloccato</string>
     <string name="toast_rename_exit">Questo file esiste già</string>
     <string name="today">Oggi</string>
+    <string name="today_of_year">In questo giorno</string>
+    <string name="today_of_year_empty_tip">Nessun ricordo</string>
+    <string name="today_of_year_location_num">Per località</string>
+    <string name="today_of_year_photo_num">Foto</string>
     <string name="tomorrow">domani</string>
     <string name="too_many_recipients">"Il messaggio contiene troppi destinatari (%1$s), il numero massimo è %2$s."</string>
     <string name="trash_bin">Cestino</string>
