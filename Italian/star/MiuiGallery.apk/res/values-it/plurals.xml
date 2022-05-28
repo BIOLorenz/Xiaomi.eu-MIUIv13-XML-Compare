@@ -560,6 +560,14 @@
         <item quantity="other">%1$s, %2$s elementi</item>
         <item quantity="one">%1$s, %2$s elemento</item>
     </plurals>
+    <plurals name="today_of_year_location_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="today_of_year_photo_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_cloud">
         <item quantity="other">%d elementi selezionati verranno eliminati definitivamente dal cloud e da tutti i dispositivi sincronizzati. Eliminare comunque?</item>
         <item quantity="one">%d elemento selezionato verrà eliminato definitivamente dal cloud e da tutti i dispositivi sincronizzati. Eliminare comunque?</item>
