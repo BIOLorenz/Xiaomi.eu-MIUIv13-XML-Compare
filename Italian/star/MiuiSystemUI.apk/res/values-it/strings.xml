@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abbrev_wday_month_day_no_year">dMMMMEEEE</string>
-    <string name="abbrev_wday_month_day_no_year_alarm">dMMMEEE</string>
+    <string name="abbrev_wday_month_day_no_year">d MMMM EEEE</string>
+    <string name="abbrev_wday_month_day_no_year_alarm">d MMM EEE</string>
     <string name="abc_action_bar_home_description">Vai alla Home</string>
     <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
     <string name="abc_action_menu_overflow_description">Altre opzioni</string>
@@ -2429,7 +2429,7 @@ d MMM"</string>
     <string name="switch_bar_on">Attivata</string>
     <string name="switch_system_user">Apri Primo Spazio</string>
     <string name="symbol_colon">:</string>
-    <string name="system_ui_aod_date_pattern">eeedMMM</string>
+    <string name="system_ui_aod_date_pattern">d MMM EEE</string>
     <string name="system_ui_tuner">Messa a punto UI di Sistema</string>
     <string name="tap_again">Tocca di nuovo</string>
     <string name="tap_to_sign_up">Tocca per iscriverti</string>
