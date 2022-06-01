@@ -448,6 +448,7 @@
     <string name="fmt_weekday_date_timezone">zDW</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
+    <string name="fold_pair_install_shortcut_long_click">Tieni premuto per aggiungere alla schermata Home</string>
     <string name="fold_pair_installed_shortcut_launcher">Questo collegamento esiste già</string>
     <string name="folder_name">Cartella</string>
     <string name="frame_load_failed">"Impossibile caricare il widget Cornice."</string>
@@ -752,6 +753,7 @@
     <string name="night">Sera</string>
     <string name="no_detail_page">Nessuna pagina per i dettagli</string>
     <string name="no_space_toast">Spazio insufficiente</string>
+    <string name="no_space_toast_fold">Non c\'è abbastanza spazio qui</string>
     <string name="no_space_toast_when_click_widget">Spazio insufficiente in questa pagina. Prova a trascinare questo elemento su una pagina diversa.</string>
     <string name="noon">Mezzogiorno</string>
     <string name="normal_wallpaper">Sfondo</string>
@@ -1059,6 +1061,7 @@
     <string name="uninstall_xspace_dialog_title_format">Disinstalla clone di \"%s\"</string>
     <string name="unknown_artist_name">Artista sconosciuto</string>
     <string name="unnamed_folder_name">Cartella</string>
+    <string name="upgrade_remove_small_window_in_recents">È possibile utilizzare la barra laterale per aprire le app in finestre fluttuanti</string>
     <string name="v7_preference_off">DISATTIVATO</string>
     <string name="v7_preference_on">ATTIVATO</string>
     <string name="wallpaper">Sfondo</string>
