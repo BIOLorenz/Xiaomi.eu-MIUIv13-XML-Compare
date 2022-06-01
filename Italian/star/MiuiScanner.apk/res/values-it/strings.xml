@@ -40,7 +40,11 @@
     <string name="agree_app_use">Scansione di codici QR e altre immagini (alcune funzionalità potrebbero richiedere l\'accesso alla tua posizione)</string>
     <string name="agree_audio_permission">Registra audio</string>
     <string name="agree_btn">Accetto</string>
+    <string name="agree_camera_permission">Per usare la fotocamera per scansionare gli elementi</string>
+    <string name="agree_camera_permission_message">Per usare la fotocamera per scansionare gli elementi</string>
     <string name="agree_monitor_use">Controlla il tempo e la percentuale di ascolto attento e distrazioni durante le lezioni online. Tutti i tuoi dati personali verranno salvati localmente</string>
+    <string name="agree_storage_permission">Per accedere e importare immagini dalla Galleria e salvare file</string>
+    <string name="agree_storage_permission_message">Per accedere e importare immagini dalla Galleria e salvare file</string>
     <string name="all_text">Testo completo</string>
     <string name="already_ocr_result">Elementi selezionati automaticamente</string>
     <string name="always">Sempre</string>
@@ -907,6 +911,7 @@
     <string name="to_date">Oggi</string>
     <string name="to_install_title">Questo codice QR ti reindirizza ad un\'app disinstallata. Scaricarla di nuovo?</string>
     <string name="to_pay">Completa il pagamento</string>
+    <string name="toast_net_2g">La rete è scadente. Si prega di cambiare la rete e riprovare</string>
     <string name="today">Oggi</string>
     <string name="toinstall">Scarica</string>
     <string name="tomorrow">domani</string>
