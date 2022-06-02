@@ -532,6 +532,7 @@
     <string name="superpower_system">Consigliato</string>
     <string name="superpower_third">App di terze parti</string>
     <string name="superpower_time">hh:mm</string>
+    <string name="superpower_time_24">H:mm</string>
     <string name="superpower_toast_app_select_full">Puoi aggiungere fino a 6 app usate frequentemente</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversario dell\'abolizione della legge marziale</string>
     <string name="the_anti_aggression_day">Giornata della pace</string>
