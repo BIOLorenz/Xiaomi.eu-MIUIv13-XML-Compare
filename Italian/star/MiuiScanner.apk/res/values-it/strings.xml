@@ -912,6 +912,7 @@
     <string name="to_install_title">Questo codice QR ti reindirizza ad un\'app disinstallata. Scaricarla di nuovo?</string>
     <string name="to_pay">Completa il pagamento</string>
     <string name="toast_net_2g">La rete è scadente. Si prega di cambiare la rete e riprovare</string>
+    <string name="toast_net_timeout">La richiesta è scaduta. Riprova più tardi</string>
     <string name="today">Oggi</string>
     <string name="toinstall">Scarica</string>
     <string name="tomorrow">domani</string>
