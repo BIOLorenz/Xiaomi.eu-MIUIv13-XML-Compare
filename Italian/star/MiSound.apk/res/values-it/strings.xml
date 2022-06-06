@@ -205,7 +205,6 @@
     <string name="fmt_weekday_date_timezone">zDW</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
-    <string name="four_note">Il test richiederà circa 3 minuti per essere completato.</string>
     <string name="friday">Venerdì</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
@@ -282,6 +281,7 @@
     <string name="miuix_appcompat_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
+    <string name="miuix_indexer_collect">Raccolte</string>
     <string name="miuix_indexer_selected">Selezionato %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
@@ -372,7 +372,6 @@
     <string name="music_audio_effect_settings">Impostazioni Effetti</string>
     <string name="music_audio_visual_wake_lock">Mantieni lo schermo acceso</string>
     <string name="music_audio_visual_wake_lock_summary">"Non spegnere lo schermo quando vengono visualizzati gli effetti visivi"</string>
-    <string name="music_below_thirty_years">Fino ai 30 anni</string>
     <string name="music_customized_sound_summary">Personalizza il volume in base alla tua percezione uditiva</string>
     <string name="music_customized_sound_title">Regolazione volume</string>
     <string name="music_delete">Elimina</string>
@@ -469,10 +468,8 @@
     <string name="music_sound_num">Preset personalizzato %s</string>
     <string name="music_sound_sample">Preset di sistema</string>
     <string name="music_sure_to_delete_sound_msg">Eliminare i preset selezionati?</string>
-    <string name="music_thirty_to_sixty_years">30-60 anni</string>
     <string name="music_title_dolby_control">Dolby Digital Plus</string>
     <string name="music_unsupport_effect_summary">"Cuffie USB non supportate"</string>
-    <string name="music_upper_sixty_years">Più di 60 anni</string>
     <string name="name">Nome</string>
     <string name="night">Sera</string>
     <string name="noon">Mezzogiorno</string>
