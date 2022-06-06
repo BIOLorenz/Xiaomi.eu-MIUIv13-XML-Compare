@@ -709,7 +709,6 @@
     <string name="context_menu_add_contact">Aggiungi ad un contatto</string>
     <string name="context_menu_copy">Copia</string>
     <string name="context_menu_copy_notice">Copiato negli appunti</string>
-    <string name="continue_feedback">Feedback aggiuntivo</string>
     <string name="copy">Copia</string>
     <string name="correct_photo_time">Correggi data ed ora per le foto</string>
     <string name="correct_time_success">Correzione riuscita</string>
@@ -987,6 +986,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="fast_share_auto_render_finish">Filtro bellezza applicato</string>
     <string name="feature_guidance_photo_effects">"Effetti foto"</string>
     <string name="feature_guidance_video_editor_smart_effects">Sono disponibili nuovi effetti</string>
+    <string name="feedback_my_reports">Segnalazione</string>
     <string name="file_cannot_print">"Impossibile stampare questo elemento."</string>
     <string name="file_cannot_screen_throw">"Impossibile trasmettere questo elemento."</string>
     <string name="file_sending">Trasferimento file…</string>
