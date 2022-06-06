@@ -862,6 +862,8 @@ Motivo: \"%s\""</string>
     <string name="lunar_calendar">Lunare</string>
     <string name="lunar_leap">Salto</string>
     <string name="make_primary">Ricorda questa scelta</string>
+    <string name="manage_external_storage_dialog_positive">Impostazioni</string>
+    <string name="manage_external_storage_dialog_title">Permessi richiesti</string>
     <string name="map_custom">Visualizza indirizzo %s</string>
     <string name="map_home">Visualizza indirizzo casa</string>
     <string name="map_other">Visualizza indirizzo</string>
