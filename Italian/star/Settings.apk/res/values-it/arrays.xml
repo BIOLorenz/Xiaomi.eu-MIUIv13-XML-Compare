@@ -2228,6 +2228,7 @@ Nota: solo per Ubuntu 8.04!"</item>
         <item>mayfly</item>
         <item>daumier</item>
         <item>diting</item>
+        <item>unicorn</item>
     </string-array>
     <string-array name="support_speaker_auto_clean_device_list">
         <item>willow</item>
