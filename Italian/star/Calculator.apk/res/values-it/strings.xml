@@ -518,6 +518,7 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
     <string name="network_confirm_content">Convertitore di valuta e Calcolatore mutuo devono accedere alla connessione internet per funzionare correttamente</string>
     <string name="network_confirm_title">Permessi richiesti</string>
     <string name="network_purpose">Benvenuti nella Calcolatrice! Calcolatrice consente di convertire valute, calcolare i rimborsi ipotecari e altro ancora.</string>
+    <string name="new_privacy_string"><Data>\"Benvenuto su Calcolatrice!&lt;br/&gt;Questa app contiene le seguenti funzioni:&lt;br/&gt;• Calcolatrice di base&lt;br/&gt;• Calcolatrice scientifica&lt;br/&gt;• Convertitore universale (es. valuta, unità di misura, ecc.&lt;br/&gt;• Modelli di calcolo per prestiti, investimenti, EMI, and more&lt;br/&gt;Puoi scoprire come gestiamo le informazioni che raccogliamo nel nostro &lt;a href=\"%1$s\"&gt;Informativa sulla Privacy&lt;/a&gt;. Leggi e accetta il nostro &lt;a href=\"%2$s\"&gt;Contratto utente&lt;/a&gt; e &lt;a href=\"%3$s\"&gt;Informativa sulla privacy&lt;/a&gt; prima di utilizzare Calcolatrice. Puoi revocare il tuo consenso all\'Informativa sulla Privacy di Calcolatrice nelle Impostazioni in qualsiasi momento. Se non accetti la nostra Informativa sulla Privacy, non potrai utilizzare alcune funzionalità di questa applicazione; tuttavia, la sua funzionalità di base sarà ancora disponibile.\"</Data></string>
     <string name="night">PM</string>
     <string name="none">Nessuno</string>
     <string name="noon">PM</string>
