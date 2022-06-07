@@ -187,6 +187,7 @@
     <string name="heavenly_stems_yi">Yi</string>
     <string name="invalid_package_signature">Firma app non valida</string>
     <string name="login_mi_account_alert">Attenzione</string>
+    <string name="login_mi_account_summary">Password manager sincronizza le password con il tuo account Xiaomi. Accedi ora?</string>
     <string name="midnight">Notte</string>
     <string name="miuix_access_state_desc">Selezionato</string>
     <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
