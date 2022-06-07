@@ -233,6 +233,7 @@
     <string name="incomingmessage">Messaggio in arrivo</string>
     <string name="internal_livetalk_enable">Uso del pacchetto ricarica per le chiamate nazionali</string>
     <string name="international_livetalk_enable">Uso del pacchetto ricarica per le chiamate internazionali</string>
+    <string name="kb_reset_toast">Reimposta tastiera con successo</string>
     <string name="key_btn_ok">OK</string>
     <string name="key_btn_space">Spazio</string>
     <string name="keyboard_connect_failed">"Impossibile riconoscere la tastiera. Ricollegala."</string>
