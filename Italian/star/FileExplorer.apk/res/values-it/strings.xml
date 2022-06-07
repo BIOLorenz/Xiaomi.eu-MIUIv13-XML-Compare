@@ -29,6 +29,7 @@
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="ad_download">Scarica</string>
     <string name="add_one">(1)</string>
+    <string name="add_private">Rendi i file privati</string>
     <string name="add_private_files">Aggiungi file</string>
     <string name="added_category">Aggiunto</string>
     <string name="afternoon">Pomeriggio</string>
@@ -62,6 +63,7 @@
     <string name="cancel_error">"Impossibile rimuovere. Riprova."</string>
     <string name="cancel_msg">Deselezionare tutti?</string>
     <string name="cancel_operation">Annulla operazione</string>
+    <string name="cancel_success">File spostati in %s con successo</string>
     <string name="cancelled_by_user">Operazione annullata</string>
     <string name="cannot_send">"Impossibile inviare file dalla memoria interna"</string>
     <string name="category">Categorie</string>
@@ -202,6 +204,7 @@
     <string name="decompress_confirm">Estrai</string>
     <string name="decompress_corrupt">"Impossibile scompattare i file. Il pacchetto è corrotto."</string>
     <string name="decompress_destination_error">"Impossibile estrarre in questo percorso."</string>
+    <string name="decompress_encrypted_rar_not_supported">"I file RAR crittografati non sono supportati."</string>
     <string name="decompress_fail">"Estrazione fallita"</string>
     <string name="decompress_input_password">Inserisci password</string>
     <string name="decompress_password_error">La password inserita non è corretta.</string>
@@ -214,11 +217,13 @@
     <string name="decrypt_to">Decritta e salva in…</string>
     <string name="decrypting">Rimozione</string>
     <string name="delete_dialog_button">Elimina</string>
+    <string name="delete_error">"Impossibile eliminare i file. Riprova."</string>
     <string name="delete_file">Eliminare questo file?</string>
     <string name="delete_file_error">"Non è stato possibile eliminare il file"</string>
     <string name="delete_folder">\u0020Eliminare questa cartella?</string>
     <string name="des_hide_pwd">Nascondi password</string>
     <string name="des_show_pwd">Mostra password</string>
+    <string name="dialog_select_type">Seleziona tipo</string>
     <string name="dialog_type_audio">Audio</string>
     <string name="dialog_type_image">Immagini</string>
     <string name="dialog_type_text">Documenti</string>
@@ -251,8 +256,13 @@
     <string name="earthly_branches_you">You</string>
     <string name="earthly_branches_zi">Zi</string>
     <string name="edit_quick_category">Modifica</string>
+    <string name="enable_sd_card">Inserisci una scheda SD</string>
     <string name="enable_usb">Collega dispositivo USB</string>
+    <string name="encrypt_error">"Impossibile rendere privato. Riprova."</string>
+    <string name="encrypt_prefix">PRIVATO</string>
     <string name="encrypt_setting">Crittografia</string>
+    <string name="encrypt_success">Gli elementi selezionati sono ora privati</string>
+    <string name="encrypt_success_first_five">"Questo elemento è ora privato. È possibile visualizzare i file privati tirando giù sulla pagina iniziale del Gestore file."</string>
     <string name="encrypting">Crittografia…</string>
     <string name="enter">Apri Gestore File</string>
     <string name="entry_phone_storage_internal">Memoria interna</string>
@@ -260,6 +270,7 @@
     <string name="entry_storage_usb">Dispositivo USB</string>
     <string name="eras_ad">AC</string>
     <string name="eras_bc">DC</string>
+    <string name="error_contains_sharer_path">"Impossibile creare file privato da \"/MIUI/Gallery/cloud/sharer\". Sposta il file in un'altra cartella e riprova."</string>
     <string name="error_create_dir">"Impossibile creare la cartella"</string>
     <string name="error_create_file">"Impossibile creare il file"</string>
     <string name="error_delete_failed">"Non è stato possibile eliminare il file"</string>
@@ -276,8 +287,10 @@
     <string name="exit">Esci</string>
     <string name="expand_button_title">Avanzate</string>
     <string name="exposed_dropdown_menu_content_description">Mostra menu a tendina</string>
+    <string name="extended_storage_file_can_not_open">"Impossibile aprire il file. Copiarlo nella memoria interna."</string>
     <string name="extract">Estrai</string>
     <string name="fab_menu_sort">Ordinamento note</string>
+    <string name="fail_to_create_folder_unknown">"Impossibile creare la cartella a causa di un errore sconosciuto."</string>
     <string name="failed_not_access_sd_card">Prima concedi l\'accesso alla scheda SD</string>
     <string name="failed_obtain_permissions">"Impossibile ottenere i permessi"</string>
     <string name="favorite_photo">Foto</string>
@@ -337,6 +350,7 @@
     <string name="friday">Venerdì</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
+    <string name="ftp_account_req_notice">Il nome utente e la password sono case-sensitive e devono contenere %1$d-%2$d caratteri. Puoi combinare lettere, simboli speciali e numeri.</string>
     <string name="ftp_anonymous_login">FTP Anonimo</string>
     <string name="ftp_anonymous_warning_msg">Le funzioni di anonimato potrebbero comportare dei rischi. Utilizzare comunque questa funzione?</string>
     <string name="ftp_anonymous_warning_title">Attenzione</string>
@@ -389,6 +403,8 @@
     <string name="imm_str_storage">Archiviazione</string>
     <string name="import_files_from_old_phones">Importa dal vecchio dispositivo</string>
     <string name="instruction">Inserire il seguente indirizzo:</string>
+    <string name="instruction_pre_pad">Gestisci i file su questo dispositivo usando un computer</string>
+    <string name="instruction_pre_phone">Gestisci i file su questo dispositivo usando un computer</string>
     <string name="internal_storage">Memoria interna</string>
     <string name="item_view_role_description">Tocca</string>
     <string name="just_now">Un momento fa</string>
@@ -404,6 +420,9 @@
     <string name="local_music">Audio</string>
     <string name="local_video">Video</string>
     <string name="make_private">Rendi privata</string>
+    <string name="make_private_msg_1">Rendere questo file privato?</string>
+    <string name="make_private_msg_2">Rendere privati questi file?</string>
+    <string name="make_private_msg_3">Tutti i file in questa cartella saranno resi privati.</string>
     <string name="material_slider_range_end">Fine intervallo,</string>
     <string name="material_slider_range_start">Inizio intervallo,</string>
     <string name="megabyteShort">MB</string>
@@ -412,7 +431,9 @@
     <string name="menu_item_router">Gateway</string>
     <string name="menu_item_search">Cerca</string>
     <string name="menu_item_sort">Ordina per</string>
+    <string name="menu_item_sort_add_time">"Aggiunto ai preferiti "</string>
     <string name="menu_item_sort_by_added_time">Aggiunto</string>
+    <string name="menu_item_sort_date">Ora di modifica</string>
     <string name="menu_item_sort_name">Nome</string>
     <string name="menu_item_sort_type">Tipo</string>
     <string name="menu_item_usb">USB</string>
@@ -568,6 +589,7 @@
     <string name="no_enough_storage_title">Memoria insufficiente</string>
     <string name="no_file">Vuoto</string>
     <string name="no_permission">Concedi i permessi necessari per accedere a questa funzione</string>
+    <string name="no_wifi">Nessuna rete Wi-Fi</string>
     <string name="noon">Mezzogiorno</string>
     <string name="not_added_category">Disponibile</string>
     <string name="not_set">Non impostato</string>
@@ -589,6 +611,8 @@
     <string name="operation_del_fav">Rimozione dai preferiti…</string>
     <string name="operation_delete">Elimina</string>
     <string name="operation_delete_confirm_message">Confermare l\'eliminazione?</string>
+    <string name="operation_delete_confirm_message_folder">"Tutti i contenuti delle cartelle verranno eliminati.
+"</string>
     <string name="operation_deleting">Eliminazione…</string>
     <string name="operation_encrypt_summary">Crittografare i file nella cartella privata. La decrittografia di file di grandi dimensioni potrebbe richiedere più tempo del previsto.</string>
     <string name="operation_encrypt_title">Crittografare i file privati</string>
@@ -617,6 +641,8 @@
     <string name="otg_file_security_note">OGTSecurity</string>
     <string name="overwrite_msg">\"%s\" è già esistente. Tocca per sostituirlo con il nuovo file.</string>
     <string name="partial_cancel_successful">"Impossibile rimuovere alcuni file. Gli altri file verranno spostati in %s."</string>
+    <string name="partial_delete_failure">"Impossibile eliminare alcuni file. Riprova."</string>
+    <string name="partial_encrypt_success">"Impossibile rendere privati alcuni file. Riprova."</string>
     <string name="password_toggle_content_description">Mostra password</string>
     <string name="path_name_email">E-mail</string>
     <string name="permission_denial">"Impossibile accedere ai file. Consenti ad Explorer di accedere ai file nelle impostazioni."</string>
@@ -650,6 +676,8 @@
     <string name="privacy_policy_renew_content"><Data>\"L\'Informativa sulla privacy &lt;a href=\"%1$s\"&gt;di Gestore File&lt;/a&gt; è stata aggiornata. Per comprendere appieno i tuoi diritti come utente e le mod. con cui utilizziamo i tuoi dati, leggi e accetta la nuova versione prima di continuare.\"</Data></string>
     <string name="private_files">Privato</string>
     <string name="private_folder">File privati</string>
+    <string name="private_folder_no_file_hints">Tieni premuto un file o una cartella per renderlo privato</string>
+    <string name="private_folder_update">Aggiornamento file privati…</string>
     <string name="private_folder_update_msg">File Manager sta introducendo una nuova misura di sicurezza aggiuntiva: da ora è possibile crittografare i file privati.</string>
     <string name="private_folder_update_msg_summary">La decrittografia renderà più lenta la rimozione dei file dalla cartella privata. È possibile attivare e disattivare la crittografia nelle impostazioni.</string>
     <string name="private_folder_update_tips">Nuova funzionalità</string>
@@ -668,6 +696,7 @@
     <string name="rename_input_null">Nuovo nome file</string>
     <string name="rename_msg">Un file chiamato \"%s\" esiste già.</string>
     <string name="repair_done">Ripristino completato</string>
+    <string name="repair_error">"Impossibile ripristinare. Riprova."</string>
     <string name="repair_file">Ripristina file crittografati</string>
     <string name="replace">Sostituisci</string>
     <string name="request_document_permission">Per gestire il file sulla scheda SD, concedi a File Manager i permessi richiesti.</string>
@@ -697,6 +726,7 @@
     <string name="search_file_type_picture">Foto</string>
     <string name="search_file_type_video">Video</string>
     <string name="search_guid_hint">Cerca file</string>
+    <string name="search_hint">Inserire il nome del file</string>
     <string name="search_keyword">Tag</string>
     <string name="search_menu_title">Cerca</string>
     <string name="search_more_category">Altro</string>
@@ -708,12 +738,14 @@
     <string name="select_image">Immagini</string>
     <string name="select_music">Audio</string>
     <string name="select_video">Video</string>
+    <string name="select_volume">Seleziona la posizione di archiviazione</string>
     <string name="send">Invia</string>
     <string name="server_control_advanced_settings">Altre impostazioni</string>
     <string name="server_control_charset">Codifica trasferimento</string>
     <string name="server_control_settings">Impostazioni</string>
     <string name="set_pattern">Aggiorna la password</string>
     <string name="set_pattern_btn">Imposta</string>
+    <string name="set_pattern_msg">Imposta di nuovo la tua password. La password di protezione della privacy funziona anche per foto, messaggi e note.</string>
     <string name="size_lv1">Minore di %d KB</string>
     <string name="size_lv2" formatted="false">%1d KB - %2d MB</string>
     <string name="size_lv3" formatted="false">%1d MB - %2d MB</string>
@@ -838,6 +870,7 @@
     <string name="total_size">Totale: %s</string>
     <string name="transfer">Trasferimenti e download</string>
     <string name="transfer_done">File spostati con successo.</string>
+    <string name="transfer_private_data">Spostamento file privati dalla scheda SD…</string>
     <string name="transfer_summary">Download ed elementi trasferiti tramite Mi Share</string>
     <string name="tuesday">Martedì</string>
     <string name="tuesday_short">Mar</string>
@@ -845,7 +878,9 @@
     <string name="type_not_support">"Questo formato non è supportato. Scompatta questo file e riprova."</string>
     <string name="ui_main_toast_favorite_added">Aggiunto ai preferiti</string>
     <string name="ui_main_toast_favorite_removed">Rimosso dai Preferiti</string>
+    <string name="ui_main_toast_operation_failed">"Impossibile rimuovere %1$s dai preferiti"</string>
     <string name="unknown_error">Si è verificato un errore. Aspetta un minuto o due e prova di nuovo.</string>
+    <string name="unlock_pattern_msg">La password per la protezione della privacy funziona anche per foto, messaggi e note.</string>
     <string name="unlock_pattern_title">Nuova password</string>
     <string name="upload_user_photo">Carica</string>
     <string name="usb_label">USB</string>
