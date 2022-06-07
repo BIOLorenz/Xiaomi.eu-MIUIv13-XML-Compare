@@ -192,6 +192,7 @@
     <string name="common_timer_selector">Seleziona timer</string>
     <string name="confirm">Conferma</string>
     <string name="confirm_abort">Ignora</string>
+    <string name="confirm_remove_custom_ringtone">Se elimini questa suoneria, le sveglie e i timer che la usano riprodurranno la suoneria predefinita. Eliminarla?</string>
     <string name="content_desc_keep_screen">Pulsante \"Mantieni schermo attivo\"</string>
     <string name="continue_operation">Continua</string>
     <string name="continue_step">Successivo</string>
@@ -199,6 +200,7 @@
     <string name="control_set_alarm_with_existing">Sveglia impostata: %s</string>
     <string name="copy">Copia</string>
     <string name="current_stopwatch_time">Tempo attuale</string>
+    <string name="custom_ringtone_lost_permissions">"Impossibile accedere a questo suono."</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
     <string name="default_alarm_alert">Imposta suoneria sveglia predefinita</string>
@@ -210,6 +212,7 @@
     <string name="delete_timer_item_title">Elimina operazione</string>
     <string name="delete_timezone_title">Elimina fuso orario</string>
     <string name="deskclock_sleep_no_disturbance">Orologio - Pianifica il sonno - Mod. Non Disturbare</string>
+    <string name="device_sounds">Suoni dispositivo</string>
     <string name="dialog_confirm_abort">Vuoi annullare le modifiche?</string>
     <string name="dialog_legal_off_day"><Data>\"Sembra che tu stia utilizzando Sveglie nei giorni festivi. Questa funzione deve connettersi a internet per funzionare correttamente. Prima di utilizzare questa funzione, è necessario accettare il nostro &lt;a href=\"%1$s\"&gt;Contratto utente&lt;/a&gt; e &lt;a href=\"%2$s\"&gt;Informativa sulla privacy&lt;/a&gt;. Accettare?\"</Data></string>
     <string name="dialog_legal_off_day_desc">"L' orologio non è autorizzato a connettersi ad internet per aggiornare le info sulle festività. Le sveglie si disattiveranno sabato e domenica."</string>
@@ -804,4 +807,5 @@
     <string name="worldcolock_timezone_local">Identico all\'ora locale</string>
     <string name="xiaoai_ringtone_title">Suonerie Mi IA</string>
     <string name="yesterday">Ieri</string>
+    <string name="your_sounds">I miei suoni</string>
 </resources>
