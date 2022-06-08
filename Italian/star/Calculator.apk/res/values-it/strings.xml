@@ -243,9 +243,9 @@
     <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time_12hour">"h"</string>
-    <string name="fmt_time_12hour_minute">hh:mm</string>
-    <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
-    <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ss</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
     <string name="fmt_time_24hour">"H"</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
     <string name="fmt_time_minute_second">"m:s"</string>
@@ -942,7 +942,7 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
     <string name="unit_data_short_data_tb">TB</string>
     <string name="unit_data_short_length_km">Km</string>
     <string name="unit_data_short_length_lii">li</string>
-    <string name="unit_data_short_time_day">dd</string>
+    <string name="unit_data_short_time_day">d</string>
     <string name="unit_data_short_velocity_ftps">ft/s</string>
     <string name="unit_data_short_velocity_inps">in/s</string>
     <string name="unit_data_short_velocity_mileph">mi/h</string>
