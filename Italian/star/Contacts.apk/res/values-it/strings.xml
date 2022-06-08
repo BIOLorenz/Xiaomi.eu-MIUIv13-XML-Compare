@@ -108,7 +108,7 @@
     <string name="bh_cu">Cina Unicom</string>
     <string name="bh_current_no_sim">"Scheda SIM non inserita"</string>
     <string name="bh_current_sim_number">Numero di telefono SIM attuale %1$s</string>
-    <string name="bh_day">dd</string>
+    <string name="bh_day">d</string>
     <string name="bh_delete">Elimina</string>
     <string name="bh_delete_charged_phone_number">Elimina il numero di telefono usato di recente</string>
     <string name="bh_delete_edited_phone_number">Elimina il numero di telefono inserito</string>
