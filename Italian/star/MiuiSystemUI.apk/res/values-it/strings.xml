@@ -1320,7 +1320,7 @@ Contatta il tuo provider di rete per richiedere un'altra SIM."</string>
     <string name="keyguard_try_fingerprint">Usa l\'impronta digitale per aprire</string>
     <string name="keyguard_unlock">Scorri verso l\'alto per sbloccare</string>
     <string name="keyguard_unlock_press">Premi per aprire</string>
-    <string name="keyguard_widget_12_hours_format">hh:mm</string>
+    <string name="keyguard_widget_12_hours_format">h:mm</string>
     <string name="keywords_adb_wireless">ADB, debug, sviluppatori</string>
     <string name="keywords_alarms_and_reminders">pianificazione, sveglia, promemoria, orologio</string>
     <string name="kg_enter_confirm_pin_hint">Conferma il PIN</string>
@@ -1749,7 +1749,7 @@ Se hai domande, contatta %2$s."</string>
     <string name="mtrl_picker_text_input_date_hint">Data</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
-    <string name="mtrl_picker_text_input_day_abbr">dd</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Passa alla mod. di inserimento calendario</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tocca per selezionare un giorno</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passa alla mod. di inserimento testo</string>
@@ -2499,6 +2499,7 @@ Il tuo telefono potrebbe diventare troppo caldo se:
     <string name="tile_unavailable">Non disponibile</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
     <string name="time_unit_just_now">Un momento fa</string>
+    <string name="tip_close_flares">"Non riceverai notifiche sul comportamento delle app durante questa sessione"</string>
     <string name="title_convert_fbe">Converti a file basato su crittografia</string>
     <string name="title_usb_accessory">Accessorio USB</string>
     <string name="today">Oggi</string>
