@@ -564,6 +564,26 @@ Per disattivare questa funzione, vai in Impostazioni &gt; Suoni e Vibrazione &gt
     <string name="lockscreen_wallpaper">Schemata di blocco</string>
     <string name="lockstyle_personal_settings">Impostazioni schede</string>
     <string name="long_click_can_hide_resource">Tieni premuto per nascondere gli elementi</string>
+    <string name="m3_ref_typeface_brand_display_regular">sans-serif</string>
+    <string name="m3_ref_typeface_brand_medium">sans-serif-medium</string>
+    <string name="m3_ref_typeface_brand_regular">sans-serif</string>
+    <string name="m3_ref_typeface_plain_medium">sans-serif-medium</string>
+    <string name="m3_ref_typeface_plain_regular">sans-serif</string>
+    <string name="m3_sys_typescale_body_large_font">sans-serif</string>
+    <string name="m3_sys_typescale_body_medium_font">sans-serif</string>
+    <string name="m3_sys_typescale_body_small_font">sans-serif</string>
+    <string name="m3_sys_typescale_display_large_font">sans-serif</string>
+    <string name="m3_sys_typescale_display_medium_font">sans-serif</string>
+    <string name="m3_sys_typescale_display_small_font">sans-serif</string>
+    <string name="m3_sys_typescale_headline_large_font">sans-serif</string>
+    <string name="m3_sys_typescale_headline_medium_font">sans-serif</string>
+    <string name="m3_sys_typescale_headline_small_font">sans-serif</string>
+    <string name="m3_sys_typescale_label_large_font">sans-serif-medium</string>
+    <string name="m3_sys_typescale_label_medium_font">sans-serif-medium</string>
+    <string name="m3_sys_typescale_label_small_font">sans-serif-medium</string>
+    <string name="m3_sys_typescale_title_large_font">sans-serif</string>
+    <string name="m3_sys_typescale_title_medium_font">sans-serif-medium</string>
+    <string name="m3_sys_typescale_title_small_font">sans-serif-medium</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Seleziona AM o PM</string>
     <string name="material_hour_selection">Seleziona l\'ora</string>
@@ -717,6 +737,7 @@ mm"</string>
     <string name="mtrl_picker_a11y_next_month">Passa al mese successivo</string>
     <string name="mtrl_picker_a11y_prev_month">Passa al mese precedente</string>
     <string name="mtrl_picker_announce_current_selection">Selezione corrente: %1$s</string>
+    <string name="mtrl_picker_confirm">OK</string>
     <string name="mtrl_picker_date_header_title">Scegli una data</string>
     <string name="mtrl_picker_date_header_unselected">Seleziona data</string>
     <string name="mtrl_picker_day_of_week_column_header">Giorno: %1$s</string>
@@ -739,6 +760,7 @@ mm"</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tocca cambia per scegliere un giorno</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passa a mod. inserimento testo</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tocca per selezionare un anno</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
     <string name="multi_sim_mms_ringtone_settings_dialog_message">Questa suoneria verrà utilizzata per entrambe le SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_message">La suoneria viene applicata alla SIM 1 e alla SIM 2 allo stesso tempo.</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">Ok</string>
@@ -823,6 +845,7 @@ mm"</string>
     <string name="privacy_permission_management_description">Dettagli permessi</string>
     <string name="privacy_permission_related_content">Permessi</string>
     <string name="privacy_phone_read_and_write_storage">Accesso alla memoria</string>
+    <string name="privacy_phone_read_and_write_storage_above_eleven">Accesso alla memoria</string>
     <string name="privacy_read_statement">Accettare i termini e le condizioni</string>
     <string name="privacy_read_the_updated_privacy_policy_content">"Leggi e accetta la nuova versione dell'&lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Informativa sulla privacy&lt;/font&gt;&lt;/a&gt; prima di continuare."</string>
     <string name="privacy_reading_the_application_list">Accedi alla lista delle app installate su questo dispositivo</string>
@@ -1020,6 +1043,7 @@ mm"</string>
     <string name="resource_search_color_hint_purple">Viola</string>
     <string name="resource_search_color_hint_red">Rosso</string>
     <string name="resource_search_color_hint_yellow">Giallo</string>
+    <string name="resource_search_history">Cronologia di ricerca</string>
     <string name="resource_search_list_empty">"Non è stato trovato nulla"</string>
     <string name="resource_see_more">Visualizza tutti</string>
     <string name="resource_select">Scegli</string>
@@ -1098,9 +1122,8 @@ mm"</string>
     <string name="selected_resource_file_invalid">"Impossibile utilizzare il file di risorsa selezionato"</string>
     <string name="send">Invia</string>
     <string name="server_internal_error">Si è verificato un errore del server. Aspetta un minuto o due e prova di nuovo.</string>
-    <string name="service_btn_text_know">Ok</string>
-    <string name="service_btn_text_try">Prova</string>
     <string name="set_as_colorring">Imposta come suoneria</string>
+    <string name="set_calling">Imposta</string>
     <string name="set_color_ring_back_tone">Imposta colore tono di risposta</string>
     <string name="set_home_wallpaper_failed">"%s. Impossibile installare lo sfondo della Home."</string>
     <string name="set_wallpaper_group_success">Sfondo \"%1$s\" applicato</string>
@@ -1354,6 +1377,8 @@ mm"</string>
     <string name="title_system_audio_resource">Suonerie di sistema</string>
     <string name="title_system_wallpaper_resource">Sfondi di sistema</string>
     <string name="to_activate_the_account">Attiva il tuo Mi Account</string>
+    <string name="toast_transparent_wallpaper_filter_set_failured">"Impossibile applicare"</string>
+    <string name="toast_transparent_wallpaper_filter_set_successfully">Applicato correttamente</string>
     <string name="today">Oggi</string>
     <string name="tomorrow">domani</string>
     <string name="transparency_pref_summary">Scegli quanto vuoi che sia trasparente lo sfondo</string>
