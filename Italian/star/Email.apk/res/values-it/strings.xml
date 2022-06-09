@@ -1296,7 +1296,7 @@ Prova a passare ad un diverso account email."</string>
     <string name="password_expired_dialog_title">Password blocco schermo scaduta</string>
     <string name="password_expired_ticker">Il PIN o la password di blocco dello schermo sono scaduti.</string>
     <string name="password_toggle_content_description">Mostra password</string>
-    <string name="pdf_has_signature_prompt_cancel">Apri il file originale</string>
+    <string name="pdf_has_signature_prompt_cancel">Originale</string>
     <string name="pdf_has_signature_prompt_confirm">Apri copia</string>
     <string name="pdf_has_signature_prompt_message">È stata rilevata una copia firmata di questo allegato, aprirla?</string>
     <string name="pdf_save_error">"Il corpo del messaggio è troppo grande e non può essere esportato come file PDF"</string>
