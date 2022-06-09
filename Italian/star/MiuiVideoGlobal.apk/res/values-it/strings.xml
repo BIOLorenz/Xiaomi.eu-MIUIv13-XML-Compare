@@ -1777,6 +1777,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="tab_playlist_online">Online</string>
     <string name="talkback_ad_clicked">Annuncio</string>
     <string name="talkback_background_playback">Riproduzione in background</string>
+    <string name="talkback_music_play">Riproduci musica</string>
     <string name="talkback_video_play">Riproduci video</string>
     <string name="talkback_voice_search">Ricerca vocale</string>
     <string name="target_sdk_version_30_upgrade_tips">Alcuni video potrebbero non essere visualizzati qui a causa delle restrizioni di Android. Tocca \"File\" per trovare altri video.</string>
