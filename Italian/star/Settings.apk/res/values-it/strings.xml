@@ -70,7 +70,6 @@
     <string name="access_control_no_back_footer">Tocca [icon] per uscire</string>
     <string name="access_control_password_title">Blocco app</string>
     <string name="access_control_recording_intro_header">Disegna una sequenza di sblocco:</string>
-    <string name="access_control_reset_by_account">Accedi col tuo Mi Account per reimpostare la password</string>
     <string name="access_denied_info">Troppi tentativi. Attendi e riprova.</string>
     <string name="access_point_names">Nome punto accesso</string>
     <string name="accessibility_audio_adjustment_title">Regolazione dell\'audio</string>
@@ -1216,8 +1215,6 @@ nell'intervallo di tempo ^2"</string>
     <string name="billing_cycle_less_than_one_day_left">Meno di 1 giorno rimanente</string>
     <string name="billing_cycle_none_left">Nessun tempo rimanente</string>
     <string name="bind_xiaomi_account_confirm">Aggiungi</string>
-    <string name="bind_xiaomi_account_dialog_summery">"Stai per aggiungere il Mi Account %s. Se dimentichi la password, puoi utilizzare questo account per ripristinarla."</string>
-    <string name="bind_xiaomi_account_success">Mi Account aggiunto correttamente</string>
     <string name="biometric_settings_category_ways_to_unlock">Modi per sbloccare</string>
     <string name="biometric_settings_category_ways_to_use">Usa il volto e l\'impronta per</string>
     <string name="biometric_settings_hand_back_to_guardian">Restituisci il telefono ai tuoi genitori</string>
@@ -2086,7 +2083,7 @@ Questa funzione può essere disattivata in [Settings]</string>
     <string name="color_game_led_end_time">Fine</string>
     <string name="color_game_led_feature_off">Spenta</string>
     <string name="color_game_led_feature_on">Attivata</string>
-    <string name="color_game_led_game_mode_summary">Mostra effetti per i giochi quando Turbo Videogiochi è attivo</string>
+    <string name="color_game_led_game_mode_summary">Mostra effetti per i giochi quando Game Turbo è attivo</string>
     <string name="color_game_led_game_mode_title">Game Turbo</string>
     <string name="color_game_led_incall_pulse_title">Lampeggia per le chiamate ricevute</string>
     <string name="color_game_led_notification_pulse_title">Lampeggia per le notifiche sull\'Always-on display</string>
@@ -2110,7 +2107,7 @@ Questa funzione può essere disattivata in [Settings]</string>
     <string name="color_led_battery_title">Mantieni attiva durante la ricarica</string>
     <string name="color_led_charging_summary">Verrà spenta quando la batteria sarà carica</string>
     <string name="color_led_end_time">Orario di fine</string>
-    <string name="color_led_game_mode_summary">Mostra effetti per i giochi quando Turbo Videogiochi è attivo</string>
+    <string name="color_led_game_mode_summary">Mostra effetti per i giochi quando Game Turbo è attivo</string>
     <string name="color_led_game_mode_title">Game Turbo</string>
     <string name="color_led_hint">Seleziona lo scenario della luce LED che dovrebbe essere utilizzata. La luce del LED si accenderà quando lo schermo è rivolto verso il basso e la mod. anti disturbo è disattivata.</string>
     <string name="color_led_incall_pulse_title">Lampeggia per le chiamate ricevute</string>
@@ -3567,6 +3564,7 @@ Per maggiori dettagli contatta l'amministratore."</string>
     <string name="fmt_weekday_date_timezone">zDW</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
+    <string name="fold_game_adaptation">Layout di gioco</string>
     <string name="fold_rule_default">Consigliato</string>
     <string name="fold_rule_important">Importante</string>
     <string name="fold_rule_unimportant">Non importante</string>
@@ -3634,8 +3632,6 @@ Se il testo sul tuo dispositivo è troppo piccolo prova ad utilizzare "</string>
     <string name="forget_password_dialog_content_two">Segui questi passaggi per eliminare i dati:</string>
     <string name="forget_password_dialog_title">Ripristina la password</string>
     <string name="forget_pattern"><u>Sequenza dimenticata?</u></string>
-    <string name="forget_privacy_password_setting">Aggiungi Mi Account</string>
-    <string name="forget_privacy_password_summary">Usa il tuo Mi Account per ripristinare la password</string>
     <string name="forget_wifi_message">Il tuo dispositivo non si connetterà più a questa rete automaticamente.</string>
     <string name="forgot_password_text">Possono aiutarti a reimpostare il PIN, il modello o la password</string>
     <string name="forgot_password_title">Contatta l\'amministratore IT</string>
@@ -5977,7 +5973,7 @@ Questo darà anche all'app la possibilità di attivare o disattivare la funzione
     <string name="open_app_button">Apri %1$s</string>
     <string name="open_demo_mode">Attiva</string>
     <string name="open_demo_mode_warning_message">Quando la mod. Demo è attiva, l\'orologio nella barra di stato si fermerà, la batteria e le icone di segnale verranno mostrate come piene. Puoi disattivare la funzionalità Demo o riavviare il dispositivo per modificare questa impostazione.</string>
-    <string name="open_game_accelerate">Attiva Turbo Videogiochi</string>
+    <string name="open_game_accelerate">Attiva Game Turbo</string>
     <string name="open_haptic_feedback">Vibrazione al tocco</string>
     <string name="open_miui_optimization_title">Attiva ottimizzazione MIUI</string>
     <string name="open_optimization_message">Attiva l\'ottimizzazione e goditi una fluida, e veloce UI.</string>
@@ -6427,9 +6423,7 @@ Leggi e accetta %s prima di utilizzare questo servizio."</string>
     <string name="privacy_notes">Note</string>
     <string name="privacy_password">Password di protezione privacy</string>
     <string name="privacy_password_add_account">Aggiungi</string>
-    <string name="privacy_password_add_account_info">Aggiungi un Mi Account per poter ripristinare la password in caso tu la dimenticassi</string>
     <string name="privacy_password_add_account_setting">Account e privacy</string>
-    <string name="privacy_password_bind_account">Aggiungi Mi Account</string>
     <string name="privacy_password_bind_account_immediate">Aggiungi</string>
     <string name="privacy_password_confirm_SecondSpace_Password">Conferma password Secondo Spazio</string>
     <string name="privacy_password_confirm_use_finger">Sblocco con impronta digitale</string>
@@ -6444,8 +6438,6 @@ Leggi e accetta %s prima di utilizzare questo servizio."</string>
     <string name="privacy_password_never_remind">"Non chiedermelo più"</string>
     <string name="privacy_password_not_add_account">Non adesso</string>
     <string name="privacy_password_not_login_account">"Non hai eseguito l'accesso"</string>
-    <string name="privacy_password_remind_bind_notlogin_account">Aggiungi il tuo Mi Account per poter reimpostare la password se la dimentichi.</string>
-    <string name="privacy_password_remind_bindaccount_title">Aggiungi Mi Account</string>
     <string name="privacy_password_settings">Usa la password di protezione privacy</string>
     <string name="privacy_password_settings_next">Successivo</string>
     <string name="privacy_password_settings_summary">La password per la protezione della privacy viene utilizzata per le app che potrebbero contenere informazioni sensibili</string>
@@ -6968,7 +6960,7 @@ Per utilizzare il blocco delle app: \u0009
     <string name="screen_projection_example_document_title">Documenti</string>
     <string name="screen_projection_example_gallery_summary">Tocca il pulsante Condividi sotto un elemento nella Galleria per visualizzarlo su un monitor esterno.</string>
     <string name="screen_projection_example_gallery_title">Foto e Video</string>
-    <string name="screen_projection_example_game_summary">Turbo Videogiochi ti permette di eseguire giochi su un monitor esterno. Usa il collegamento nella Barra Rapida per attivare questa funzione.</string>
+    <string name="screen_projection_example_game_summary">Game Turbo ti permette di eseguire giochi su un monitor esterno. Usa il collegamento nella Barra Rapida per attivare questa funzione.</string>
     <string name="screen_projection_example_game_title">Giochi</string>
     <string name="screen_projection_help">Guida</string>
     <string name="screen_projection_sample_summary">Proiezione di documenti, giochi, foto e video</string>
@@ -7834,6 +7826,10 @@ Se non accetti di concedere tali permessi, non sarai in grado di utilizzare alcu
     <string name="speed_label_slow">Lento</string>
     <string name="speed_label_very_fast">Molto veloce</string>
     <string name="speed_label_very_slow">Molto lento</string>
+    <string name="speed_mode">Mod. Prestazioni</string>
+    <string name="speed_mode_noti_summary">Il dispositivo si riscalderà e consumerà più batteria</string>
+    <string name="speed_mode_noti_title">Passato a Mod. Prestazioni</string>
+    <string name="speed_mode_summary">Priorità alle prestazioni rispetto al consumo energetico e al controllo della temperatura</string>
     <string name="spell_checker_master_switch_title">Utilizza il correttore ortografico</string>
     <string name="spell_checker_not_selected">Non selezionato</string>
     <string name="spell_checker_primary_switch_title">Utilizza il correttore ortografico</string>
