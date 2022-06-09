@@ -237,6 +237,7 @@ Puoi accedere al tuo Mi Account con %s."</string>
     <string name="confirm_unbundled_phone_dialog_message">Il numero di telefono in %1$s è collegato a Account %2$s，continuare a lavorare con account %3$s non collegati，confermi di voler continuare?</string>
     <string name="continue_action">Continua</string>
     <string name="copy">Copia</string>
+    <string name="copy_link">Copia URL link</string>
     <string name="copy_to_clipboard_successful">Copiato con successo</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
@@ -502,6 +503,7 @@ Invia questo codice ai tecnici."</string>
     <string name="multi_user_not_show_sync_activity_title">"Non attivare la sincronizzazione con Mi Cloud"</string>
     <string name="my_device_title">Dispositivo attuale</string>
     <string name="need_install_wechat">Installa prima WeChat</string>
+    <string name="network_error">Si è verificato un errore di rete.</string>
     <string name="network_error_info">Si è verificato un errore di rete. Controlla le impostazioni di rete e riprova.</string>
     <string name="network_timeout_info">"Impossibile connettersi alla rete. Riprova."</string>
     <string name="new_version">Nuova versione</string>
