@@ -316,6 +316,7 @@ Selezione"</string>
     <string name="change_pin_confirm_pin_header">Conferma il PIN</string>
     <string name="change_pin_confirm_pins_dont_match">"I PIN non corrispondono"</string>
     <string name="change_pin_continue_label">Continua</string>
+    <string name="change_pin_enter_new_pin_header">Imposta un nuovo PIN</string>
     <string name="change_pin_ok_label">Ok</string>
     <string name="character_counter_content_description">Caratteri inseriti %1$d di %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
@@ -403,9 +404,11 @@ Selezione"</string>
     <string name="config_default_data_sim">Impostazioni</string>
     <string name="config_simUnlockUiClass">\@null</string>
     <string name="config_simUnlockUiPackage">\@null</string>
+    <string name="confirmPinLabel">Conferma il nuovo PIN</string>
     <string name="confirm_enable_oem_unlock_text">AVVISO. Le funzioni di protezione del dispositivo non funzionano su questo dispositivo se questa impostazione è attiva.</string>
     <string name="confirm_enable_oem_unlock_title">Consentire lo sblocco OEM?</string>
     <string name="confirm_password_label">Conferma nuova password</string>
+    <string name="confirm_pin_label">Conferma il nuovo PIN</string>
     <string name="connect_disconnect_vibrate_none">Nessuno</string>
     <string name="connect_disconnect_vibrate_normal">Normale</string>
     <string name="connect_disconnect_vibrate_weak">Leggero</string>
