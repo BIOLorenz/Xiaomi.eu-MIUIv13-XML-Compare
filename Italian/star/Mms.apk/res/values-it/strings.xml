@@ -897,7 +897,7 @@ Per attivare Mi Message è necessario l'invio di un SMS. Il tuo operatore potreb
     <string name="pref_title_perm_camera">Utilizza fotocamera</string>
     <string name="pref_title_perm_location">Posizione</string>
     <string name="pref_title_perm_read_call_log">Accesso alla cronologia chiamate</string>
-    <string name="pref_title_perm_read_contacts">Accedi ai contatti</string>
+    <string name="pref_title_perm_read_contacts">Accesso ai contatti</string>
     <string name="pref_title_perm_read_mms">Visualizza SMS</string>
     <string name="pref_title_perm_send_mms">Invio SMS</string>
     <string name="pref_title_perm_storage">Accesso alla memoria</string>
