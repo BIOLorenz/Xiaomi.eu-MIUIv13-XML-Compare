@@ -115,6 +115,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="answering_ends_other_managed_video_call">La risposta terminerà la videochiamata in corso</string>
     <string name="answering_ends_other_video_call">Rispondere terminerà %1$s tua videochiamata</string>
     <string name="anti_fraud_notification_msg">Rispondi a questa chiamata per evitare frodi nelle telecomunicazioni</string>
+    <string name="anti_fraud_notification_title">Avviso antifrode</string>
     <string name="apn_settings_not_available">Le impostazioni dei Nomi di Punti di Accesso (APN) non sono disponibili per questo utente</string>
     <string name="app_process_limit_title">Limitatore processi in background</string>
     <string name="available_via_carrier">Disponibile tramite %1$s</string>
