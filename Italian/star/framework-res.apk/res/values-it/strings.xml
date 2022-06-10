@@ -1235,6 +1235,8 @@ Le notifiche avanzate possono accedere al contenuto delle notifiche, comprese le
     <string name="notification_feedback_indicator_demoted">Questa notifica è stata classificata con priorità bassa. Tocca per fornire un feedback.</string>
     <string name="notification_feedback_indicator_promoted">Questa notifica è stata classificata con priorità alta. Tocca per fornire un feedback.</string>
     <string name="notification_feedback_indicator_silenced">Questa notifica è stata silenziata. Tocca per fornire un feedback.</string>
+    <string name="notification_header_divider_symbol">•</string>
+    <string name="notification_header_divider_symbol_with_spaces">" • "</string>
     <string name="notification_hidden_text">Nuova notifica</string>
     <string name="notification_history_title_placeholder">Notifica app personalizzata</string>
     <string name="notification_inbox_ellipsis">…</string>
