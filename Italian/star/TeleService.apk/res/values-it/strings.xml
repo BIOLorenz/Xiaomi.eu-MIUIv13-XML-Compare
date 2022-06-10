@@ -586,6 +586,7 @@ Selezione"</string>
     <string name="error_icon_content_description">Errore</string>
     <string name="esim_goto_active">Attiva</string>
     <string name="evening">Pomeriggio</string>
+    <string name="exception_error">Errore di rete o SIM.</string>
     <string name="expand_button_title">Avanzate</string>
     <string name="exposed_dropdown_menu_content_description">Mostra menu a discesa</string>
     <string name="external_source_trusted">Autorizzate</string>
@@ -595,6 +596,7 @@ Selezione"</string>
     <string name="fiveg_power_switch_summary">Ridurre il consumo di energia della rete 5G in determinati scenari</string>
     <string name="fiveg_power_switch_title">Risparmio Batteria 5G</string>
     <string name="fiveg_sa_switch_open_dialog_title">Attenzione</string>
+    <string name="fiveg_sa_vice_switch_title">SA su SIM secondaria</string>
     <string name="fiveg_switch_per_slot_title">5G</string>
     <string name="fmt_chinese_date">dd/MM</string>
     <string name="fmt_date_day">d</string>
@@ -1238,6 +1240,7 @@ La tua SIM sarà bloccata dopo un altro tentativo fallito."</string>
     <string name="sip_system_decide">Automatico</string>
     <string name="smart_dual_sim_prompt">Il dispositivo si connetterà a una rete dati mobile utilizzando la SIM secondaria se la connettività attuale è scarsa. Questo potrebbe generare costi aggiuntivi. Imposta un limite di utilizzo dei dati per evitare costi aggiuntivi.</string>
     <string name="smart_dual_sim_prompt_ok">Impostazioni</string>
+    <string name="smart_dual_sim_title">Smart dual SIM</string>
     <string name="smart_multinetwork_acceleration_title">Accelerazione della rete smart</string>
     <string name="sms_messages_title">SMS</string>
     <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
@@ -1490,6 +1493,9 @@ Qualsiasi utente può aggiornare le app per tutti gli altri."</string>
     <string name="wifi_call_accept">Accetta</string>
     <string name="wifi_call_cancel">Maggior informazioni</string>
     <string name="wifi_call_help">Guida</string>
+    <string name="wifi_call_setting_vodafone_de">Chiamate Wi-Fi</string>
+    <string name="wifi_calling">Chiamate Wi-Fi</string>
+    <string name="wifi_calling_settings_title">Chiamate Wi-Fi</string>
     <string name="wifi_cant_connect">"Impossibile connettersi"</string>
     <string name="wifi_cant_connect_to_ap">"Impossibile connettersi a \"%1$s\""</string>
     <string name="wifi_check_password_try_again">Controlla la password e riprova</string>
