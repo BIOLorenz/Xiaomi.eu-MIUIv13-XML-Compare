@@ -658,6 +658,7 @@ Per eventuali domande, contatta l'amministratore della tua organizzazione."</str
     <string name="fingerprint_app_setting_name">Utilizza impronta</string>
     <string name="fingerprint_authenticated">Impronta autenticata</string>
     <string name="fingerprint_dialog_default_subtitle">Usa l\'impronta digitale per continuare</string>
+    <string name="fingerprint_error_bad_calibration">Impossibile usare il sensore di impronte digitali. Contatta un fornitore di servizi di riparazione</string>
     <string name="fingerprint_error_canceled">Operazione associata all\'impronta annullata.</string>
     <string name="fingerprint_error_hw_not_available">Hardware per l\'impronta non disponibile.</string>
     <string name="fingerprint_error_hw_not_present">Questo dispositivo non dispone di sensore di impronte.</string>
