@@ -150,6 +150,7 @@
     <string name="freeform_guide_slide_to_small_freeform_summary_pad">Trascina l\'angolo per minimizzare un\'app</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Trascina l\'angolo per minimizzare un\'app</string>
     <string name="freeform_guide_to_sidehide_summary">Trascina rapidamente la finestra dalla barra di azione al bordo dello schermo</string>
+    <string name="freeform_guide_to_sidehide_summary_pad">Trascina rapidamente l\'app sul lato dello schermo per nasconderla</string>
     <string name="freeform_guide_to_sidehide_title">Nascondere le finestre fluttuanti</string>
     <string name="freeform_slide_to_small_freeform">Minimizza una finestra fluttuante</string>
     <string name="freeform_slide_to_small_freeform_summary">Tieni premuta la barra di azione e trascina in un angolo</string>
