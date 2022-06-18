@@ -339,6 +339,7 @@ Selezione"</string>
     <string name="cell_data_off_content_description">Dati mobili disattivati</string>
     <string name="cfnry_time_fifteen_sec">%d sec</string>
     <string name="cfnry_time_five_sec">%d sec</string>
+    <string name="cfnry_time_setting_title">Imposta tempo di attesa</string>
     <string name="cfnry_time_ten_sec">%d sec</string>
     <string name="cfnry_time_thirty_sec">%d sec</string>
     <string name="cfnry_time_twenty_five_sec">%d sec</string>
@@ -428,6 +429,7 @@ Selezione"</string>
     <string name="choose_network_title">Scegli rete</string>
     <string name="choose_profile">Scegli profilo</string>
     <string name="clear_adb_keys">Revoca autorizzazioni debug USB</string>
+    <string name="clear_all_set_button">cancella impostazioni</string>
     <string name="clear_text_end_icon_content_description">Cancella testo</string>
     <string name="clearable_edittext_clear_description">Cancella</string>
     <string name="clh_callFailed_call_rejected_txt">Chiamata rifiutata</string>
@@ -457,6 +459,7 @@ Selezione"</string>
     <string name="connected_via_network_scorer">Collegato automaticamente tramite %1$s</string>
     <string name="connected_via_network_scorer_default">Collegato automaticamente tramite fornitore di servizi di valutazione rete</string>
     <string name="connected_via_passpoint">Connesso tramite %1$s</string>
+    <string name="contactPhoto">foto contatto</string>
     <string name="content_description_menu_button">Menu</string>
     <string name="convert_to_fbe_warning">"Converti la partizione di dati in crittografia basata su file.
  Attenzione. Questa operazione eliminerà tutti i tuoi dati.
@@ -519,6 +522,7 @@ Selezione"</string>
     <string name="delete_blob_confirmation_text">Eliminare i dati condivisi?</string>
     <string name="delete_blob_text">Elimina dati condivisi</string>
     <string name="description_dial_button">chiama</string>
+    <string name="description_dialpad_back">Torna indietro</string>
     <string name="description_dialpad_button">mostra tastierino</string>
     <string name="description_dialpad_overflow">Altre opzioni</string>
     <string name="description_image_button_eight">otto</string>
@@ -573,6 +577,7 @@ Selezione"</string>
     <string name="disable_overlays">Disabilita overlay HW</string>
     <string name="disable_overlays_summary">Usa sempre GPU per la composizione dello schermo</string>
     <string name="disable_pin_ok">PIN disattivato.</string>
+    <string name="disable_sim_pin">Cancella PIN SIM</string>
     <string name="disabled">Disattivato</string>
     <string name="disabled_by_admin_summary_text">Gestita dall\'amministratore</string>
     <string name="display_name_title">Mostra nome</string>
@@ -617,6 +622,7 @@ Selezione"</string>
     <string name="enable_disable_advertisements">Pubblicità</string>
     <string name="enable_disable_international">Internazionali</string>
     <string name="enable_disable_local">Dispositivo</string>
+    <string name="enable_disable_local_weather">Meteo Locale</string>
     <string name="enable_disable_lodgings">Alloggi</string>
     <string name="enable_disable_maintenance">Manutenzione</string>
     <string name="enable_disable_multi_category">Multicategoria</string>
@@ -665,6 +671,7 @@ Selezione"</string>
     <string name="failed_to_open_app_settings_toast">Impossibile aprire le impostazioni di %1$s</string>
     <string name="fdnListLabel">Lista FDN</string>
     <string name="fdn_activation">Attivazione FDN</string>
+    <string name="fdn_list_with_label">Lista FDN (%s)</string>
     <string name="fire_type_description">Fuoco</string>
     <string name="fiveg_available_status1">NR disponibile:</string>
     <string name="fiveg_icon_type1">Tipo Icona Nr :</string>
@@ -913,6 +920,7 @@ Selezione"</string>
     <string name="mock_location_app">Seleziona app di posizione fittizia</string>
     <string name="mock_location_app_not_set">Nessuna app di posizione fittizia impostata</string>
     <string name="mock_location_app_set">App di posizione fittizia: %1$s</string>
+    <string name="modem_set_title">IMPOSTAZIONE MODEM</string>
     <string name="monday">Lunedì</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
@@ -1002,6 +1010,7 @@ Selezione"</string>
     <string name="msim_setting_operator_network_title">Rete mobile</string>
     <string name="msim_setting_screen_title">SIM e reti mobili</string>
     <string name="msim_setting_set_package">Seleziona piano</string>
+    <string name="msim_setting_sim_info_editor_title">Modifica info SIM</string>
     <string name="msim_sim_lock">Bloccata</string>
     <string name="msim_sim_radio_off">Spenta</string>
     <string name="msim_switch_data_conn_toast">Il tipo di rete è cambiato. Visualizza informazioni aggiuntive nelle schede SIM e nelle reti mobili nel menu Impostazioni.</string>
@@ -1049,6 +1058,7 @@ Selezione"</string>
     <string name="network_connecting">Connessione in corso</string>
     <string name="network_could_not_connect">Impossibile collegarsi</string>
     <string name="network_disconnected">Disconnesso</string>
+    <string name="network_error_message">Messaggio di errore</string>
     <string name="network_global">NR/LTE/CDMA/EvDo/GSM/WCDMA</string>
     <string name="network_id">ID rete</string>
     <string name="network_info_message">Messaggio di rete</string>
@@ -1083,7 +1093,9 @@ Selezione"</string>
     <string name="notification_network_selection_title">Nessun servizio</string>
     <string name="notification_switch_auto_title">Rete mobile</string>
     <string name="notification_voicemail_text_format">Chiama %s</string>
+    <string name="notification_voicemail_title">Nuovo messaggio vocale</string>
     <string name="nr_usaged_module">Modello dispositivo</string>
+    <string name="nr_usaged_network_rate">Velocità massima</string>
     <string name="nr_usaged_network_usaged">"Dati di oggi"</string>
     <string name="nr_usaged_operator">Operatore</string>
     <string name="nr_usaged_used_time">Durata utilizzo</string>
@@ -1119,6 +1131,7 @@ Selezione"</string>
     <string name="osu_sign_up_failed">Impossibile completare la registrazione. Tocca per riprovare.</string>
     <string name="ota_activate">Attiva</string>
     <string name="ota_call_end">Indietro</string>
+    <string name="ota_hfa_activation_title">Attivazione...</string>
     <string name="ota_next">Successivo</string>
     <string name="ota_skip_activation_dialog_skip_label">Salta</string>
     <string name="ota_speaker">Altoparlante</string>
@@ -1155,8 +1168,10 @@ Hai %d tentativi rimasti."</string>
     <string name="pin2_lock_warning">"
 Le funzioni relative al PIN2 verranno bloccate dopo un altro tentativo fallito."</string>
     <string name="pin_changed">PIN aggiornato</string>
+    <string name="pin_failed">PIN errato</string>
     <string name="pin_lock_warning">"
 Il tuo telefono verrà bloccato automaticamente dopo un altro tentativo fallito"</string>
+    <string name="pin_progress_change_pin">Modifica PIN…</string>
     <string name="pin_progress_change_pin2">Modifica del PIN2…</string>
     <string name="pin_progress_unlock_icc">Sblocco SIM…</string>
     <string name="ping_test_label">Esegui test ping</string>
@@ -1245,6 +1260,10 @@ Il tuo telefono verrà bloccato automaticamente dopo un altro tentativo fallito"
     <string name="preferred_network_type_pref_entries_4g_preferred">Preferisci LTE</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_custom">Preferisci 4G</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_jp_sb">4G/3G/GSM</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred_uk_ee">4G/3G/2G auto</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred_vd">4G/3G/2G auto</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred_za_mt">2G/3G/4G auto</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred_za_mtn">2G/3G/4G auto</string>
     <string name="preferred_network_type_pref_entries_5g_preferred">Preferisci 5G</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_jp_sb">5G/4G/3G/GSM</string>
     <string name="preferred_network_type_pref_entries_auto">Automatico</string>
@@ -1314,6 +1333,8 @@ La tua SIM sarà bloccata dopo un altro tentativo fallito."</string>
     <string name="radio_info_ims_reg_status_registered">Registrato</string>
     <string name="radio_info_ims_reg_status_title">Stato IMS</string>
     <string name="radio_info_imsi_label">IMSI:</string>
+    <string name="radio_info_nr_available">NR Disponibile:</string>
+    <string name="radio_info_nr_frequency">Frequenza NR:</string>
     <string name="radio_info_nr_state">Stato NR:</string>
     <string name="radio_info_phone_number_label">Numero di telefono:</string>
     <string name="radio_info_ping_hostname_v4">Ping Hostname(www.google.com) IPv4:</string>
@@ -1335,6 +1356,7 @@ La tua SIM sarà bloccata dopo un altro tentativo fallito."</string>
     <string name="register_on_network">Registrazione su %s…</string>
     <string name="registration_done">Registrato sulla rete.</string>
     <string name="registration_status_registering">Registrazione…</string>
+    <string name="registration_status_still_trying">Tentativo ancora in corso…</string>
     <string name="reject_via_sms">Risposte rapide</string>
     <string name="reject_via_sms_title">Risposte rapide</string>
     <string name="remaining_length_format">%1$s rimanenti</string>
@@ -1343,6 +1365,7 @@ La tua SIM sarà bloccata dopo un altro tentativo fallito."</string>
     <string name="replace_4g_template">4G</string>
     <string name="report_method_entries_item2">Sempre</string>
     <string name="report_method_entries_item3">Disattiva</string>
+    <string name="reset_roaming_title">Ripristina roaming</string>
     <string name="respond_via_sms_edittext_dialog_title">Risposta rapida</string>
     <string name="respond_via_sms_menu_reset_default_activity">Ripristina predefinite</string>
     <string name="respond_via_sms_setting_title">Risposte rapide</string>
@@ -1446,6 +1469,7 @@ La tua SIM sarà bloccata dopo un altro tentativo fallito."</string>
     <string name="sip_accounts_title">Account</string>
     <string name="sip_always_send_keepalive">Invia sempre</string>
     <string name="sip_call_options_title">Usa chiamate SIP</string>
+    <string name="sip_call_options_wifi_only_entry_1">Per tutte le chiamate</string>
     <string name="sip_menu_discard">Ignora</string>
     <string name="sip_menu_save">Salva</string>
     <string name="sip_settings">Impostazioni SIP</string>
@@ -1493,6 +1517,7 @@ La tua SIM sarà bloccata dopo un altro tentativo fallito."</string>
     <string name="status_unavailable">Non disponibile</string>
     <string name="stk_name">Strumenti USIM</string>
     <string name="storage_category">Archiviazione</string>
+    <string name="strPasswordLengthIncorrect">4-16 numeri!</string>
     <string name="strict_mode">Attiva StrictMode</string>
     <string name="strict_mode_summary">Flash dello schermo in caso di lunghe operazioni sul thread principale</string>
     <string name="sum_call_barring_disabled">Spenta</string>
@@ -1509,6 +1534,8 @@ La tua SIM sarà bloccata dopo un altro tentativo fallito."</string>
     <string name="supp_service_additional_call_forwarded">Chiamata aggiuntiva inoltrata.</string>
     <string name="supp_service_additional_ect_connected">Trasferimento di chiamata esplicito completato.</string>
     <string name="supp_service_additional_ect_connecting">Trasferimento di chiamata esplicito in corso.</string>
+    <string name="supp_service_call_on_hold">Chiamata in attesa.</string>
+    <string name="supp_service_call_resumed">Chiamata ripresa.</string>
     <string name="supp_service_forwarded_call">Chiamata inoltrata.</string>
     <string name="supp_service_notification_call_deflected">Chiamata deviata.</string>
     <string name="supp_service_notification_call_forwarded">Chiamata inoltrata.</string>
@@ -1528,6 +1555,7 @@ La tua SIM sarà bloccata dopo un altro tentativo fallito."</string>
     <string name="telocation_countrycode_alert_title">Avviso</string>
     <string name="telocation_custom_location_title">Le mie posizioni</string>
     <string name="telocation_custom_name_hint">Nome</string>
+    <string name="telocation_enable_title">Mostra posizione</string>
     <string name="telocation_number_type">Tipo di numero</string>
     <string name="telocation_number_type_jituan">Numero del gruppo</string>
     <string name="telocation_number_type_mob">Telefono cellulare</string>
@@ -1644,6 +1672,7 @@ La tua SIM sarà bloccata dopo un altro tentativo fallito."</string>
     <string name="tuesday_shortest">Mar</string>
     <string name="undefined">Nessuno</string>
     <string name="unknown">Sconosciuto</string>
+    <string name="unlock_chances_left">Tentativi rimasti:</string>
     <string name="updating_settings">Aggiornamento impostazioni…</string>
     <string name="updating_title">Chiamate</string>
     <string name="uplmn_list_setting_add_plmn">Nuovo PLMN</string>
@@ -1692,6 +1721,7 @@ Qualsiasi utente può aggiornare le app per tutti gli altri."</string>
     <string name="vm_change_pin_new_pin">Nuovo PIN</string>
     <string name="vm_change_pin_old_pin">Vecchio PIN</string>
     <string name="vm_change_pin_progress_message">Attendere.</string>
+    <string name="voice_privacy">Privacy vocale</string>
     <string name="voice_report_incoming_call">Chiamata</string>
     <string name="voice_report_unknown_num">Numero sconosciuto</string>
     <string name="voice_service_warning_dialog_cancel">Annulla</string>
@@ -1708,6 +1738,7 @@ Qualsiasi utente può aggiornare le app per tutti gli altri."</string>
     <string name="voicemail_provider">Servizio</string>
     <string name="voicemail_set_pin_dialog_title">Imposta PIN</string>
     <string name="voicemail_settings_with_label">Segreteria (%s)</string>
+    <string name="voip_setting">Impostazioni VoIP</string>
     <string name="volte_provision_notification_activate">Attiva</string>
     <string name="volte_switch_title">Usa VoLTE</string>
     <string name="volte_switch_title_ct">VoLTE</string>
