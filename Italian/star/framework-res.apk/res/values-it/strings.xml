@@ -649,6 +649,7 @@ Per eventuali domande, contatta l'amministratore della tua organizzazione."</str
     <string name="find_previous">Trova precedente</string>
     <string name="fingerprint_acquired_already_enrolled">Prova un\'altra impronta</string>
     <string name="fingerprint_acquired_imager_dirty">Il sensore di impronte è sporco. Puliscilo e riprova.</string>
+    <string name="fingerprint_acquired_immobile">Cambia leggermente la posizione del dito ogni volta</string>
     <string name="fingerprint_acquired_insufficient">"Impossibile elaborare l'impronta. Riprova."</string>
     <string name="fingerprint_acquired_partial">Rilevata impronta parziale. Riprova.</string>
     <string name="fingerprint_acquired_too_bright">Troppo chiaro</string>
