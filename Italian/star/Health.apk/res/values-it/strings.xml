@@ -274,6 +274,7 @@ Se non vuoi sfruttare i consigli personalizzati, puoi comunque effettuare allena
     <string name="clear">Cancella</string>
     <string name="clear_text_end_icon_content_description">Cancella testo</string>
     <string name="clearable_edittext_clear_description">Cancella</string>
+    <string name="click_finish_stand">Tocca per registrare</string>
     <string name="click_to_solve">Guida</string>
     <string name="climb">Salire le scale</string>
     <string name="climbing">Scalata</string>
@@ -470,6 +471,7 @@ Xiaomi Health ti informerà solo riguardo a eventi importanti."</string>
     <string name="edit_sleep_record_button">Modifica</string>
     <string name="elliptical_machine">Ellittiche</string>
     <string name="emergency_contact">Contatto di emergenza</string>
+    <string name="emergency_lock_show_title">Mostra quando bloccato</string>
     <string name="empty_data">-</string>
     <string name="enable">Attivata</string>
     <string name="enable_go_now">Attiva</string>
@@ -627,6 +629,7 @@ Se è ancora difficile addormentarti dopo 30 minuti che sei a letto, riduci i fa
     <string name="health_app_name_dev">Salute dev</string>
     <string name="health_cloud_service">Scansione online</string>
     <string name="health_data_cloud_sync_title">Sincronizza con il Cloud</string>
+    <string name="health_data_sync">Sincronizza dati Salute</string>
     <string name="health_score">Punteggio salute</string>
     <string name="health_setting">Impostazioni Salute</string>
     <string name="hearing">Udito</string>
@@ -645,8 +648,10 @@ Se è ancora difficile addormentarti dopo 30 minuti che sei a letto, riduci i fa
     <string name="high">Alta</string>
     <string name="high2">Alta</string>
     <string name="high_intensity">Alta</string>
+    <string name="high_pressure">Sistolica (massima)</string>
     <string name="highest_jump">Salto più alto</string>
     <string name="history_statistics">Statistiche</string>
+    <string name="home_page_card_setting">Schede schermata iniziale</string>
     <string name="home_tip_open_data_sync">Attiva sincronizzazione con il Cloud</string>
     <string name="home_tip_sync_done">Sincronizzazione riuscita</string>
     <string name="hour_in_day_format">%1$d</string>
@@ -659,6 +664,7 @@ Attendere fino a quando il cerchio diventa rosso."</string>
     <string name="hr_detect_report_title">Risultato della prova</string>
     <string name="hr_detect_state_after_activity">Dopo l\'esercizio</string>
     <string name="hr_detect_state_regular">Stato generale</string>
+    <string name="hr_detect_state_reseting">Stato di riposo</string>
     <string name="hr_disable_in_split_screen">"Impossibile misurare la frequenza cardiaca mentre si utilizza lo schermo diviso"</string>
     <string name="hr_fp_area">Scanner impronta</string>
     <string name="hr_fp_detect_desc">Il sangue scorre verso le dita con ogni battito cardiaco. La luce luminosa nell\'area dello scanner di impronte digitali sotto lo schermo ci permette di monitorare i cambiamenti nel flusso sanguigno. analizzare il flusso e convertirlo in frequenza cardiaca.</string>
@@ -793,22 +799,31 @@ Se non vuoi condividere le tue informazioni, puoi disattivare questa funzione."<
     <string name="manage_home">Gestisci pagina iniziale</string>
     <string name="manual_add">Aggiungi manualmente</string>
     <string name="manual_adjust">Correggi</string>
+    <string name="manual_input">Inserisci manualmente</string>
+    <string name="manual_page_label_body_weight_select">Seleziona il peso</string>
+    <string name="manual_page_label_measure_date">È ora di pesarsi</string>
     <string name="manual_page_measure_date_title">Data e ora</string>
     <string name="manual_record">Registra manualmente</string>
     <string name="mark_end">Ciclo terminato</string>
     <string name="mark_start">Avvia</string>
+    <string name="max_altitude">Altitudine massima</string>
     <string name="maximum">Massimo</string>
     <string name="maximum_pace">Ritmo più alto</string>
     <string name="mcv2_back_button_desc">Indietro</string>
     <string name="mcv2_error_dialog_button">OK</string>
     <string name="mcv2_full_screen_button_desc">Schermo intero</string>
     <string name="mcv2_launch_button_desc">Avvia Collegamento</string>
+    <string name="mcv2_music_artist_unknown_text">Artista sconosciuto</string>
     <string name="mcv2_next_button_desc">Elemento successivo</string>
+    <string name="mcv2_overflow_right_button_desc">Mostra altri pulsanti</string>
     <string name="mcv2_pause_button_desc">Pausa</string>
     <string name="mcv2_play_button_desc">Riproduci</string>
+    <string name="mcv2_previous_button_desc">Media precedente</string>
     <string name="mcv2_replay_button_desc">Replay</string>
     <string name="mcv2_seek_bar_desc">Avanzamento riproduzione</string>
     <string name="mcv2_settings_button_desc">Impostazioni</string>
+    <string name="measure_date">Tempo di misurazione</string>
+    <string name="measure_time">Tempo di misurazione</string>
     <string name="medical_file_desc1">Info mediche essenziali in caso di emergenza</string>
     <string name="medical_file_desc2">Registra le informazioni di base sulla tua salute per essere in grado di mostrarle ai medici in caso di emergenza.</string>
     <string name="medical_first_aid_files">ID Medico di Emergenza</string>
@@ -820,6 +835,8 @@ Se non vuoi condividere le tue informazioni, puoi disattivare questa funzione."<
     <string name="mens_avg_menstrual_period">Durata media mestruazioni</string>
     <string name="mens_avg_period">Ciclo medio</string>
     <string name="mens_cancel_mark">Annulla</string>
+    <string name="mens_not_in_menstrual_period">Non ho mestruazioni</string>
+    <string name="mens_period_days">Durata del ciclo</string>
     <string name="mens_period_ovulation">Ovulazione</string>
     <string name="mens_period_start">Avvia</string>
     <string name="menstrual_assistant">Mestruazioni</string>
@@ -840,6 +857,7 @@ Se non vuoi condividere le tue informazioni, puoi disattivare questa funzione."<
     <string name="mi_health">Xiaomi Salute</string>
     <string name="mi_sport">Mi Fit</string>
     <string name="mi_sports">Mi Fit</string>
+    <string name="miao_course_info">%1$d/%2$d %3$s</string>
     <string name="miao_course_progress_info">%1$d/%2$d</string>
     <string name="miao_course_progress_info_2">"%1$d/%2$d''"</string>
     <string name="middle">Media</string>
@@ -882,6 +900,7 @@ Se non vuoi condividere le tue informazioni, puoi disattivare questa funzione."<
     <string name="miuix_search_history_default_title">Cronologia di ricerca</string>
     <string name="miuix_search_recommendation_default_title">Potresti essere interessato a</string>
     <string name="miuix_search_recommendation_item_del_des">Elimina</string>
+    <string name="model_card_setting">Impostazioni scheda</string>
     <string name="modify">Modifica</string>
     <string name="modify_contact">Modifica</string>
     <string name="modify_end_date">Modifica data di fine</string>
@@ -934,6 +953,7 @@ Se non vuoi condividere le tue informazioni, puoi disattivare questa funzione."<
     <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_date_format">dd MMM, yyyy</string>
     <string name="mtrl_picker_date_header_title">Seleziona una data</string>
+    <string name="mtrl_picker_date_header_unselected">Data Selezionata</string>
     <string name="mtrl_picker_range_header_title">Seleziona un intervallo di date</string>
     <string name="muscle_rate">Muscoli</string>
     <string name="my_data_source">Sorgenti dati</string>
@@ -958,6 +978,7 @@ Se non vuoi condividere le tue informazioni, puoi disattivare questa funzione."<
     <string name="not_save">Annulla modifiche</string>
     <string name="not_save_aid_file_desc">Tutte le modifiche non salvate andranno perse.</string>
     <string name="not_set">Non impostato</string>
+    <string name="not_up_to_standard">Sotto la norma</string>
     <string name="number_divided">%1$d/%2$d</string>
     <string name="oar_time">Tempo alla guida</string>
     <string name="oauth_account_failed">"Impossibile ottenere informazioni sull'account"</string>
@@ -970,6 +991,7 @@ Se non vuoi condividere le tue informazioni, puoi disattivare questa funzione."<
     <string name="origin">Fonte</string>
     <string name="other_question">Altro</string>
     <string name="outdoor_hiking">Escursionismo</string>
+    <string name="outdoor_riding">Ciclismo all\'aperto</string>
     <string name="outdoor_running">In esecuzione</string>
     <string name="outdoor_walking">Camminata</string>
     <string name="page">%1$d/%2$d</string>
@@ -979,6 +1001,7 @@ Se non vuoi condividere le tue informazioni, puoi disattivare questa funzione."<
     <string name="pause">Pausa</string>
     <string name="pause_button_content_description">Pausa</string>
     <string name="per_count_minutes1">%d SPM</string>
+    <string name="per_time_minutes">%d al minuto</string>
     <string name="per_time_minutes1">" al minuto"</string>
     <string name="per_time_minutes_heart_rate">" BPM"</string>
     <string name="period">Bici o veicolo elettrico</string>
@@ -1020,12 +1043,16 @@ Se non vuoi condividere le tue informazioni, puoi disattivare questa funzione."<
     <string name="rate_bit_high">Alta</string>
     <string name="rate_bit_low">Bassa</string>
     <string name="rate_bone_osteoporosis">Osteoporosi</string>
+    <string name="rate_extremely_high">Estremamente alto</string>
     <string name="rate_short">Insufficiente</string>
+    <string name="rb_gender_female">Sesso: Femmina</string>
     <string name="rb_gender_male">Sesso: Maschio</string>
+    <string name="reach_standard">Soddisfa gli standard</string>
     <string name="recog_permission_dialog_title">Permessi richiesti</string>
     <string name="recommend_sleep_goal">21:00-11:00</string>
     <string name="record_blood_pressure_exception1">"Impossibile salvare. La pressione sistolica non può essere inferiore di quella diastolica."</string>
     <string name="record_blood_pressure_exception2">"Impossibile salvare. Parametri non validi."</string>
+    <string name="record_body_weight_button">Registra il peso</string>
     <string name="record_detail_page_title">Dettagli</string>
     <string name="record_more">Registra altro</string>
     <string name="recorded_menstruation">Ciclo registrato</string>
@@ -1045,6 +1072,7 @@ Se non vuoi condividere le tue informazioni, puoi disattivare questa funzione."<
     <string name="repeat_mode">Ripeti</string>
     <string name="rest_time_between_sets">Riposo</string>
     <string name="resting_heart_rate">Battito cardiaco a riposo</string>
+    <string name="retraction_time">Tempo di recupero</string>
     <string name="retry">Riprova</string>
     <string name="revert_to_default">Ripristina predefinite</string>
     <string name="rope_skipping">Salto della corda</string>
@@ -1058,19 +1086,26 @@ Se non vuoi condividere le tue informazioni, puoi disattivare questa funzione."<
     <string name="search_menu_title">Cerca</string>
     <string name="sedentary_enhance_remind">Attiva Vibrazione</string>
     <string name="sedentary_harm_known">Ok</string>
+    <string name="sedentary_reminder_channel_name">Ricorda di muoverti</string>
+    <string name="sedentary_reminder_subject">Ricorda di muoverti</string>
+    <string name="sedentary_title">Ricorda di muoverti</string>
+    <string name="select_exercise_intensity">Seleziona intensità</string>
     <string name="select_menstruation_end_date">Seleziona la data di fine di queste mestruazioni</string>
     <string name="select_null">Non selezionato</string>
     <string name="select_recog_question">Seleziona azione</string>
     <string name="select_swim_posture">Seleziona stile</string>
+    <string name="select_target">Seleziona obiettivo</string>
     <string name="send">Invia</string>
     <string name="send_diagnosis_log">Invio log di diagnosi</string>
     <string name="sending">Invio in corso...</string>
     <string name="set_emergency_contact">Contatto di emergenza</string>
     <string name="setting">Impostazioni</string>
     <string name="setting_avatar">Foto profilo</string>
+    <string name="setting_blood_type">Imposta gruppo sanguigno</string>
     <string name="setting_gender">Imposta sesso</string>
     <string name="setting_sedentary_off">DISATTIVATO</string>
     <string name="setting_sedentary_on">ATTIVATO</string>
+    <string name="setting_sedentary_title">Ricorda di muoverti</string>
     <string name="severe_abnormal_tip">Ogni giorno dopo essersi alzati, dopo pranzo, e prima di andare a letto</string>
     <string name="share">Condividi</string>
     <string name="share_card_key_avg_pace">Ritmo</string>
@@ -1083,6 +1118,7 @@ Se non vuoi condividere le tue informazioni, puoi disattivare questa funzione."<
     <string name="share_card_title_elliptical_trainer">Ellittiche</string>
     <string name="share_card_title_free_training">Allenamento libero</string>
     <string name="share_card_title_high_interval_training">HIIT</string>
+    <string name="share_card_title_indoor_running">Tapisroulant %s</string>
     <string name="share_card_title_outdoor_hiking">Escursione %s</string>
     <string name="share_card_title_outdoor_riding">Ciclismo %s</string>
     <string name="share_card_title_outdoor_running">Corsa %s</string>
@@ -1123,6 +1159,7 @@ Se non vuoi condividere le tue informazioni, puoi disattivare questa funzione."<
     <string name="sleep_detection_guide_one_title">Monitora il tuo sonno</string>
     <string name="sleep_detection_guide_three_title">Genera statistiche automaticamente</string>
     <string name="sleep_detection_hint">"Le statistiche sono fornite solo per riferimento. Non possono essere utilizzate come motivo per diagnosi mediche."</string>
+    <string name="sleep_detector_title">Monitoraggio del sonno</string>
     <string name="sleep_duration">Durata del sonno</string>
     <string name="sleep_goal">Obiettivi</string>
     <string name="sleep_goal_by_hours_minutes">Obiettivo: %1$s %2$s</string>
@@ -1199,9 +1236,11 @@ Se non vuoi condividere le tue informazioni, puoi disattivare questa funzione."<
     <string name="sport_invalid_dialog_title">Troppo veloce!</string>
     <string name="sport_menu_share">Condividi</string>
     <string name="sport_outdoor_running">In esecuzione</string>
+    <string name="sport_pace_chart_last_km">Meno di 1 km</string>
     <string name="sport_pace_step_unit">SPM</string>
     <string name="sport_pace_time_format" formatted="false">"%d'%d\""</string>
     <string name="sport_pref_category_voice">Audio</string>
+    <string name="sport_pref_voice_assist_title">Promemoria vocali</string>
     <string name="sport_settings_title">Attività</string>
     <string name="sport_share_save_local">Salvato con successo</string>
     <string name="sport_share_save_local_fail">"Impossibile salvare. Riprova."</string>
@@ -1215,10 +1254,14 @@ Se non vuoi condividere le tue informazioni, puoi disattivare questa funzione."<
     <string name="sport_tts_1">Uno</string>
     <string name="sport_tts_2">Due</string>
     <string name="sport_tts_3">Tre</string>
+    <string name="sport_tts_begin_riding">Avvia ciclismo</string>
+    <string name="sport_tts_begin_running">Avvia corsa</string>
+    <string name="sport_tts_begin_walking">Avvia camminata</string>
     <string name="sport_tts_pause_by_user">Allenamento in pausa</string>
     <string name="sport_type">Tipo di allenamento</string>
     <string name="sporting_goal">Obiettivo</string>
     <string name="sporting_hint_exit_map">Chiudi mappa</string>
+    <string name="sporting_hint_switch_to_map">Passa alla mappa</string>
     <string name="sporting_key_calories">Cal</string>
     <string name="sporting_key_km">Km</string>
     <string name="sporting_key_speed">Ritmo</string>
@@ -1242,6 +1285,9 @@ Se non vuoi condividere le tue informazioni, puoi disattivare questa funzione."<
     <string name="stand_stop_reminding">"Non mostrare più"</string>
     <string name="standard_format">(standard: %1s)</string>
     <string name="standing_already">" Ti sei alzato"</string>
+    <string name="start_cycling">Avvia ciclismo</string>
+    <string name="start_running">Avvia corsa</string>
+    <string name="start_walking">Avvia camminata</string>
     <string name="state_agree">Accetto</string>
     <string name="state_auto_run_disenable">Spenta</string>
     <string name="state_auto_run_enable">Attivata</string>
@@ -1264,7 +1310,9 @@ Se non vuoi condividere le tue informazioni, puoi disattivare questa funzione."<
     <string name="swim">Nuoto</string>
     <string name="swim_type">Stile Libero</string>
     <string name="swipe_up_to_end">Scorri verso l\'alto per terminare</string>
+    <string name="sync_health_data">Sincronizza dati Salute</string>
     <string name="sync_immediately">Sincronizza</string>
+    <string name="sync_is_not_closed">Sincronizzazione attiva</string>
     <string name="sync_is_off">La sincronizzazione Mi Cloud è disattivata</string>
     <string name="sync_set_network">Impostazioni di rete</string>
     <string name="sync_status">Stato sincronizzazione</string>
@@ -1277,6 +1325,7 @@ Se non vuoi condividere le tue informazioni, puoi disattivare questa funzione."<
     <string name="systolic_pressure">Sistolica</string>
     <string name="tb_card_on_using_list">Aggiunto</string>
     <string name="tb_detection_subpage_image">Immagine</string>
+    <string name="tb_exercise_home_banner">Accesso giornaliero</string>
     <string name="tb_exercise_label_close">Chiudi avviso</string>
     <string name="tb_exit_detection">Esci</string>
     <string name="tb_go_back_today">Torna a oggi</string>
@@ -1314,6 +1363,7 @@ Se non vuoi condividere le tue informazioni, puoi disattivare questa funzione."<
     <string name="tb_unmultiple_selecte_all">Deseleziona tutto</string>
     <string name="tb_user_step_target_btn">Cambia obiettivo</string>
     <string name="tb_weight_decrease">Peso perso</string>
+    <string name="tb_weight_has_record">Peso rilevato</string>
     <string name="tb_weight_increase">Peso ottenuto</string>
     <string name="tb_weight_next_time">Prossima pesata</string>
     <string name="tb_weight_no_record">Nessuna pesata</string>
@@ -1371,6 +1421,7 @@ Se non vuoi condividere le tue informazioni, puoi disattivare questa funzione."<
     <string name="title_click_record_menstruation">Registra un ciclo</string>
     <string name="title_improve_health">Resta in salute</string>
     <string name="title_month_exercise_sum">Statistiche mensili</string>
+    <string name="title_network_license">Accesso alla rete</string>
     <string name="title_no_record_menstruation">"Non hai ancora registrato i tuoi cicli."</string>
     <string name="title_select_birthday">Seleziona compleanno</string>
     <string name="title_select_gender">Seleziona sesso</string>
@@ -1386,6 +1437,7 @@ Se non vuoi condividere le tue informazioni, puoi disattivare questa funzione."<
     <string name="too_little">Troppo piccolo</string>
     <string name="total">Totale</string>
     <string name="total_beats">Numero di salti</string>
+    <string name="total_consumption_label">Calorie totali</string>
     <string name="total_distance_label">Distanza totale</string>
     <string name="total_slip">Numero di bracciate</string>
     <string name="total_time_label">Tempo totale</string>
@@ -1414,6 +1466,7 @@ Se non vuoi condividere le tue informazioni, puoi disattivare questa funzione."<
     <string name="unknown_birthday">Sconosciuto</string>
     <string name="unknown_full_name">Sconosciuto</string>
     <string name="unknown_gender">Sconosciuto</string>
+    <string name="unknown_state">Stato sconosciuto</string>
     <string name="update_notify_dialog_ignore">Più tardi</string>
     <string name="update_notify_dialog_title">Aggiornamento disponibile</string>
     <string name="update_notify_no_update_log">Nessun elemento trovato.</string>
