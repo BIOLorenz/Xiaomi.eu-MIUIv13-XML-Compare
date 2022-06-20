@@ -143,6 +143,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="auto_answer_summary_not_enabled">Spenta</string>
     <string name="auto_record_yellowpage">Cartella</string>
     <string name="auto_retry_mode_title">Riprova Automaticamente</string>
+    <string name="autoip">Telefonata IP automatica</string>
     <string name="autoip_areacode_required_accept">OK</string>
     <string name="autoip_exception_summary">%d totale</string>
     <string name="autoip_exception_summary_more">, %d totale</string>
@@ -289,9 +290,12 @@ Selezione"</string>
     <string name="call_barring_old_pwd">Vecchia password</string>
     <string name="call_category">Chiamata</string>
     <string name="call_description_recording">Registrazione…</string>
+    <string name="call_forward_option">Trasferimento di chiamata</string>
+    <string name="call_forwarding_settings">Trasferimento di chiamata</string>
     <string name="call_record_add_numbers">Aggiungi numeri</string>
     <string name="call_record_auto_always">Tutti i numeri</string>
     <string name="call_record_auto_title">Registra automaticamente</string>
+    <string name="call_record_auto_unknown_number">Numeri sconosciuti</string>
     <string name="call_record_auto_whitelist">Lista personalizzata</string>
     <string name="call_record_loading_content">Caricamento…</string>
     <string name="call_record_off_summary">Spenta</string>
@@ -328,6 +332,7 @@ Selezione"</string>
     <string name="category_personal">Personali</string>
     <string name="category_work">Di lavoro</string>
     <string name="cbrs_data_switch_string">Dati Cbrs</string>
+    <string name="cdma_activate_device">Attiva dispositivo</string>
     <string name="cdma_lte_data_service">Imposta servizio dati</string>
     <string name="cdma_options">Opzioni CDMA</string>
     <string name="cdma_subscription_dialogtitle">Sottoscrizione</string>
@@ -514,6 +519,7 @@ Selezione"</string>
     <string name="debug_monitoring_category">Monitoraggio</string>
     <string name="debug_networking_category">Reti</string>
     <string name="debug_view_attributes">Attiva controllo attributi visualizzazione</string>
+    <string name="default_carrier_mmi_msg_title">Messaggio Operatore</string>
     <string name="default_preference_summary_domain_address">&lt;Non impostato&gt;</string>
     <string name="default_preference_summary_password">&lt;Non impostato&gt;</string>
     <string name="default_preference_summary_username">&lt;Non impostato&gt;</string>
@@ -608,15 +614,18 @@ Selezione"</string>
     <string name="earthly_branches_zi">Zi</string>
     <string name="emergency_action_launch_hint">Tocca nuovamente ed apri</string>
     <string name="emergency_call_area_code_edit_dialog_button">Chiama</string>
+    <string name="emergency_call_area_code_edit_dialog_hint">Inserisci il prefisso</string>
     <string name="emergency_enable_radio_dialog_title">Chiamata di emergenza</string>
     <string name="emergency_information_hint">Informazioni per le emergenze</string>
     <string name="emergency_information_owner_hint">Proprietario</string>
+    <string name="emergency_medical_records">Registro medico</string>
     <string name="empty_networks_list">Nessuna rete trovata.</string>
     <string name="enable">Attiva</string>
     <string name="enable_adb">Debug USB</string>
     <string name="enable_adb_summary">Mod. debug quando è connesso tramite USB</string>
     <string name="enable_adb_wireless">Debug wireless</string>
     <string name="enable_adb_wireless_summary">Mod. debug quando il Wi-Fi è connesso</string>
+    <string name="enable_antispam_strange_title">Silenzia il primo squillo</string>
     <string name="enable_cdma_cw">Attiva</string>
     <string name="enable_disable_administrative">Amministrativo</string>
     <string name="enable_disable_advertisements">Pubblicità</string>
@@ -630,6 +639,7 @@ Selezione"</string>
     <string name="enable_disable_regional">Regionale</string>
     <string name="enable_disable_restaurants">Ristoranti</string>
     <string name="enable_disable_stock_quotes">Quotazione di borsa</string>
+    <string name="enable_disable_technology_news">News di tecnologia</string>
     <string name="enable_esim_dialog_title">Attivazione eSIM</string>
     <string name="enable_esim_title">Usa eSIM</string>
     <string name="enable_fdn">Abilita FDN</string>
@@ -815,6 +825,7 @@ Selezione"</string>
     <string name="keywords_adb_wireless">ADB, debug, sviluppatori</string>
     <string name="keywords_alarms_and_reminders">pianificazione, sveglia, promemoria, orologio</string>
     <string name="kr_emergency_112">Polizia (112)</string>
+    <string name="labelCF">Trasferimento di chiamata</string>
     <string name="labelCFB">Quando occupato</string>
     <string name="labelCFU">Inoltra sempre</string>
     <string name="labelCFVideo">Video</string>
@@ -1444,6 +1455,7 @@ La tua SIM sarà bloccata dopo un altro tentativo fallito."</string>
     <string name="show_touches_summary">Mostra feedback visivi per i tocchi</string>
     <string name="sim_accounts">Account SIM</string>
     <string name="sim_card_num">SIM %s</string>
+    <string name="sim_change_data_title">Cambiare SIM dati?</string>
     <string name="sim_contact_name">Nome</string>
     <string name="sim_contact_number">Numero</string>
     <string name="sim_fiveg_network_title">SIM %1$s (%2$s)</string>
@@ -1455,6 +1467,7 @@ La tua SIM sarà bloccata dopo un altro tentativo fallito."</string>
     <string name="sim_selection_required_pref">Selezione richiesta</string>
     <string name="simmelock_name">Blocco SIM ME</string>
     <string name="simulate_color_space">Simula spazio colore</string>
+    <string name="singleContactImportedMsg">Contatto importato</string>
     <string name="single_emergency_number_title">Numero di emergenza</string>
     <string name="single_fiveg_deactivate_sim_dialog_btn_disable_sim">Disattiva</string>
     <string name="single_fiveg_dialog_title_prompt">Attenzione</string>
@@ -1539,6 +1552,7 @@ La tua SIM sarà bloccata dopo un altro tentativo fallito."</string>
     <string name="supp_service_forwarded_call">Chiamata inoltrata.</string>
     <string name="supp_service_notification_call_deflected">Chiamata deviata.</string>
     <string name="supp_service_notification_call_forwarded">Chiamata inoltrata.</string>
+    <string name="supp_service_notification_call_waiting">Chiamata in attesa.</string>
     <string name="supp_service_over_ut_precautions_dialog_dismiss">Rifiuta</string>
     <string name="support_forbidden_fakecell">Nota: limitando la connessione alle celle fasulle potresti ridurre il segnle nelle arre con scarsa copertura.</string>
     <string name="switch_cancel_btn_text">Annulla</string>
@@ -1551,6 +1565,7 @@ La tua SIM sarà bloccata dopo un altro tentativo fallito."</string>
     <string name="t9_indexing_method_zhuyin">Zhuyin</string>
     <string name="tap_to_sign_up">Tocca per registrarti</string>
     <string name="telephony_setting">Telefono</string>
+    <string name="telocation_auto_country_code">Aggiunta prefisso internazionale</string>
     <string name="telocation_confim_delete_title">Cancellare questo messaggio?</string>
     <string name="telocation_countrycode_alert_title">Avviso</string>
     <string name="telocation_custom_location_title">Le mie posizioni</string>
@@ -1737,7 +1752,10 @@ Qualsiasi utente può aggiornare le app per tutti gli altri."</string>
     <string name="voicemail_number_not_set">&lt;Non impostato&gt;</string>
     <string name="voicemail_provider">Servizio</string>
     <string name="voicemail_set_pin_dialog_title">Imposta PIN</string>
+    <string name="voicemail_settings_number_label">Numero della segreteria</string>
+    <string name="voicemail_settings_number_title">Numero della segreteria</string>
     <string name="voicemail_settings_with_label">Segreteria (%s)</string>
+    <string name="voicemail_visual_voicemail_switch_title">Segreteria video</string>
     <string name="voip_setting">Impostazioni VoIP</string>
     <string name="volte_provision_notification_activate">Attiva</string>
     <string name="volte_switch_title">Usa VoLTE</string>
