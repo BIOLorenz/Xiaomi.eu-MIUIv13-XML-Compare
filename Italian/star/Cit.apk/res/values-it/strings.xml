@@ -581,6 +581,7 @@ La seconda linea mostra il nome e la versione del MBN predefinito e l'operatore 
     <string name="cit_tool_wlan_tx_st">Tx: ST</string>
     <string name="cit_tool_wlan_tx_st_chan">canale:</string>
     <string name="cit_tool_wlan_txrx_chain_selection">Seleziona antenna</string>
+    <string name="cit_tool_wlan_update_ap_list">Aggiorna Lista AP</string>
     <string name="cit_top_left_speaker_test">Test altoparlante superiore sinistro</string>
     <string name="cit_top_right_speaker_test">Prova altoparlante superiore destro</string>
     <string name="cit_torch">Flash</string>
