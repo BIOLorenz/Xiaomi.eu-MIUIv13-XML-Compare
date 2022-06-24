@@ -20,6 +20,7 @@
         <item>com.mediatek.backuprestore</item>
         <item>com.ironsource.appcloud.oobe.hutchison</item>
         <item>com.miui.huanji</item>
+        <item>com.miui.backup</item>
     </string-array>
     <string-array name="config_France_Orange_IPV6_array">
         <item>apollo</item>
@@ -1344,6 +1345,7 @@
         <item>com.google.process.gapps</item>
         <item>com.miui.core</item>
         <item>com.miui.virtualsim:authentication</item>
+        <item>com.miui.touchassistant</item>
         <item>com.miui.touchassistant:float</item>
         <item>com.miui.securitycenter.remote</item>
         <item>com.miui.greenguard</item>
@@ -1381,6 +1383,7 @@
         <item>com.miui.voiceassist:voice_trigger</item>
         <item>com.qualcomm.qti.lpa</item>
         <item>com.android.thememanager</item>
+        <item>com.miui.contentcatcher:autofill</item>
     </string-array>
     <string-array name="process_fg_service_check_list">
         <item>com.miui.screenrecorder</item>
@@ -1940,5 +1943,6 @@
         <item>zijin</item>
         <item>veux</item>
         <item>peux</item>
+        <item>ziyi</item>
     </string-array>
 </resources>
