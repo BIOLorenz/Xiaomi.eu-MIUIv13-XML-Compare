@@ -591,6 +591,7 @@
     <string name="not_identification_form">"Impossibile riconoscere la tabella. Selezionala di nuovo e riprova."</string>
     <string name="not_insert_contact">"Impossibile aggiungere contatto"</string>
     <string name="not_network">"Impossibile connettersi alla rete. Riprova."</string>
+    <string name="not_permissions_title">Suggerimenti</string>
     <string name="not_recommend_access_web_url">Continua comunque</string>
     <string name="not_set">Non impostato</string>
     <string name="note">Nota:</string>
@@ -1006,6 +1007,9 @@
     <string name="xiaoai_dialog">"Prova a dire quello che vuoi
 scansionare su Mi IA"</string>
     <string name="xiaoai_text">Piccolo pulsante adorabile</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Non ora</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Aggiorna</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Aggiornamento disponibile</string>
     <string name="yesterday">Ieri</string>
     <string name="you_have_permission_to_download">Tocca per scaricare la versione Beta</string>
     <string name="you_id">"Il Tuo ID: "</string>
