@@ -1433,6 +1433,9 @@ Non ti sei mai connesso a %2$s prima."</string>
     <string name="bluetooth_enable_gabeldorsche">Abilita Gabeldorsche</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Abilita lo stack delle funzionalità Gabeldorsche Bluetooth.</string>
     <string name="bluetooth_enable_opp_high_speed">Trasferimenti Bluetooth ad alta velocità</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_negative">Annulla</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_positive">Riavvia adesso</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_title">Riavvia il Bluetooth</string>
     <string name="bluetooth_enable_opp_high_speed_summary">Usa protocolli P2P Bluetooth ad alta velocità per i trasferimenti</string>
     <string name="bluetooth_enable_page_scan">abilita scansione pagina bluetooth</string>
     <string name="bluetooth_enable_page_scan_summary">disabilita/abilita scansione pagina per test Bluetooth</string>
@@ -5442,7 +5445,6 @@ Ci sono altri utenti presenti su questo dispositivo.
     <string name="miui_allow_light">LED Notifica</string>
     <string name="miui_allow_music">Media</string>
     <string name="miui_allow_vibrate">Vibra</string>
-    <string name="miui_bubbles_notification">Notifiche bolla</string>
     <string name="miui_bubbles_notification_status_opened">Attivata</string>
     <string name="miui_data_usage_menu_metered">Hotspot portatile</string>
     <string name="miui_experience_optimization">Attiva ottimizzazione MIUI</string>
