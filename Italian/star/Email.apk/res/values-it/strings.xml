@@ -879,6 +879,7 @@ path prefix"</string>
     <string name="http_auth_dialog_title">Inserisci le tue credenziali</string>
     <string name="http_auth_dialog_username">Nome utente</string>
     <string name="icon_content_description">Icona Dialogo</string>
+    <string name="icoud_login_pw_hint">Inserisci password</string>
     <string name="imap_name">IMAP</string>
     <string name="imap_or_pop3_name">IMAP/POP3</string>
     <string name="imap_password_error">La password per il server di posta in entrata non è corretta</string>
@@ -1092,6 +1093,11 @@ Ciao, la password dell'applicazione è attivata? Se attiva, vai al sito ufficial
     <string name="miuix_sbl_tracking_progress_labe_up_none">"E' tutto per ora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare gli elementi"</string>
+    <string name="miuix_search_action_mode_cancel">Annulla</string>
+    <string name="miuix_search_history_clear">Cancella cronologia di ricerca</string>
+    <string name="miuix_search_history_default_title">Cronologia di ricerca</string>
+    <string name="miuix_search_recommendation_default_title">Potresti essere interessato a</string>
+    <string name="miuix_search_recommendation_item_del_des">Elimina</string>
     <string name="modify_contact_address">"Modifica indirizzo email del contatto"</string>
     <string name="monday">Lunedì</string>
     <string name="monday_short">Lun</string>
