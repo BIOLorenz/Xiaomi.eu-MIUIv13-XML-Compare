@@ -97,7 +97,7 @@
     <string name="app_description_content">"Music is a system app that contains an audio player and allows you to manage audio files. You'll still be able to play audio files after you remove the Home screen shortcut."</string>
     <string name="app_description_title">Remove \"Music\" from Home screen?</string>
     <string name="app_label">Downloads</string>
-    <string name="app_name">MiGlobalAdSdk</string>
+    <string name="app_name">SdkCommon</string>
     <string name="app_permission_confirm">Got it</string>
     <string name="app_permission_optional">Optional permissions</string>
     <string name="app_permission_require">Mandatory permissions</string>
@@ -252,7 +252,7 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">d1e1f5c988f74f7c8162efa939b1a89a</string>
+    <string name="com.crashlytics.android.build_id">3235231bad9e4c148b2e20d8493699ff</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
@@ -478,6 +478,7 @@
     <string name="enjoy_hungama_pro">Enjoy Hungama PRO</string>
     <string name="enroll_in">Enroll</string>
     <string name="enter_garbage_clean">Clean up internal storage.</string>
+    <string name="entertainment">Entertainment</string>
     <string name="eq_auto">Custom</string>
     <string name="eq_blues">Blues</string>
     <string name="eq_classical">Classical</string>
@@ -841,6 +842,7 @@
     <string name="low_sound_quality">Low</string>
     <string name="lrc_search_failed">"Couldn't find lyrics"</string>
     <string name="lrc_searching">Searching…</string>
+    <string name="ludo_tab_guide">Check out our new Music rooms</string>
     <string name="lyric_is_empty">No lyrics available</string>
     <string name="lyric_label">Lyrics</string>
     <string name="lyric_open_other_connect">Download lyrics using mobile network</string>
@@ -1588,6 +1590,7 @@ Be Happy"</string>
     <string name="wednesday">Wednesday</string>
     <string name="wednesday_short">Wed</string>
     <string name="wednesday_shortest">Wed</string>
+    <string name="welcome_to_entertainment">Check out the new Entertainment feature for music games and more</string>
     <string name="widget_small_text_separator">-</string>
     <string name="wifi_required_body" formatted="false">"Connect to Wi-Fi to complete this %s download. 
 
