@@ -230,7 +230,6 @@ Controlla le impostazioni per i dettagli."</string>
     <string name="fast_connect_new_feture_title">"Novità"</string>
     <string name="fast_connect_nzbt_reset">Tieni premuto il pulsante in alto per %1$s secondi mentre si spegne</string>
     <string name="fast_connect_reset_common">Esegui il reset del dispositivo, per poter eseguire l\'accoppiamento</string>
-    <string name="fast_connect_same_account_content">I dispositivi Bluetooth possono essere sincronizzati con il tuo Mi Account e connessi senza bisogno di associarli su altri dispositivi.</string>
     <string name="fast_connect_same_accout_devices_connecting">Connessione tramite Xiaomi Cloud…</string>
     <string name="fast_connect_same_accout_devices_title">"Hai collegato %1$s ad altri dispositivi"</string>
     <string name="fast_connect_same_accout_ok">Ok</string>
