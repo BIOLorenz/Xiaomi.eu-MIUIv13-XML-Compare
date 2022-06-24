@@ -62,13 +62,8 @@
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="activate_email_notice">Assicurati di attivare il tuo account entro 24 ore</string>
     <string name="activity_not_found_notice">"Impossibile trovare l'app"</string>
-    <string name="ad">AD</string>
     <string name="ad_bar_notification_setting_sub_title">Mostra gli eventi nella barra delle notifiche</string>
     <string name="ad_bar_notification_setting_title">Agenda</string>
-    <string name="ad_buy">Acquista</string>
-    <string name="ad_download">Scarica</string>
-    <string name="ad_join">Unisciti alla community</string>
-    <string name="ad_more">Altro</string>
     <string name="add_local_shortcut_add">Aggiungi</string>
     <string name="add_local_shortcut_des">Aggiungi \"I miei video\" alla schermata Home per accedere ai file video locali con un solo tocco.</string>
     <string name="add_search_channel_link">URL</string>
@@ -99,7 +94,6 @@
     <string name="app_description_content">"Mi Video è un'app di sistema che contiene un lettore video locale. Sarai ancora in grado di riprodurre i file video dopo aver rimosso il collegamento dalla schermata Home."</string>
     <string name="app_description_title">Rimuovere \"Mi Video\" dalla schermata Home?</string>
     <string name="app_name">Mi Video</string>
-    <string name="auth_again">Accetto</string>
     <string name="auth_fail_warning">Sessione scaduta, accedi di nuovo.</string>
     <string name="auto_play_next_off">Riproduzione automatica spenta</string>
     <string name="auto_play_next_on">Riproduzione automatica attiva</string>
@@ -264,29 +258,6 @@
     <string name="columbus_player_speed_video">Salta Il VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Salta</string>
-    <string name="com_facebook_device_auth_instructions">Visita &lt;b&gt;facebook.com/device&lt;/b&gt; ed inserisci il codice visualizzato sopra.</string>
-    <string name="com_facebook_image_download_unknown_error">Errore inaspettato durante il download di un\'immagine.</string>
-    <string name="com_facebook_internet_permission_error_message">Il login WebView richiede i permessi per accedere a internet</string>
-    <string name="com_facebook_internet_permission_error_title">Errore AndroidManifest</string>
-    <string name="com_facebook_like_button_liked">Mi piace</string>
-    <string name="com_facebook_like_button_not_liked">Mi piace</string>
-    <string name="com_facebook_loading">Caricamento…</string>
-    <string name="com_facebook_loginview_cancel_action">Annulla</string>
-    <string name="com_facebook_loginview_log_in_button">Accedi</string>
-    <string name="com_facebook_loginview_log_in_button_continue">Continua con Facebook</string>
-    <string name="com_facebook_loginview_log_in_button_long">Accedi con Facebook</string>
-    <string name="com_facebook_loginview_log_out_action">Disconnetti</string>
-    <string name="com_facebook_loginview_log_out_button">Disconnetti</string>
-    <string name="com_facebook_loginview_logged_in_as">Accesso eseguito come: %1$s</string>
-    <string name="com_facebook_loginview_logged_in_using_facebook">Accesso eseguito tramite Facebook</string>
-    <string name="com_facebook_send_button_text">Invia</string>
-    <string name="com_facebook_share_button_text">Condividi</string>
-    <string name="com_facebook_smart_device_instructions">Per collegare il tuo account, apri l\'app Facebook sul tuo dispositivo mobile e controlla la presenza di notifiche.</string>
-    <string name="com_facebook_smart_device_instructions_or">- O -</string>
-    <string name="com_facebook_smart_login_confirmation_cancel">Non sei tu?</string>
-    <string name="com_facebook_smart_login_confirmation_continue_as">Continua come %1$s</string>
-    <string name="com_facebook_smart_login_confirmation_title">Conferma accesso</string>
-    <string name="com_facebook_tooltip_default">"Hai il controllo - scegli cosa vuoi condividere con queste app."</string>
     <string name="com_permission_desc">"Mi Video non può accedere ai video sul tuo dispositivo. Consenti l'accesso nelle Impostazioni."</string>
     <string name="com_permission_title">Permessi richiesti</string>
     <string name="comment_model_add_comment">Aggiungi un commento</string>
@@ -330,6 +301,7 @@
     <string name="common_google_play_services_updating_text">"%1$s non funzionerà senza i servizi di Google Play, che sono attualmente in fase di aggiornamento."</string>
     <string name="common_google_play_services_wear_update_text">È necessaria una nuova versione dei servizi di Google Play, che si aggiornerà a breve.</string>
     <string name="common_open_on_phone">Apri sul telefono</string>
+    <string name="common_retry_late_hint">Attendi un minuto o due e riprova</string>
     <string name="common_signin_button_text">Accedi</string>
     <string name="common_signin_button_text_long">Accedi con Google</string>
     <string name="confirm_activate_email">Verificato</string>
@@ -382,6 +354,7 @@ Invia questo codice al supervisore."</string>
     <string name="dialog_no_video_confirm">Ok</string>
     <string name="dialog_no_video_tip">Prova ad aprire prima i dettagli del video. Il pulsante di download sarà disponibile una volta trovato un video.</string>
     <string name="dialog_no_video_title">"Impossibile trovare video"</string>
+    <string name="dialog_open_internet_btn">Connettiti alla rete</string>
     <string name="dialog_privacy_change_info">"Abbiamo aggiornato l'Informativa sulla privacy di Mi Video a causa delle modifiche apportate ai servizi che offriamo. Per comprendere pienamente i tuoi diritti come utente e i modi in cui utilizziamo i tuoi dati, leggi e accetta il nostro &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e &lt;a href=%2$s&gt;Informativa sulla privacy&lt;/a&gt; prima di utilizzare l'app."</string>
     <string name="dialog_privacy_change_title">Aggiornamento Informativa sulla privacy</string>
     <string name="dialog_privacy_experience_plan">Unisciti al nostro Programma Esperienza Utente per condividere i dati utente con noi al fine di aiutarci a migliorare i nostri prodotti e servizi.</string>
@@ -448,7 +421,6 @@ Invia questo codice al supervisore."</string>
     <string name="empty_subscribe">"Non ti sei ancora iscritto a nulla."</string>
     <string name="eras_ad">AC</string>
     <string name="eras_bc">DC</string>
-    <string name="error_details">Errore inaspettato</string>
     <string name="error_dup_binded_email">Questa email è già associata ad un altro MI account.</string>
     <string name="error_icon_content_description">Errore</string>
     <string name="error_invalid_bind_address">Questo indirizzo email non è valido.</string>
@@ -490,7 +462,6 @@ Invia questo codice al supervisore."</string>
     <string name="exo_track_surround_7_point_1">Surround 7.1</string>
     <string name="exo_track_unknown">Sconosciuto</string>
     <string name="expand_button_title">Avanzate</string>
-    <string name="explore">Scopri</string>
     <string name="explore_on_mi_video">Trova di più su Mi Video</string>
     <string name="exposed_dropdown_menu_content_description">Mostra menu a discesa</string>
     <string name="failed_dup_secure_phone_number">Questo numero di telefono è già associato ad un altro MI account</string>
@@ -527,7 +498,6 @@ Invia questo codice al supervisore."</string>
     <string name="file_space_not_enough_tip">Memoria insufficiente. Libera almeno %d MB e avvia nuovamente l\'app.</string>
     <string name="find_psw">Password dimenticata</string>
     <string name="finish">Fatto</string>
-    <string name="firework_privacy">Informativa sulla Privacy Firework</string>
     <string name="fmt_chinese_date">dd/MM</string>
     <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -618,6 +588,7 @@ Invia questo codice al supervisore."</string>
     <string name="galleryplus_gallery_video_save_video">Creazione video…</string>
     <string name="galleryplus_gallery_video_slow_edit">Slow-motion</string>
     <string name="galleryplus_gallery_view_tags">Mostra segnalini</string>
+    <string name="galleryplus_globalvideo_controller_go">Vai</string>
     <string name="galleryplus_is_higher_definition">Anteprima HD</string>
     <string name="galleryplus_network_connect_check">"Impossibile connettersi alla rete"</string>
     <string name="galleryplus_network_connect_confirm">Connettiti al Wi-Fi o attiva i dati nelle impostazioni di rete.</string>
@@ -630,6 +601,7 @@ Invia questo codice al supervisore."</string>
     <string name="galleryplus_notification_linkvideo_title1">%$s Scopri tutte le fantastiche funzionalità di Mi Video!</string>
     <string name="galleryplus_notification_linkvideo_title2">%$s Tocca per gestire i tuoi video</string>
     <string name="galleryplus_notification_linkvideo_title3">%1$s Scarica video gratuitamente %2$s Gestisci i file</string>
+    <string name="galleryplus_notification_try_now_btn">Prova adesso</string>
     <string name="galleryplus_online_cta">Mi Video ha bisogno di connettersi a internet per funzionare normalmente. Accetti?</string>
     <string name="galleryplus_online_cta_agree">Accetto</string>
     <string name="galleryplus_online_cta_disagree">"Non accetto"</string>
@@ -709,7 +681,6 @@ Questa operazione non influenzerà le foto della galleria."</string>
     <string name="get_ph_ticket">Ottieni codice</string>
     <string name="get_phone_bind_exceed_limit">"È possibile associare fino a 3 Mi Account a un numero di telefono. Impossibile aggiungere nuovi account."</string>
     <string name="get_phone_verifycode_exceed_limit">Troppi codici di verifica sono stati inviati a questo numero. Attendere 24 ore e riprovare.</string>
-    <string name="got_it">Ok</string>
     <string name="goto_sign_up">Crea account</string>
     <string name="gps_prompt_context">Scaricare con rete mobile?</string>
     <string name="gps_prompt_title">Suggerimenti</string>
@@ -731,10 +702,31 @@ Questa operazione non influenzerà le foto della galleria."</string>
     <string name="history">Cronologia</string>
     <string name="history_local_video">Dispositivo</string>
     <string name="history_online_video">Online</string>
-    <string name="hot">Popolari</string>
     <string name="i_know">Ok</string>
     <string name="icon_content_description">Icona Dialogo</string>
     <string name="identity">Identificazione</string>
+    <string name="incentive_details">Dettagli</string>
+    <string name="incentive_dialog_cancel_not_interested">Non ora</string>
+    <string name="incentive_dialog_continue_to_watch">Continua</string>
+    <string name="incentive_dialog_exit">Esci</string>
+    <string name="incentive_dialog_negative_give_up">Non ora</string>
+    <string name="incentive_dialog_ok_receive_task">Completo</string>
+    <string name="incentive_dialog_positive_login_and_get_credits">Accedi</string>
+    <string name="incentive_exchange">Rinnova</string>
+    <string name="incentive_exchange_code">Codice</string>
+    <string name="incentive_exchange_code_copy">Copia</string>
+    <string name="incentive_exchange_details">Dettagli</string>
+    <string name="incentive_exchange_details_total">Saldo</string>
+    <string name="incentive_exchange_lack">Non disponibile</string>
+    <string name="incentive_exchange_successful">Riscattato correttamente</string>
+    <string name="incentive_rules_title_bar">Regolamento</string>
+    <string name="incentive_tab_integral_task">Operazioni</string>
+    <string name="incentive_tab_points_details">Cronologia</string>
+    <string name="incentive_task_login_receive">Accedi</string>
+    <string name="incentive_task_receive">Ottieni</string>
+    <string name="incentive_task_to_get">Avvia</string>
+    <string name="incentive_task_to_login">Accedi</string>
+    <string name="incentive_view_details">Dettagli</string>
     <string name="inconsistent_pwd">"Le password non corrispondono"</string>
     <string name="init_channels">Ripristina predefinite</string>
     <string name="input_email_address_notice">"Useremo questa email per verificare il tuo account"</string>
@@ -771,6 +763,7 @@ per i video"</string>
     <string name="local_diversion_manage_local_video">Gestisci file</string>
     <string name="local_diversion_open_mivideo">*Passa a Mi Video, un potente lettore video multifunzione</string>
     <string name="local_diversion_recommend_title">Popolari</string>
+    <string name="local_diversion_view_more">Mostra</string>
     <string name="local_empty_guide">I video che registri appariranno qui</string>
     <string name="local_folder_select_count">Selezionato %s</string>
     <string name="local_hide_folder_dialog_content">"I video nascosti non saranno visualizzati nelle tue playlist"</string>
@@ -981,6 +974,7 @@ per i video"</string>
     <string name="mediation_ad">Annuncio</string>
     <string name="mediation_ad_can_not_share">"Impossibile condividere questo video"</string>
     <string name="mi_video">Mi Video</string>
+    <string name="mi_video_pip_mode">Picture-in-picture</string>
     <string name="midnight">Notte</string>
     <string name="miuix_access_state_desc">Selezionato</string>
     <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
@@ -1129,11 +1123,9 @@ per i video"</string>
     <string name="network_connect_info">"Impossibile connettersi alla rete."</string>
     <string name="network_failed">"Impossibile connettersi alla rete"</string>
     <string name="neverthink_player_loading">Caricamento video di Neverthink…</string>
-    <string name="new_channel_tip">Dai un\'occhiata ai nuovi canali!</string>
     <string name="newyearfestival_go_to_draw_prizes">Vai al sorteggio fortunato</string>
     <string name="newyearfestival_watch_the_video_to_draw_prizes">Guarda i video per partecipare al sorteggio fortunato</string>
     <string name="next">Successivo</string>
-    <string name="next_step">Successivo</string>
     <string name="nick_name">Soprannome</string>
     <string name="night">Sera</string>
     <string name="no_account">Accesso non eseguito</string>
@@ -1166,7 +1158,6 @@ per i video"</string>
     <string name="notification_recall_title">Attiva notifiche</string>
     <string name="notification_tool">Strumenti</string>
     <string name="notify_apk_installed">Scaricato con successo</string>
-    <string name="off_tip_firework_recommend">"Non riceverai consigli di contenuti personalizzati da Fireworks"</string>
     <string name="offline_notification_text">Tocca per aprire l\'annuncio</string>
     <string name="offline_notification_title">Visualizza l\'annuncio salvato quando eri offline</string>
     <string name="offline_opt_in_confirm">OK</string>
@@ -1175,7 +1166,6 @@ per i video"</string>
     <string name="offline_opt_in_message">"Ti invieremo una notifica con un link che rimanda al sito dell'inserzionista."</string>
     <string name="offline_opt_in_title">"Apri l'annuncio quando sarai di nuovo online."</string>
     <string name="ok">OK</string>
-    <string name="on_tip_firework_recommend">"Riceverai consigli di contenuti personalizzati da Fireworks"</string>
     <string name="online_play_hint">Per esempio: http://www.example.com/video.mp4</string>
     <string name="online_play_title">Perfavore inserisic il link url del calendario</string>
     <string name="open_settings">Impostazioni</string>
@@ -1605,8 +1595,6 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="restart_phone_bind_title">Modifica il numero di telefono di ripristino</string>
     <string name="restore_channel_list">Ripristinare le impostazioni predefinite?</string>
     <string name="retry">Riprova</string>
-    <string name="reveal">Ruotare</string>
-    <string name="reveal_tip">Ruota il dispositivo per una migliore esperienza di visualizzazione</string>
     <string name="revoke">Revoca</string>
     <string name="s1">Salva immagine</string>
     <string name="s2">Consentire annuncio per memorizzare l\'immagine nella galleria?</string>
@@ -1654,7 +1642,6 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="sign_in">Accesso in corso</string>
     <string name="sign_in_google_account">Accedi con Google</string>
     <string name="sign_in_google_account_hint">"Accedi al tuo account Google per vedere altri video che ti piacciono"</string>
-    <string name="sign_in_mi_account">Esegui l\'accesso ed utilizza Mi Cloud</string>
     <string name="sign_in_progress">Accesso…</string>
     <string name="sign_in_title">Accedi con il tuo Mi Account</string>
     <string name="slid_fail_message">"Impossibile salvare"</string>
@@ -1830,8 +1817,6 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="ticket_invalid">Il captcha inserito non è corretto</string>
     <string name="ticket_sign_in">Accedi via SMS</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
-    <string name="tip_auth_again">"Dal momento che non hai precedentemente accettato i termini della corrispondente Informativa sulla privacy del fornitore di contenuti di terze parti, non è possibile visualizzare contenuti video in Momenti. Tocca il pulsante qui sotto per accettare l'Informativa sulla privacy e accedere a questa funzionalità."</string>
-    <string name="tip_author_click">Tocca per visualizzare altri video di questo account</string>
     <string name="tip_content_or">O</string>
     <string name="tip_download_video_to_save_here">%d. Il video sarà salvato nei download</string>
     <string name="tip_enter_the_website">%d. Apri un sito web o un\'app</string>
@@ -1840,14 +1825,11 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="tip_local_manager_here">Gestisci qui i tuoi file</string>
     <string name="tip_login_for_your_online_playlist">Accedi per vedere le tue playlist.</string>
     <string name="tip_play_a_video">%d. Riproduci un video</string>
-    <string name="tip_pop"><com.miui.video.biz.livetv.data.mnc.information.Data>Il contenuto dei Momenti è fornito da Firework. Al fine di migliorare la vostra esperienza di visualizzazione e ricevere raccomandazioni di contenuto più rilevanti, consentire a Firework di raccogliere, elaborare e utilizzare le tue informazioni personali in conformità alla sua Informativa sulla privacy. Leggi e accetta la &lt;a href=\"%1$s\"&gt;Politica sulla privacy fi Fireworks&lt;/a&gt; prima di usare i suoi servizi.</com.miui.video.biz.livetv.data.mnc.information.Data></string>
     <string name="tip_storage_used_space" formatted="false">Usato %.2f GB/%.2f GB</string>
     <string name="tip_tap_download_button">%d. Tocca \"Scarica\"</string>
-    <string name="tip_topic_click">Tocca per trovare altri video su questo argomento</string>
     <string name="title_bookmarks">Segnalibri</string>
     <string name="title_continue_to_borwser">Apri nel browser</string>
     <string name="title_download_setting">Impostazioni download</string>
-    <string name="title_firework_recommend">Raccomandazioni fuochi d\'artificio</string>
     <string name="title_history">Cronologia</string>
     <string name="title_mangotv_history_sub" formatted="false">%s (Episodio %d)</string>
     <string name="title_mangotv_subtitle_language">Lingua sottotitoli</string>
@@ -1866,7 +1848,6 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="toast_fail_to_delete">"Impossibile eliminare. Riprova."</string>
     <string name="toast_fail_to_rename">"Impossibile rinominare. Riprova."</string>
     <string name="toast_m3u8_download_path_tip">"Impossibile cambiare il percorso di download per il contenuto in formato m3u8"</string>
-    <string name="toast_no_data">"Questo elemento non è disponibile ora. Torna più tardi."</string>
     <string name="toast_play_error_tip">"Impossibile riprodurre questo file"</string>
     <string name="toast_request_too_frequently">Non così in fretta!</string>
     <string name="toast_share_failed">"Impossibile condividere. Attendi un minuto o due e riprova."</string>
@@ -1876,6 +1857,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="tool_bar_notification_setting_title">Strumenti nella barra delle notifiche</string>
     <string name="top_bar_game_desc">Scopri un sacco di giochi nuovi qui</string>
     <string name="top_bar_game_title">Canale Gaming</string>
+    <string name="trending_history_continue_watching">Continua a guardare</string>
     <string name="tuesday">Martedì</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
@@ -1976,15 +1958,6 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="welcome_tip_into_mivideo">Inizia ora</string>
     <string name="welcome_tip_skip">Salta</string>
     <string name="welcome_tip_title">Benvenuto su Mi Video</string>
-    <string name="xiaomi_update_sdk_connect_download_manager_fail">Connessione al Download Manager fallita, controlla lo stato del Download Manager in Gestione Applicazioni.</string>
-    <string name="xiaomi_update_sdk_dialog_message">"Presentazione versione %1$s
-Size: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_message_diff">"Nuova versione %1$s
-Dimensione : %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_title">Aggiornamento %1$s !</string>
-    <string name="xiaomi_update_sdk_external_storage_unavailable">Spazio insufficientee, controlla la scheda SD.</string>
-    <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
     <string name="yandex_ads_internal_text_divider">·</string>
     <string name="yandex_ads_internal_tools_age_text">3+</string>
     <string name="yandex_ads_internal_tools_domain_text">dominio</string>
