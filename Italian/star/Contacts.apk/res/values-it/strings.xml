@@ -43,8 +43,6 @@
     <string name="add_field">Aggiungi un altro campo</string>
     <string name="add_field_toast">Nessun altro campo da aggiungere.</string>
     <string name="add_new_account">Aggiungi nuovo account</string>
-    <string name="add_xiaomi_account_dialog_btn">Usa Mi Account</string>
-    <string name="add_xiaomi_account_dialog_msg">Usa il tuo Mi Account per sincronizzare ed eseguire il backup dei tuoi contatti tra vari dispositivi.</string>
     <string name="add_xiaomi_account_dialog_title">Scegli account</string>
     <string name="afternoon">Pomeriggio</string>
     <string name="aggregation_suggestion_edit_dialog_message">Passare alla modifica del contatto selezionato? Le informazioni inserite finora verranno copiate.</string>
@@ -826,7 +824,6 @@ Motivo: \"%s\""</string>
     <string name="import_to_xiaomi_account_confirm">Importa</string>
     <string name="import_to_xiaomi_account_progress_finish">Importazione completata</string>
     <string name="import_to_xiaomi_account_progress_message">Importazione…</string>
-    <string name="import_to_xiaomi_account_title">Vuoi importare i seguenti contatti sul tuo Mi Account?</string>
     <string name="import_vcard_dialog_message">Importare vCard?</string>
     <string name="importing_sim_contacts_miui">Importazione contatti dalla SIM…</string>
     <string name="importing_sim_contacts_miui_prepare">Preparazione per l\'eliminazione…</string>
@@ -835,6 +832,9 @@ Motivo: \"%s\""</string>
     <string name="importing_vcard_finished_title">Importazione vCard %s terminata</string>
     <string name="insertContactDescription">Crea contatto</string>
     <string name="invalidContactMessage">"Contatto inesistente"</string>
+    <string name="invisible_mode_dialog_cancel">Annulla</string>
+    <string name="invisible_mode_dialog_to_close">Disattiva</string>
+    <string name="invisible_mode_title">"Sei in incognito"</string>
     <string name="item_offical">Ufficiale</string>
     <string name="keep_local">"Non sincronizzare"</string>
     <string name="keep_local_btn">"Usa la memoria interna del dispositivo\""</string>
@@ -1098,9 +1098,7 @@ Tocca \"%1$s\", quindi seleziona \"%2$s\"."</string>
     <string name="pref_key_sim_manage">Gestione SIM</string>
     <string name="pref_key_sim_manage1">Configura SIM 1</string>
     <string name="pref_key_sim_manage2">Configura SIM 2</string>
-    <string name="pref_summary_import_from_account">Trasferisci contatti da Google o Exchange al tuo Mi Account</string>
     <string name="pref_title_account_import">Importa contatti</string>
-    <string name="pref_title_import_from_account">Vuoi importare i seguenti contatti sul tuo Mi Account?</string>
     <string name="preference_contacts">Contatti</string>
     <string name="preference_contacts_filter">Configura liste contatti</string>
     <string name="preference_contacts_more">Organizza contatti</string>
