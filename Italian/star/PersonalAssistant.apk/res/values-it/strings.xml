@@ -248,6 +248,7 @@
     <string name="pa_accessibility_olympic_the_second">Secondo posto: %s</string>
     <string name="pa_accessibility_olympic_the_third">Terzo posto: %s</string>
     <string name="pa_accessibility_picker_back">Torna indietro.</string>
+    <string name="pa_accessibility_picker_home_search">Cerca widget</string>
     <string name="pa_accessibility_picker_search_cancel">Barra di ricerca widget. Tocca due volte per annullare.</string>
     <string name="pa_accessibility_picker_search_tips">Barra di ricerca dei widget. Tocca due volte per cercare.</string>
     <string name="pa_accessibility_picker_suit_item_add_to_desktop">Negozio widget. %s selezionato. Tocca due volte per visualizzare i dettagli.</string>
@@ -406,6 +407,7 @@
     <string name="pa_font_mi_lan_pro_light">mipro-light</string>
     <string name="pa_font_mi_lan_pro_medium">mipro-medium</string>
     <string name="pa_font_mi_sans">sans-serif-medium</string>
+    <string name="pa_font_mi_sans_light">sans-serif-light</string>
     <string name="pa_font_mi_type_semi_bold">mitype-semibold</string>
     <string name="pa_guide_dialog_desc">Tieni premuto un widget per riorganizzarlo. Tocca + per aggiungere altri widget.</string>
     <string name="pa_guide_dialog_sure">Ok</string>
@@ -498,7 +500,6 @@
     <string name="pa_picker_detail_theme_app_cta_pre">"Per essere in grado di utilizzare questo widget, consentire a Temi di connettersi ad Internet. "</string>
     <string name="pa_picker_detail_vp2_indicator">Pagina selezionata %1$d di %2$d</string>
     <string name="pa_picker_detail_wait_wifi_download_maml">Questo elemento verrà scaricato tramite Wi-Fi</string>
-    <string name="pa_picker_home_app_group_title">App con widget</string>
     <string name="pa_picker_home_group_more">Tutto</string>
     <string name="pa_picker_home_request_failed">Errore rete</string>
     <string name="pa_picker_home_search_hint">Cerca widget</string>
@@ -508,8 +509,9 @@
     <string name="pa_picker_list_app_title">App con widget</string>
     <string name="pa_picker_list_load_complete">Tocca per caricare altro</string>
     <string name="pa_picker_list_load_end">Nient\'altro da mostrare</string>
-    <string name="pa_picker_list_load_failed">"Impossibile caricare gli oggetti, tocca per riprovare"</string>
+    <string name="pa_picker_list_load_failed">"Impossibile caricare gli elementi. Riprova."</string>
     <string name="pa_picker_list_loading">Attendi…</string>
+    <string name="pa_picker_list_recommend">Consigliato</string>
     <string name="pa_picker_loading">Attendi…</string>
     <string name="pa_picker_maml_list_activity_title">Aggiungi widget</string>
     <string name="pa_picker_permission_denied">"App Vault deve accedere a 'stato dell'installazione'
@@ -520,7 +522,6 @@ per mostrare i widget."</string>
     <string name="pa_picker_search_error">"Impossibile connettersi alla rete"</string>
     <string name="pa_picker_search_layout_cancel">Annulla</string>
     <string name="pa_picker_suit_list_activity_title">Pacchetti di personalizzazione</string>
-    <string name="pa_picker_tips_count_limit_forbidden">"Impossibile aggiungere altri widget ad App Vault. Elimina i widget più vecchi per aggiungerne altri."</string>
     <string name="pa_picker_toast_add_successfully">Aggiunto con successo</string>
     <string name="pa_picker_toast_count_limit_forbidden">"Impossibile aggiungere altri widget"</string>
     <string name="pa_picker_toast_count_limit_forbidden_for_type">"Impossibile aggiungere altri widget di questo tipo"</string>
@@ -592,6 +593,12 @@ per mostrare i widget."</string>
     <string name="pa_setting_privacy_third_parties">Dichiarazione sulla condivisione di dati con terzi</string>
     <string name="pa_setting_privacy_view_priv">Visualizza Informativa sulla Privacy</string>
     <string name="pa_setting_version">Versione：%1$s</string>
+    <string name="pa_shopping_page_product_item_icon_tag">Consigliato</string>
+    <string name="pa_shopping_widget_empty_content_click_desc">Non c\'è niente qui</string>
+    <string name="pa_shopping_widget_empty_content_desc">Non c\'è niente qui</string>
+    <string name="pa_shopping_widget_no_network_content_desc">"Impossibile connettersi alla rete"</string>
+    <string name="pa_shopping_widget_no_setting_content_desc">Impostazioni</string>
+    <string name="pa_shopping_widget_title">Acquisti</string>
     <string name="pa_shortcut_accessibility_description">"App Vault fornisce collegamenti per le app di terze parti selezionate. Questi collegamenti non funzioneranno se disabiliti la funzionalità."</string>
     <string name="pa_shortcut_accessibility_service">Assistente App</string>
     <string name="pa_shortcut_add_limit">Puoi aggiungere fino a %1$d collegamenti</string>
