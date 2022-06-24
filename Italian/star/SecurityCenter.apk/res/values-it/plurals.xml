@@ -472,6 +472,10 @@ Puoi ottenere una prova gratuita di %d giorno!"</item>
         <item quantity="other">Inserisci almeno %d caratteri</item>
         <item quantity="one">Inserisci almeno %d carattere</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nuove notifiche</item>
+        <item quantity="one">%d nuova notifica</item>
+    </plurals>
     <plurals name="net_booster_expire_notification_tip">
         <item quantity="other">%d d rimanenti prima del termine della sessione a velocità di rete accelerata. Rinnova la sessione per evitare rallentamenti nella velocità di rete.</item>
         <item quantity="one">%d d rimanente prima del termine della sessione a velocità di rete accelerata. Rinnova la sessione per evitare rallentamenti nella velocità di rete</item>
