@@ -402,7 +402,6 @@ Email: service.jp@xiaomi.com"</string>
     <string name="permission_china_version_msg"><Data>Prima di utilizzare \"Servizi e feedback\", devi leggere e accettare i nostri  &lt;a href=%1$s&gt; Contratto Utente&lt;/a&gt;  e &lt;a href=%2$s&amp;gtInformativa sulla privacy&lt;/a&gt;. Questa applicazione deve anche connettersi ad internet per funzionare correttamente.</Data></string>
     <string name="permission_complete">Fatto</string>
     <string name="permission_contacts_info">Accesso alle informazioni dell\'account</string>
-    <string name="permission_contacts_introduce">Per accedere tramite Mi Account</string>
     <string name="permission_device_info">Accesso alle info dispositivo</string>
     <string name="permission_device_introduce">Per determinare il periodo di garanzia</string>
     <string name="permission_exit">Esci</string>
