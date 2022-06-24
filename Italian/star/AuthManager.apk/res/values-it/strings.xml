@@ -421,14 +421,12 @@
     <string name="permdesc_get_account">Consentire a %1$s di accedere a tutti gli account memorizzati su questo dispositivo?</string>
     <string name="permdesc_location">Consentire a %1$s di accedere alle info sulla posizione?</string>
     <string name="permdesc_location_background">Consentire a %1$s di accedere alle info sulla posizione in background?</string>
-    <string name="permdesc_microphone">Consentire a %1$s di utilizzare il microfono per registrare audio e effettuare chiamate?</string>
     <string name="permdesc_nearby_devices">Consentire a %1$s di scansionare e connettersi ai dispositivi nelle vicinanze?</string>
     <string name="permdesc_process_outgoing_call">Consentire a %1$s di rispondere e terminare le chiamate?</string>
     <string name="permdesc_read_calendar">Consentire a %1$s di accedere e modificare gli eventi del calendario?</string>
     <string name="permdesc_read_call_log">Consentire a %1$s di accedere alla cronologia chiamate?</string>
     <string name="permdesc_read_contacts">Consentire a %1$s di accedere ai contatti?</string>
     <string name="permdesc_read_mms">Consentire a %1$s di leggere messaggi multimediali?</string>
-    <string name="permdesc_read_phone_state">Consentire a %1$s di accedere allo stato del dispositivo e alle informazioni della rete mobile?</string>
     <string name="permdesc_read_sms">Consentire a %1$s di leggere o inviare messaggi testuali e multimediali?</string>
     <string name="permdesc_read_storage">Consentire a %1$s di accedere a file e foto su questo dispositivo?</string>
     <string name="permdesc_recognition">Consentire a %1$s di accedere alle informazioni sulle tue attività?</string>
