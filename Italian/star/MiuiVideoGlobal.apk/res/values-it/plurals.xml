@@ -64,9 +64,17 @@
         <item quantity="other">tra %d minuti</item>
         <item quantity="one">tra 1 minuto</item>
     </plurals>
+    <plurals name="incentive_dialog_seconds">
+        <item quantity="other">%d secondi</item>
+        <item quantity="one">%d secondo</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Proprio adesso</item>
         <item quantity="other">ora</item>
+    </plurals>
+    <plurals name="local_diversion_video_number">
+        <item quantity="other">%d video</item>
+        <item quantity="one">%d video</item>
     </plurals>
     <plurals name="local_video_floder">
         <item quantity="other">%d cartelle</item>
