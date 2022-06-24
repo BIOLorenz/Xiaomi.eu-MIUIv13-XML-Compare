@@ -695,7 +695,6 @@
     <string name="custom_tint_color_select">Personalizza colori</string>
     <string name="custom_tint_color_sky_blue">Blu</string>
     <string name="custom_tint_color_sky_cyan">Ciano</string>
-    <string name="custom_watermark_contains_senstive_words">"I watermark non possono contenere termini limitati (%1$s)"</string>
     <string name="custom_watermark_tips">Questo testo comparirà sulla seconda linea del watermark. Può contenere 18 lettere o 14 caratteri Cinesi.</string>
     <string name="custom_watermark_tips_gen2">Fino a %1$d caratteri cinesi o %2$d lettere.</string>
     <string name="custom_watermark_too_many_words">Il testo inserito è troppo lungo</string>
