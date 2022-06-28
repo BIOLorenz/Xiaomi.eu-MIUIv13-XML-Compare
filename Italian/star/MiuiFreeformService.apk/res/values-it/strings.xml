@@ -25,6 +25,7 @@
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="afternoon">Pomeriggio</string>
     <string name="app_name">Finestre fluttuanti</string>
+    <string name="bottom_bar_smallwindow_drag_text">Trascina qui per fissare</string>
     <string name="bottom_bar_smallwindow_text">Rilascia per fissare</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
