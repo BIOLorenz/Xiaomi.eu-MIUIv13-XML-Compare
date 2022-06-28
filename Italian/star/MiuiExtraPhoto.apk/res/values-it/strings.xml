@@ -94,7 +94,7 @@
     <string name="chinese_symbol_animals_snake">Serpente</string>
     <string name="chinese_symbol_animals_tiger">Tigre</string>
     <string name="clearable_edittext_clear_description">Cancella</string>
-    <string name="close">Chiudi</string>
+    <string name="close">Spenta</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
     <string name="doc_photo_adjust_section_talkback">Ritaglia e modifica</string>
@@ -116,7 +116,9 @@
     <string name="doc_photo_idcard_emblem">Indietro</string>
     <string name="doc_photo_idcard_mode_title">Carta d\'identità</string>
     <string name="doc_photo_idcard_portrait">Fronte</string>
+    <string name="doc_photo_not_save">"Non salvare"</string>
     <string name="doc_photo_not_support">"Impossibile modificare l'immagine come documento"</string>
+    <string name="doc_photo_save_effect_toast">Salvare le modifiche?</string>
     <string name="doc_photo_toast_undistortion_close">Anti-distorsione disattivata</string>
     <string name="doc_photo_toast_undistortion_open">Anti-distorsione attivata</string>
     <string name="doc_photo_view_effect">Anteprima</string>
@@ -269,6 +271,7 @@
     <string name="night">Sera</string>
     <string name="noon">Mezzogiorno</string>
     <string name="ok">OK</string>
+    <string name="open">Attivata</string>
     <string name="refocus_discard_confirm_message">Salvare i cambiamenti?</string>
     <string name="refocus_discard_negative_btn">Ignora</string>
     <string name="refocus_discard_positive_btn">Salva</string>
