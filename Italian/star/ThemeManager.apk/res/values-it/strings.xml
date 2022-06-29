@@ -817,6 +817,8 @@ mm"</string>
     <string name="no_net_work_connection">Verifica le tue impostazioni di rete e riprova.</string>
     <string name="no_network_desc">"Impossibile connettersi alla rete"</string>
     <string name="no_network_please_retry">Controlla le tue impostazioni di rete e prova di nuovo</string>
+    <string name="no_used_title">non usato</string>
+    <string name="no_used_wallpaper">non usato</string>
     <string name="no_wallpaper">Nessun oggetto</string>
     <string name="noon">PM</string>
     <string name="not_allow">Non concesso</string>
