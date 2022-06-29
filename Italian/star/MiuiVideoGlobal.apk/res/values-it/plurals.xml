@@ -64,6 +64,10 @@
         <item quantity="other">tra %d minuti</item>
         <item quantity="one">tra 1 minuto</item>
     </plurals>
+    <plurals name="incentive_dialog_credits">
+        <item quantity="other">%d punti</item>
+        <item quantity="one">%d punto</item>
+    </plurals>
     <plurals name="incentive_dialog_seconds">
         <item quantity="other">%d secondi</item>
         <item quantity="one">%d secondo</item>
