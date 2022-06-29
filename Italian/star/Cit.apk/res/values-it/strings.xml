@@ -307,6 +307,7 @@ Durante la calibrazione, assicurati che non ci sia nulla tra il sensore e la tua
     <string name="cit_sim_state_puk_required">PUK richiesto</string>
     <string name="cit_sim_state_ready">Scheda SIM pronta</string>
     <string name="cit_sim_state_unkown">Sconosciuto</string>
+    <string name="cit_soft_light_check_title">Luce soffusa</string>
     <string name="cit_soft_torch_first">Il primo flash soft</string>
     <string name="cit_soft_torch_second">Il secondo flash soft</string>
     <string name="cit_start_calibration">Calibra</string>
@@ -642,6 +643,7 @@ Prego clicca il pulsante corretto in base alle diverse tipologie di vibrazione"<
     <string name="cit_wifi_state_refresh">Aggiorna</string>
     <string name="cit_x_tele_camera_check_title">Fotocamera Super Tele</string>
     <string name="close_third_color_led">disattiva il led a tre colori</string>
+    <string name="cold_light_title">Luce fredda</string>
     <string name="continue_vibrator">Vibrazione continua</string>
     <string name="current_angle">Angolo Attuale:</string>
     <string name="dispaly_sar_sensor_values">Visualizza tutti i valori del sensore attuale</string>
@@ -767,6 +769,7 @@ Dopo aver terminato con successo la calibrazione, verifica le emissioni del tele
     <string name="search_menu_title">Cerca</string>
     <string name="set_dsi_tips">Imposta DSI</string>
     <string name="slave_battery_authentic">Batteria Secondaria Autentica</string>
+    <string name="soft_light_title">Luce soffusa</string>
     <string name="speak_from_mic">Parla nel microfono, l\'altoparlante riprodurrà il suono. Assicurati che il suono venga riprodotto.</string>
     <string name="successfully_obtained_permission">Rilevamento controllo cloud riuscito, la funzione ha effetto</string>
     <string name="temperature">Temperatura</string>
@@ -797,4 +800,5 @@ Clicca sul pulsante appropriato in base al numero che ascolterai"</string>
     <string name="verify">Verifica</string>
     <string name="vibrator_change">Seleziona mod. di vibrazione</string>
     <string name="waiting">Attendere 4 sec.</string>
+    <string name="warm_light_title">Luce calda</string>
 </resources>
