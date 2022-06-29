@@ -177,9 +177,16 @@
     <string name="banner_op">Musica Mi</string>
     <string name="best_experience">La migliore esperienza</string>
     <string name="bgm_add_music">Aggiungi musica</string>
+    <string name="bgm_author_and_duration" formatted="false">%s · %s</string>
+    <string name="bgm_local_music">musica locale</string>
     <string name="bgm_search_again">Esegui di nuovo la scansione</string>
+    <string name="bgm_search_sure">Conferma aggiunta</string>
     <string name="bgmlist_add">Aggiungi musica</string>
     <string name="bind_sign_in_title">Aggiungi Mi Account</string>
+    <string name="binddate_dialog_agree">accetto</string>
+    <string name="binddate_dialog_refuse">Rifiuta</string>
+    <string name="binddate_requestworkdialog_all_boy">ospite maschio</string>
+    <string name="binddate_requestworkdialog_all_remove">Rimuovi tutto</string>
     <string name="blacklist_enter">Blacklist</string>
     <string name="block_title">Aggiungi alla blacklist</string>
     <string name="bluetooth_device">Dispositivo Bluetooth</string>
@@ -220,8 +227,10 @@
     <string name="chat_mute_set_2">1 ora</string>
     <string name="chat_mute_set_3">12 ore</string>
     <string name="chat_mute_set_4">24 ore</string>
+    <string name="chat_muted">Silenziato</string>
     <string name="chat_on">Avvia</string>
     <string name="chatsetting_title_setting">Impostazioni</string>
+    <string name="cheap_gift_send">Dai</string>
     <string name="checking_new_version">Ricerca aggiornamenti…</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
@@ -304,6 +313,7 @@
     <string name="click_to_shuffle">Riproduzione casuale</string>
     <string name="close">Chiudi</string>
     <string name="close_music_time">"Tempo rimanente: "</string>
+    <string name="coin_coins">monete</string>
     <string name="coin_hint_balance">Saldo</string>
     <string name="coin_hint_onlyonce">Solo una volta</string>
     <string name="coin_hint_recharge">Ricarica</string>
@@ -348,31 +358,58 @@
     <string name="confirm_unbundled_phone_dialog_message">Questo numero di telefono è associato al Mi Account %2$s on %1$s. Non sarà più associato al Mi Account %3$s si  desidera continuare?</string>
     <string name="connect_now">Connetti</string>
     <string name="connecting_apk">Connessione…</string>
+    <string name="contact_service">Email: %1$s</string>
     <string name="copy">Copia</string>
     <string name="count_format">%2$1.1fK</string>
     <string name="count_format_float">%2$1.1fK</string>
     <string name="count_million_format">%2$1.2fM</string>
     <string name="count_million_format_float">%2$1.1fM</string>
+    <string name="cr_agree">accetto</string>
     <string name="cr_buy_it">Acquista adesso</string>
     <string name="cr_cancel">annulla</string>
+    <string name="cr_data_error">errore dati</string>
     <string name="cr_female">Femmina</string>
+    <string name="cr_hi">Saluta</string>
+    <string name="cr_liftmethod_method1">Invia regali</string>
     <string name="cr_male">Maschio</string>
+    <string name="cr_music">BGM</string>
+    <string name="cr_none_address">Nessun indirizzo</string>
+    <string name="cr_online_list">Elenco online</string>
+    <string name="cr_ordering">In preparazione</string>
     <string name="cr_reload">Ricarica</string>
+    <string name="cr_room_ids">ID:%s</string>
     <string name="cr_room_mute">Silenzioso</string>
     <string name="cr_room_mute_close">Riattiva l\'audio</string>
+    <string name="cr_room_name_length">%d/10</string>
+    <string name="cr_save">salva</string>
+    <string name="cr_save_failed">Salvataggio fallito</string>
+    <string name="cr_skin">SKIN</string>
+    <string name="cr_success">riuscito</string>
     <string name="cr_sure">OK</string>
     <string name="cr_unlimited">Illimitato</string>
+    <string name="cr_use_it">Usalo</string>
     <string name="cr_using">In uso</string>
     <string name="cr_yes">Sì</string>
     <string name="create_account">Crea un account</string>
     <string name="create_playlist">Crea playlist</string>
     <string name="create_playlist_failure">"Impossibile creare la playlist"</string>
     <string name="create_playlist_input_hint">Inserisci il nome della playlist</string>
+    <string name="crg_none_address">Nessun indirizzo</string>
+    <string name="crs_appeal">Ricorso</string>
+    <string name="crs_bul">"Impossibile farlo"</string>
     <string name="crs_cancel">Annulla</string>
+    <string name="crs_empty">Vuoto~</string>
     <string name="crs_female">Femmina</string>
+    <string name="crs_gender">sesso</string>
     <string name="crs_reload">Ricarica</string>
+    <string name="crs_remarks">Note</string>
+    <string name="crs_send_to">invia a</string>
+    <string name="crs_skill">abilità</string>
+    <string name="crs_unit_price">prezzo unitario</string>
     <string name="crs_unlimited">Illimitato</string>
+    <string name="crs_wechat">Wechat</string>
     <string name="crw_charm_list">Collaboratori</string>
+    <string name="crw_contribution_list">Popolarità</string>
     <string name="current_album">Album attuale</string>
     <string name="current_lyric">Testi attuali</string>
     <string name="current_version">Versione</string>
@@ -460,6 +497,7 @@ Invia questo codice al supervisore."</string>
     <string name="dialog_title_not_available">"Impossibile scaricare"</string>
     <string name="dialog_title_queued_body">File non ancora disponibile</string>
     <string name="dialog_title_remove_tracks">Rimuovi</string>
+    <string name="diamond_enter">Diamante</string>
     <string name="disallow_add_to_fm">"Impossibile aggiungere brani alla radio FM"</string>
     <string name="discover_more_music">Scopri altre canzoni</string>
     <string name="do_not_remind_this_version">"Non ricordarmi di questa versione"</string>
@@ -562,6 +600,7 @@ Invia questo codice al supervisore."</string>
     <string name="earthly_branches_yin">Yin</string>
     <string name="earthly_branches_you">You</string>
     <string name="earthly_branches_zi">Zi</string>
+    <string name="edit">modifica</string>
     <string name="edit_button_save">Salva</string>
     <string name="edit_hint_name">Soprannome:</string>
     <string name="edit_playlist_info">Modifica informazioni sulla playlist</string>
@@ -575,6 +614,9 @@ Invia questo codice al supervisore."</string>
     <string name="enjoy_hungama_pro">Goditi Hungama PRO</string>
     <string name="enroll_in">Iscriviti</string>
     <string name="enter_garbage_clean">Pulisci memoria interna.</string>
+    <string name="enter_room_name_length">%d/15</string>
+    <string name="enter_your_bio">modifica</string>
+    <string name="enter_your_bio_length">%d/500</string>
     <string name="eq_auto">Personalizza</string>
     <string name="eq_blues">Blues</string>
     <string name="eq_classical">Classica</string>
@@ -596,6 +638,7 @@ Invia questo codice al supervisore."</string>
     <string name="eras_ad">AD</string>
     <string name="eras_bc">AC</string>
     <string name="error_dup_binded_email">Questa email è già associata ad un altro MI account.</string>
+    <string name="error_hint_nodata">Non ci sono dati</string>
     <string name="error_icon_content_description">Errore</string>
     <string name="error_invalid_bind_address">Questo indirizzo email non è valido.</string>
     <string name="error_message_no_internet_connection">Impossibile connettersi a Internet. Controlla la connessione Internet e riprova.</string>
@@ -663,15 +706,24 @@ Invia questo codice al supervisore."</string>
     <string name="failed_to_connect_hint">Controlla le tue impostazioni di rete e prova di nuovo</string>
     <string name="failed_to_connect_text">"Impossibile connettersi alla rete"</string>
     <string name="family_admin">Amministratore</string>
+    <string name="family_captain">Capitano</string>
     <string name="family_chat">Chat</string>
+    <string name="family_co_captain">Vice Capitano</string>
     <string name="family_common_member">Membro</string>
     <string name="family_create_hint_name">Cognome</string>
+    <string name="family_create_hint_tag">Tag famiglia</string>
     <string name="family_create_toast_success">Creato correttamente</string>
     <string name="family_edit">Modifica</string>
     <string name="family_friends">Amici</string>
     <string name="family_h5_title_rank">Classifica</string>
+    <string name="family_h5_title_recommond">Per Te</string>
+    <string name="family_host">Organizzatore</string>
+    <string name="family_id">ID: %s</string>
+    <string name="family_max_characters" formatted="false">%s/%s</string>
     <string name="family_me_button_joinin">Partecipa</string>
     <string name="family_modify">Modifica</string>
+    <string name="family_room">Camera Familiare</string>
+    <string name="family_star">Stella della Famiglia</string>
     <string name="family_upgrade">Aggiorna</string>
     <string name="family_voicelist_title_family">Famiglia</string>
     <string name="fans">Follower</string>
@@ -701,6 +753,7 @@ Invia questo codice al supervisore."</string>
     <string name="filter_by_size_prefix">"Dimensione minima: "</string>
     <string name="filter_by_size_summary">Non mostrare file audio piccoli</string>
     <string name="filter_size_unit">%dKB</string>
+    <string name="find_me">Trovami</string>
     <string name="find_psw">Password dimenticata</string>
     <string name="find_you_tunes">Trova le tue canzoni</string>
     <string name="floating_view_dialog_desc">La musica smetterà di suonare se lasci questa pagina. Abbandonarla comunque?</string>
@@ -746,6 +799,7 @@ Invia questo codice al supervisore."</string>
     <string name="follow_list_empty">"Non stai ancora seguendo nessuno"</string>
     <string name="followed">Stai seguendo</string>
     <string name="for_diagnosis_usage_only">I log sono utilizzati solo per la diagnostica.</string>
+    <string name="forbidden">Borbottando~</string>
     <string name="format_not_support">"Formato non valido, impossibile salvare."</string>
     <string name="format_unsupported_or_corrupted">"Formato non supportato o file corrotto"</string>
     <string name="fragment_title_artist_album">Album</string>
@@ -755,11 +809,14 @@ Invia questo codice al supervisore."</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
     <string name="friendrequest_button_accept">Accetta</string>
+    <string name="game_center">Game Center</string>
     <string name="game_popup_question_other">Altro</string>
     <string name="game_popup_question_submit">Invia</string>
     <string name="game_setting">Impostazioni di gioco</string>
+    <string name="gamechat_welcome_7">Seguilo</string>
     <string name="gamepopup_hint_ok">OK</string>
     <string name="gcm_fallback_notification_channel_label">Altre</string>
+    <string name="gender">Sesso:</string>
     <string name="get_back_pwd">Ripristina password</string>
     <string name="get_it">Vai</string>
     <string name="get_more_favorite_content_after_login">Accedi per scoprire più canzoni e video.</string>
@@ -770,8 +827,13 @@ Invia questo codice al supervisore."</string>
     <string name="get_phone_verifycode_exceed_limit">Troppi codici di verifica sono stati inviati a questo numero. Attendere 24 ore e riprovare.</string>
     <string name="get_vip">Diventa VIP</string>
     <string name="gift">Regali</string>
+    <string name="gift_amount_format">x %d</string>
+    <string name="gift_box_send">Dai a</string>
+    <string name="gift_one_box_message">1 %s riceve 1</string>
     <string name="gift_open_box">Attiva</string>
+    <string name="gift_receive_format">invia a %s</string>
     <string name="gift_send">Regala</string>
+    <string name="go">GO</string>
     <string name="google_account_login">Accedi con Google</string>
     <string name="google_login_btn_content_description">Accedi con Google</string>
     <string name="goto_local_search">Cerca nel dispositivo</string>
@@ -806,6 +868,7 @@ Invia questo codice al supervisore."</string>
     <string name="hint_search_songs_playlists_artists">Cerca canzoni, playlist e artisti</string>
     <string name="home_newer_guidance_button">Invio</string>
     <string name="home_party">Festa</string>
+    <string name="home_quickchat">Stanza vocale</string>
     <string name="home_related">Correlati</string>
     <string name="home_tab_home">Casa</string>
     <string name="home_tab_joox">JOOX Music</string>
@@ -943,6 +1006,8 @@ attendere o selezionare Musica Online."</string>
     <string name="latest_song">Riproduci cronologia (%d).</string>
     <string name="leave_seat">Esci</string>
     <string name="level_explain">Livello</string>
+    <string name="level_liftmethod_method1">Invia regali</string>
+    <string name="level_liftmethod_method3">Gioca</string>
     <string name="library_android_database_sqlcipher_author">Zetetic, LLC</string>
     <string name="library_android_database_sqlcipher_authorWebsite">https://www.zetetic.net/sqlcipher/</string>
     <string name="library_android_database_sqlcipher_libraryDescription">API SQLite Android basate su SQLCipher</string>
@@ -967,6 +1032,7 @@ attendere o selezionare Musica Online."</string>
     <string name="local_page_artist_more">Altri lavori di %s</string>
     <string name="local_page_playlist">Playlist</string>
     <string name="local_page_song_download_history">Download</string>
+    <string name="lock_seat">Blocca i posti</string>
     <string name="login_button_login">Accedi</string>
     <string name="login_by_local_phone_long_text">Accedi ora</string>
     <string name="login_by_local_phone_short_text">Accedi</string>
@@ -982,6 +1048,7 @@ attendere o selezionare Musica Online."</string>
     <string name="low_sound_quality">Bassa</string>
     <string name="lrc_search_failed">"Testi non trovati"</string>
     <string name="lrc_searching">Ricerca…</string>
+    <string name="ludo_play_time">%1$d Volte</string>
     <string name="lyric_is_empty">Testo vuoto o non disponibile.</string>
     <string name="lyric_label">Testo</string>
     <string name="lyric_open_other_connect">Scarica testi utilizzando la connessione dati cellulare</string>
@@ -1007,6 +1074,8 @@ attendere o selezionare Musica Online."</string>
     <string name="m3_sys_typescale_title_medium_font">sans-serif-medium</string>
     <string name="m3_sys_typescale_title_small_font">sans-serif-medium</string>
     <string name="marquee_price">prezzo</string>
+    <string name="marquee_somebody_at">ricevuto</string>
+    <string name="matching_retain_ok_btn">Vai a vedere</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Seleziona AM o PM</string>
     <string name="material_hour_selection">Seleziona l\'ora</string>
@@ -1024,6 +1093,7 @@ attendere o selezionare Musica Online."</string>
     <string name="me_button_policy">Informativa sulla Privacy</string>
     <string name="me_button_setting">Impostazioni</string>
     <string name="me_button_term">Condizioni d\'uso</string>
+    <string name="me_buttuon_charm">Popolarità</string>
     <string name="me_fan">Follower</string>
     <string name="me_following">Stai seguendo</string>
     <string name="menu_title_pause_all">Tutto in pausa</string>
@@ -1145,6 +1215,8 @@ attendere o selezionare Musica Online."</string>
     <string name="more_share">Condividi</string>
     <string name="more_splendid_contents">Altro</string>
     <string name="morning">AM</string>
+    <string name="msg_image">[image]</string>
+    <string name="msg_video">[video]</string>
     <string name="mtrl_badge_numberless_content_description">Nuove notifiche</string>
     <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Piu di %1$d nuove notifiche</string>
@@ -1188,6 +1260,7 @@ attendere o selezionare Musica Online."</string>
     <string name="mv_metered_play_summary">"Non mostrare avvisi sull'utilizzo dei dati"</string>
     <string name="mv_metered_play_title">Riproduci video online utilizzando i dati</string>
     <string name="my_account">Account</string>
+    <string name="my_inviter">Il mio invito</string>
     <string name="my_music_empty">Playlist vuota</string>
     <string name="my_music_empty_goto_online">Nessun brano trovato</string>
     <string name="my_playlist_add_song">Aggiungi brani</string>
@@ -1237,6 +1310,9 @@ attendere o selezionare Musica Online."</string>
     <string name="no_song_subtitle">Immergiti nel suono</string>
     <string name="no_song_title">Musica Mi</string>
     <string name="no_system_cropper_find">"Il sistema non supporta il ritaglio delle immagini"</string>
+    <string name="nobility_enter_button">Nobile</string>
+    <string name="nobility_open">Apri nobile</string>
+    <string name="noble">Nobile</string>
     <string name="noon">PM</string>
     <string name="normal_quality">Normale</string>
     <string name="not_login">Accesso non eseguito</string>
@@ -1431,7 +1507,9 @@ attendere o selezionare Musica Online."</string>
     <string name="pick_local_song">File locali</string>
     <string name="pick_recent_song">Riprodotte di recente</string>
     <string name="pickerview_cancel">Annulla</string>
+    <string name="pickerview_hours">Ora</string>
     <string name="pickerview_month">Mese</string>
+    <string name="pickerview_seconds">Secondo</string>
     <string name="pickerview_submit">Determina</string>
     <string name="play_all_song">Riproduci tutti i brani</string>
     <string name="play_empty_playlist">"Non è possibile riprodurre canzoni. La playlist è vuota."</string>
@@ -1467,6 +1545,7 @@ attendere o selezionare Musica Online."</string>
     <string name="privacy_authorize_revoke_success">Autorizzazione revocata</string>
     <string name="privacy_authorize_revoking">Revoca autorizzazione…</string>
     <string name="privacy_desc">Informativa Privacy (obbligatorio)</string>
+    <string name="privacy_dialog_agree">Accetto</string>
     <string name="privacy_policy">Informativa sulla Privacy</string>
     <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=it</string>
     <string name="privacy_request_desc"><Data>\"Musica Mi deve raccogliere le informazioni personali necessarie per fornirti servizi di streaming online. Puoi capire come gestiamo le informazioni raccolte nella nostra &lt;a href=\"%1$s\"&gt;Informativa sulla privacy&lt;/a&gt;. Puoi revocare il tuo consenso su Musica Mi nelle Impostazioni in qualsiasi momento.
@@ -1486,24 +1565,31 @@ Se non accetti di utilizzare i servizi di cui sopra, non potrai utilizzare alcun
     <string name="protocal_dialog_title">Attenzione</string>
     <string name="psw_hint">Password</string>
     <string name="psw_sign_in">Accedi con password</string>
+    <string name="publish">rilascia</string>
     <string name="pulluprefreshrecyclerview_loading_error">"Caricamento non riuscito"</string>
     <string name="pulluprefreshrecyclerview_loading_finished">Caricamento riuscito</string>
     <string name="pulluprefreshrecyclerview_loading_running">Caricamento…</string>
     <string name="purchase">Acquista</string>
+    <string name="push_family_link">Vai&gt;&gt;</string>
     <string name="queue_is_empty">La coda di riproduzione è vuota.</string>
+    <string name="rank_format">Lv%1$s</string>
+    <string name="rc_room_owner">proprietario</string>
     <string name="ready_to_play">A seguire</string>
     <string name="recently_played">Riprodotte di recente</string>
     <string name="recently_played_songs">Recenti</string>
+    <string name="recharge_dialog_gold_worth">%1$d monete</string>
     <string name="recommend_artist_title">Artista Consigliato</string>
     <string name="recommend_songs_when_playing_audio_files">Ottieni consigli sulle canzoni mentre ascolti musica</string>
     <string name="recommended_file_size_download_in_mobile">Utilizzare %s di dati su rete cellulare per scaricare questo file?</string>
     <string name="recommended_no_file_size_download_in_mobile">Utilizzare la rete dati cellulare per scaricare questo file?</string>
     <string name="refresh">Aggiorna</string>
+    <string name="refresh_done">Aggiornato</string>
     <string name="region">Regione:</string>
     <string name="register_by_local_phone_long_text">Crea account</string>
     <string name="register_by_local_phone_short_text">Crea account</string>
     <string name="reload">Aggiorna</string>
     <string name="remove">Rimuovi</string>
+    <string name="remove_all">Rimuovi tutto</string>
     <string name="remove_contacts">Elimina</string>
     <string name="remove_download">Rimuovi</string>
     <string name="remove_user_privacy_dialog_message">Dopo la revoca dell\'autorizzazione, Mi Music interromperà la raccolta dei dati e tutti i dati correlati saranno eliminati dai server. Questo potrebbe rendere Mi Music praticamente inutilizzabile. Revocare l\'autorizzazione?</string>
@@ -1514,6 +1600,7 @@ E gioiscine"</string>
     <string name="repeat_all_notif">Ripeti tutti i brani.</string>
     <string name="repeat_current_notif">Ripeti questo brano.</string>
     <string name="report">Segnala</string>
+    <string name="report_title_desc">(Richiesto)</string>
     <string name="request_agree">Consenti</string>
     <string name="request_camera_permission_message">"Proteggeremo le tue informazioni personali in conformità alle leggi e ai regolamenti pertinenti. Questa app ha bisogno dei seguenti permessi per funzionare normalmente:&lt;br&gt;&lt;br&gt;&lt;b&gt;Uso della fotocamera (per impostare la foto del tuo profilo)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Se non accetti tali permessi, non sarai in grado di utilizzare alcune funzioni di questa app; tuttavia, la sua funzionalità di base sarà ancora disponibile. È sempre possibile limitare le autorizzazioni o revocare l'autorizzazione nelle Impostazioni."</string>
     <string name="request_cancel">Annulla</string>
@@ -1538,19 +1625,28 @@ E gioiscine"</string>
     <string name="retry_after_network_available">"Impossibile connettersi alla rete. Controlla la tua connessioni dati e riprova."</string>
     <string name="retry_download">Riprova</string>
     <string name="revoke_upload_playlist_to_hungama_toast">"Le canzoni online non saranno sincronizzate con Hungama"</string>
+    <string name="reward">Invia Regalo</string>
     <string name="ringtone_editing">Editor suoneria</string>
     <string name="ringtone_not_support">"Il formato del brano non è supportato."</string>
     <string name="ringtone_selected">Selezionato</string>
     <string name="ringtones_play">Riproduci</string>
     <string name="ringtones_stop">Interrompi</string>
     <string name="ringtones_successful">Suoneria impostata correttamente</string>
+    <string name="room_boss_seat">Boss</string>
     <string name="room_horn_send_error">Errore nell\'invio del messaggio</string>
+    <string name="room_host">Organizzatore</string>
+    <string name="room_id">ID:%s</string>
     <string name="room_leave_room">Esci</string>
+    <string name="room_manager_bg">SKIN</string>
+    <string name="room_manager_bgm">BGM</string>
     <string name="room_message_send_error">Errore nell\'invio del messaggio</string>
     <string name="room_minimize">Riduci</string>
+    <string name="room_my_label">Mio</string>
     <string name="room_report">Segnala</string>
     <string name="room_seat_invite">Invita</string>
+    <string name="room_seat_num">%d mic</string>
     <string name="room_setting">Impostazione</string>
+    <string name="room_speak_something">Saluta~</string>
     <string name="root_downloads">Download</string>
     <string name="rule">Regolamento</string>
     <string name="s1">Salva immagine</string>
@@ -1697,6 +1793,7 @@ E gioiscine"</string>
     <string name="sort_by_name">Nome</string>
     <string name="sort_by_time">Data</string>
     <string name="sound_fade_in_and_out_when_change_song_automatically">Prova a dissolvere i brani durante la riproduzione</string>
+    <string name="special">Speciale</string>
     <string name="start_to_check_new_version">Ricerca aggiornamenti…</string>
     <string name="start_to_download">Download in corso…</string>
     <string name="start_to_play">Riproduci</string>
@@ -1712,6 +1809,7 @@ E gioiscine"</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="supplementary_songs">Canzoni aggiuntive</string>
+    <string name="sure">Conferma</string>
     <string name="switch_success">Trasferimento riuscito</string>
     <string name="system_error_info">Il sistema è occupato. Aspetta un minuto o due e riprova.</string>
     <string name="tab_album">Album</string>
@@ -1724,6 +1822,7 @@ E gioiscine"</string>
     <string name="tab_game">Gioco</string>
     <string name="tab_home">Casa</string>
     <string name="tab_message">Chat</string>
+    <string name="tab_mine">Mio</string>
     <string name="tab_playlist">Playlist</string>
     <string name="tab_top_results">Miglior risultato</string>
     <string name="tab_track">Brani</string>
@@ -1753,7 +1852,9 @@ E gioiscine"</string>
     <string name="talkback_search">Cerca</string>
     <string name="talkback_show_navigation_draw">Mostra drawer</string>
     <string name="task_done_button">Fatto</string>
+    <string name="task_enter_button">Attività</string>
     <string name="task_more_button">Altro</string>
+    <string name="task_text3">Attività Giornaliera</string>
     <string name="taskcenter_signin">Accedi</string>
     <string name="temporary_not_available">"Questa funzione non è ancora disponibile"</string>
     <string name="terms_of_service">Condizioni d\'uso</string>
@@ -1848,6 +1949,9 @@ E gioiscine"</string>
     <string name="toast_will_play_song_when_ad_pause">Questo brano partirà dopo gli annunci</string>
     <string name="today">Oggi</string>
     <string name="tomorrow">domani</string>
+    <string name="tool_chess">Pedina</string>
+    <string name="tool_dice">Dado</string>
+    <string name="tool_equip">Equipaggia</string>
     <string name="top">Migliori</string>
     <string name="top_chart_title">Classifiche</string>
     <string name="track_play_history_after_login">Accedi per visualizzare la cronologia di riproduzione</string>
@@ -1859,6 +1963,7 @@ E gioiscine"</string>
     <string name="ucrop_menu_crop">Ritaglia</string>
     <string name="ultra_high_quality">Migliore</string>
     <string name="unblock">Sblocca</string>
+    <string name="unfree_tag">Paga per usare</string>
     <string name="unknown_album_name">Album sconosciuto</string>
     <string name="unknown_artist_name">Artista sconosciuto</string>
     <string name="unknown_error_info">Errore sconosciuto</string>
@@ -1866,6 +1971,7 @@ E gioiscine"</string>
     <string name="unlimited_offline_songs">Canzoni offline illimitate</string>
     <string name="unlimited_skips">Skip illimitati</string>
     <string name="unmute_user_chat">Riattiva l\'audio</string>
+    <string name="update_button">Aggiorna ora</string>
     <string name="update_email_address_dialog_message">Devi verificare la tua identità prima di aggiornare l\'email di recupero.</string>
     <string name="update_email_address_dialog_title">Aggiorna email di recupero</string>
     <string name="update_now">Aggiorna adesso</string>
@@ -1912,6 +2018,7 @@ E gioiscine"</string>
     <string name="user_profile_created_playlist_title">Playlist personalizzate</string>
     <string name="user_profile_fans_count">Follower: %s</string>
     <string name="user_profile_follow_count">Seguiti: %s</string>
+    <string name="user_unfollowpop_confirm">Non seguire più?</string>
     <string name="userpopup_button_block">Blocca</string>
     <string name="userpopup_button_chat">Chat</string>
     <string name="userpopup_button_unblock">Sblocca</string>
@@ -1926,6 +2033,8 @@ E gioiscine"</string>
     <string name="view_album">Visualizza album</string>
     <string name="view_component_button_cancel">Annulla</string>
     <string name="view_component_button_sure">OK</string>
+    <string name="vip">VIP</string>
+    <string name="vip_level_desc1">VIP%1$d</string>
     <string name="vip_required">Spiacenti, è richiesto lo status VIP</string>
     <string name="vip_required_with_song">Effettua l\'iscrizione a Premium per ascoltare “%s”.</string>
     <string name="voice_search_first_hint">Prova la ricerca vocale!</string>
@@ -1936,13 +2045,19 @@ E gioiscine"</string>
     <string name="voicelist_search_title_room">Stanza</string>
     <string name="voicelist_search_title_user">Utente</string>
     <string name="voiceroom_giftguide_skip">Salta</string>
+    <string name="voiceroom_set_gift_expand">Espandi tutto</string>
     <string name="voiceroom_set_workdata_hint_date">Data</string>
     <string name="voiceroom_set_workdata_hint_giftname">Regali</string>
     <string name="voiceroom_set_workdata_hint_giftvalue">Valore</string>
+    <string name="voiceroom_set_workdata_hint_given">Rilasciato</string>
     <string name="voiceroom_set_workdata_hint_mouth">Mese</string>
     <string name="voiceroom_set_workdata_hint_thisweek">Questa sett.</string>
     <string name="voiceroom_set_workdata_hint_time">Ora</string>
     <string name="voiceroom_set_workdata_hint_week">Settimana</string>
+    <string name="voiceroom_set_workdata_title_giftdata">"Dati 
+regalo"</string>
+    <string name="voiceroom_set_workdata_title_worktime">"Orario di
+lavoro"</string>
     <string name="voiceroom_tingfang_title_income">Reddito</string>
     <string name="wallet">Portafoglio</string>
     <string name="wallet_helpcentre">Guida</string>
@@ -1960,6 +2075,8 @@ E gioiscine"</string>
 
 Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</string>
     <string name="wifi_required_title">File troppo grande per la rete dell\'operatore</string>
+    <string name="win">Vinto</string>
+    <string name="win_rate">Percentuale di vittoria:</string>
     <string name="withdraw_notice">Avviso</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Connessione al Download Manager fallita, controlla lo stato del Download Manager in Gestione Applicazioni.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Presentazione versione %1$s
@@ -1971,6 +2088,7 @@ Dimensione : %2$s"</string>
     <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
     <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
     <string name="yesterday">Ieri</string>
+    <string name="you">tu</string>
     <string name="you_can_switch_mode_in_settings">E\' possibile passare da una mod. all\'altra dalle impostazioni</string>
     <string name="you_may_like">Potrebbe piacerti anche</string>
     <string name="youtube_play_history">Cronologia riproduzioni</string>
