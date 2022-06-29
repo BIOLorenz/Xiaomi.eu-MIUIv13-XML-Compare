@@ -249,6 +249,7 @@
     <string name="pa_accessibility_olympic_the_third">Terzo posto: %s</string>
     <string name="pa_accessibility_picker_back">Torna indietro.</string>
     <string name="pa_accessibility_picker_home_search">Cerca widget</string>
+    <string name="pa_accessibility_picker_home_title">Aggiungi widget</string>
     <string name="pa_accessibility_picker_search_cancel">Barra di ricerca widget. Tocca due volte per annullare.</string>
     <string name="pa_accessibility_picker_search_tips">Barra di ricerca dei widget. Tocca due volte per cercare.</string>
     <string name="pa_accessibility_picker_suit_item_add_to_desktop">Negozio widget. %s selezionato. Tocca due volte per visualizzare i dettagli.</string>
@@ -406,6 +407,7 @@
     <string name="pa_finish">Fatto</string>
     <string name="pa_font_mi_lan_pro_light">mipro-light</string>
     <string name="pa_font_mi_lan_pro_medium">mipro-medium</string>
+    <string name="pa_font_mi_lan_pro_regular">mipro</string>
     <string name="pa_font_mi_sans">sans-serif-medium</string>
     <string name="pa_font_mi_sans_light">sans-serif-light</string>
     <string name="pa_font_mi_type_semi_bold">mitype-semibold</string>
