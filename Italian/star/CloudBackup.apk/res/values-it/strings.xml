@@ -194,7 +194,6 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="cloud_back_up_opening">Attendi…</string>
     <string name="cloud_back_up_subscribe_vip_confirm">Aggiorna</string>
     <string name="cloud_back_up_subscribe_vip_discription">Ottini più memoria, backup giornalieri ed altro.</string>
-    <string name="cloud_back_up_subscribe_vip_title">Aggiorna Mi Account</string>
     <string name="cloud_back_up_task">Backup in corso</string>
     <string name="cloud_backup">Backup Mi Cloud</string>
     <string name="cloud_backup_derail_size_summary">Dimensione: %s</string>
@@ -468,7 +467,6 @@ Si prega di inviare questo codice al tecnico."</string>
     <string name="network_error_info">Si è verificato un errore di rete. Controlla le impostazioni di rete e riprova.</string>
     <string name="network_timeout_info">"Impossibile connettersi alla rete. Riprova."</string>
     <string name="night">Sera</string>
-    <string name="no_account">Accesso al Mi Account non eseguito.</string>
     <string name="no_backup">Nessun backup su Mi Cloud.</string>
     <string name="noon">Mezzogiorno</string>
     <string name="not_set">Non impostato</string>
