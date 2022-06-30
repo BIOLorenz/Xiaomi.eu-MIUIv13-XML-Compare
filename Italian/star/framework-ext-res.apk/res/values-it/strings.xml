@@ -304,6 +304,7 @@
     <string name="morning">Mattina</string>
     <string name="mountainspring">Sorgente di montagna</string>
     <string name="multi_file_name">%1$s，%2$s</string>
+    <string name="mw_guide_dialog_button_confirm">Ok</string>
     <string name="name_with_ellipsize">%1$s…%2$s</string>
     <string name="nearby_share">Condivisione nelle vicinanze</string>
     <string name="notice_audition">Suoni della natura</string>
