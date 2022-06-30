@@ -144,12 +144,6 @@ Tenere il telefono come se si stesse facendo una chiamata, parlare con il microf
     <string name="cit_calibration_finish">Scrittura dati di calibrazione completata</string>
     <string name="cit_calibration_pass">Calibrazione riuscita</string>
     <string name="cit_camera_cali_title">Calibrazione della fotocamera</string>
-    <string name="cit_camera_check_summary">"Istruzioni per il test:
-
-1. Tocca il pulsante della Fotocamera di seguito per avviare la fotocamera frontale
-2. Tocca il pulsante di scatto
-3. Tocca l'icona a forma di spunta. Il sistema salverà la foto automaticamente
-4. La foto che hai scattato dovrebbe comparire di seguito. Tocca \"Elimina\" per completare questo test"</string>
     <string name="cit_camera_deleted">Foto eliminata</string>
     <string name="cit_camera_deleted_failed">Eliminazione foto fallita</string>
     <string name="cit_camera_flash_adjust">Regola il flash</string>
