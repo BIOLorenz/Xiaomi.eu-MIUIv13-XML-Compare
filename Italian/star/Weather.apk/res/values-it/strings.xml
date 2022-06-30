@@ -189,6 +189,7 @@
     <string name="content_desc_activity_main_add_city">Aggiungi città</string>
     <string name="content_desc_activity_main_add_city_manage">Gestione città</string>
     <string name="content_desc_activity_main_more_settings">Altre impostazioni</string>
+    <string name="content_desc_activity_main_page">Pagina %1$d di %2$d</string>
     <string name="content_desc_back_button">Indietro</string>
     <string name="content_desc_city_manage_del">Elimina</string>
     <string name="content_desc_close_button">Chiudi</string>
@@ -212,6 +213,9 @@
     <string name="dialog_msg_score_midrop">Che ne pensi di Meteo?</string>
     <string name="dialog_msg_score_not_good">Puoi darci anche il tuo feedback?</string>
     <string name="dialog_msg_score_perfect">Bene! Voti anche Play Store?</string>
+    <string name="dialog_score_general">Neutrale</string>
+    <string name="dialog_score_very_bad">Molto insoddisfatto</string>
+    <string name="dialog_score_very_good">Molto soddisfatto</string>
     <string name="dialog_title_score">Valuta Meteo</string>
     <string name="download_rsc_tips">Caricamento audio di sottofondo…</string>
     <string name="dynamic_weather">Meteo</string>
@@ -454,7 +458,6 @@
     <string name="particulate_matter_not_exceeded">Normale</string>
     <string name="particulate_matter_serious_exceeded">Troppo alto</string>
     <string name="permission_device_info">Informazioni dispositivo</string>
-    <string name="permission_device_introduce">Per il riconoscimento dell\'ID del dispositivo basato su modello e IMEI, e fornimento servizi basati sulle preferenze della lingua</string>
     <string name="permission_exit">Esci</string>
     <string name="permission_privacy">Informativa Privacy (obbligatorio)</string>
     <string name="permission_select_all">Seleziona tutto</string>
