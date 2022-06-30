@@ -308,9 +308,7 @@
     <string name="examples_form_guide">Come scansionare le tabelle</string>
     <string name="examples_text_guide">Come scansionare il testo</string>
     <string name="expand_button_title">Avanzate</string>
-    <string name="experience_new_feature_tips">"Accedi al tuo Mi Account per richiedere l\’accesso alla versione Beta. Sarete in grado di utilizzare la versione Beta dopo che avremo esaminato la vostra richiesta. La versione beta potrebbe contenere bug."</string>
     <string name="experience_new_features">Versione beta</string>
-    <string name="experiential_version_of_the_prompt_content">Accedi al tuo Mi Account per accedere alla beta di Scanner. Accedi ora?</string>
     <string name="express_no_empty">Inserisci prima il numero d\'ordine</string>
     <string name="failed_to_get_xiaomi_account">"Impossibile accedere"</string>
     <string name="fax">Fax</string>
@@ -591,7 +589,7 @@
     <string name="not_identification_form">"Impossibile riconoscere la tabella. Selezionala di nuovo e riprova."</string>
     <string name="not_insert_contact">"Impossibile aggiungere contatto"</string>
     <string name="not_network">"Impossibile connettersi alla rete. Riprova."</string>
-    <string name="not_permissions_title">Suggerimenti</string>
+    <string name="not_permissions_title">Permessi richiesti</string>
     <string name="not_recommend_access_web_url">Continua comunque</string>
     <string name="not_set">Non impostato</string>
     <string name="note">Nota:</string>
@@ -912,8 +910,6 @@
     <string name="to_date">Oggi</string>
     <string name="to_install_title">Questo codice QR ti reindirizza ad un\'app disinstallata. Scaricarla di nuovo?</string>
     <string name="to_pay">Completa il pagamento</string>
-    <string name="toast_net_2g">La rete è scadente. Si prega di cambiare la rete e riprovare</string>
-    <string name="toast_net_timeout">La richiesta è scaduta. Riprova più tardi</string>
     <string name="today">Oggi</string>
     <string name="toinstall">Scarica</string>
     <string name="tomorrow">domani</string>
