@@ -27,7 +27,6 @@
     <string name="accept_all_positive">Scegli</string>
     <string name="accept_use_permissions">Concedi</string>
     <string name="access_denied">Accesso negato</string>
-    <string name="account_related">Il dispositivo è associato ad un Mi Account esistente (%s). Collegati alla rete per verificare il dispositivo.</string>
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="activate_find_device_success">Trova dispositivo è stato attivato.</string>
     <string name="activate_finddevice">Collegati alla rete per attivare il dispositivo</string>
@@ -206,7 +205,6 @@
     <string name="error_server_busy">I nostri server sono occupati. Attendi un minuto o due e riprova.</string>
     <string name="error_server_error">Errore Server</string>
     <string name="error_timeout">Richiesta scaduta</string>
-    <string name="error_token_expired">Accedi di nuovo al tuo Mi Account</string>
     <string name="error_unknown">"Impossibile eseguire l'accesso"</string>
     <string name="error_unsupported">"Questa funzionalità non è supportata da questo dispositivo"</string>
     <string name="evening">Pomeriggio</string>
@@ -358,20 +356,13 @@
     <string name="micloud_all_sub_resend_inter_sms_with_charge_hint">"Per attivare Trova dispositivo e i servizi Xiaomi Cloud, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS internazionale a pagamento&lt;/b&gt;&lt;/font&gt; verrà inviato automaticamente.&lt;br/&gt;Quando si cambia scheda SIM, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS internazionali a pagamento&lt;/b&gt;&lt;/font&gt; verranno inviati automaticamente per la riattivazione.&lt;br/&gt;Tutte le tariffe SMS generate dalle azioni di cui sopra saranno gestite dal tuo operatore. Xiaomi non ti addebiterà questi messaggi."</string>
     <string name="micloud_confusion_account_hint">"Le modifiche apportate a questo dispositivo verranno sincronizzate su tutti i dispositivi. Per proteggere il tuo account, ti suggeriamo di disattivare la sincronizzazione sui dispositivi che non utilizzi."</string>
     <string name="micloud_confusion_account_name">Mi Account ID: </string>
-    <string name="micloud_confusion_account_notify_text">Il tuo Mi Account è stato modificato tramite un altro dispositivo.</string>
     <string name="micloud_confusion_account_notify_title">Verifica account</string>
-    <string name="micloud_confusion_account_question">L\'ID %s associato al Mi Account ti appartiene?</string>
-    <string name="micloud_confusion_account_title">Account</string>
-    <string name="micloud_confusion_alert_message">Le informazioni del tuo Mi Account sono state modificate tramite un %s.</string>
     <string name="micloud_confusion_alert_negative">Più tardi</string>
     <string name="micloud_confusion_alert_positive">Dettagli</string>
     <string name="micloud_confusion_alert_title">Un altro dispositivo sta modificando il tuo Mi Account</string>
     <string name="micloud_confusion_cancel">Annulla</string>
-    <string name="micloud_confusion_check_account_title">Riattiva Mi Cloud</string>
-    <string name="micloud_confusion_entrance_hint">"Per mantenere il tuo cloud sicuro, non accedere ai dati su Mi Cloud con dispositivi condivisi."</string>
     <string name="micloud_confusion_entrance_notify_text">Tocca per vedere i dettagli.</string>
     <string name="micloud_confusion_entrance_notify_title">Un altro dispositivo sta modificando il tuo Mi Account</string>
-    <string name="micloud_confusion_entrance_question">Hai effettuato l\'accesso e modificato dei dati su Mi Cloud utilizzando un %s?</string>
     <string name="micloud_confusion_entrance_title">Il contenuto di Mi Cloud è stato modificato</string>
     <string name="micloud_confusion_finish_hint">"Le modifiche apportate a questo dispositivo verranno sincronizzate su tutti i dispositivi. Per proteggere il tuo account, ti suggeriamo di disattivare la sincronizzazione sui dispositivi che non utilizzi."</string>
     <string name="micloud_confusion_finish_message">Assicurati che nessuno dei tuoi vecchi dispositivi rimanga sincronizzato con il tuo Mi Cloud.</string>
@@ -384,7 +375,6 @@
     <string name="micloud_confusion_setting_question">Assicurati che nessuno dei tuoi vecchi dispositivi sia sincronizzato con il tuo Mi Cloud.</string>
     <string name="micloud_confusion_setting_title">Troppi dispositivi</string>
     <string name="micloud_confusion_toast_confirm">Dispositivo verificato</string>
-    <string name="micloud_confusion_toast_deny">Login</string>
     <string name="micloud_confusion_yes">Sì</string>
     <string name="micloud_dspt_provision">Usa Mi Cloud per sincronizzare dati, rintracciare il tuo dispositivo e condividere file con gli amici.</string>
     <string name="micloud_dspt_provision_china">Usa Mi Cloud per sincronizzare dati, rintracciare il tuo dispositivo e condividere file con gli amici.</string>
@@ -398,7 +388,6 @@
     <string name="micloud_find_device_close_progress">Disattivazione Trova dispositivo…</string>
     <string name="micloud_find_device_common_sms_alert_with_charge_hint">"&lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS a pagamento&lt;/b&gt;&lt;/font&gt; verrà inviato automaticamente per attivare questo servizio.&lt;br/&gt;Quando si cambia scheda SIM, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS a pagamento&lt;/b&gt;&lt;/font&gt; verranno inviati automaticamente per la riattivazione.&lt;br/&gt;Tutte le tariffe SMS generate dalle azioni di cui sopra saranno gestite dal tuo operatore. Xiaomi non ti addebiterà per questi messaggi."</string>
     <string name="micloud_find_device_domestic_sms_alert_with_charge_hint">"&lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS nazionale a pagamento&lt;/b&gt;&lt;/font&gt; verrà inviato automaticamente per attivare questo servizio.&lt;br/&gt;Quando si cambia scheda SIM, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS nazionali a pagamento&lt;/b&gt;&lt;/font&gt; verranno inviati automaticamente per la riattivazione.&lt;br/&gt;Tutte le tariffe SMS generate dalle azioni di cui sopra saranno gestite dal tuo operatore. Xiaomi non ti addebiterà questi messaggi."</string>
-    <string name="micloud_find_device_guide_alert_content">"Trova dispositivo è associato al tuo Mi Account. è necessario impostare una password o immetterne una già impostata. Assicurati di ricordare il tuo Mi Account e la password."</string>
     <string name="micloud_find_device_guide_alert_negtive">Non ora</string>
     <string name="micloud_find_device_guide_alert_negtive_activate">Non ora</string>
     <string name="micloud_find_device_guide_alert_positive">OK</string>
@@ -416,7 +405,6 @@
     <string name="micloud_find_device_guide_noti_title_by_app_change_wx">Attiva \"Trova Dispositivo\" per mettere al sicuro i tuoi dati Wechat</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay suggerisci di attivare Trova Telefono</string>
     <string name="micloud_find_device_guide_progress">Attivazione Trova Dispositivo…</string>
-    <string name="micloud_find_device_guide_title">Accedi su &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; col tuo Mi Account per individuare e bloccare il dispositivo, contrassegnarlo come smarrito o cancellare i dati da remoto. Visualizza i dettagli su &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;qui&lt;/a&gt;.</string>
     <string name="micloud_find_device_inter_sms_alert_with_charge_hint">"&lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS internazionale a pagamento&lt;/b&gt;&lt;/font&gt; verrà inviato automaticamente per attivare questo servizio.&lt;br/&gt;Quando si cambia scheda SIM, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS internazionali a pagamento&lt;/b&gt;&lt;/font&gt; verranno inviati automaticamente per la riattivazione.&lt;br/&gt;Tutte le tariffe SMS generate dalle azioni di cui sopra saranno gestite dal tuo operatore. Xiaomi non ti addebiterà questi messaggi."</string>
     <string name="micloud_find_device_open_fail">"Impossibile attivare Trova Dispositivo"</string>
     <string name="micloud_find_device_verify_button">Riattiva Trova dispositivo</string>
@@ -809,11 +797,9 @@ Le informazioni sulla posizione potrebbero non essere segnalate quando la connes
     <string name="share_sdk_pref_category_search_local_title">Contatti</string>
     <string name="share_sdk_pref_category_title_scan_qr_code">Rileva codice QR</string>
     <string name="share_sdk_pref_family_detail_title">Visualizza dettagli gruppo famiglia</string>
-    <string name="share_sdk_privacy_link_description">Leggi e accetta l\'<u><a href="https://account.xiaomi.com/about/protocol/privacy">Informativa sulla Privacy Mi Account</a></u> prima di utilizzare questo servizio.</string>
     <string name="share_sdk_qr_code_description">"Invito da %1$s"</string>
     <string name="share_sdk_qr_code_expire_time">Periodo validità codice QR: %1$s</string>
     <string name="share_sdk_resend_invitation_times_exceed">Troppi inviti inviati. Riprova tra 24 ore.</string>
-    <string name="share_sdk_search_hint">Numero di telefono/Mi Account ID</string>
     <string name="share_sdk_search_online">Cerca %1$s online</string>
     <string name="share_sdk_share_entrance_title">Aggiungi membri</string>
     <string name="share_sdk_suggest_member_pref_summary">Algoritmo di raccomandazione fornito da Xiaomi Cloud</string>
@@ -822,8 +808,6 @@ Le informazioni sulla posizione potrebbero non essere segnalate quando la connes
     <string name="share_sdk_user_info_already_invited">Invitato</string>
     <string name="share_sdk_user_info_already_shared">Contenuto condiviso inviato.</string>
     <string name="share_sdk_user_info_family_suffix">" (Familiare)"</string>
-    <string name="share_sdk_user_info_no_account_id">"Questa persona non ha un Mi Account"</string>
-    <string name="share_sdk_user_info_no_bind_phone_number">"Questo Mi Account non è associato a un numero di telefono"</string>
     <string name="share_sdk_user_info_phone_number">Telefono: %1$s</string>
     <string name="share_sdk_user_info_role_format">Ruolo: %1$s</string>
     <string name="share_sdk_user_info_role_organizer">Organizzatore</string>
@@ -906,7 +890,6 @@ Le informazioni sulla posizione potrebbero non essere segnalate quando la connes
     <string name="sync_off_confirm_content">"Non sarà possibile sincronizzare le nuove password dopo aver disattivato il gestore password."</string>
     <string name="sync_off_confirm_title">Attenzione</string>
     <string name="sync_on">Attivata</string>
-    <string name="sync_page_autofill_login">Accedi a Mi Account per usare il gestore password</string>
     <string name="sync_page_autofill_title">Gestore password</string>
     <string name="sync_page_route_message">Il gestore password consente di cifrare le password e memorizzarle nel cloud. Attivare il gestore password?</string>
     <string name="sync_page_route_not_now">Non ora</string>
@@ -962,7 +945,6 @@ Le informazioni sulla posizione potrebbero non essere segnalate quando la connes
     <string name="time_picker_dialog_title">Imposta ora</string>
     <string name="tip_short_cut_added_success">Creato correttamente</string>
     <string name="tip_short_cut_already_added">Creato</string>
-    <string name="title_reg">Crea Mi Account</string>
     <string name="today">Oggi</string>
     <string name="tomorrow">domani</string>
     <string name="trying_to_connect_to_network">Connessione alla rete…</string>
