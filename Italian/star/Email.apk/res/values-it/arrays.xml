@@ -91,6 +91,8 @@
         <item>Nome utente o password non validi</item>
         <item>in blacklist, per favore cambia la tua rete o accedi a https://mail.sohu.com per configurare la lista esclusioni il client ip</item>
         <item>java.net.UnknownHostException: Impossibile risolvere l\'host</item>
+        <item>client disabled, please switch status on site https://mail.sohu.com</item>
+        <item>no initial password, please login https://mail.sohu.com to generate client password</item>
     </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
         <item>Testo molto piccolo</item>
