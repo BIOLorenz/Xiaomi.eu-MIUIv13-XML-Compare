@@ -61,12 +61,20 @@
         <item quantity="one">%1$d giorno fa</item>
     </plurals>
     <plurals name="download_business_v5_edit_mode_title">
-        <item quantity="other"> %1$d selezionati</item>
-        <item quantity="one"> %1$d selezionato</item>
+        <item quantity="other">%1$d selezionati</item>
+        <item quantity="one">%1$d selezionato</item>
     </plurals>
     <plurals name="download_dialog_confirm_delete_downloads_message">
         <item quantity="other">Eliminare %d attività?</item>
         <item quantity="one">Eliminare %d attività?</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Avanti %d secondi</item>
+        <item quantity="one">Avanti %d secondo</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Riavvolgi %d secondi</item>
+        <item quantity="one">Riavvolgi %d secondo</item>
     </plurals>
     <plurals name="file_count">
         <item quantity="other">%1$d elementi</item>
@@ -79,6 +87,18 @@
     <plurals name="found_new_files">
         <item quantity="other">trovato %1$d nuovi file</item>
         <item quantity="one">trovato %1$d nuovo file</item>
+    </plurals>
+    <plurals name="general__d_day_unit">
+        <item quantity="other">%d giorni</item>
+        <item quantity="one">%d giorno</item>
+    </plurals>
+    <plurals name="general__d_hour_unit">
+        <item quantity="other">%d ore</item>
+        <item quantity="one">%d ora</item>
+    </plurals>
+    <plurals name="general__d_minute_unit">
+        <item quantity="other">%d minuti</item>
+        <item quantity="one">%d minuto</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">mezz\'ora fa</item>
@@ -108,9 +128,9 @@
         <item quantity="other">tra %d minuti</item>
         <item quantity="one">tra 1 minuto</item>
     </plurals>
-    <plurals name="le_notification_download_completed">
-        <item quantity="other">Scaricati %d elementi</item>
-        <item quantity="one">Scaricato %d elemento</item>
+    <plurals name="intercept_panel_img_text">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Proprio adesso</item>
@@ -147,6 +167,10 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuti fa</item>
         <item quantity="one">1 minuto fa</item>
+    </plurals>
+    <plurals name="personal__continuous_days_title">
+        <item quantity="other">giorni</item>
+        <item quantity="one">giorno</item>
     </plurals>
     <plurals name="players">
         <item quantity="other">%d giocatori</item>
@@ -199,5 +223,21 @@
     <plurals name="vote_all_people">
         <item quantity="other">%d persone hanno votato</item>
         <item quantity="one">%d persona ha votato</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_ad">
+        <item quantity="other">Bloccati %d annunci</item>
+        <item quantity="one">Bloccato %d annuncio</item>
+    </plurals>
+    <plurals name="web_permission_protect_subtitle_day">
+        <item quantity="other">%s giorni</item>
+        <item quantity="one">%s giorno</item>
+    </plurals>
+    <plurals name="web_permission_protect_subtitle_time">
+        <item quantity="other">%s volte</item>
+        <item quantity="one">%s volta</item>
+    </plurals>
+    <plurals name="welcome_skip_count_down">
+        <item quantity="other">%d sec</item>
+        <item quantity="one">%d sec</item>
     </plurals>
 </resources>
