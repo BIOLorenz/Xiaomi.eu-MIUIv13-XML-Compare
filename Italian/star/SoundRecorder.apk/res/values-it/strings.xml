@@ -22,6 +22,7 @@
     <string name="abc_shareactionprovider_share_with">Condividi con</string>
     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
     <string name="abc_toolbar_collapse_description">Riduci</string>
+    <string name="access_denied_info">Troppi tentativi. Attendi e riprova.</string>
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="add_remark_hint">Inserisci il tuo commento</string>
     <string name="add_remark_tip">Tocca per aggiungere un commento</string>
@@ -272,6 +273,14 @@
     <string name="korea_permission_record_resc">Per registrazione audio</string>
     <string name="korea_permission_storage">Archiviazione</string>
     <string name="korea_permission_storage_desc">Per salvare le registrazioni</string>
+    <string name="library_android_database_sqlcipher_author">Zetetic, LLC</string>
+    <string name="library_android_database_sqlcipher_authorWebsite">https://www.zetetic.net/sqlcipher/</string>
+    <string name="library_android_database_sqlcipher_libraryDescription">API SQLite Android basate su SQLCipher</string>
+    <string name="library_android_database_sqlcipher_libraryName">SQLCipher per Android</string>
+    <string name="library_android_database_sqlcipher_libraryVersion">${clientVersionNumber}</string>
+    <string name="library_android_database_sqlcipher_libraryWebsite">https://www.zetetic.net/sqlcipher/</string>
+    <string name="library_android_database_sqlcipher_licenseLink">https://www.zetetic.net/sqlcipher/license/</string>
+    <string name="library_android_database_sqlcipher_repositoryLink">https://github.com/sqlcipher/android-database-sqlcipher</string>
     <string name="loading_more">Attendi…</string>
     <string name="loading_order_list">Attendi…</string>
     <string name="loading_order_list_empty">Nessun ordine.</string>
@@ -298,9 +307,7 @@
     <string name="material_timepicker_text_input_mode_description">Passa alla mod. di inserimento testo per inserire l\'ora.</string>
     <string name="menu">Premi Menu</string>
     <string name="message_file_size_error">La registrazione ha raggiunto la lunghezza massima per %s</string>
-    <string name="mi_account_msg">Accedi al Mi Account per utilizzare il riconoscimento di precisione, entro 30 minuti libero per un nuovo utente</string>
     <string name="mi_account_ok">Accedi</string>
-    <string name="mi_account_title">Esegui l\'accesso ed utilizza Mi Cloud</string>
     <string name="midnight">Notte</string>
     <string name="miuix_access_state_desc">Selezionato</string>
     <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
@@ -401,6 +408,8 @@
     <string name="mtrl_picker_toggle_to_day_selection">Tocca per selezionare un giorno</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passa alla mod. di inserimento testo</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tocca per selezionare un anno</string>
+    <string name="network_error_info">Si è verificato un errore di rete. Controlla le impostazioni di rete e riprova.</string>
+    <string name="network_timeout_info">"Impossibile connettersi alla rete. Riprova."</string>
     <string name="network_tip_dialog_cancel">"Non accetto"</string>
     <string name="network_tip_dialog_content">Il motore di riconoscimento vocale deve collegarsi ad Internet per funzionare correttamente.</string>
     <string name="network_tip_dialog_ok">Accetto</string>
@@ -499,6 +508,7 @@ Tocca \"%1$s\", quindi seleziona \"%2$s\"."</string>
     <string name="privacy_policy_title">Informativa sulla Privacy</string>
     <string name="privacy_settings">Privacy</string>
     <string name="progress">Barra di avanzamento della riproduzione</string>
+    <string name="progressbar_title">Verifica falle di sicurezza…</string>
     <string name="recognition_button_add_to_queue">Aggiungi alla coda</string>
     <string name="recognition_button_cancel">Non adesso</string>
     <string name="recognition_button_start">Riconoscimento di precisione online</string>
@@ -688,6 +698,7 @@ Tocca \"%1$s\", quindi seleziona \"%2$s\"."</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="sync_desc_state_complete">Sincronizzato con il cloud: %1$s</string>
+    <string name="system_error_info">Il sistema è occupato. Aspetta un minuto o due e riprova.</string>
     <string name="tab_all">Tutto</string>
     <string name="tab_apps">Applicazioni</string>
     <string name="tab_call">Chiamate</string>
@@ -767,6 +778,7 @@ Tocca \"%1$s\", quindi seleziona \"%2$s\"."</string>
     <string name="tuesday_shortest">Mar</string>
     <string name="uninstall_warning_content">"Registratore è un'app di sistema. Non sarai in grado di registrare e trascrivere le chiamate audio e vocali dopo la disinstallazione."</string>
     <string name="uninstall_warning_title">Disinstallare Registratore?</string>
+    <string name="unknown_error_info">Errore sconosciuto</string>
     <string name="usage_description">Trascrizione dell\'audio e sincronizzazione di elementi con il cloud</string>
     <string name="user_feedback">Segnalazione</string>
     <string name="v7_preference_off">DISATTIVATO</string>
