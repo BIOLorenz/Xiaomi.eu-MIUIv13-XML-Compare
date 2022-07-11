@@ -468,13 +468,11 @@ path prefix"</string>
     <string name="contact_edit_set_black_list_receive">Elimina tutte le email con questo destinatario</string>
     <string name="contact_edit_set_black_list_receive_summary">Elimina tutte le mail che contengono questo destinatario, anche nel campo Cc</string>
     <string name="contact_edit_set_black_list_title">Aggiungi alla blacklist</string>
-    <string name="contact_edit_set_phone_contact">Modifica contatti telefono</string>
-    <string name="contact_edit_title_phone_contact">Lista contatti telefono</string>
+    <string name="contact_edit_title_phone_contact">Modifica contatto</string>
     <string name="contact_in_filter_title">Mittente</string>
     <string name="contact_list_add_btn">Aggiungi</string>
     <string name="contact_list_search_hint">Cerca contatti</string>
     <string name="contact_list_title">Contatti</string>
-    <string name="contact_permission_error">"Accesso ai contatti limitato"</string>
     <string name="contact_select">Seleziona contatti</string>
     <string name="contain_view_all_body">Visualizza e-mail completa</string>
     <string name="content_description">%1$s circa %2$s, %3$s su %4$s, %5$s</string>
@@ -539,10 +537,7 @@ path prefix"</string>
     <string name="default_opening_attchemnt_mode">Apri gli allegati usando l\'app predefinita</string>
     <string name="default_pop3">POP3</string>
     <string name="default_setup">IMPOSTAZIONI PREDEFINITE\u0020</string>
-    <string name="default_signature">Inviato tramite dispositivo Xiaomi</string>
     <string name="default_signature_2">Inviato dal mio %s</string>
-    <string name="default_signature_pad">Inviato dal mio Mi Pad</string>
-    <string name="default_signature_phone">Inviato tramite dispositivo Xiaomi</string>
     <string name="delete">Elimina</string>
     <string name="delete_contact_content">Eliminare adesso questo contatto?</string>
     <string name="delete_message_dialog_content">Vuoi eliminare questa email e bloccare il mittente?</string>
@@ -578,7 +573,6 @@ path prefix"</string>
     <string name="downlaod_cancel_confirm_download">Interrompi</string>
     <string name="downlaod_cancel_continue_download">"Annulla"</string>
     <string name="downlaod_confirm_download">Scarica</string>
-    <string name="downlaod_nonWifi_confirm_message">Il download consumerà traffico, confermare</string>
     <string name="downlaod_nonWifi_confirm_title">Scaricare questo allegato?</string>
     <string name="download_before_sharing">" non è ancora stato scaricato, scaricalo prima di condividerlo!"</string>
     <string name="download_before_sharing2">"Alcuni degli elementi selezionati non sono stati scaricati. È necessario scaricarli."</string>
@@ -688,8 +682,6 @@ path prefix"</string>
     <string name="fail_get_email_message">Recupero messaggio fallito.</string>
     <string name="failed">"Impossibile caricare immagine"</string>
     <string name="failed_parse_eml_file">"Recupero email fallito, prova di nuovo"</string>
-    <string name="failed_read_write_calendar_permission">Mancata autorizzazione per l\'accesso al calendario</string>
-    <string name="failed_read_write_contacts_permission">Mancata autorizzazione per l\'accesso ai contatti</string>
     <string name="fallback_menu_item_copy_link">Copia link</string>
     <string name="fallback_menu_item_open_in_browser">Apri nel browser</string>
     <string name="fallback_menu_item_share_link">Condividi link</string>
@@ -1334,7 +1326,6 @@ Prova a passare ad un diverso account email."</string>
     <string name="permission_calendar_subtitle">Per sincronizzare gli eventi dall\'email al calendario</string>
     <string name="permission_calendar_title">Accedi e aggiungi eventi del calendario</string>
     <string name="permission_des_calendar">Viene utilizzato per sincronizzare le email con le informazioni di pianificazione nel calendario. Si consiglia di selezionare Consenti Sempre</string>
-    <string name="permission_des_contact">Utilizzato per sincronizzare i contatti di posta elettronica nella rubrica, si consiglia vivamente di selezionare Consenti Sempre</string>
     <string name="permission_des_external_storage">Utilizzato per comporre la posta e leggere i file locali per completare il processo di aggiunta e salvataggio degli allegati</string>
     <string name="permission_get_accounts_subtitle">Per accedere e gestire gli account di sistema</string>
     <string name="permission_phone_status_subtitle">Per l\'identificazione di dispositivi diversi</string>
@@ -1374,7 +1365,6 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
     <string name="pop3_name">POP3</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="preference_eas_tips">Tocca Attiva per configurare il server email.</string>
-    <string name="preference_pop_tips">Gli allegati verranno scaricati inseme alle email come previsto dal protocollo POP3. Fai attenzione quando utilizzi la connessione dati mobile.</string>
     <string name="preferences_signature_dialog_title">Firma</string>
     <string name="preferences_signature_title">Firma</string>
     <string name="previous_action">Indietro</string>
@@ -1429,6 +1419,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
     <string name="quick_reply_dialog_title">Scegli</string>
     <string name="quick_reply_expend">Altro</string>
     <string name="quick_responses_empty_view">Nessuna risposta rapida</string>
+    <string name="quick_translation">Traduci</string>
     <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
     <string name="quote_divider_1">-------- Messaggio originale --------</string>
     <string name="quote_divider_11">----- Originale -----</string>
@@ -1642,10 +1633,8 @@ Attendi che sia completamente sincronizzata o visualizza il messaggio sul comput
     <string name="sunday_shortest">Dom</string>
     <string name="sync_calendra_fail_per_content">Tocca per consentire</string>
     <string name="sync_calendra_fail_per_title">"Impossibile sincronizzare gli eventi del calendario"</string>
-    <string name="sync_calendra_fail_permission">"Impossibile sincronizzare gli eventi del calendario. Consenti a WPS Mail di accedere al calendario."</string>
     <string name="sync_contacts_fail_per_content">Concedi permessi contatti, tocca per concedere</string>
     <string name="sync_contacts_fail_per_title">"Sincronizzazione Contatti fallita"</string>
-    <string name="sync_contacts_req_per_ignored">Il contatto non è aperto e non può sincronizzare i contatti</string>
     <string name="sync_question_feed">Segnala problemi di sincronizzazione</string>
     <string name="sync_upload_question">Segnalazione</string>
     <string name="syncing_wait_restart">Riprova</string>
@@ -1653,7 +1642,6 @@ Attendi che sia completamente sincronizzata o visualizza il messaggio sul comput
  impossibile caricare il messaggio</string>
     <string name="system_account_create_failed">"Impossibile creare l'account. Riprova."</string>
     <string name="system_root_path">Impostazioni di archiviazione interna</string>
-    <string name="system_security_open_error">Impossibile regolare il centro sicurezza. Aprii permessi nelle impostazioni del telefono</string>
     <string name="system_setup_open_error">Impossibile richiamare la sincronizzazione, attiva il sistema \'imposta\' nella sincronizzazione account email</string>
     <string name="tap_to_configure">Tocca per configurare</string>
     <string name="tap_to_enable_sync">Tocca per attivare</string>
@@ -1713,16 +1701,13 @@ Attendi che sia completamente sincronizzata o visualizza il messaggio sul comput
     <string name="toast_bar_open_gmail_synchronization">"Tocca per utilizzare un server proxy per Gmail"</string>
     <string name="toast_bar_send_fail_remind">"Impossibile inviare email. Salvata nella cartella \"Posta in uscita\"."</string>
     <string name="toast_bar_sync_failed_client_cert">"Impossibile sincronizzare a causa di un certificato mancante. Tocca per aggiungere nuovamente il certificato."</string>
-    <string name="toast_bar_sync_failed_mi_authority">Accedi per autorizzare il dispositivo</string>
     <string name="toastbar_calendar_and_contacts_permission_switch_allow_only_using">"Le informazioni di pianificazione e contatto non sono state sincronizzate in tempo reale, l'autorizzazione Contatti è impostata su consenti sempre"</string>
     <string name="toastbar_calendar_and_contacts_permission_switch_close">I permessi per Calendario e Contatti cono disattivati. Calendario e Contatti non possono essere sincronizzati</string>
     <string name="toastbar_calendar_permission_switch_allow_only_using">"Mail non è riuscita a sincronizzarsi in tempo reale, impostare i permessi del calendario su Consenti Sempre"</string>
     <string name="toastbar_calendar_permission_switch_close">I permessi per il Calendario sono disattivati. Il Calendario non può essere sincronizzato</string>
     <string name="toastbar_contacts_permission_switch_allow_only_using">"Le informazioni sui contatti non sono sincronizzate in tempo reale, l'autorizzazione Contatti è impostata su Consenti Sempre"</string>
-    <string name="toastbar_contacts_permission_switch_close">I permessi per i Contatti sono disattivati. I Contatti non possono essere sincronizzati</string>
     <string name="toastbar_local_calendar_and_contacts_sync_switch_close">La sincronizzazione del Calendario e dei Contatti è disattivata. Calendario e Contatti non possono essere sincronizzati</string>
     <string name="toastbar_local_calendar_sync_switch_close">La sincronizzazione del Calendario è disattivata. Il Calendario non può essere sincronizzato</string>
-    <string name="toastbar_local_contacts_sync_swtich_close">La sincronizzazione dei Contatti è disattivata. I Contatti non possono essere sincronizzati</string>
     <string name="today">Oggi</string>
     <string name="today_text">Oggi</string>
     <string name="tomorrow">domani</string>
