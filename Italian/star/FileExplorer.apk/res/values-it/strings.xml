@@ -410,6 +410,7 @@
     <string name="item_view_role_description">Tocca</string>
     <string name="just_now">Un momento fa</string>
     <string name="kilobyteShort">KB</string>
+    <string name="lack_perm_title">Permessi richiesti</string>
     <string name="launcher_icon_add_description">Aggiungi collegamento sulla Home</string>
     <string name="launcher_icon_remove_description_content">"File Manager è un'app di sistema. Non sarai in grado di gestire i file sul tuo dispositivo dopo aver rimosso il collegamento dalla schermata Home."</string>
     <string name="launcher_icon_remove_description_title">Rimuovere \"File Manager\" dalla schermata Home?</string>
@@ -420,6 +421,9 @@
     <string name="local_image">Immagini</string>
     <string name="local_music">Audio</string>
     <string name="local_video">Video</string>
+    <string name="main_button_continue">Impostazioni</string>
+    <string name="main_button_ok">OK</string>
+    <string name="main_button_quit">Annulla</string>
     <string name="make_private">Rendi privata</string>
     <string name="make_private_msg_1">Rendere questo file privato?</string>
     <string name="make_private_msg_2">Rendere privati questi file?</string>
@@ -646,6 +650,7 @@
     <string name="partial_encrypt_success">"Impossibile rendere privati alcuni file. Riprova."</string>
     <string name="password_toggle_content_description">Mostra password</string>
     <string name="path_name_email">E-mail</string>
+    <string name="perm_manage_external_storage">Accedere a tutti i file</string>
     <string name="permission_denial">"Impossibile accedere ai file. Consenti ad Explorer di accedere ai file nelle impostazioni."</string>
     <string name="permission_description">Dettagli permessi</string>
     <string name="permission_required">"Impossibile accedere ai file. Concedi ad Explorer di accedere ai file nelle impostazioni."</string>
@@ -861,6 +866,7 @@
     <string name="title_app_tags">Applicazioni</string>
     <string name="title_expire_video">Per scadere</string>
     <string name="title_recent">Recenti</string>
+    <string name="title_request_manage_external_storage_perm">Permessi richiesti</string>
     <string name="title_select_volume">Seleziona cartella</string>
     <string name="to_open">Impostazioni</string>
     <string name="to_setting">Impostazioni</string>
