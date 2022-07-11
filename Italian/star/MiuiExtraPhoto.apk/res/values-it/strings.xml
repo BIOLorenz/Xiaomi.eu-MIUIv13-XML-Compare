@@ -127,6 +127,7 @@
     <string name="doc_photo_no_remind">"Non mostrare più"</string>
     <string name="doc_photo_not_save">"Non salvare"</string>
     <string name="doc_photo_not_support">"Impossibile modificare l'immagine come documento"</string>
+    <string name="doc_photo_remind">Attenzione</string>
     <string name="doc_photo_save_effect_toast">Salvare le modifiche?</string>
     <string name="doc_photo_toast_undistortion_close">Anti-distorsione disattivata</string>
     <string name="doc_photo_toast_undistortion_open">Anti-distorsione attivata</string>
