@@ -747,6 +747,7 @@ Questa operazione non influenzerà le foto della galleria."</string>
     <string name="item_download_path">Percorso Download</string>
     <string name="item_download_path_setting">Impostazioni percorso download</string>
     <string name="item_setting_go_back">Revoca autorizzazione...</string>
+    <string name="item_title_for_search_page_hot">Popolari</string>
     <string name="item_title_unknown">Titolo sconosciuto</string>
     <string name="item_view_role_description">Tab</string>
     <string name="just_a_second">Attendi…</string>
@@ -1171,6 +1172,7 @@ per i video"</string>
     <string name="offline_opt_in_title">"Apri l'annuncio quando sarai di nuovo online."</string>
     <string name="ok">OK</string>
     <string name="online_play_hint">Per esempio: http://www.example.com/video.mp4</string>
+    <string name="online_play_start_loading_tip">Attendi…</string>
     <string name="online_play_title">Perfavore inserisic il link url del calendario</string>
     <string name="open_settings">Impostazioni</string>
     <string name="order_alphabet">A-Z</string>
@@ -1964,6 +1966,8 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="welcome_tip_into_mivideo">Inizia ora</string>
     <string name="welcome_tip_skip">Salta</string>
     <string name="welcome_tip_title">Benvenuto su Mi Video</string>
+    <string name="widget_local_video">Video locali</string>
+    <string name="widget_trending_today">Popolari oggi</string>
     <string name="yandex_ads_internal_text_divider">·</string>
     <string name="yandex_ads_internal_tools_age_text">3+</string>
     <string name="yandex_ads_internal_tools_domain_text">dominio</string>
