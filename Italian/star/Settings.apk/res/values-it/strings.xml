@@ -3410,7 +3410,6 @@ Riavvia il dispositivo e riprova."</string>
     <string name="ethernet">LAN</string>
     <string name="ethernet_data_template">^1 dati LAN</string>
     <string name="ethernet_data_usage">Utilizzo dati LAN</string>
-    <string name="ethernet_tether_checkbox_text">Tethering Ethernet</string>
     <string name="ethernet_tethering_subtext">Condividi la connessione internet del telefono tramite Ethernet USB</string>
     <string name="evening">Pomeriggio</string>
     <string name="every_day">Ogni giorno</string>
@@ -3453,7 +3452,6 @@ Riavvia il dispositivo e riprova."</string>
     <string name="face_data_input_structure_title">Dati del volto 3D</string>
     <string name="face_data_input_title">Aggiungi dati volto</string>
     <string name="face_data_introduction_add">Avvia</string>
-    <string name="face_data_introduction_msg">I dati del volto possono essere utilizzati per sbloccare il dispositivo o verificare la tua identità. Aggiungi la password della schermata di blocco prima di aggiungere i dati del volto.</string>
     <string name="face_data_introduction_next">Successivo</string>
     <string name="face_data_introduction_title">Riconoscimento volto</string>
     <string name="face_data_manage_delete">Rimuovere i dati del viso?</string>
@@ -3468,7 +3466,6 @@ Riavvia il dispositivo e riprova."</string>
     <string name="face_data_siggesstion_next_time">Avanti (%ds)</string>
     <string name="face_data_siggesstion_next_time_cn">OK(%ds)</string>
     <string name="face_data_suggesstion_first">Lo sblocco col volto è meno sicuro di un PIN, una password o una sequenza. Il tuo dispositivo potrebbe essere sbloccato con la tua foto, così come da persone o oggetti con un aspetto simile.</string>
-    <string name="face_data_suggesstion_first_cn_highlight">Lo sblocco col volto è meno sicuro di un PIN, una password o una sequenza. Il tuo dispositivo potrebbe essere sbloccato con la tua foto, così come da persone o oggetti con un aspetto simile.</string>
     <string name="face_data_suggesstion_second">"Assicurati che tutte le parti del viso non siano coperte da oggetti e siano chiaramente visibili. Anche il tuo volto dovrebbe essere ben illuminato."</string>
     <string name="face_intro_error_max">Hai aggiunto il numero massimo di volti</string>
     <string name="face_intro_error_unknown">Impossibile aggiungere altri volti</string>
@@ -4876,8 +4873,6 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
     <string name="lockpassword_choose_your_password_header_for_biometrics">Imposta una password per usare lo sblocco con il volto o con l\'impronta</string>
     <string name="lockpassword_choose_your_password_header_for_face">Per utilizzare l\'autenticazione facciale, imposta la password</string>
     <string name="lockpassword_choose_your_password_header_for_fingerprint">Per utilizzare l\'impronta digitale, imposta la password</string>
-    <string name="lockpassword_choose_your_password_second_space">"Imposta password 
- per il Secondo Spazio"</string>
     <string name="lockpassword_choose_your_pattern_header">Scegli la tua sequenza</string>
     <string name="lockpassword_choose_your_pattern_header_for_biometrics">Imposta una sequenza per usare lo sblocco con il volto o con l\'impronta</string>
     <string name="lockpassword_choose_your_pattern_header_for_face">Per utilizzare l\'autenticazione facciale, imposta una sequenza</string>
@@ -4886,8 +4881,6 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
     <string name="lockpassword_choose_your_pin_header_for_biometrics">Imposta un PIN per usare lo sblocco con il volto o con l\'impronta</string>
     <string name="lockpassword_choose_your_pin_header_for_face">Per utilizzare l\'autenticazione facciale, imposta il PIN</string>
     <string name="lockpassword_choose_your_pin_header_for_fingerprint">Per utilizzare l\'impronta digitale, imposta un PIN</string>
-    <string name="lockpassword_choose_your_pin_header_second_space">"Imposta PIN 
- per il Secondo Spazio"</string>
     <string name="lockpassword_choose_your_pin_message">Per sicurezza, imposta un PIN</string>
     <string name="lockpassword_choose_your_pin_title">Immetti %1$d-%2$d numeri</string>
     <string name="lockpassword_choose_your_profile_password_header">Imposta una password di lavoro</string>
@@ -4968,7 +4961,6 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
     <string name="lockpattern_recording_inprogress">Solleva il dito al termine</string>
     <string name="lockpattern_recording_intro_footer">Premi Menu per visualizzare la guida.</string>
     <string name="lockpattern_recording_intro_header">Inserisci una sequenza di sblocco</string>
-    <string name="lockpattern_recording_intro_header_second_space">Disegna una sequenza di sblocco per il Secondo Spazio:</string>
     <string name="lockpattern_restart_button_text">Disegna nuovamente</string>
     <string name="lockpattern_retry_button_text">Cancella</string>
     <string name="lockpattern_settings_change_lock_pattern">Cambia sequenza di sblocco</string>
@@ -8222,7 +8214,6 @@ Il PIN potrebbe essere errato."</string>
     <string name="smart_notifications_title">Notifiche adattive</string>
     <string name="smart_rotate_text_headline">La funzionalità di riconoscimento facciale usa la fotocamera anteriore per migliorare la precisione della rotazione automatica. Le immagini non vengono mai memorizzate o inviate a Google.</string>
     <string name="smartcover_lock_or_unlock_screen_tittle">Sblocco schermo con custodia intelligente</string>
-    <string name="smartcover_sensitive_summary">Blocca o sblocca facilmente il telefono con la custodia intelligente</string>
     <string name="smartcover_sensitive_title">Custodia Intelligente</string>
     <string name="smooth_adjust_ligth">Sfuma le transizioni</string>
     <string name="smooth_adjust_ligth_summary">Rende le transizioni più fluide quando si regola manualmente la luminosità. Quando questa funzione è attiva, in alcuni casi potrebbero comparire lievi incongruenze di colore.</string>
@@ -9123,7 +9114,6 @@ L\'approccio di Google alla sincronizzazione di dati per consentirti l\'accesso 
     <string name="turn_on_keyguard_password_alert_foget_cacel">Non adesso</string>
     <string name="turn_on_keyguard_password_alert_foget_ok">Ok</string>
     <string name="turn_on_keyguard_password_alert_foget_ok_time">Ho capito (%ds)</string>
-    <string name="turn_on_keyguard_password_alert_forget_content">"Ricorda la password della schermata di blocco. Se la dimentichi, dovrai cancellare tutti i dati presenti sul tuo dispositivo, incluse foto e contatti per impostarne una nuova."</string>
     <string name="turn_on_keyguard_password_alert_forget_title">Ricorda il tuo Mi Account e la password</string>
     <string name="turn_on_security_lock">Aggiungi password di sicurezza</string>
     <string name="turn_on_torch">Attiva la Torcia</string>
