@@ -1094,7 +1094,6 @@ Selezione"</string>
     <string name="msim_setting_sim_info_editor_title">Modifica info SIM</string>
     <string name="msim_sim_lock">Bloccata</string>
     <string name="msim_sim_radio_off">Spenta</string>
-    <string name="msim_switch_data_conn_toast">Il tipo di rete è cambiato. Visualizza informazioni aggiuntive nelle schede SIM e nelle reti mobili nel menu Impostazioni.</string>
     <string name="mtn_simlock_emergency">Emergenza</string>
     <string name="mtrl_badge_numberless_content_description">Nuova notifica</string>
     <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
