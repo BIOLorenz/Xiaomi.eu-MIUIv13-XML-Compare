@@ -847,6 +847,8 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
     <string name="device_locked_without_biometric_face">"Impossibile sbloccare questo dispositivo con i dati del viso quando si utilizza un blocco schermo di terze parti"</string>
     <string name="device_locked_without_biometric_finger">"Impossibile sbloccare questo dispositivo con impronte digitali quando si utilizza un blocco schermo di terze parti"</string>
     <string name="device_services">Servizi Del Dispositivo</string>
+    <string name="dialog_forget_password_cancel">Annulla</string>
+    <string name="dialog_forget_password_ok">Disattiva</string>
     <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">"Nota: dopo un reboot, questa app non può avviarsi finché non sblocchi il telefono"</string>
     <string name="disable_carrier_button_text">Disattiva eSIM</string>
