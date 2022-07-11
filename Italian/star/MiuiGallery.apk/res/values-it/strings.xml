@@ -236,7 +236,6 @@ Collega il caricabatterie e disattiva lo schermo per far apparire i ricordi."</s
     <string name="asus_phone">Asus</string>
     <string name="authorize_to_device_failed">"Impossibile autorizzare"</string>
     <string name="authorize_watch_on_tv_failed">"Impossibile autorizzare la visualizzazione sulla TV"</string>
-    <string name="auto_backup_introduce">Esegui automaticamente il backup di foto e video (è necessario un Mi Account)</string>
     <string name="auto_download_media_title">Scarica automaticamente</string>
     <string name="auto_download_title">Seleziona la qualità dell\'immagine</string>
     <string name="auto_update_face">Aggiungi automaticamente le foto</string>
@@ -615,7 +614,6 @@ Collega il caricabatterie e disattiva lo schermo per far apparire i ricordi."</s
     <string name="cloud_action_open">Attiva</string>
     <string name="cloud_action_upgrade">Aggiorna</string>
     <string name="cloud_action_view">Mostra</string>
-    <string name="cloud_authorize_to_share_to_device">Autorizza la visualizzazione degli elementi sui televisori associati al tuo Mi Account</string>
     <string name="cloud_authorizing_to_device">Autorizzazione…</string>
     <string name="cloud_backup_enable_title">Sincronizza</string>
     <string name="cloud_backup_open_button">Attiva</string>
@@ -747,7 +745,6 @@ Collega il caricabatterie e disattiva lo schermo per far apparire i ricordi."</s
     <string name="default_relation_name">Nuovo gruppo</string>
     <string name="define_by_user">Personalizza</string>
     <string name="delete">Elimina</string>
-    <string name="delete_account_message">Galleria deve cancellare la cache dell\'app perché hai effettuato l\'accesso al tuo Mi Account.</string>
     <string name="delete_album_failed">"Eliminazione album fallita."</string>
     <string name="delete_album_msg_format">Eliminare album \"%2$s\" %1$s%3$s?</string>
     <string name="delete_album_msg_format_cloud">Eliminare %1$s %2$s da Xiaomi Cloud e da tutti i dispositivi sincronizzati?</string>
@@ -891,7 +888,6 @@ Collega il caricabatterie e disattiva lo schermo per far apparire i ricordi."</s
     <string name="error_external_sdcard_write_action">cambia archiviazione</string>
     <string name="error_external_sdcard_write_msg">Vai in Impostazioni &gt; Archivio, modifica l\'archiviazione e prova di nuovo.</string>
     <string name="error_external_sdcard_write_tip">"Impossibile salvare file sulla SD."</string>
-    <string name="error_forbidden">La sincronizzazione è stata disattivata a causa di problemi con il tuo Mi Account.</string>
     <string name="error_install_connect_fail">"Impossibile caricare il plug-in. Controlla la connessione di rete."</string>
     <string name="error_install_sdcard_not_available">"Impossibile caricare il plug-in a causa di un errore con la scheda SD."</string>
     <string name="error_install_storage_not_enough">Libera spazio sul dispositivo per caricare il plug-in.</string>
@@ -902,8 +898,6 @@ Collega il caricabatterie e disattiva lo schermo per far apparire i ricordi."</s
     <string name="error_network_restrict_msg">Consenti alla Galleria di collegarsi alla rete.</string>
     <string name="error_network_restrict_tip">"Nessuna rete disponibile"</string>
     <string name="error_no_account_action">Accedi</string>
-    <string name="error_no_account_msg">Accedi al tuo Mi Account e prova di nuovo.</string>
-    <string name="error_no_account_tip">Firma richiesta</string>
     <string name="error_no_cta_permission_action">Consenti</string>
     <string name="error_no_cta_permission_msg">Accesso di rete limitato.</string>
     <string name="error_no_cta_permission_tip">Accesso di rete limitato</string>
@@ -1188,7 +1182,6 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="functions_are_being_developed">Questa funzionalità sarà presto disponibile. Attendi!</string>
     <string name="gallery_setting">Impostazioni</string>
     <string name="gallery_sync_disable_toast">La funzionalità di sincronizzazione della galleria non è attiva</string>
-    <string name="generate_story_summary">Scatta abbastanza foto, collega il caricabatterie e spegni lo schermo per far apparire i ricordi.</string>
     <string name="generate_story_title">Assistente</string>
     <string name="get_album_info_in_process">"Richiesta informazioni album condiviso, attendere…"</string>
     <string name="gif_tip">GIF</string>
@@ -1303,6 +1296,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="input_or_select_a_name">Inserisci o scegli un nome</string>
     <string name="input_relation_name">Inserisci il nome del gruppo</string>
     <string name="install_fail">"Impossibile caricare il plug-in a causa di un errore."</string>
+    <string name="install_media_editor_download_description">Download in corso…</string>
     <string name="install_media_editor_function_message">Scarica l\'ultima versione di Editor Galleria per essere in grado di utilizzare \"%1$s\".</string>
     <string name="install_media_editor_latest_message">Per essere in grado di modificare gli elementi, scaricare l\'ultimo plugin.</string>
     <string name="install_media_editor_message">Per essere in grado di modificare gli elementi, scaricare il plug-in. Scaricare ora?</string>
@@ -1369,7 +1363,6 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="loading_video_fail_sync_without_network">Collegati alla rete per scaricare i metadata</string>
     <string name="loading_video_fail_syncing">Attendi finché i metadata non sono completamente scaricati e prova di nuovo</string>
     <string name="loading_video_thumbnail">Download copertina video…</string>
-    <string name="login_and_enable_service">Esegui l\'accesso ed utilizza Mi Cloud</string>
     <string name="long_press_to_refocus">Tieni premuto per rimettere a fuoco</string>
     <string name="macarons_download_dialog_confirm">OK</string>
     <string name="macarons_download_dialog_message">Scaricare il plugin Vignetta magica?</string>
@@ -1546,7 +1539,6 @@ per personalizzare la Galleria"</string>
     <string name="mi_pad_5">Xiaomi Pad 5</string>
     <string name="mi_pad_5_pro">Xiaomi Pad 5 Pro</string>
     <string name="mi_pad_5_pro_5g">Xiaomi Pad 5 Pro 5G</string>
-    <string name="micloud_introduce">Esegui automaticamente il backup di foto e video (è necessario un Mi Account)</string>
     <string name="midnight">Notte</string>
     <string name="migrate_msg">Alcuni album richiedono dei permessi per spostare le foto dopo un aggiornamento di sistema.</string>
     <string name="miplay_adjust_volume">Imposta il volume a %d</string>
@@ -2345,8 +2337,6 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="search_image_result_title">Risultati</string>
     <string name="search_login_now">Accedi</string>
     <string name="search_login_sub_title">Accedi per vedere altre foto</string>
-    <string name="search_login_title">Account</string>
-    <string name="search_login_title_full_screen">Accedi con il tuo Mi Account per trovare altri elementi e persone</string>
     <string name="search_mark_feedback_false_negative_title">OK</string>
     <string name="search_mark_feedback_false_positive_title">Ottimizza</string>
     <string name="search_menu_title">Cerca</string>
@@ -2400,6 +2390,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="select_item_face">"Le foto potrebbero essere '%s'"</string>
     <string name="select_origin_tip">File originale (%s)</string>
     <string name="send">Invia</string>
+    <string name="send_dolby_vision_video_continue">Continua</string>
     <string name="send_file_beautify_failed">"Impossibile condividere"</string>
     <string name="send_files_by">Condividi file tramite</string>
     <string name="send_files_to">Invia elementi a</string>
@@ -2865,6 +2856,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="today">Oggi</string>
     <string name="today_of_year">In questo giorno</string>
     <string name="today_of_year_empty_tip">Nessun ricordo</string>
+    <string name="today_of_year_function_closed_btn_tip">Attiva</string>
     <string name="today_of_year_location_num">Per località</string>
     <string name="today_of_year_photo_num">Foto</string>
     <string name="tomorrow">domani</string>
@@ -3343,7 +3335,6 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="xiaomi_9">Mi 9</string>
     <string name="xiaomi_9_pro">Mi 9 Pro 5G</string>
     <string name="xiaomi_9_se">Mi 9 SE</string>
-    <string name="xiaomi_account_not_exists_toast">"Mi Account non esistente"</string>
     <string name="xiaomi_cc_9">Mi CC9</string>
     <string name="xiaomi_cc_9_custom">Mi CC9 Meitu Edition</string>
     <string name="xiaomi_cc_9_pro">Mi CC9 Pro</string>
