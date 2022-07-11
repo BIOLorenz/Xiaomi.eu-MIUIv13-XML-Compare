@@ -107,6 +107,7 @@
     <string name="at_least_one">Seleziona almeno una categoria</string>
     <string name="auth_fail_warning">Sessione scaduta, accedi di nuovo.</string>
     <string name="auto_interval">Dopo ogni sblocco del dispositivo</string>
+    <string name="back">Indietro</string>
     <string name="back_icon_content_description">Indietro</string>
     <string name="bind_sign_in_title">Aggiungi Mi Account</string>
     <string name="cancel">Annulla</string>
@@ -352,6 +353,7 @@ Invia questo codice al supervisore."</string>
     <string name="exposed_dropdown_menu_content_description">Mostra menu a tendina</string>
     <string name="external_storage_permission">Accesso alla memoria</string>
     <string name="external_storage_permission_summary">Per selezionare sfondi personalizzati e salvare gli elementi scaricati</string>
+    <string name="facebook_login_btn_content_description">Accedi con Facebook</string>
     <string name="failed_dup_secure_phone_number">Questo numero di telefono è già associato ad un altro MI account</string>
     <string name="favor_list_no_data">Nessun elemento trovato.</string>
     <string name="favor_list_title">Preferiti</string>
@@ -404,6 +406,7 @@ Invia questo codice al supervisore."</string>
     <string name="get_ph_ticket">Ottieni codice</string>
     <string name="get_phone_bind_exceed_limit">"È possibile associare fino a 3 Mi Account a un numero di telefono. Impossibile aggiungere nuovi account."</string>
     <string name="get_phone_verifycode_exceed_limit">Troppi codici di verifica sono stati inviati a questo numero. Attendere 24 ore e riprovare.</string>
+    <string name="google_login_btn_content_description">Accedi con Google</string>
     <string name="goto_confirm">Impostazioni</string>
     <string name="goto_sign_up">Crea account</string>
     <string name="header_help">Guida</string>
@@ -1180,6 +1183,7 @@ mm"</string>
     <string name="wednesday">Mercoledì</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
+    <string name="weixin_login_btn_content_description">Accedi con WeChat</string>
     <string name="wlan_download">Aggiorna solo tramite Wi-Fi</string>
     <string name="wlan_download_cn">Aggiorna solo tramite Wi-Fi</string>
     <string name="wm_storage_left">"Rimanente: "</string>
