@@ -12,6 +12,7 @@
     <string name="amazonanimals_preview">Foresta pluviale</string>
     <string name="android_ringtone_default_with_actual">Suoneria predefinita (%1$s)</string>
     <string name="android_ringtone_silent">Nessuno</string>
+    <string name="android_ringtone_unknown">Suoneria sconosciuta</string>
     <string name="app_continuity_channel_name">Regolazione layout app</string>
     <string name="application_cannot_open_alipay_health_code">"Impossibile aprire il codice sanitario Alipay"</string>
     <string name="application_cannot_open_alipay_payment_code">"Impossibile aprire il codice di pagamento di Alipay"</string>
