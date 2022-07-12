@@ -610,6 +610,7 @@ Puoi controllare questa funzione da Impostazioni &gt; Password e sicurezza &gt; 
     <string name="sim_card_detection_mobile_not_available">"La scheda SIM non può connettersi alla rete"</string>
     <string name="sim_card_detection_sb_esim">Attiva eSIM</string>
     <string name="sim_card_detection_sb_nonactivated">Non attivo</string>
+    <string name="sim_card_dial_card">SIM %d per le chiamate</string>
     <string name="sim_card_do_not_select_dial_card">Seleziona la SIM quando telefoni</string>
     <string name="sim_card_network_card">SIM Dati %d</string>
     <string name="sim_dectection_next">Continua</string>
