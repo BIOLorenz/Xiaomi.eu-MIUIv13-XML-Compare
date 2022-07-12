@@ -1479,6 +1479,7 @@ attendere o selezionare Musica Online."</string>
     <string name="passport_wrong_voice">Il captcha inserito non è corretto</string>
     <string name="password_button_complete">Fatto</string>
     <string name="password_hint_creat2">Inserisci la password</string>
+    <string name="password_hint_recreat">Conferma password</string>
     <string name="password_toast_unsame">"Le password non corrispondono"</string>
     <string name="password_toggle_content_description">Mostra password</string>
     <string name="paused_by_app">Pausa</string>
