@@ -3643,6 +3643,7 @@ Per saperne di più, contatta il fornitore di credito."</string>
     <string name="firewall_wifi_dialog_message">"L'app installata non sarà in grado di connettersi a internet utilizzando il Wi-Fi quando questa opzione è spenta."</string>
     <string name="firmware_version">Versione di Android</string>
     <string name="fiveg_nrca_switch_summary">Migliora la connessione 5G per testare gli ambienti</string>
+    <string name="fiveg_nrca_switch_title">Aggregazione degli operatori 5G</string>
     <string name="fiveg_sa_vice_switch_title">SA su SIM secondaria</string>
     <string name="fiveg_vonr_switch_title">Impostazioni VoNR</string>
     <string name="fix_connectivity">Risolvi problemi di connettività</string>
