@@ -322,6 +322,8 @@ Mi Video può essere aggiornato.
 Aggiorna l'app ora per controllare nuove funzionalità interessanti!
 Mi Video Team"</string>
     <string name="description">Descrizione</string>
+    <string name="desktop_widget_local_media">File multimediali</string>
+    <string name="desktop_widget_new">Nuovo</string>
     <string name="detail_select_source">Seleziona la sorgente di riproduzione</string>
     <string name="diagnosis_log_send_failed">"Impossibile inviare i log. Riprova."</string>
     <string name="diagnosis_log_sent_format">"Log inviati con successo.
@@ -715,6 +717,7 @@ Questa operazione non influenzerà le foto della galleria."</string>
     <string name="incentive_exchange">Rinnova</string>
     <string name="incentive_exchange_code">Codice</string>
     <string name="incentive_exchange_code_copy">Copia</string>
+    <string name="incentive_exchange_code_copy_and_start">Usa</string>
     <string name="incentive_exchange_details">Dettagli</string>
     <string name="incentive_exchange_details_current">Totale dell\'ordine</string>
     <string name="incentive_exchange_details_total">Saldo</string>
@@ -730,6 +733,8 @@ Questa operazione non influenzerà le foto della galleria."</string>
     <string name="incentive_task_title_daily">Attività giornaliere</string>
     <string name="incentive_task_to_get">Avvia</string>
     <string name="incentive_task_to_login">Accedi</string>
+    <string name="incentive_toast_share_success_new">Condivisione riuscita</string>
+    <string name="incentive_toast_subscribe_success_new">Iscritto correttamente</string>
     <string name="incentive_view_details">Dettagli</string>
     <string name="inconsistent_pwd">"Le password non corrispondono"</string>
     <string name="init_channels">Ripristina predefinite</string>
