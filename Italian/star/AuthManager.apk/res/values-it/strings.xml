@@ -427,7 +427,6 @@
     <string name="permdesc_read_call_log">Consentire a %1$s di accedere alla cronologia chiamate?</string>
     <string name="permdesc_read_contacts">Consentire a %1$s di accedere ai contatti?</string>
     <string name="permdesc_read_mms">Consentire a %1$s di leggere messaggi multimediali?</string>
-    <string name="permdesc_read_sms">Consentire a %1$s di leggere o inviare messaggi testuali e multimediali?</string>
     <string name="permdesc_read_storage">Consentire a %1$s di accedere a file e foto su questo dispositivo?</string>
     <string name="permdesc_recognition">Consentire a %1$s di accedere alle informazioni sulle tue attività?</string>
     <string name="permdesc_send_sms">Consentire a %1$s di inviare messaggi di testo?</string>
