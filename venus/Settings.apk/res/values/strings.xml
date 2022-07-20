@@ -591,6 +591,7 @@ If this permission is off, existing alarms and time-based events scheduled by th
     <string name="allow_mock_location_summary">Allow mock locations</string>
     <string name="allow_oaid_used">Use virtual ID</string>
     <string name="allow_oaid_used_desc">"MIUI won't provide a virtual ID (OAID) to installed apps. Some personal recommendation features might not work properly because of that."</string>
+    <string name="allow_ongoing_title">Allow permanent notifications</string>
     <string name="allow_overlay_description">Allow this app to display on top of other apps you’re using. This app will be able to see where you tap or change what’s displayed on the screen.</string>
     <string name="allow_sound_title">Allow playing sound</string>
     <string name="allow_vibrate_title">Allow vibration</string>
@@ -2095,6 +2096,7 @@ If you install a CA certificate, the certificate owner could access your data, s
     <string name="captions_category_title">Captions</string>
     <string name="capture_system_heap_dump_title">Capture system heap dump</string>
     <string name="capturing_system_heap_dump_message">Capturing system heap dump</string>
+    <string name="card_holder_header_title">Wallet</string>
     <string name="card_main_hbassistant_title">Red envelope;Red packet;Money</string>
     <string name="cards_passes_lower">cards &amp; passes</string>
     <string name="cards_passes_sentence">Cards &amp; passes</string>
@@ -4139,6 +4141,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
     <string name="global_locale_change_title">Change language</string>
     <string name="global_stylus_summary" />
     <string name="global_stylus_title" />
+    <string name="global_stylus_title_beta" />
     <string name="gmscore_settings_title">Basic Google services</string>
     <string name="go_back_button_label">Go back</string>
     <string name="go_to_sleep">Turn off screen</string>
@@ -5737,6 +5740,7 @@ You won't be able to reverse this action."</string>
     <string name="miheadset_cancel_device">Cancel</string>
     <string name="miheadset_checkUpdate">Check for updates</string>
     <string name="miheadset_closeAnc">Off</string>
+    <string name="miheadset_close_leaudio_first">Turn off LE Audio in Additional settings to be able to use this feature</string>
     <string name="miheadset_codec_sample_rate">Bluetooth audio sample rate</string>
     <string name="miheadset_common_problem">FAQ</string>
     <string name="miheadset_connectHeadsetForFw">Connect earphones to view firmware version</string>
@@ -5828,6 +5832,7 @@ You won't be able to reverse this action."</string>
     <string name="miheadset_notification_title">Show on Notification shade</string>
     <string name="miheadset_ok_device">OK</string>
     <string name="miheadset_openAnc">Noise cancellation</string>
+    <string name="miheadset_openAnc2">Noise cancellation</string>
     <string name="miheadset_play_pause">Play/Pause</string>
     <string name="miheadset_plus">Volume up</string>
     <string name="miheadset_preferences">Preferences</string>
@@ -10193,8 +10198,9 @@ Tap the plus to add words."</string>
     <string name="virtual_sim_global_description">Connect to data networks without a SIM card</string>
     <string name="virtual_sim_global_title">Mobile data service</string>
     <string name="virtual_sim_title">Roaming data network</string>
-    <string name="virtual_surround_sound_switch_summary">"Enrich sound depth for audio and video playback in headphones (This feature won't work when %.1f audio is played)"</string>
-    <string name="virtual_surround_sound_switch_title">Immersive sound</string>
+    <string name="virtual_surround_sound_switch_summary">Enrich sound depth for audio and video playback in earphones</string>
+    <string name="virtual_surround_sound_switch_summary_global">"Enrich sound depth for audio and video playback in earphones. This feature won't work when LDAC is on."</string>
+    <string name="virtual_surround_sound_switch_title">Immersive sound effects</string>
     <string name="virus_scan">Virus scan</string>
     <string name="virus_scan_app_continue">Resume scan</string>
     <string name="virus_scan_app_finish">Done</string>
