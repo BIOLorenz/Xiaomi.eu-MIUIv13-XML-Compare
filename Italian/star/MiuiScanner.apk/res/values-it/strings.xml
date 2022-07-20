@@ -763,8 +763,6 @@
     <string name="scanHistory_close">Disattiva</string>
     <string name="scanHistory_isOpen">Mantenere la cronologia degli elementi scansionati?</string>
     <string name="scanHistory_open">Attiva</string>
-    <string name="scan_document_top_tip">Scansiona un documento fisico e crea un PDF</string>
-    <string name="scan_document_top_tip_second">Scansiona più documenti e crea un PDF</string>
     <string name="scan_form">Scansiona tabella</string>
     <string name="scan_form_top_tip">Scansiona, salva e modifica tabelle</string>
     <string name="scan_general_top_tip">Riconosci piante, persone e prodotti</string>
