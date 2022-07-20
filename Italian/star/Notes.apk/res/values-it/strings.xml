@@ -22,6 +22,7 @@
     <string name="abc_shareactionprovider_share_with">Condividi con</string>
     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
     <string name="abc_toolbar_collapse_description">Riduci</string>
+    <string name="access_denied_info">Troppi tentativi. Attendi e riprova.</string>
     <string name="action_collapse">Nascondi</string>
     <string name="action_expand">Mostra altro</string>
     <string name="action_folder_description">Visualizza cartelle</string>
@@ -379,6 +380,14 @@
     <string name="info_note_enter_desktop">Nota inserita sulla Home</string>
     <string name="item_view_role_description">Tab</string>
     <string name="last_excerpt_unfinish_hint">L\'ultimo estratto è incompleto</string>
+    <string name="library_android_database_sqlcipher_author">Zetetic, LLC</string>
+    <string name="library_android_database_sqlcipher_authorWebsite">https://www.zetetic.net/sqlcipher/</string>
+    <string name="library_android_database_sqlcipher_libraryDescription">API SQLite Android basate su SQLCipher</string>
+    <string name="library_android_database_sqlcipher_libraryName">SQLCipher per Android</string>
+    <string name="library_android_database_sqlcipher_libraryVersion">${clientVersionNumber}</string>
+    <string name="library_android_database_sqlcipher_libraryWebsite">https://www.zetetic.net/sqlcipher/</string>
+    <string name="library_android_database_sqlcipher_licenseLink">https://www.zetetic.net/sqlcipher/license/</string>
+    <string name="library_android_database_sqlcipher_repositoryLink">https://github.com/sqlcipher/android-database-sqlcipher</string>
     <string name="loading_text">Attendi…</string>
     <string name="login_sync">Accedi e sincronizza</string>
     <string name="lunar_day">Lunare %1$s</string>
@@ -591,6 +600,8 @@
     <string name="mtrl_picker_toggle_to_day_selection">Tocca per selezionare un giorno</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passa alla mod. di inserimento testo</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tocca per selezionare un anno</string>
+    <string name="network_error_info">Si è verificato un errore di rete. Controlla le impostazioni di rete e riprova.</string>
+    <string name="network_timeout_info">"Impossibile connettersi alla rete. Riprova."</string>
     <string name="new_app_name">Note Mi</string>
     <string name="new_audio_create_cancel_talkback_des">Annullato</string>
     <string name="new_audio_create_done_talkback_des">Creato</string>
@@ -725,6 +736,7 @@
     <string name="privacy_note_content_empty">Nessun contenuto.</string>
     <string name="private_entry_available">Rilascia per aprire la cartella privata</string>
     <string name="private_entry_default">Scorri verso il basso per aprire la cartella privata</string>
+    <string name="progressbar_title">Verifica falle di sicurezza…</string>
     <string name="quick_note_link_default_text">URL</string>
     <string name="quick_note_new_user_guide">Le note rapide consentono di creare note ed estratti</string>
     <string name="recover_notes_hint">Rilevati dati anomali nella nota, prova a recuperarla su <b>i.mi.com</b></string>
@@ -855,6 +867,7 @@
     <string name="sync_note_folder">%1$s e %2$s</string>
     <string name="sync_note_todo">%1$s e %2$s</string>
     <string name="sync_tips">Tocca per sincronizzare le note con Mi Cloud.</string>
+    <string name="system_error_info">Il sistema è occupato. Aspetta un minuto o due e riprova.</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversario dell\'abolizione della legge marziale</string>
     <string name="the_anti_aggression_day">Giornata della pace</string>
     <string name="the_arbor_day">Giorno dei mestieri</string>
@@ -1027,6 +1040,7 @@ Consenti di registrare audio."</string>
     <string name="tuesday_shortest">Mar</string>
     <string name="unclassfied_folder_name">Non categorizzato</string>
     <string name="undo">Annulla</string>
+    <string name="unknown_error_info">Errore sconosciuto</string>
     <string name="unknown_source">Fonte sconosciuta</string>
     <string name="v7_preference_off">DISATTIVATO</string>
     <string name="v7_preference_on">ATTIVATO</string>
