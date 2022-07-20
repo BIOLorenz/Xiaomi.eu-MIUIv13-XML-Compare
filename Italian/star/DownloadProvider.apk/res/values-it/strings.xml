@@ -206,6 +206,8 @@
     <string name="heavenly_stems_yi">Yi</string>
     <string name="insufficient_space">Spazio insufficiente sulla memoria interna</string>
     <string name="midnight">Notte</string>
+    <string name="miuix_access_state_desc">Selezionato</string>
+    <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleziona elementi</string>
@@ -220,6 +222,8 @@
     <string name="miuix_appcompat_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
+    <string name="miuix_indexer_collect">Raccolte</string>
+    <string name="miuix_indexer_selected">Selezionato %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
@@ -306,10 +310,6 @@
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="privacy_notif_content">Tocca per vedere i dettagli.</string>
     <string name="privacy_notif_title">Xunlei Download Accelerator attivato</string>
-    <string name="privacy_tip_cancel">Annulla</string>
-    <string name="privacy_tip_content">"Utilizzare Acceleratore Xunlei per velocizzare i download? L'URL dell'host del download verrà caricato sui server di Xunlei. I dettagli del tuo Mi Account saranno inoltre caricati per verificare se hai un abbonamento attivo a questo servizio."</string>
-    <string name="privacy_tip_ok">OK</string>
-    <string name="privacy_tip_title">Utilizzare l\'Acceleratore Xunlei?</string>
     <string name="recommended_file_size_download_in_mobile">Utilizzare %s di dati su rete cellulare per scaricare questo file?</string>
     <string name="recommended_no_file_size_download_in_mobile">Utilizzare la rete dati cellulare per scaricare questo file?</string>
     <string name="root_downloads">Download</string>
