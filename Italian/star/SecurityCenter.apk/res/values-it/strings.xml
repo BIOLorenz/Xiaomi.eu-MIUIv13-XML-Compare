@@ -2156,6 +2156,7 @@ Registra sequenze personalizzate e usale in qualsiasi momento!"</string>
     <string name="gb_new_feature">Nuova funzionalità</string>
     <string name="gb_not_support_on_device">"Questa app non può essere utilizzata su uno schermo esterno"</string>
     <string name="gb_operat_frequently">Non così in fretta!</string>
+    <string name="gb_performace_tips_button">Cambia</string>
     <string name="gb_performance_balance">Bilanciato</string>
     <string name="gb_performance_balance_tips">"La mod. bilanciata consente di risparmiare energia
 riducendo la frequenza di aggiornamento e i limiti di temperatura"</string>
@@ -4933,9 +4934,6 @@ Per usare questo ^1, devi prima montarlo."</string>
     <string name="storage_dialog_unsupported">"Questo dispositivo non supporta questo ^1.
 
 Per usare questo ^1 con questo dispositivo, devi prima configurarlo."</string>
-    <string name="storage_fbo_clear">Deframmentazione</string>
-    <string name="storage_fbo_des">"La memoria interna soffre di frammentazione, che potrebbe rallentare significativamente il dispositivo. La deframmentazione viene eseguita automaticamente mentre non si utilizza il dispositivo. Organizza fisicamente i file nel più piccolo numero di frammenti riducendo il ritardo."</string>
-    <string name="storage_fbo_number_tip">Unito su %1$s</string>
     <string name="storage_fbo_tools">Ottimizzazione memoria</string>
     <string name="storage_file_delete_tip">Eliminare definitivamente gli elementi selezionati? Alcuni di essi potrebbero essere caricati di nuovo quando necessario.</string>
     <string name="storage_file_dialog_delete_title">Elimina elementi</string>
@@ -4952,7 +4950,6 @@ Per usare questo ^1 con questo dispositivo, devi prima configurarlo."</string>
     <string name="storage_item_doc_name">Documenti</string>
     <string name="storage_item_other_name">Altro</string>
     <string name="storage_item_picture_name">Immagini</string>
-    <string name="storage_item_system_data">Sistema</string>
     <string name="storage_item_system_name">Sistema</string>
     <string name="storage_item_video_name">Video</string>
     <string name="storage_menu_mount">Monta</string>
