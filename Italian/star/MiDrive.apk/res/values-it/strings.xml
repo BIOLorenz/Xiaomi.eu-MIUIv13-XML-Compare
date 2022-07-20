@@ -476,7 +476,9 @@ Assicurati di usare il Mi Account attuale come account MIUI."</string>
     <string name="pause_download">Pausa</string>
     <string name="pause_upload">Pausa</string>
     <string name="permission_account_desc">Accedi a tutti gli account memorizzati su questo dispositivo</string>
+    <string name="permission_account_desc_pad">Accedere agli account memorizzati sul dispositivo</string>
     <string name="permission_account_title">Account</string>
+    <string name="permission_account_title_pad">Accesso agli account</string>
     <string name="permission_accpeted">Concesso</string>
     <string name="permission_camera_desc">Scattare foto e realizzare video</string>
     <string name="permission_camera_title">Fotocamera</string>
@@ -484,7 +486,9 @@ Assicurati di usare il Mi Account attuale come account MIUI."</string>
     <string name="permission_phone_desc">Accesso al numero di telefono e allo stato del devices</string>
     <string name="permission_phone_title">Info dispositivo</string>
     <string name="permission_storage_desc">Accedi e salva foto e file su questo dispositivo</string>
+    <string name="permission_storage_desc_pad">Accedi a foto e file sul dispositivo</string>
     <string name="permission_storage_title">Archiviazione</string>
+    <string name="permission_storage_title_pad">Accesso alla memoria</string>
     <string name="picker_bottom_btn_text">Carica</string>
     <string name="picker_bottom_text_desc">"Carica su "</string>
     <string name="picker_permission_failed">"Impossibile concedere il permesso. Questa funzionalità non funzionerà senza di esso."</string>
