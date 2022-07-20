@@ -258,7 +258,6 @@ Disattiva per fermare la sincronizzazione."</string>
     <string name="branch_apps">Applicazioni</string>
     <string name="branch_contacts">Contatti</string>
     <string name="branch_grant_permission">Permessi richiesti</string>
-    <string name="branch_new_function">Nuova funzionalità</string>
     <string name="branch_setting">Impostazioni</string>
     <string name="branch_short_message">Messaggi</string>
     <string name="branch_shortcuts">Scorciatoie</string>
@@ -270,7 +269,6 @@ Disattiva per fermare la sincronizzazione."</string>
     <string name="browserFrameNetworkErrorLabel">Errore di connessione</string>
     <string name="btn_agree">Accetto</string>
     <string name="btn_cancel">Annulla</string>
-    <string name="btn_confirm">Ok</string>
     <string name="camera_permission_name">Utilizza fotocamera</string>
     <string name="can_not_send_with_too_many">"Impossibile inviare così tanti elementi"</string>
     <string name="cancel">Annulla</string>
@@ -720,6 +718,7 @@ Invia questo codice al supervisore."</string>
     <string name="encrypt_success">Tutti i file adesso sono nascosti</string>
     <string name="encrypting">Crittografia…</string>
     <string name="end_user_license">Accordo di licenza per l\'utente finale</string>
+    <string name="enter_bookmark">Segnalibri</string>
     <string name="enter_developer_mode">Entra in mod. sviluppatore</string>
     <string name="enter_incongnito_mode">Entra in mod. incognito</string>
     <string name="enter_news_by_pull_down">Rilascia per aprire il feed dei contenuti</string>
@@ -959,6 +958,7 @@ Invia questo codice al supervisore."</string>
     <string name="go_me">Centro utente</string>
     <string name="go_supermarket_button">Vai</string>
     <string name="go_supermarket_title">Più app, più veloce e minore utilizzo dei dati nell\'App Store</string>
+    <string name="go_to_tab">Schede</string>
     <string name="gold_medals">Medaglie d’oro</string>
     <string name="google_bookmarks">Google</string>
     <string name="googlepay_anonymous_merge_dialog_agree">Accedi</string>
@@ -1649,6 +1649,7 @@ Abbandonare questa pagina?"</string>
     <string name="pay_now">Paga</string>
     <string name="per_month">Al mese</string>
     <string name="permission_agree_service">"Ho letto e accettato i seguenti termini e condizioni."</string>
+    <string name="permission_allow">Consenti</string>
     <string name="permission_contacts">Contatti</string>
     <string name="permission_deeplink_tip_title">Consentire a questa pagina di aprire %s?</string>
     <string name="permission_dialog_msg_camera">%s vuole usare la fotocamera</string>
@@ -1673,6 +1674,7 @@ Abbandonare questa pagina?"</string>
     <string name="permission_open_storage">Consenti a Mi Browser di accedere alla memoria interna nelle impostazioni</string>
     <string name="permission_service">Termini e condizioni</string>
     <string name="permission_storage">Archiviazione</string>
+    <string name="permission_to_open">Impostazioni</string>
     <string name="permission_unknown">Si è verificato un errore.</string>
     <string name="permission_use">Permessi</string>
     <string name="permisssion_not_ask_again">"Non chiedermelo più"</string>
@@ -2163,6 +2165,7 @@ Alcuni siti non utilizzeranno la tua cronologia di navigazione precedente per pe
     <string name="search_trending_new">Nuovo</string>
     <string name="search_trending_title">Di tendenza</string>
     <string name="search_tupian">Immagine</string>
+    <string name="search_using_traceless_mode">Mod. incognito</string>
     <string name="search_yahoo">Yahoo!</string>
     <string name="search_yicha">Yicha</string>
     <string name="secure_download_in_xiaomi_market">Scarica nell\'App Store</string>
@@ -2206,6 +2209,7 @@ Alcuni siti non utilizzeranno la tua cronologia di navigazione precedente per pe
     <string name="share_page_text">Guarda cosa ho condiviso: %1$s @MIUI| %2$s</string>
     <string name="share_slide_video_text">Guarda cosa ho condiviso: %1$s</string>
     <string name="shear_plate_permission_name">Accedere o salvare elementi negli appunti</string>
+    <string name="shortcut_function">Scorciatoie</string>
     <string name="shortcuts_boost_speed">Velocizza</string>
     <string name="shortcuts_cleanup_cache">Pulitore</string>
     <string name="shortcuts_cleanup_memory">Svuota cache</string>
