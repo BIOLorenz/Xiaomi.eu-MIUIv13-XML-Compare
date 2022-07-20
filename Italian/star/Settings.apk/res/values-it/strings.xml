@@ -1961,6 +1961,7 @@ Questa funzione può essere disattivata in [Settings]</string>
     <string name="captions_category_title">Sottotitoli</string>
     <string name="capture_system_heap_dump_title">Acquisisci dump dell\'heap del sistema</string>
     <string name="capturing_system_heap_dump_message">Acquisizione del dump dell\'heap del sistema</string>
+    <string name="card_holder_header_title">Portafoglio</string>
     <string name="card_main_hbassistant_title">Busta rossa;Pacchetto rosso;denaro</string>
     <string name="cards_passes_lower">carte e pass</string>
     <string name="cards_passes_sentence">Carte e pass</string>
@@ -5401,6 +5402,7 @@ Ci sono altri utenti presenti su questo dispositivo.
     <string name="miheadset_notification_title">Mostra nell\'area notifiche</string>
     <string name="miheadset_ok_device">OK</string>
     <string name="miheadset_openAnc">Eliminazione rumori</string>
+    <string name="miheadset_openAnc2">Eliminazione rumori</string>
     <string name="miheadset_play_pause">Play/Pausa</string>
     <string name="miheadset_plus">Volume +</string>
     <string name="miheadset_preferences">Preferenze</string>
@@ -9600,8 +9602,6 @@ Aggiungi una parola toccando il tasto +."</string>
     <string name="virtual_sim_global_description">Non è richiesta nessuna SIM per collegarsi alla rete dati</string>
     <string name="virtual_sim_global_title">Servizio traffico dati</string>
     <string name="virtual_sim_title">Rete dati roaming</string>
-    <string name="virtual_surround_sound_switch_summary">"Migliora la profondità del suono per la riproduzione audio e video nelle cuffie (questa funzione non funzionerà quando l'audio %.1f viene riprodotto)"</string>
-    <string name="virtual_surround_sound_switch_title">Suono immersivo</string>
     <string name="virus_scan">Scansione virus</string>
     <string name="virus_scan_app_continue">Continua scansione</string>
     <string name="virus_scan_app_finish">Fatto</string>
