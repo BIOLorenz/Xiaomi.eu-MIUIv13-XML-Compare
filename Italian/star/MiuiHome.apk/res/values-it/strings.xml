@@ -1149,5 +1149,8 @@
     <string name="work_profile_second_content">Le app e i dati presenti nel profilo di lavoro e saranno visibili dal tuo admin IT</string>
     <string name="work_profile_title">Profilo di lavoro</string>
     <string name="work_profile_toggle_label">Profilo di lavoro</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Non ora</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Aggiorna</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Aggiornamento disponibile</string>
     <string name="yesterday">Ieri</string>
 </resources>
