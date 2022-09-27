@@ -76,6 +76,7 @@
     <string name="backup_hint_pad">Non spegnere il dispositivo</string>
     <string name="backup_is_running">Dispositivo in fase di backup</string>
     <string name="backup_new">Nuovo:</string>
+    <string name="backup_notice_title">Attenzione</string>
     <string name="backup_notification_title">\"Backup\" in esecuzione…</string>
     <string name="backup_progress">Backup in corso</string>
     <string name="backup_report">Vedi dettagli</string>
@@ -104,6 +105,7 @@
     <string name="cancel_moving_dialog_message">Sicuro di voler interrompere l\'importazione?</string>
     <string name="cancel_moving_dialog_title">Interrompi importazione</string>
     <string name="cancel_restore">Interrompi</string>
+    <string name="category_contacts">Contatti</string>
     <string name="check_privacy_policy">Visualizza Informativa sulla Privacy</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
@@ -430,7 +432,6 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
     <string name="local_main_backup_time">Ultimo backup: %1$s</string>
     <string name="local_main_date_format">dd/MM/yyyy HH:mm</string>
     <string name="local_main_encrypt_backup_summary">Cripta gli i dati nel backup utilizzando il tuo Mi Account</string>
-    <string name="local_main_encrypt_backup_title">Crittografia abilitata</string>
     <string name="local_main_latest_backup_time_loading">Attendi…</string>
     <string name="local_no_backup">Nessun backup</string>
     <string name="local_no_backup_data">Ancora nessun backup</string>
