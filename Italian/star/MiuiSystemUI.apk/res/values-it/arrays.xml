@@ -658,6 +658,7 @@
         <item>camellia</item>
         <item>camellian</item>
         <item>veux</item>
+        <item>rosemary</item>
     </string-array>
     <string-array name="config_except_charge_support_lite">
         <item>curtana</item>
@@ -690,6 +691,7 @@
         <item>volume</item>
         <item>alarm_clock</item>
         <item>vpn</item>
+        <item>hd</item>
         <item>ethernet</item>
         <item>no_sim</item>
         <item>mobile</item>
@@ -1042,6 +1044,7 @@
         <item>Evidenzia comandi di disegno test in verde</item>
     </string-array>
     <string-array name="system_foreground_notification_whitelist">
+        <item>com.xiaomi.uatalive:mimonitor_bootload</item>
         <item>com.jtom.userprobation</item>
         <item>com.xiaomi.joyose</item>
         <item>com.android.launcher3</item>
