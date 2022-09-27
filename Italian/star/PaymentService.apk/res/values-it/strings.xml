@@ -54,6 +54,7 @@
     <string name="account_user_phone">Numero di telefono di recupero</string>
     <string name="account_user_region">Regione</string>
     <string name="action_add_phone">Aggiungi numero di telefono</string>
+    <string name="action_settings">Impostazioni</string>
     <string name="action_update_phone">Cambia numero di telefono</string>
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="activate_email_notice">Assicurati di attivare il tuo account entro 24 ore</string>
@@ -63,6 +64,7 @@
     <string name="app_name">Mi Credit</string>
     <string name="auth_fail_warning">Sessione scaduta, accedi di nuovo.</string>
     <string name="bind_sign_in_title">Aggiungi Mi Account</string>
+    <string name="cancel">Annulla</string>
     <string name="change_activate_email">Cambia indirizzo email</string>
     <string name="change_password">Cambia password</string>
     <string name="character_counter_content_description">Limite caratteri superato %1$d di %2$d</string>
@@ -140,6 +142,7 @@
     <string name="clearable_edittext_clear_description">Cancella</string>
     <string name="close">Chiudi</string>
     <string name="collect_diagnosis_log">Raccogli logs</string>
+    <string name="confirm">Determina</string>
     <string name="confirm_activate_email">Verificato</string>
     <string name="confirm_bundled_phone_dialog_title">Conferma numero di telefono associato</string>
     <string name="confirm_new_pwd">Conferma nuova password</string>
@@ -238,7 +241,6 @@ Invia questo codice al supervisore."</string>
     <string name="logout_account">Disconetti</string>
     <string name="mibi_account_disable_dialog_btn_negative">Annulla</string>
     <string name="mibi_account_disable_dialog_btn_positive">Attiva</string>
-    <string name="mibi_account_disable_dialog_msg">Per utilizzare MiCoin, è necessario accedere al proprio account Xiaomi. Si prega di abilitare il servizio account Xiaomi in Impostazioni-Gestione applicazioni.</string>
     <string name="mibi_account_disable_dialog_title">Avviso</string>
     <string name="mibi_all_license_message">"Stai per utilizzare del Mi Credit, un servizio fornito da Xiaomi Inc. Prima che tu possa utilizzare questo servizio, dovrai concordare con i Termini di Servizio. Tocca OK se hai concordato con i termini e le condizioni descritte in %1$s e %2$s. Dovrai connetterti ad Internet, localizzare il tuo dispositivo ed utilizzare i Mi Credit.\""</string>
     <string name="mibi_all_purpose">Benvenuto in MiCoin, puoi utilizzare questa app per ricaricare MiCoin, controllare le tue carte regalo, ecc.</string>
@@ -304,7 +306,6 @@ Invia questo codice al supervisore."</string>
     <string name="mibi_cta_description_with_review_entry_suffix">"3. Se non accetti l'Informativa sulla privacy, forniremo una modalità di sola visualizzazione. Puoi scegliere tra [%1$s].
 4. Prendiamo e proteggiamo le tue informazioni personali molto seriamente. Se hai domande, commenti o suggerimenti sul contenuto di questa politica, puoi contattarci visitando %2$s.
 "</string>
-    <string name="mibi_cta_title">Cari Mi Fan</string>
     <string name="mibi_deduct_goods_name">Prodotto</string>
     <string name="mibi_deduct_open_prompt">%1$s sarà in grado di ricarica automaticamente %2$s senza verifica.Puoi disattivare questa funzionalità in %1$s</string>
     <string name="mibi_deduct_order_price">Prezzo</string>
@@ -341,7 +342,6 @@ Accedi di nuovo."</string>
     <string name="mibi_error_account_changed_title">Account modificato</string>
     <string name="mibi_error_account_throtting">"Il tuo account non è sicuro.
 Contatta il nostro servizio clienti"</string>
-    <string name="mibi_error_auth_summary">Accedi di nuovo al tuo Mi Account</string>
     <string name="mibi_error_cert_date_summary">"Errore nella data del certificato. 
 Controlla la tua data locale e riprova."</string>
     <string name="mibi_error_common_summary">Errore di sistema. Riprova più tardi.</string>
@@ -478,13 +478,11 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_password_error">Password errata.</string>
     <string name="mibi_password_forget">dimenticata?</string>
     <string name="mibi_password_hint">Immetti la password del tuo account</string>
-    <string name="mibi_password_prompt">Per rendere sicure le tue spese, verifica il tuo Mi account</string>
     <string name="mibi_pay_grid_error_denomination">Il totale deve essere tra %1$s e %2$s Mi Credit.</string>
     <string name="mibi_pay_success_summary">"Hai pagato %1$s Mi Credit"</string>
     <string name="mibi_pay_success_with_recharge_summary">%1$s Mi Credit ricaricati，%2$s Mi Credit pagati</string>
     <string name="mibi_payment_recharge_group_title">Scegli metodo di ricarica</string>
     <string name="mibi_payment_success_title">Pagamento ricevuto</string>
-    <string name="mibi_payment_with_login_title">Mi Credit</string>
     <string name="mibi_paymnet_failed_title">Transazione Fallita</string>
     <string name="mibi_paytool_alipay">Alipay</string>
     <string name="mibi_paytool_app_not_installed">"Non hai installato %1$s. Scaricare ed installare ora?\""</string>
@@ -743,6 +741,7 @@ Poiché la fornitura di servizi MiCoin si basa sulla raccolta di informazioni pe
     <string name="noon">Mezzogiorno</string>
     <string name="ok">OK</string>
     <string name="open_settings">Vai alle impostazioni</string>
+    <string name="organization_confirm">Determina</string>
     <string name="passport_access_denied">Accesso negato</string>
     <string name="passport_account_label">Account</string>
     <string name="passport_account_name">"Account: %1$s"</string>
@@ -839,6 +838,11 @@ Poiché la fornitura di servizi MiCoin si basa sulla raccolta di informazioni pe
     <string name="phone_num_use_for">Il numero di telefono viene utilizzato per:</string>
     <string name="phone_number">Numero di telefono</string>
     <string name="photoPickerNotFoundText">Nessuna foto disponibile.</string>
+    <string name="ppplugin_flag_rmb">¥</string>
+    <string name="ppplugin_input_cardinfo_validatetime_month_prompt">Mese</string>
+    <string name="ppplugin_microfreepwd_switchoff">Spegni</string>
+    <string name="ppplugin_no_prompt">Annulla</string>
+    <string name="ppplugin_yes_prompt">Determina</string>
     <string name="psw_hint">Password</string>
     <string name="psw_sign_in">Accedi con password</string>
     <string name="request_camera_permission_message">Questo servizio richiede la tua autorizzazione, rispetteremo rigorosamente le leggi pertinenti per proteggere le tue informazioni personali: &lt;br&gt;&lt;br&gt;&lt;b&gt; Accesso Fotocamera: necessario per l\'impostazione di Avatar &lt;/b&gt;&lt;br&gt;&lt;br&gt; Se non accetti di consentire i permessi di cui sopra, questa funzione non funzionerà correttamente, ma non influenzerà l\'uso delle funzioni di base di questa applicazione. È possibile scegliere di disattivare l\'autorizzazione di cui sopra nelle impostazioni di sistema.</string>
@@ -854,6 +858,7 @@ Poiché la fornitura di servizi MiCoin si basa sulla raccolta di informazioni pe
     <string name="saturday_short">Sab</string>
     <string name="saturday_shortest">Sab</string>
     <string name="search_menu_title">Cerca</string>
+    <string name="select_pay_type_dialog_confirm">Conferma</string>
     <string name="send">Invia</string>
     <string name="send_diagnosis_log">Invia log</string>
     <string name="send_email_activate_message">E-mail di verifica inviata con successo</string>
