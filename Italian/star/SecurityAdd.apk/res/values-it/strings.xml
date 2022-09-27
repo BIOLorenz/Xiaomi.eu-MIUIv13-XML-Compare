@@ -226,13 +226,14 @@
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
     <string name="free_send_net_booster">Acceleratore velocità di rete gratuito</string>
-    <string name="free_send_net_booster_busniess">Ricevi un incrementatore di velocità Xunlei gratuito</string>
-    <string name="free_send_net_booster_busniess_tip">Tocca per ricevere</string>
+    <string name="free_send_net_booster_busniess">Incrementa la velocità di rete per i giochi</string>
     <string name="free_send_net_booster_tip">Goditi un\'esperienza di gioco fluida con l\'acceleratore di velocità di rete gratuito.</string>
     <string name="friday">Venerdì</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
     <string name="game_booster">Turbo videogiochi</string>
+    <string name="gamebooster_dialog_recover">Rinnova</string>
+    <string name="gamebooster_dialog_start_booster">Avvia</string>
     <string name="gamebooster_network_dialog_message">Consentire all\'app Sicurezza di collegarsi alla rete per poter utilizzare tutte le funzionalità di Game Turbo?</string>
     <string name="gamebooster_network_dialog_message_pad">Consentire all\'app Sicurezza di collegarsi alla rete per poter utilizzare tutte le funzionalità di Game Turbo?</string>
     <string name="gamebooster_network_dialog_title">"Alcune funzionalità non sono disponibili"</string>
@@ -444,7 +445,6 @@
     <string name="mtrl_picker_toggle_to_year_selection">Tocca per selezionare un anno</string>
     <string name="net_booster_expire_notification">La sessione di accelerazione velocità di rete sta per terminare</string>
     <string name="net_booster_overdue_notification">La sessione di accelerazione velocità di rete sta per terminare</string>
-    <string name="net_booster_overdue_notification_tip">La sessione di accelerazione di velocità di rete terminerà presto. Rinnovare la sessione?</string>
     <string name="network_not_available">"Impossibile connettersi alla rete"</string>
     <string name="night">Sera</string>
     <string name="no_net_dialog_negative_text">Annulla</string>
