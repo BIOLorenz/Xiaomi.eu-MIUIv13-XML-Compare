@@ -10,7 +10,7 @@
     <string name="HIPS_Perm_Access_Gallery">Accesso alla Galleria</string>
     <string name="HIPS_Perm_Access_Gallery_Desc">Consente a questa app di accedere agli elementi nella tua Galleria</string>
     <string name="HIPS_Perm_AudioRecorder">Registra audio</string>
-    <string name="HIPS_Perm_AudioRecorder_Desc">Registrare audio e chiamate</string>
+    <string name="HIPS_Perm_AudioRecorder_Desc">accesso diretto al microfono per registrare audio</string>
     <string name="HIPS_Perm_AutoStart">Esecuzione automatica all\'avvio</string>
     <string name="HIPS_Perm_AutoStart_Desc">Esegui automaticamente all\'avvio</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity">Connettività Bluetooth</string>
@@ -27,7 +27,7 @@
     <string name="HIPS_Perm_Contact_Desc">Modificare e cancellare contatti</string>
     <string name="HIPS_Perm_External_Storage">Accesso e modifica file nella memoria interna</string>
     <string name="HIPS_Perm_External_Storage_Desc">"Aggiungere ed eliminare file nella memoria interna"</string>
-    <string name="HIPS_Perm_Intl_group_desc_audio_recorder">Registrazione audio ed effettuare chiamate</string>
+    <string name="HIPS_Perm_Intl_group_desc_audio_recorder">accesso diretto al microfono per registrare audio</string>
     <string name="HIPS_Perm_Intl_group_desc_auto_start">Avvio automatico delle app in background</string>
     <string name="HIPS_Perm_Intl_group_desc_calendar">Accesso agli eventi del calendario</string>
     <string name="HIPS_Perm_Intl_group_desc_call_log">Accesso e modifica della cronologia delle chiamate</string>
