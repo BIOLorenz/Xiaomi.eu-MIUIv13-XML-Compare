@@ -307,7 +307,6 @@ Chiudi questa pagina e riprova."</string>
     <string name="pad_mirror_device_locked_tips_3">Tocca due volte per riattivare</string>
     <string name="pad_mirror_disconnect_tips_1">Connessione persa</string>
     <string name="pad_mirror_disconnect_tips_2">Assicurarsi che Wi-Fi e Bluetooth siano accesi in entrambi i dispositivi e riprovare.</string>
-    <string name="pad_settings_bluetooth_enable_summary">Attivare il Bluetooth per trovare i dispositivi nelle vicinanze. Attivarlo?</string>
     <string name="pad_settings_bluetooth_enable_title">Attiva il Bluetooth</string>
     <string name="pad_settings_connect_pad_group">Lavora con il tablet</string>
     <string name="pad_settings_connect_pc_group">Lavora con il computer</string>
@@ -318,7 +317,6 @@ Chiudi questa pagina e riprova."</string>
     <string name="pad_settings_handoff_device_title">Dispositivo connesso</string>
     <string name="pad_settings_handoff_disable">Spenta</string>
     <string name="pad_settings_handoff_disconnect">Non connesso</string>
-    <string name="pad_settings_handoff_enable_bluetooth">Attiva il Bluetooth per trovare i dispositivi nelle vicinanze</string>
     <string name="pad_settings_handoff_enable_disconnect">Mantieni i dispositivi vicini con il Bluetooth acceso</string>
     <string name="pad_settings_handoff_p2p_summary">Connettiti all\'hotspot portatile con un solo tocco</string>
     <string name="pad_settings_handoff_p2p_title">Hotspot</string>
@@ -326,11 +324,9 @@ Chiudi questa pagina e riprova."</string>
     <string name="pad_settings_handoff_video_title">Video</string>
     <string name="pad_settings_handoff_wps_summary">Visualizza, modifica e salva i documenti durante il passaggio tra i dispositivi</string>
     <string name="pad_settings_handoff_wps_title">Documenti</string>
-    <string name="pad_settings_pad_handoff_summary">Usa handoff con app, appunti, video e altri elementi sull\'altro dispositivo associato al tuo Mi Account</string>
     <string name="pad_settings_pc_history_title">Cronologia connessioni</string>
     <string name="pad_settings_pc_trusted_title">Connetti automaticamente</string>
     <string name="pad_settings_pc_use_tile">Info su questa funzione</string>
-    <string name="pad_settings_phone_handoff_summary">Usa handoff con app, appunti, video e altri elementi sull\'altro dispositivo associato al tuo Mi Account</string>
     <string name="pad_settings_phone_handoff_title">Trasferimento</string>
     <string name="pcmode_not_support_multi_window">"La mod. PC non supporta la visualizzazione di finestre multiple."</string>
     <string name="permission_access_nearby_device">Accedi ai dispositivi nelle vicinanze</string>
@@ -439,6 +435,9 @@ per continuare"</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="switch_wlan_action">Connetti</string>
+    <string name="switch_wlan_failed">"Connessione fallita"</string>
+    <string name="switch_wlan_success">Connessione riuscita</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversario dell\'abolizione della legge marziale</string>
     <string name="the_anti_aggression_day">Giornata della pace</string>
     <string name="the_arbor_day">Giorno dei mestieri</string>
