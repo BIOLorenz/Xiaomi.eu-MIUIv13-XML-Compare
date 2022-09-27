@@ -31,6 +31,7 @@
     <string name="add_alarm">Aggiungi</string>
     <string name="add_clock">Aggiungi Orologio</string>
     <string name="add_common_timer">Aggiungi timer</string>
+    <string name="add_new_sound">Aggiungi suoneria</string>
     <string name="add_timer">Timer Frequente</string>
     <string name="add_timer_dialog_title">Aggiungi timer</string>
     <string name="add_timezone_title">Aggiungi fuso orario</string>
@@ -749,6 +750,7 @@
     <string name="tv_blank_list_show_text">Niente da visualizzare. Cerca una località per aggiungerla al tuo orologio mondiale.</string>
     <string name="tv_world_clock_edit_title1">Località visualizzate sulla schermata Home</string>
     <string name="tv_world_clock_edit_title2">Altre località salvate</string>
+    <string name="unknown_ringtone_title">Sconosciuto</string>
     <string name="unselect_all">Deseleziona tutto</string>
     <string name="upcoming_alarm">%s Sveglia in arrivo</string>
     <string name="upcoming_alarm_hint">Disattiva la sveglia in anticipo</string>
