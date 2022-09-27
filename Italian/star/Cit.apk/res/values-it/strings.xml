@@ -148,7 +148,6 @@ Tenere il telefono come se si stesse facendo una chiamata, parlare con il microf
     <string name="cit_camera_deleted_failed">Eliminazione foto fallita</string>
     <string name="cit_camera_flash_adjust">Regola il flash</string>
     <string name="cit_camera_otp_download_title">Test download OTP fotocamera</string>
-    <string name="cit_camera_rearsub">Prove sub-camera posteriore in corso, attendere prego....</string>
     <string name="cit_camerasfr_test">Analisi immagine, attendere....</string>
     <string name="cit_capture_fail">Impossibile scattare una foto</string>
     <string name="cit_charge_usb_dcp">Ricarica: USB_DCP</string>
