@@ -88,6 +88,7 @@
     <string name="book_card_free">Gratis</string>
     <string name="button_record_menstruation">Registra</string>
     <string name="calendar_permission_desc">Gestione eventi</string>
+    <string name="calendar_privacy_policy">Informativa sulla Privacy</string>
     <string name="can_not_create_long_event">Contenuto troppo lungo</string>
     <string name="can_not_modify_allday_event">"Gli eventi che durano tutto il giorno non possono essere modificati"</string>
     <string name="can_not_modify_event">"Impossibile modificare"</string>
@@ -221,10 +222,6 @@
     <string name="countdown_notify_title">Promemoria: %1$s</string>
     <string name="countdown_secondary_tag">Conto alla rovescia</string>
     <string name="countdown_today">Oggi</string>
-    <string name="create_an_account_desc">"Il calendario funziona meglio con un Mi Account.
-
-• Accedi da qualsiasi browser.
-• Effettua il backup dei tuoi eventi in modo sicuro."</string>
     <string name="create_kundli">Crea Kundli</string>
     <string name="creating_event">Evento creato</string>
     <string name="creating_event_with_guest">Inviti spediti</string>
@@ -316,6 +313,8 @@
     <string name="edit_event_tab_birthday">Compleanno</string>
     <string name="edit_event_tab_countdown">Conto alla rovescia</string>
     <string name="edit_event_tab_event">Evento</string>
+    <string name="edit_event_title_create_agenda">Crea Evento</string>
+    <string name="edit_event_title_edit_agenda">Modifica evento</string>
     <string name="edit_event_to_label">A</string>
     <string name="edit_your_long_holidays">Modifica festività</string>
     <string name="ee_dd_short_month">EEE, dd MMM</string>
@@ -497,7 +496,6 @@
     <string name="light_snow_tradition">Nevicate leggere</string>
     <string name="limit_notification_date_format">dd/MM (EE)</string>
     <string name="limit_today">questi giorni</string>
-    <string name="load_more_hint">Aggiorna gli eventi di %1$d</string>
     <string name="loading">Attendi…</string>
     <string name="local_calendar_display_name">Calendario locale</string>
     <string name="local_owner_account_name">Account locale</string>
@@ -735,6 +733,7 @@ Controlla le impostazioni di rete e riprova."</string>
     <string name="path_calendar_settings">Applicazioni di sistema/Calendario/Impostazioni</string>
     <string name="peace_day">Giornata della pace</string>
     <string name="peace_day_tradition">Giornata della pace</string>
+    <string name="permission_description">Dettagli permessi</string>
     <string name="picker_day">Giorno selezionato: %1$d. Scorri verticalmente per selezionare.</string>
     <string name="picker_month">Mese selezionato: %1$d. Scorri verticalmente per selezionare.</string>
     <string name="picker_year">Anno selezionato: %1$d. Scorri verticalmente per selezionare.</string>
@@ -751,9 +750,13 @@ Controlla le impostazioni di rete e riprova."</string>
     <string name="pref_title_no_remind">Nessun avviso</string>
     <string name="pref_title_notification_remind">Promemoria di notifica</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
+    <string name="preferences_alarms_category_title">Promemoria sveglia</string>
+    <string name="preferences_alarms_sound">Suono</string>
+    <string name="preferences_alarms_vibrateWhen">Vibrazione</string>
     <string name="preferences_alerts_ringtone_title">Suono</string>
     <string name="preferences_alerts_vibrateWhen_title">Vibrazione</string>
     <string name="preferences_alerts_vibrate_title">Vibrazione e suoneria</string>
+    <string name="preferences_allow_remind">Consenti promemoria</string>
     <string name="preferences_default_allday_reminder_title">Orario promemoria per eventi giornalieri</string>
     <string name="preferences_default_reminder_dialog">Orario promemoria</string>
     <string name="preferences_default_reminder_title">Orario promemoria</string>
@@ -776,6 +779,8 @@ Controlla le impostazioni di rete e riprova."</string>
     <string name="privacy_policy_dialog_message"><Data>\"Benvenuto in Calendario!&lt;br/&gt;Puoi utilizzare questa app per creare e gestire eventi, impostare promemoria e ricevere ulteriori informazioni specifiche per la tua posizione.&lt;br/&gt;Calendario deve raccogliere le informazioni personali necessarie per fornirti i servizi di base. Puoi capire come gestiamo le informazioni che raccogliamo nella nostra &lt;a href=\"%1$s\"&gt;Informativa sulla privacy&lt;/a&gt;.&lt;br/&gt;Leggi e accetta il nostro &lt;a href=\"%2$s\"&gt;Contratto utente&lt;/a&gt; e &lt;a href=\"%3$s\"&gt;Informativa sulla privacy&lt;/a&gt; prima di usare il Calendario. Puoi revocare il tuo consenso all\'Informativa sulla privacy di Calendario in qualsiasi momento.&lt;br/&gt; Se non accetti la nostra Informativa sulla privacy, non sarai in grado di utilizzare alcune funzionalità di questa app; tuttavia, la sua funzionalità base sarà ancora disponibile.\"</Data></string>
     <string name="privacy_policy_dialog_title">Termini e condizioni</string>
     <string name="privacy_revoke_switch_text">Revoca autorizzazione...</string>
+    <string name="pull_refresh_progress_load_finish">Caricamento riuscito</string>
+    <string name="pull_refresh_progress_loading">Attendi…</string>
     <string name="pull_to_refresh_hint">Trascina per aggiornare gli eventi di %1$d</string>
     <string name="receive_net_mock_success">Ricezione net mock completata</string>
     <string name="recorded_menstruation">Ciclo registrato</string>
@@ -831,6 +836,7 @@ Controlla le impostazioni di rete e riprova."</string>
     <string name="search_calendar">"Calendario;Agenda;Promemoria"</string>
     <string name="search_calendar_edit_event">Riunione;Promemoria;Agenda</string>
     <string name="search_calendar_settings">Calendario;Agenda;Promemoria</string>
+    <string name="search_history">Cronologia di ricerca</string>
     <string name="search_menu_title">Cerca</string>
     <string name="second_saturday_holiday">Ogni secondo sabato è un giorno festivo</string>
     <string name="select_date">Vai alla data</string>
@@ -940,6 +946,10 @@ Puoi anche aggiungere dei promemoria in modo da non perderti nulla di importante
     <string name="tab_title_day">Giorno</string>
     <string name="tab_title_month">Mese</string>
     <string name="tab_title_week">Settimana</string>
+    <string name="tab_view_day">Giorno</string>
+    <string name="tab_view_month">Mese</string>
+    <string name="tab_view_week">Settimana</string>
+    <string name="tab_view_year">Anno</string>
     <string name="talk_back_month">Mese</string>
     <string name="talk_back_read_date">%1$s (%2$s secondo il calendario lunare).</string>
     <string name="talk_back_setting">Impostazioni</string>
@@ -1119,7 +1129,6 @@ Puoi anche aggiungere dei promemoria in modo da non perderti nulla di importante
     <string name="work_day_indication">:(</string>
     <string name="xiaomi_calendar_delete_description">Calendario è un\'app di sistema che consente di creare e gestire eventi. Alcune delle sue funzionalità saranno ancora disponibili dopo aver rimosso il collegamento dalla schermata home.</string>
     <string name="xiaomi_calendar_delete_title">Rimuovere \"Calendario\" dalla schermata Home?</string>
-    <string name="xiaomi_calendar_display_name">Calendario Mi</string>
     <string name="year">Anno</string>
     <string name="yearly">Annuale (%s)</string>
     <string name="yearly_plain">Annuale</string>
