@@ -504,6 +504,7 @@
     <string name="search_menu_title">Cerca</string>
     <string name="select_show_city">请选择省市</string>
     <string name="send">Invia</string>
+    <string name="setting_notification_manager">Notifiche</string>
     <string name="settings">Impostazioni</string>
     <string name="settings_atmospheric_pressure_atm">Atmosfera standard (atm)</string>
     <string name="settings_atmospheric_pressure_hpa">Hectopascal (hPa)</string>
