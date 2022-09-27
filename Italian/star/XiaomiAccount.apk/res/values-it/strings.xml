@@ -183,7 +183,17 @@
     <string name="close">Chiudi</string>
     <string name="cloud_description_closed">Occupato | Sincronizzazione spenta</string>
     <string name="cloud_description_normal">Occupato</string>
+    <string name="cloud_member_status_expired">Scaduto</string>
+    <string name="cloud_member_status_non_vip">Aggiorna</string>
+    <string name="cloud_member_vipname_free">Gratis</string>
+    <string name="cloud_member_vipname_mega">Mega</string>
+    <string name="cloud_member_vipname_premium">Premium</string>
+    <string name="cloud_member_vipname_ultra">Ultra</string>
     <string name="cloud_service">Mi Cloud</string>
+    <string name="cloud_service_cloud_open">Attiva</string>
+    <string name="cloud_service_space_not_enough">Spazio insufficiente</string>
+    <string name="cloud_service_space_used">Occupato</string>
+    <string name="cloud_service_state_error">"Caricamento non riuscito"</string>
     <string name="cloud_service_status_backup_not_open">Backup spento</string>
     <string name="cloud_service_status_cloud_not_open">Spenta</string>
     <string name="cloud_service_status_storage_full">Memoria piena</string>
@@ -258,6 +268,8 @@
     <string name="diagnosis_log_sent_format">"Log di diagnosi inviato.
 ID:%s
 Invia questo codice ai tecnici."</string>
+    <string name="dind_device_service_not_open">Spenta</string>
+    <string name="dind_device_service_opened">Attivata</string>
     <string name="download_file">Scaricamento %s…</string>
     <string name="early_morning">Mattina</string>
     <string name="earthly_branches_chen">Chen</string>
@@ -409,6 +421,7 @@ Invia questo codice ai tecnici."</string>
     <string name="login_with_other">Altre opzioni</string>
     <string name="logout_account">Disconetti</string>
     <string name="logout_failed">"Impossibile uscire"</string>
+    <string name="mi_account">Mi Account</string>
     <string name="mi_account_identity_title">Verifica la tua identità</string>
     <string name="mi_finance">Le mie finanze</string>
     <string name="mi_finance_info">Bonus per nuovi utenti</string>
@@ -934,6 +947,11 @@ Invia questo codice ai tecnici."</string>
     <string name="update_phone_notice">Modifica impostazioni di sicurezza</string>
     <string name="update_phone_number_notice_message">Devi verificare la tua identità prima di poter aggiornare il numero.</string>
     <string name="used_cloud_storage_info">Spazio utilizzato %s</string>
+    <string name="user_agreement_device_permission_title">Accesso alle info dispositivo</string>
+    <string name="user_agreement_must_permission_msg">Autorizzazioni obbligatorie (utilizzate per le funzioni e i servizi di base di questa app)</string>
+    <string name="user_agreement_network_permission_msg">Questa applicazione deve collegarsi ad internet e richiede le seguenti autorizzazioni per essere in grado di funzionare correttamente:</string>
+    <string name="user_agreement_wifi_permission_title">Attiva e disattiva il Wi-Fi</string>
+    <string name="user_agreement_wlan_permission_title_china">Attiva e disattiva il Wi-Fi</string>
     <string name="user_avatar_update_title">Aggiorna immagine profilo</string>
     <string name="user_avatar_uploading">Attendi…</string>
     <string name="user_instruction_tip">Per poter accedere, leggere e accettare termini e condizioni.</string>
@@ -947,6 +965,7 @@ Invia questo codice ai tecnici."</string>
     <string name="weixin">WeChat</string>
     <string name="weixin_login">Accedi con WeChat</string>
     <string name="xiao_mi_vip">Mi VIP</string>
+    <string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Non ora</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Aggiorna</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Aggiornamento disponibile</string>
