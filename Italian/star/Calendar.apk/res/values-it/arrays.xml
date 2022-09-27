@@ -242,6 +242,11 @@
     <item>Pesci</item>
     <item>19/2 - 20/3</item>
   </string-array>
+  <string-array name="prefEntries_alerts_popup_new">
+    <item>Spenta</item>
+    <item>For all events</item>
+    <item>For time-sensitive events</item>
+  </string-array>
   <string-array name="prefEntries_alerts_vibrateWhen">
     <item>Sempre</item>
     <item>Solo quando la suoneria è silenziata</item>
