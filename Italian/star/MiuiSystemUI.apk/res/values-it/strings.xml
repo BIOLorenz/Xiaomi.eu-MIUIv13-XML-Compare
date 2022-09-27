@@ -1526,16 +1526,8 @@ d MMMM"</string>
     <string name="miui_keyboard_shortcut_system_dock">Mostra barra inferiore app</string>
     <string name="miui_keyboard_shortcut_system_quickly_recent">Passa tra le app recenti</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Sbloccato da dispositivo Bluetooth</string>
-    <string name="miui_lock_screen_date">EEEE dd/MM</string>
-    <string name="miui_lock_screen_date_12">EEEE dd/MM</string>
-    <string name="miui_lock_screen_date_two_lines">"EEEE
-dd/MM"</string>
-    <string name="miui_lock_screen_date_two_lines_12">"EEEE
-dd/MM"</string>
-    <string name="miui_lock_screen_large_date">"EEE
-dd/MM"</string>
-    <string name="miui_lock_screen_large_date_12">"EEE
-dd/MM"</string>
+    <string name="miui_lock_screen_date">EEE, dd MMM</string>
+    <string name="miui_lock_screen_date_12">EEE, dd MMM</string>
     <string name="miui_notification_menu_aggregate_feedback">Segnalazione</string>
     <string name="miui_notification_menu_allow">Consenti</string>
     <string name="miui_notification_menu_feedback_success">Grazie per la segnalazione!</string>
@@ -2410,6 +2402,7 @@ d MMM"</string>
     <string name="storage_category">Archiviazione</string>
     <string name="stream_accessibility">Accessibilità</string>
     <string name="stream_alarm">Sveglia</string>
+    <string name="stream_assistant">Assistente</string>
     <string name="stream_bluetooth_sco">Bluetooth</string>
     <string name="stream_dtmf">Doppia frequenza multitono</string>
     <string name="stream_music">Media</string>
