@@ -245,7 +245,6 @@
     <string name="bind_simcard_title">SIM predefinita per le chiamate</string>
     <string name="bluetooth_connection_failed_toast">Connessione Bluetooth interrotta</string>
     <string name="blurbJoinContactDataWith">Scegli il contatto che desideri unire a %s:</string>
-    <string name="btn_call_fuhao_txt">Sub</string>
     <string name="btn_split_contact">Separa</string>
     <string name="button_cancel_scan">Interrompi</string>
     <string name="button_scan">Esegui di nuovo la scansione</string>
@@ -566,7 +565,6 @@ Mi Roaming deve connettersi a Internet e accedere alle informazioni sulla posizi
     <string name="description_image_button_eight">otto</string>
     <string name="description_image_button_five">cinque</string>
     <string name="description_image_button_four">quattro</string>
-    <string name="description_image_button_fuhao_named_dial">Sotto chiamata</string>
     <string name="description_image_button_nine">nove</string>
     <string name="description_image_button_one">uno</string>
     <string name="description_image_button_plus">Maggiore</string>
@@ -784,11 +782,6 @@ Motivo: \"%s\""</string>
     <string name="heavenly_stems_wu">Wu</string>
     <string name="heavenly_stems_xin">Xin</string>
     <string name="heavenly_stems_yi">Yi</string>
-    <string name="heduohao_fuhao_call_menu_title">Componi su %d</string>
-    <string name="heduohao_fuhao_order">Sub%d</string>
-    <string name="heduohao_label">HeDuoHao</string>
-    <string name="heduohao_main_call_menu_title">Componi su principale</string>
-    <string name="heduohao_popup_txt">Sub%d</string>
     <string name="hide_app_description_content">"Contatti è un'applicazione di sistema. Sarai ancora in grado di utilizzarli tramite l'app Telefono dopo aver rimosso il collegamento dalla schermata Home."</string>
     <string name="hide_app_description_title">Rimuovere \"Contatti\" dalla schermata Home?</string>
     <string name="hint_findContacts">Trova contatti</string>
@@ -1132,6 +1125,9 @@ Tocca \"%1$s\", quindi seleziona \"%2$s\"."</string>
     <string name="preference_smart_group_title">Gruppi intelligenti</string>
     <string name="preference_tone_title">Toni</string>
     <string name="preference_yellowpage_function_setting">Impostazioni pagine gialle</string>
+    <string name="presentation_payphone">Telefono a gettoni</string>
+    <string name="presentation_private">Numero privato</string>
+    <string name="presentation_unknown">Numero sconosciuto</string>
     <string name="previous">Indietro</string>
     <string name="privacy_password_message1">La password di protezione privacy funziona per le app, foto, note e cartelle nascoste.</string>
     <string name="privacy_password_message2">Usa la password di protezione Privacy. Funziona per foto, note e cartelle nascoste.</string>
@@ -1495,6 +1491,7 @@ Scegli una delle seguenti opzioni:"</string>
     <string name="video_chat">Chat video</string>
     <string name="viewContactDesription">Mostra contatto</string>
     <string name="viewContactTitle">Dettagli contatto</string>
+    <string name="view_more_call_logs">Mostra altro</string>
     <string name="view_updates_from_group">Visualizza aggiornamenti</string>
     <string name="voicemail">Segreteria</string>
     <string name="websiteLabelsGroup">Sito web</string>
