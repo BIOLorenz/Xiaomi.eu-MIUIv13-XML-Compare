@@ -107,6 +107,7 @@ aggiunti alla lista blocchi"</string>
     <string name="bookmark_empty">Nessun modello</string>
     <string name="bookmark_list_title">Preferiti</string>
     <string name="button_close">Chiudi</string>
+    <string name="button_copy">Copia</string>
     <string name="button_emoji_creature">Emoji animale</string>
     <string name="button_emoji_lifestyle">Emoji stile di vita</string>
     <string name="button_emoji_smiley">Emoji volto</string>
@@ -779,6 +780,7 @@ Per attivare Mi Message è necessario l'invio di un SMS. Il tuo operatore potreb
     <string name="not_prepare_for_send">Nessun messaggio da inviare</string>
     <string name="not_set">Non impostato</string>
     <string name="not_support_audio_forward">"Impossibile inoltrare messaggi vocali"</string>
+    <string name="notes_not_found">Prima installa Note</string>
     <string name="notification_ad_content">Hai ricevuto un messaggio promozionale da %s</string>
     <string name="notification_add_todo">Ricordamelo</string>
     <string name="notification_add_todo_content">Codice di ritiro: %s</string>
