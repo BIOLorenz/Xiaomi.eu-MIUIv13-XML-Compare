@@ -136,7 +136,10 @@
     <string name="config_bodyFontFamily">sans-serif</string>
     <string name="config_bodyFontFamilyMedium">sans-serif-medium</string>
     <string name="control_center_notification_switch_guide">Scorri per passare tra centro di controllo e tendina notifiche</string>
+    <string name="controls_add_device_guide">Nessun dispositivo rilevato</string>
+    <string name="controls_click_to_add_device">Aggiungi dispositivi</string>
     <string name="controls_confirmation_message">Conferma modifica per %s</string>
+    <string name="controls_default_structure">Dispositivi Smart Home</string>
     <string name="controls_dialog_confirmation">Controlli aggiornati</string>
     <string name="controls_dialog_message">%s ha suggerito questo controllo da aggiungere ai tuoi preferiti.</string>
     <string name="controls_dialog_ok">Aggiungi ai preferiti</string>
@@ -149,6 +152,11 @@
     <string name="controls_dismiss_dialog_message_international">"Rimuove ora la \"Smart home\" card? Sarete in grado di ripristinarla in Impostazioni &gt; Centro di controllo"</string>
     <string name="controls_dismiss_dialog_title">Dispositivi Smart Home</string>
     <string name="controls_dismiss_dialog_title_international">Rimuovi scheda</string>
+    <string name="controls_edit_added_subtitle">Trascinare gli elementi per ridisporre </string>
+    <string name="controls_edit_added_title">Aggiunto</string>
+    <string name="controls_edit_done_button">Fatto</string>
+    <string name="controls_edit_go_to_app_guide">Apri</string>
+    <string name="controls_edit_not_added_title">Disponibile</string>
     <string name="controls_edit_panel_not_added_title">Dispositivi disponibili</string>
     <string name="controls_edit_panel_save_button">Fatto</string>
     <string name="controls_edit_panel_subtitle">Trascinare gli elementi per ridisporre </string>
@@ -412,6 +420,7 @@
     <string name="noon">Mezzogiorno</string>
     <string name="not_set">Non impostato</string>
     <string name="notification_control_center">Notifiche e Centro di Controllo</string>
+    <string name="offline">Non in linea</string>
     <string name="online">Online</string>
     <string name="password_toggle_content_description">Mostra password</string>
     <string name="power_off">Spegni</string>
