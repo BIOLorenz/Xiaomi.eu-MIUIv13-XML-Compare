@@ -108,6 +108,9 @@
     <string name="canada_goose">Oca canadese</string>
     <string name="capybara">Capybara</string>
     <string name="capybara_info">I Capybaras sono roditori erbivori semiacquatici che possono trattenere il respiro sott’acqua per un massimo di cinque minuti.</string>
+    <string name="category_limit_notify_title">Avviso schermo attivo</string>
+    <string name="category_list_expand">Altro</string>
+    <string name="category_list_packup">Nascondi</string>
     <string name="category_other">Altro</string>
     <string name="chacma_baboon">Babbuino Chacma</string>
     <string name="cheetah">Ghepardo</string>
@@ -190,6 +193,7 @@
     <string name="color_gamut">Gamma di colore</string>
     <string name="common_brushtail">Tricosuro Volpino</string>
     <string name="common_ostrich">Struzzo</string>
+    <string name="compulsor_tip">Schermata Home</string>
     <string name="contact_description">Tocca i collegamenti della schermata Home per effettuare chiamate</string>
     <string name="contact_title">Collegamenti ai contatti</string>
     <string name="contrast_ratio">Contrasto</string>
@@ -223,6 +227,8 @@
     <string name="desktop_widget_not_support">"Le statistiche di schermo attivo
 non vengono generate nel Secondo Spazio"</string>
     <string name="desktop_widget_screen_use_time">Schermo attivo</string>
+    <string name="device_limit_enable">Attivata</string>
+    <string name="device_limit_un_enable">Spenta</string>
     <string name="display_description">Icone più grandi, testo grande, meno disordine visivo</string>
     <string name="display_title">Elementi più grandi</string>
     <string name="dynamic_ringtone_desc">"Abbiamo esplorato diversi ecosistemi e ricreato i loro suoni distintivi. Inizia ad esplorare i suoni della natura con noi!"</string>
@@ -382,6 +388,11 @@ non vengono generate nel Secondo Spazio"</string>
     <string name="green_peafowl">Pavone verde</string>
     <string name="green_warbler_finch">Fringuello cantore delle Galapagos</string>
     <string name="grey_headed_flying_fox">Volpe volante dalla testa grigia</string>
+    <string name="guard_item_app_title">Gestisci applicazioni</string>
+    <string name="guard_item_browser_title">Limitazioni</string>
+    <string name="guard_item_call_title">Comunicazioni</string>
+    <string name="guard_range_from">Da</string>
+    <string name="guard_range_to">A</string>
     <string name="harp_seal">Foca della Groenlandia</string>
     <string name="harpy_eagle">Aquila arpia</string>
     <string name="has_applied">Applicato</string>
@@ -399,7 +410,9 @@ non vengono generate nel Secondo Spazio"</string>
     <string name="helmeted_guineafowl">Faraona</string>
     <string name="high_fps_description">Alta frequenza di refrsh dello schermo. Maggiore consumo di energia.</string>
     <string name="high_fps_tip_footer">L\'utilizzo di frequenze di aggiornamento più elevate rende l\'esperienza visiva più fluida ma consuma più energia.</string>
+    <string name="high_refresh_options_title">App compatibili</string>
     <string name="hippopotamus">Ippopotamo</string>
+    <string name="holiday_limit">Giorni di riposo</string>
     <string name="hsv_space_color">Spazio colori HSV</string>
     <string name="hsv_space_color_hue">Tonalità</string>
     <string name="hsv_space_color_saturation">Saturazione</string>
@@ -444,6 +457,7 @@ non vengono generate nel Secondo Spazio"</string>
     <string name="less_than_one">&lt; %d</string>
     <string name="lion">Leone</string>
     <string name="lion_info">I leoni sono predatori feroci e potenti, vivono in gruppi e hanno un forte senso del territorio.</string>
+    <string name="loading_error">"Impossibile caricare gli elementi"</string>
     <string name="lock_summary">Proteggi le tue informazioni personali</string>
     <string name="long_tai1ed_iaeger">Jaeger dalla coda lunga</string>
     <string name="low_flicker_mode">Luce scarsa</string>
@@ -621,6 +635,7 @@ non vengono generate nel Secondo Spazio"</string>
     <string name="sea_otter">Lontra di mare</string>
     <string name="seal_info">Le foche sono mammiferi marini che possono muoversi rapidamente in acque profonde, nutrendosi di pesci e gamberetti.</string>
     <string name="search_app_name">Cerca app</string>
+    <string name="search_app_tips">Cerca app</string>
     <string name="search_empty">Nessuna app trovata</string>
     <string name="search_menu_title">Cerca</string>
     <string name="search_nature_mix">Museo Naturale; Animali</string>
@@ -634,6 +649,11 @@ non vengono generate nel Secondo Spazio"</string>
     <string name="silver_pheasant">Fagiano argentato</string>
     <string name="sim_slot_1">" (SIM 1)"</string>
     <string name="sim_slot_2">" (SIM 2)"</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_tera_byte">TB</string>
     <string name="skywalker_hoolock_gibbon">Gibbone hoolock Skywalker</string>
     <string name="small_ground_finch">Fringuello terricolo piccolo</string>
     <string name="sms_delivered_sound_title">Messaggio consegnato</string>
@@ -736,6 +756,9 @@ non vengono generate nel Secondo Spazio"</string>
     <string name="thursday">Giovedì</string>
     <string name="thursday_short">Gio</string>
     <string name="thursday_shortest">Gio</string>
+    <string name="time_over_back_home">Schermata Home</string>
+    <string name="time_over_delayed_use">Ignora</string>
+    <string name="time_over_not_delayed_use">Ok</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
     <string name="time_placeholder">--</string>
     <string name="title_activity_easy_mode">Mod. semplificata</string>
@@ -1053,6 +1076,7 @@ Questa app deve collegarsi a internet e richiede le seguenti autorizzazioni per 
     <string name="willow_grouse_info">Pernice bianca nordica è erbivora per la maggior parte della sua vita e occupa principalmente habitat subalpini e subartici.</string>
     <string name="wolf">Lupo</string>
     <string name="wombat">Vombato</string>
+    <string name="workday_limit">Giorni lavorativi</string>
     <string name="yellow_necked_spurfowl">Francolino golagialla</string>
     <string name="yellow_throated_marten">Martora dalla gola gialla</string>
     <string name="yesterday">Ieri</string>
