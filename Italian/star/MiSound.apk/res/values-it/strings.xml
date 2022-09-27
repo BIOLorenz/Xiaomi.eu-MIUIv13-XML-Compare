@@ -546,12 +546,6 @@
     <string name="sound_id_function_description">Personalizza la curva EQ in base alle tue preferenze</string>
     <string name="sound_id_function_name">Suono personalizzato</string>
     <string name="sound_id_headset_status">Auricolari attuali</string>
-    <string name="sound_id_hz_high">"Alti
-%d Hz"</string>
-    <string name="sound_id_hz_low">"Bassi
-%d Hz"</string>
-    <string name="sound_id_hz_media">"Medi
-%d Hz"</string>
     <string name="sound_id_music_one_description">Leggera | %ds</string>
     <string name="sound_id_music_one_title">Città piovosa</string>
     <string name="sound_id_music_three_description">Melodica | %ds</string>
@@ -599,8 +593,7 @@
     <string name="sound_transmission_start">Avvia</string>
     <string name="sound_transmission_stop">Pausa</string>
     <string name="sound_transmission_title">Microfono wireless</string>
-    <string name="spatial_audio">Traccia movimento della testa</string>
-    <string name="spatial_audio_summary">Regola il suono surround in base al movimento della testa</string>
+    <string name="spatial_audio">Suono immersivo</string>
     <string name="speaker_scenario_resume">Ripristina gli effetti originali</string>
     <string name="start_test_sound">Avvia test</string>
     <string name="sunday">Domenica</string>
