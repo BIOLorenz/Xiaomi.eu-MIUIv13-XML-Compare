@@ -105,6 +105,7 @@
     <string name="adblock_rules_updated_toast">Aggiornato con successo</string>
     <string name="adblock_websites_settings_empyt_hint">"Non hai bloccato nessun sito."</string>
     <string name="adblock_websites_settings_title">Siti bloccati</string>
+    <string name="add">Aggiungi</string>
     <string name="add_bookmark_group">Aggiungi gruppo</string>
     <string name="add_bookmarks">Segnalibri</string>
     <string name="add_bookshelf_popup_text">Aggiunto alla libreria</string>
@@ -120,18 +121,21 @@
     <string name="add_shortcut">Aggiungi collegamento</string>
     <string name="add_shortcut_success">Collegamento aggiunto correttamente</string>
     <string name="add_to_bookmark">Segnalibri</string>
+    <string name="add_to_desktop">Aggiungi alla schermata Home</string>
     <string name="add_to_quicklink">Funzioni</string>
     <string name="add_to_trust_device">Questo device è affidabile</string>
     <string name="added_to_bookmarks">Aggiunto ai segnalibri</string>
     <string name="adjust_text_zoom_toast">Cambiare la dimensione del testo può causare la visualizzazione errata di alcuni siti web</string>
     <string name="afternoon">Pomeriggio</string>
     <string name="agree">Accetto</string>
+    <string name="agree_label">Accetto</string>
     <string name="agree_open">Attiva</string>
     <string name="agree_permissions_request">Consenti</string>
     <string name="alert_tips">Questo sito potrebbe essere un rischio per la sicurezza</string>
     <string name="all">Tutto</string>
     <string name="allow">Consenti</string>
     <string name="allow_current">Consenti una volta</string>
+    <string name="app_cache">Cache</string>
     <string name="app_id">Id App Firebase (Clicca Per Esportare)</string>
     <string name="app_library_category_entertainment">Intrattenimento</string>
     <string name="app_library_category_games">Giochi</string>
@@ -263,6 +267,7 @@ Disattiva per fermare la sincronizzazione."</string>
     <string name="branch_shortcuts">Scorciatoie</string>
     <string name="branch_show_more">Altro</string>
     <string name="branch_terms_condition">Termini e condizioni</string>
+    <string name="branch_trending_youtube_news">YouTube</string>
     <string name="browser">Browser Mi</string>
     <string name="browserFrameFileErrorLabel">Errore nel file</string>
     <string name="browserFrameFormResubmitMessage">"La pagina che stai cercando di visualizzare contiene dati che sono già stati inviati. Se si inviano di nuovo i dati, le azioni precedenti (ad esempio ricerche o acquisti) verranno ripetute."</string>
@@ -390,6 +395,7 @@ Disattiva per fermare la sincronizzazione."</string>
     <string name="choose_to_signin">Sì</string>
     <string name="choose_to_signup">"No, ne creerò uno"</string>
     <string name="choosertitle_sharevia">Condividi con</string>
+    <string name="clear">Cancella</string>
     <string name="clear_history">Cancella cronologia</string>
     <string name="clear_most_visited">Cronologia recente</string>
     <string name="clear_search_history">Cancella cronologia</string>
@@ -397,6 +403,7 @@ Disattiva per fermare la sincronizzazione."</string>
     <string name="clear_transfer_title">Cancella flag di trasferimento</string>
     <string name="clearable_edittext_clear_description">Cancella</string>
     <string name="click_always">Tocca \"Sempre\"</string>
+    <string name="click_clean">Cancella</string>
     <string name="click_to_refresh">Ti eri fermato qui l\'ultima volta, tocca per aggiornare</string>
     <string name="clip_dialog_title">Aprire l\'URL copiato?</string>
     <string name="close">Chiudi</string>
@@ -806,6 +813,8 @@ Invia questo codice al supervisore."</string>
     <string name="fcm_fallback_notification_channel_label">Altre</string>
     <string name="feed_content_protection">Protezione contenuti</string>
     <string name="feedback">Segnalazione</string>
+    <string name="feedback_bad">No</string>
+    <string name="feedback_good">Sì</string>
     <string name="feedback_info_app_package_name">"Nome pacchetto: "</string>
     <string name="feedback_info_app_version">"Versione dell'app: "</string>
     <string name="feedback_info_language">"Lingua: "</string>
@@ -814,6 +823,7 @@ Invia questo codice al supervisore."</string>
     <string name="feedback_info_system">"Sistema: "</string>
     <string name="feedback_info_system_version">"Versione di sistema: "</string>
     <string name="feedback_send_email_body_extra_info">"Non eliminare le seguenti informazioni. Ci aiuterà a individuare il problema."</string>
+    <string name="feedback_thank_you">Grazie per la segnalazione!</string>
     <string name="fetch_video">Elaborazione video…</string>
     <string name="fetch_video_fail">"Impossibile ottenere dati"</string>
     <string name="fetch_video_ssl_bad_clock">"Sembra che data e ora impostata sul tuo dispositivo (%s) non siano corrette. Regola le impostazioni e riprova."</string>
@@ -898,16 +908,13 @@ Invia questo codice al supervisore."</string>
     <string name="gaid">GAID(Clicca Per Esportare)</string>
     <string name="game_center_recommend_play">Riproduci</string>
     <string name="game_center_recommend_title">Consigliato per te</string>
-    <string name="game_exit_when_press_back_again">Tocca nuovamente per uscire</string>
-    <string name="game_loading_stage_loadPackage_download_plugin_fail">"Impossibile scaricare il plug-in"</string>
-    <string name="game_loading_stage_loadPackage_download_plugin_installing">Download plug-in…</string>
-    <string name="game_loading_stage_loadPackage_install_plugin_fail">"Impossibile installare il plugin"</string>
-    <string name="game_loading_stage_load_core_feature_continue">Continua</string>
-    <string name="game_loading_stage_load_core_feature_exit">Indietro</string>
     <string name="game_news_flow_download_bar_download">Scarica</string>
     <string name="game_news_flow_download_bar_play">Riproduci</string>
     <string name="game_play">Riproduci</string>
     <string name="game_played">Recenti</string>
+    <string name="garbage_cleaning">Pulitore</string>
+    <string name="garbage_details">Dettagli</string>
+    <string name="garbage_file">Cestino</string>
     <string name="gcm_fallback_notification_channel_label">Altre</string>
     <string name="general__end_page_book_complete">Terminato</string>
     <string name="general__end_page_exchange">Aggiorna</string>
@@ -1004,6 +1011,7 @@ Invia questo codice al supervisore."</string>
     <string name="home_list_item_click">Clic voce elenco Home</string>
     <string name="home_nf">Feed del contenuto</string>
     <string name="home_nf_recommend_on">Consigliato per te</string>
+    <string name="homepage_default">Predefinita</string>
     <string name="homepage_delete_card_menu">Elimina</string>
     <string name="homepage_get_location">Ottieni la posizione</string>
     <string name="homepage_get_location_failed">"Impossibile ottenere le informazioni, scegli una città"</string>
@@ -1037,6 +1045,7 @@ Invia questo codice al supervisore."</string>
     <string name="input_new_pwd">Inserisci una nuova password</string>
     <string name="ins_login_tips">Accedi per scaricare i video da Instagram</string>
     <string name="ins_register_btn">Crea un account tramite email o numero di telefono</string>
+    <string name="installation_package">APK</string>
     <string name="instance_id">Id Istanza Firebase (Clicca Per Esportare)</string>
     <string name="intercept_panel_headline">Protezione privacy</string>
     <string name="intercept_panel_item_action_camera">Sta usando la fotocamera</string>
@@ -1112,6 +1121,7 @@ Invia questo codice al supervisore."</string>
     <string name="media_error_video_not_exist">"Video inesistente"</string>
     <string name="memory_clear_nothing_result">Niente da cancellare nella cache</string>
     <string name="memory_clear_result">%1$s eliminato</string>
+    <string name="memory_usage">Memoria</string>
     <string name="menu_addtodesk">Aggiungi alla schermata Home</string>
     <string name="menu_exit_nightmode">Esci</string>
     <string name="menu_hv_swap">Schermo O/V</string>
@@ -1401,11 +1411,6 @@ Abbandonare questa pagina?"</string>
     <string name="mw_miuichromium_error_page_suggestion_title">Prova questo:</string>
     <string name="mw_miuichromium_error_page_title">Si è verificato un errore</string>
     <string name="mw_miuichromium_error_page_unknown_error">Oops, qualcosa è andato storto</string>
-    <string name="mw_miuichromium_error_page_vpn_suggestion_btn_text">Prova a usare la VPN</string>
-    <string name="mw_miuichromium_error_page_vpn_suggestion_des_1">Server illimitati</string>
-    <string name="mw_miuichromium_error_page_vpn_suggestion_des_2">Nessun tracciamento</string>
-    <string name="mw_miuichromium_error_page_vpn_suggestion_des_3">Senza limiti di velocità</string>
-    <string name="mw_miuichromium_error_page_vpn_suggestion_img_text">Prova a utilizzare la VPN</string>
     <string name="mw_miuichromium_error_page_wlan">Attiva il Wi-Fi</string>
     <string name="mw_month_picker_dialog_title">Imposta il mese</string>
     <string name="mw_no_matches">Nessuna corrispondenza</string>
@@ -1678,6 +1683,9 @@ Abbandonare questa pagina?"</string>
     <string name="permission_unknown">Si è verificato un errore.</string>
     <string name="permission_use">Permessi</string>
     <string name="permisssion_not_ask_again">"Non chiedermelo più"</string>
+    <string name="person_menu_cleaner">Pulitore</string>
+    <string name="person_menu_cleaner_button">Pulisci</string>
+    <string name="person_menu_download">File</string>
     <string name="personal__bonus_action_charge">Ricarica</string>
     <string name="personal__bonus_related_rules">Regolamento</string>
     <string name="personal__bonus_transactions">Transazioni</string>
@@ -1745,6 +1753,7 @@ Abbandonare questa pagina?"</string>
     <string name="phone_hint">Numero di telefono</string>
     <string name="phone_num_use_for">Il numero di telefono viene utilizzato per:</string>
     <string name="phone_number">Numero di telefono</string>
+    <string name="phone_very_clean">Nessun file da rimuovere, prova con la Pulizia approfondita</string>
     <string name="photoPickerNotFoundText">Nessuna foto disponibile.</string>
     <string name="pick_file">Seleziona file</string>
     <string name="ping_test_title">Ritardo di rete</string>
@@ -1978,9 +1987,15 @@ Alcuni siti non utilizzeranno la tua cronologia di navigazione precedente per pe
     <string name="quicklinks_most_visited_title">Aggiungi alla pagina iniziale</string>
     <string name="reading__add_note_view__alert_no">annulla</string>
     <string name="reading__auto_pagedown_menu_view__close">chiudi</string>
+    <string name="reading__cancel">Annulla</string>
     <string name="reading__feedback_dialog_btn_cancel">Annulla</string>
     <string name="reading__feedback_dialog_btn_submit">Invia</string>
+    <string name="reading__menu_play">Presentazione</string>
+    <string name="reading__menu_rotate_screen">Ruotare</string>
+    <string name="reading__menu_search">Cerca</string>
+    <string name="reading__menu_share">Condividi</string>
     <string name="reading__reading_feedback_dialog_email_hint">Inserisci il tuo indirizzo email</string>
+    <string name="reading__reading_last_page">Questa è l\'ultima pagina</string>
     <string name="reading__reading_menu_view__daytime">Giorno</string>
     <string name="reading__reading_menu_view__default_font">Carattere predefinito</string>
     <string name="reading__reading_menu_view__more">altro</string>
@@ -1995,6 +2010,10 @@ Alcuni siti non utilizzeranno la tua cronologia di navigazione precedente per pe
     <string name="reading__reading_reward_abandon">Esci</string>
     <string name="reading__reading_reward_continue_reading">Continua</string>
     <string name="reading__reading_settings_more_fonts">Altri caratteri</string>
+    <string name="reading__search_cancel">Annulla</string>
+    <string name="reading__search_input_hint">Inserisci le parole chiave da cercare</string>
+    <string name="reading__search_result_nothing">"Impossibile trovare risultati"</string>
+    <string name="reading__search_searching">Ricerca…</string>
     <string name="reading__selection_bar_view__copy">Copia</string>
     <string name="reading__selection_bar_view__delete">elimina</string>
     <string name="reading__settings_dlg_label_more_options">Altro</string>
@@ -2017,7 +2036,7 @@ Alcuni siti non utilizzeranno la tua cronologia di navigazione precedente per pe
     <string name="reading__shared__collapse">Riduci</string>
     <string name="reading__shared__expand">Menu a tendina Opzioni Avanzate. Tocca due volte per espandere.</string>
     <string name="reading__shared__page_loading">Attendi…</string>
-    <string name="reading__shared__page_num_with_total_pages">%1$d di %2$d</string>
+    <string name="reading__shared__page_num_with_total_pages">%1$d/%2$d</string>
     <string name="reading__shared__quit_recommend">Consigliato per te</string>
     <string name="reading__shared__quit_recommend_no">Esci</string>
     <string name="reading__shared__quit_recommend_ok">Leggi</string>
@@ -2327,6 +2346,7 @@ Alcuni siti non utilizzeranno la tua cronologia di navigazione precedente per pe
     <string name="subscribe_success">Iscritto correttamente</string>
     <string name="subscription_status_error">"Impossibile iscriversi"</string>
     <string name="subscriptions_title">Gestisci il tuo abbonamento</string>
+    <string name="successfully_added">Aggiunto con successo</string>
     <string name="suggest_access_appstore">Mi App Store</string>
     <string name="suggest_access_btn_install">Installa</string>
     <string name="suggest_access_btn_open">Apri</string>
@@ -2370,6 +2390,7 @@ Alcuni siti non utilizzeranno la tua cronologia di navigazione precedente per pe
     <string name="tab_videos">Video</string>
     <string name="tab_yellowpage">Collegamenti</string>
     <string name="tabs_description">Schede</string>
+    <string name="tag_undo">Annulla</string>
     <string name="talk_back_voice_search">Ricerca vocale</string>
     <string name="temporary_not_available">"Questa funzione non è ancora disponibile"</string>
     <string name="terms_policy">Termini e condizioni</string>
@@ -2456,6 +2477,7 @@ Alcuni siti non utilizzeranno la tua cronologia di navigazione precedente per pe
     <string name="type_not_support">"Questo formato non è supportato. Scompatta questo file e riprova."</string>
     <string name="unSwitchText">NO</string>
     <string name="undo">Annulla</string>
+    <string name="unload_residue">Residui</string>
     <string name="unsecurity_url_toast">"Questo sito web non è sicuro"</string>
     <string name="up_to_loading_tips">Rilascia per aggiornare</string>
     <string name="update">Aggiorna</string>
@@ -2529,6 +2551,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_retry_btn">Riprova</string>
     <string name="video_view_more">Altro</string>
     <string name="view_certificate">Visualizza certificato</string>
+    <string name="view_details">Vedi dettagli</string>
     <string name="view_document_downloaded_files">Accedi ai file scaricati su Download</string>
     <string name="voice_check_network">Verifica le tue impostazioni di rete e riprova.</string>
     <string name="voice_connect_network">"Impossibile connettersi alla rete."</string>
@@ -2599,6 +2622,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_permission_setting_page_permission_title">Protezione privacy</string>
     <string name="web_permission_setting_page_privcay_subtitle">Maschera privacy</string>
     <string name="web_video_accelerate">Velocità</string>
+    <string name="web_video_default_time">00:00</string>
     <string name="web_video_download">Scarica</string>
     <string name="web_video_download_no_access">Permessi richiesti per scaricare elementi</string>
     <string name="web_video_list_more">Altro</string>
