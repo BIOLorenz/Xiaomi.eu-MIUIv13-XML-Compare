@@ -1437,8 +1437,6 @@ Non ti sei mai connesso a %2$s prima."</string>
     <string name="bluetooth_enable_opp_high_speed_dialog_positive">Riavvia adesso</string>
     <string name="bluetooth_enable_opp_high_speed_dialog_title">Riavvia il Bluetooth</string>
     <string name="bluetooth_enable_opp_high_speed_summary">Usa protocolli P2P Bluetooth ad alta velocità per i trasferimenti</string>
-    <string name="bluetooth_enable_page_scan">abilita scansione pagina bluetooth</string>
-    <string name="bluetooth_enable_page_scan_summary">disabilita/abilita scansione pagina per test Bluetooth</string>
     <string name="bluetooth_enable_pts_test">abilita test PTS bluetooth</string>
     <string name="bluetooth_enable_pts_test_summary">disattiva/attiva PTS per il test Bluetooth</string>
     <string name="bluetooth_enter_passkey_msg">Digita il codice associazione e premi Invio</string>
@@ -2404,8 +2402,6 @@ Scorri verso il basso dalla parte superiore dello schermo per aprire la barra a 
     <string name="copyable_slice_toast">%1$s copiato negli appunti.</string>
     <string name="copyright">Copyright</string>
     <string name="copyright_title">Copyright</string>
-    <string name="corner_assistant_gesture_summary">Scorri verso l\'alto dall\'angolo in basso a sinistra o in basso a destra per attivare Google Assistant</string>
-    <string name="corner_assistant_gesture_title">Scorri verso l\'alto dall\'angolo per attivare Google Assistant</string>
     <string name="country_name">%s (sistema)</string>
     <string name="create">Crea</string>
     <string name="creating_new_user_dialog_message">Creazione nuovo utente…</string>
@@ -3988,7 +3984,6 @@ Quando si accende il backup automatico, i dati del dispositivo e dell'app vengon
     <string name="gxzw_quick_open_slow_summary">Tieni premuta l\'icona dell\'impronta digitale per aprire il menu rapido. Scorri per usare una scorciatoia.</string>
     <string name="gxzw_quick_open_slow_title">Premi e tieni premuto</string>
     <string name="gxzw_quick_open_title">Scorciatoie</string>
-    <string name="gxzw_vibrate_summary">Vibra mentre viene riprodotta l\'animazione di sblocco impronta digitale</string>
     <string name="gxzw_vibrate_title">Vibra durante lo sblocco</string>
     <string name="handy_mode">Mod. una mano</string>
     <string name="handy_mode_enable">Mod. una mano</string>
@@ -4331,7 +4326,7 @@ Apri Xiaomi Cloud e ripristina gli elementi da lì."</string>
     <string name="kddi_nfc_secure_settings_title">Blocca sulla schermata di blocco</string>
     <string name="kddi_nfc_secure_toggle_summary">Mantieni attivo NFC/Osaifu-keitai solo quando il dispositivo è sbloccato</string>
     <string name="keep_legacy_fingerprint">Mantieni</string>
-    <string name="keep_screen_on">"Lascia attivo"</string>
+    <string name="keep_screen_on">Mantieni schermo attivo</string>
     <string name="keep_screen_on_after_folding_title">Mantieni lo schermo acceso dopo la chiusura</string>
     <string name="keep_screen_on_summary">"Lo schermo non si spegnerà mentre il dispositivo é in carica"</string>
     <string name="kernel_version">Versione kernel</string>
@@ -4556,6 +4551,9 @@ Apri Xiaomi Cloud e ripristina gli elementi da lì."</string>
     <string name="last_synced">Ultima sincronizzazione: %1$s</string>
     <string name="last_time_used_label">Ultimo utilizzo</string>
     <string name="lattice_smartcover_title">Copertura frontale in lattice</string>
+    <string name="launch_accessibility_environmental_speech_recognition">Riconoscimento del suono ambientale</string>
+    <string name="launch_accessibility_hear_sound">Mi Ditto</string>
+    <string name="launch_accessibility_voice_control">Controlli vocali</string>
     <string name="launch_ai_shortcut">Collegamento Mi IA</string>
     <string name="launch_alipay_health_code">Codice sanitario Alipay</string>
     <string name="launch_alipay_health_code_auto_close">Il collegamento del codice sanitario Alipay non è più disponibile. Puoi passare a un diverso collegamento.</string>
@@ -4788,6 +4786,7 @@ Apri Xiaomi Cloud e ripristina gli elementi da lì."</string>
     <string name="lock_screen_notifs_show_all">Mostra notifiche silenziose e di avviso</string>
     <string name="lock_screen_notifs_show_none">Non mostrare notifiche</string>
     <string name="lock_screen_notifs_title">Quando il dispositivo è bloccato</string>
+    <string name="lock_screen_now">Schemata di blocco</string>
     <string name="lock_screen_password_skip_biometrics_message">"È necessaria una password per configurare lo sblocco con il volto e con l'impronta.
 
 La password protegge il telefono se viene smarrito o rubato."</string>
@@ -5299,6 +5298,7 @@ Ci sono altri utenti presenti su questo dispositivo.
     <string name="miheadset_ancMild">Leggero</string>
     <string name="miheadset_anc_indicate">Collega e associa gli auricolari</string>
     <string name="miheadset_anc_manual">Manuale</string>
+    <string name="miheadset_atuo_download_title">Scarica automaticamente</string>
     <string name="miheadset_audio_mode">Qualità audio</string>
     <string name="miheadset_audio_mode_high">Alta</string>
     <string name="miheadset_audio_mode_listen">Bassa</string>
@@ -5310,6 +5310,7 @@ Ci sono altri utenti presenti su questo dispositivo.
     <string name="miheadset_auto_ack_mode">"Rispondi automaticamente alle chiamate quando indossi gli auricolari"</string>
     <string name="miheadset_auto_ack_mode_summary">Rispondi automaticamente alle chiamate</string>
     <string name="miheadset_auto_answer_call">Rispondi automaticamente alle chiamate</string>
+    <string name="miheadset_automatic">Auto</string>
     <string name="miheadset_bluetooth_audio_title">Frequenza di campionamento audio Bluetooth LC3plus</string>
     <string name="miheadset_bright">Luminoso</string>
     <string name="miheadset_call_assist">Mi IA</string>
@@ -5392,6 +5393,7 @@ Ci sono altri utenti presenti su questo dispositivo.
     <string name="miheadset_local_ota">Aggiorna</string>
     <string name="miheadset_low_latency">Bassa latenza</string>
     <string name="miheadset_manual">Info dispositivo</string>
+    <string name="miheadset_manual_operation">Manuale</string>
     <string name="miheadset_minus">Volume -</string>
     <string name="miheadset_moreSettingsInAi">Altre impostazioni</string>
     <string name="miheadset_multi_connect_mode">Connsessione multipla</string>
@@ -8328,7 +8330,6 @@ Ritirare ora il consenso a %s?"</string>
     <string name="sound_dashboard_summary">Volume, vibrazione, Non Disturbare</string>
     <string name="sound_effects_enable_title">Suoni alla pressione</string>
     <string name="sound_haptic_settings">Suoni e Vibrazione</string>
-    <string name="sound_mode">Mod. silenziosa</string>
     <string name="sound_settings">Suono</string>
     <string name="sound_settings_example_summary">Volume suoneria all\'80%</string>
     <string name="sound_settings_summary">Volume suoneria al %1$s</string>
