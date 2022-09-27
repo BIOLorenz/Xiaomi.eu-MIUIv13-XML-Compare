@@ -313,6 +313,7 @@
     <string name="continue_play">Riprendi</string>
     <string name="controller_bar_edit">Modifica</string>
     <string name="copy">Copia</string>
+    <string name="copy_toast_msg">Link copiato negli appunti</string>
     <string name="data_empty">Nessun elemento trovato</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
@@ -469,6 +470,9 @@ Invia questo codice al supervisore."</string>
     <string name="failed_dup_secure_phone_number">Questo numero di telefono è già associato ad un altro MI account</string>
     <string name="failed_to_fetch_data">"Impossibile caricare informazioni."</string>
     <string name="failure">"Impossibile scaricare"</string>
+    <string name="fallback_menu_item_copy_link">Copia link</string>
+    <string name="fallback_menu_item_open_in_browser">Apri nel browser</string>
+    <string name="fallback_menu_item_share_link">Condividi link</string>
     <string name="favor_movie">Film</string>
     <string name="favor_online_video">Video</string>
     <string name="favor_playlist">Playlist</string>
@@ -738,6 +742,7 @@ Questa operazione non influenzerà le foto della galleria."</string>
     <string name="incentive_view_details">Dettagli</string>
     <string name="inconsistent_pwd">"Le password non corrispondono"</string>
     <string name="init_channels">Ripristina predefinite</string>
+    <string name="inline_auto_play_to_set">Impostazioni</string>
     <string name="input_email_address_notice">"Useremo questa email per verificare il tuo account"</string>
     <string name="input_new_pwd">Inserisci una nuova password</string>
     <string name="input_size_tips_new">Puoi inserire fino a %d caratteri</string>
@@ -766,6 +771,7 @@ per i video"</string>
     <string name="library_roundedimageview_libraryDescription">Una vista veloce (e disegnabile) che supporta angoli arrotondati (e ovali o cerchi) in base all\'esempio originale di Romain Guy.</string>
     <string name="live_now">In diretta ora</string>
     <string name="live_title">Live</string>
+    <string name="live_tv_dialog_subscirbe_button">Iscriviti</string>
     <string name="live_tv_title">Live</string>
     <string name="loading">Attendi…</string>
     <string name="local_diversion_close_recommend">Chiudi</string>
@@ -836,6 +842,7 @@ per i video"</string>
     <string name="lp_video_zoom_title">Zoom</string>
     <string name="lv_advance_sound">Attiva miglioramento audio</string>
     <string name="lv_airkan_control_device_des">Per controllare la riproduzione, tocca la barra in basso.</string>
+    <string name="lv_airkan_device_my_device">Il mio dispositivo</string>
     <string name="lv_airkan_device_xiaomi_phone">Il mio Telefono Mi</string>
     <string name="lv_airkan_playing">Proiezione su %s</string>
     <string name="lv_airkan_tips">Tocca per proiettare</string>
@@ -914,10 +921,8 @@ per i video"</string>
     <string name="lv_subtitle_no_subtitle">"Sottotitoli non disponibili"</string>
     <string name="lv_subtitle_non_subtitle_file">Nessun file di sottotitoli disponibile</string>
     <string name="lv_subtitle_offset_add_1s_new">+%ds</string>
-    <string name="lv_subtitle_offset_add_dot5s_new">+%fs</string>
     <string name="lv_subtitle_offset_normal">"Non spostare i sottotitoli"</string>
     <string name="lv_subtitle_offset_sub_1s_new">-%ds</string>
-    <string name="lv_subtitle_offset_sub_dot5s_new">-%fs</string>
     <string name="lv_subtitle_onlinesub_language">Lingua: %s</string>
     <string name="lv_subtitle_onlinesub_loading">Caricamento dei sottotitoli…</string>
     <string name="lv_subtitle_onlinesub_loading_wait">Caricamento dei sottotitoli…</string>
@@ -1070,10 +1075,10 @@ per i video"</string>
     <string name="month_september_shortest">Set</string>
     <string name="more">Altro</string>
     <string name="morning">Mattina</string>
-    <string name="mr_button_content_description">Pulsante Proietta</string>
-    <string name="mr_cast_button_connected">Pulsante Proietta. Connesso</string>
-    <string name="mr_cast_button_connecting">Pulsante Proietta. Connessione...</string>
-    <string name="mr_cast_button_disconnected">Pulsante Proietta. Disconnesso</string>
+    <string name="mr_button_content_description">Pulsante Trasmetti</string>
+    <string name="mr_cast_button_connected">Pulsante Trasmetti. Connesso</string>
+    <string name="mr_cast_button_connecting">Pulsante Trasmetti. Connessione in corso</string>
+    <string name="mr_cast_button_disconnected">Pulsante Trasmetti. Disconnesso</string>
     <string name="mr_cast_dialog_title_view_placeholder">Nessuna info disponibile</string>
     <string name="mr_chooser_searching">Ricerca dispositivi</string>
     <string name="mr_chooser_title">Proietta su</string>
@@ -1090,8 +1095,9 @@ per i video"</string>
     <string name="mr_controller_stop">Interrompi</string>
     <string name="mr_controller_stop_casting">Ferma proiezione</string>
     <string name="mr_controller_volume_slider">Barra del volume</string>
-    <string name="mr_dialog_device_header">Proietta su un dispositivo</string>
-    <string name="mr_dialog_route_header">Riproduci in un gruppo</string>
+    <string name="mr_dialog_default_group_name">Gruppo</string>
+    <string name="mr_dialog_groupable_header">Aggiungi un dispositivo</string>
+    <string name="mr_dialog_transferable_header">Riproduci su un gruppo</string>
     <string name="mr_system_route_name">Sistema</string>
     <string name="mr_user_route_category_name">Dispositivi</string>
     <string name="mtrl_badge_numberless_content_description">Nuova notifica</string>
@@ -1643,6 +1649,8 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="sending">Invio in corso...</string>
     <string name="service_error">Errore Server</string>
     <string name="set_success">Modificato correttamente</string>
+    <string name="settings_inline_auto_play_tip_open">Attivata</string>
+    <string name="settings_inline_auto_play_title">Riproduzione automatica</string>
     <string name="settings_manager_hidden_folder">Gestisci video nascosti</string>
     <string name="share">Condividi</string>
     <string name="share_fail">"Impossibile condividere. Controlla le impostazioni di rete e riprova."</string>
