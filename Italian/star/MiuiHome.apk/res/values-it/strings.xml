@@ -83,6 +83,7 @@
     <string name="all_apps_setting_drawer_tips_desc">L\'app drawer si apre scorrendo verso l\'alto nella schermata Home. Attivare l\'app drawer rimuoverà la ricerca. Cambiare comunque?</string>
     <string name="all_apps_setting_drawer_tips_title">Utilizzare l\'app drawer</string>
     <string name="all_apps_setting_drawer_title">Con app drawer</string>
+    <string name="all_apps_setting_jeejen_title">Mod. semplificata</string>
     <string name="all_apps_setting_letter_scrollbar">A-Z</string>
     <string name="all_apps_setting_original_scrollbar">Layout originale</string>
     <string name="all_apps_setting_scroll_bar">Barra di scorrimento</string>
@@ -641,6 +642,7 @@
     <string name="midnight">Notte</string>
     <string name="minus_one_screen">Assistente App</string>
     <string name="miui_screen_config_title">Impostazioni Home</string>
+    <string name="miui_widget_menu_replace_text">Cambia</string>
     <string name="miuix_access_state_desc">Selezionato</string>
     <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
@@ -828,6 +830,9 @@
     <string name="open_personal_assistant_dialog_desc_international">"Non sarai più in grado di utilizzare le schede dell'Assistente (Azioni, scorciatoie, ecc.) e ricevere aggiornamenti, dopo aver disattivato questa funzionalità."</string>
     <string name="open_personal_assistant_dialog_title">Disattiva Assistente</string>
     <string name="open_personal_assistant_settings">Impostazioni Assistente App</string>
+    <string name="open_personal_assistant_settings_off">Spenta</string>
+    <string name="open_personal_assistant_settings_on">Attivata</string>
+    <string name="open_personal_assistant_settings_simplified">Assistente App</string>
     <string name="open_personal_assistant_title">Assistente App</string>
     <string name="open_personal_assistant_title_synonyms">Apri assistente personale</string>
     <string name="ota_layout_adjustment_button_text">Ok</string>
