@@ -339,6 +339,8 @@ Selection"</string>
     <string name="bt_hci_snoop_log_summary">Capture Bluetooth packets. (Toggle Bluetooth after changing this setting)</string>
     <string name="bugreport_in_power">Bug report shortcut</string>
     <string name="bugreport_in_power_summary">Show a button in the power menu for taking a bug report</string>
+    <string name="business_hall_settings_summary">Control your calls and data usage</string>
+    <string name="business_hall_settings_title">Carrier plan settings</string>
     <string name="button_convert_fbe">Wipe and convert…</string>
     <string name="cache_db_name">app_icons.db</string>
     <string name="cached_apps_freezer_device_default">Device default</string>
@@ -362,7 +364,7 @@ Selection"</string>
     <string name="callFailed_cdma_activation">"A SIM card has activated your service and updated your phone's roaming capabilities."</string>
     <string name="callFailed_cdma_call_limit">There are too many active calls. Please end or merge existing calls before placing a new one.</string>
     <string name="callFailed_channel_unacceptable">Channel unacceptable</string>
-    <string name="callFailed_concurrent_calls_not_possible">Call ended due to concurrent calls not possible.</string>
+    <string name="callFailed_concurrent_calls_not_possible">"Ended call. Concurrent calls aren't supported."</string>
     <string name="callFailed_conditional_IE_error">Conditional IE error</string>
     <string name="callFailed_congestion">Network busy</string>
     <string name="callFailed_data_disabled">Call ended because cellular data was disabled.</string>
@@ -825,6 +827,7 @@ Selection"</string>
     <string name="data_enable_warning">Allowing to always use mobile data may generate additional charges outside of your carrier plan. Connect anyway?</string>
     <string name="data_enabled">Mobile data</string>
     <string name="data_interruption_remind">"Looks like your network environment isn't reliable. To improve connection, allow your device to use mobile data during VoLTE calls on the secondary SIM."</string>
+    <string name="data_interruption_remind_for_t">"Looks like your network environment isn't reliable. To improve connection, allow your device to use mobile data during VoLTE calls on the secondary SIM."</string>
     <string name="data_plan">Mobile data plans</string>
     <string name="data_usage_disable_mobile">Turn off mobile data?</string>
     <string name="data_usage_ota">System updates</string>
@@ -857,13 +860,16 @@ Selection"</string>
     <string name="debug_networking_category">Networking</string>
     <string name="debug_view_attributes">Enable view attribute inspection</string>
     <string name="default_carrier_mmi_msg_title">Carrier Message</string>
+    <string name="default_data_title">Data</string>
     <string name="default_notification_description">Default sound (%1$s)</string>
     <string name="default_port">5060</string>
     <string name="default_preference_summary">@string/default_preference_summary_username</string>
     <string name="default_preference_summary_domain_address">&lt;Not set></string>
     <string name="default_preference_summary_password">&lt;Not set></string>
     <string name="default_preference_summary_username">&lt;Not set></string>
+    <string name="default_sim_setting">Default SIM cards</string>
     <string name="default_transport">UDP</string>
+    <string name="default_voice_title">Calls</string>
     <string name="delete">Delete</string>
     <string name="delete_blob_confirmation_text">Are you sure you want to delete this shared data?</string>
     <string name="delete_blob_text">Delete shared data</string>
@@ -1117,6 +1123,8 @@ Activate eSIM anyway?"</string>
     <string name="esim_inactive_notification_message_global">No SIM card detected. Tap to activate eSIM.</string>
     <string name="esim_inactive_notification_title_global">Dual SIM &amp; mobile networks</string>
     <string name="esim_inactive_settings_title">Dual SIM &amp; mobile networks</string>
+    <string name="esim_is_activating_notification_channel_for_o2">eSimIsActivatingNotificationForO2</string>
+    <string name="esim_is_activating_notification_message_for_o2">Activating mobile plan…</string>
     <string name="esim_setting_title">eSIM settings</string>
     <string name="evening">Afternoon</string>
     <string name="exception_error">Network or SIM card error.</string>
@@ -1308,6 +1316,7 @@ Switch to the new provider anyway?"</string>
     <string name="help_feedback_label">Help &amp; feedback</string>
     <string name="help_label">Help &amp; feedback</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="hide_stk_name">USIM toolkit</string>
     <string name="home">Settings Home</string>
     <string name="icon_content_description">Dialog Icon</string>
     <string name="ime_security_warning">This input method may be able to collect all the text you type, including personal data like passwords and credit card numbers. It comes from the app %1$s. Use this input method?</string>
@@ -1851,6 +1860,8 @@ Please contact your operators"</string>
     <string name="no_vm_number">Missing voicemail number</string>
     <string name="no_vm_number_msg">No voicemail number is stored on the SIM card.</string>
     <string name="no_voip">"SIP calling isn't supported"</string>
+    <string name="no_volte_call_service_notification_content2_for_cbn">"Can't make calls. HD voice service isn't registered for SIM %d (China Broadnet)."</string>
+    <string name="no_volte_call_service_notification_content_for_cbn">"Can't make calls. HD voice service isn't registered for China Broadnet SIM."</string>
     <string name="no_wifi_available">You need to be connected to a Wi-Fi network for SIP calls (use the Wireless &amp; Network settings).</string>
     <string name="noon">Midday</string>
     <string name="not_a_valid_port">Port number should be within %1$d and %2$d.</string>
@@ -2083,6 +2094,9 @@ Your phone will be locked automatically after another failed attempt"</string>
     <string name="power_remaining_only_more_than_subtext">More than %1$s left</string>
     <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_suggestion_battery_run_out">Battery may run out by %1$s</string>
+    <string name="pref_sim_entries_item1">SIM 1</string>
+    <string name="pref_sim_entries_item2">SIM 2</string>
+    <string name="pref_sim_item_no_default">No Default</string>
     <string name="prefered_network_type_3g_promp">You should turn off VoLTE before seleсting 3G as your preferred network type. Turn off now?</string>
     <string name="preference_auto_ip_summary_disable">Off</string>
     <string name="preference_category_ringtone">Ringtone &amp; Vibrate</string>
@@ -2515,6 +2529,7 @@ UT Interface: %5$s"</string>
     <string name="sim_nrca_title">SIM %1$s (%2$s)</string>
     <string name="sim_roaming_settings_summary">Connect to mobile data networks while roaming</string>
     <string name="sim_roaming_settings_title">Mi Roaming</string>
+    <string name="sim_select_dialog_title">Select SIM card</string>
     <string name="sim_selection_required_pref">Selection required</string>
     <string name="sim_service_setting">Mi SIM &amp; Mi Roaming</string>
     <string name="simmelock_name">SIM ME Lock</string>
@@ -2583,6 +2598,13 @@ Please confirm your default calling account setting."</string>
     <string name="smart_forwarding_settings_menu">Smart Forwarding</string>
     <string name="smart_forwarding_settings_menu_summary">"When one number isn't reachable, always forward calls to your other number"</string>
     <string name="smart_multinetwork_acceleration_title">Smart network acceleration</string>
+    <string name="smart_switch_dual_sim_diag_cancel">Cancel</string>
+    <string name="smart_switch_dual_sim_diag_message">"Looks like your current data SIM doesn't provide a stable network connection. Switching between data SIM cards automatically might improve connection quality. You can turn this feature on in Settings."</string>
+    <string name="smart_switch_dual_sim_diag_ok">Settings</string>
+    <string name="smart_switch_dual_sim_diag_title">Attention</string>
+    <string name="smart_switch_dual_sim_prompt">Connecting to mobile data network using SIM %1$s may generate additional data fees. Set a data usage limit to avoid additional fees.</string>
+    <string name="smart_switch_dual_sim_summary">Switch between data SIM cards automatically based on network connection quality and device status</string>
+    <string name="smart_switch_dual_sim_title">Switch between data SIM cards</string>
     <string name="sms_messages_title">SMS</string>
     <string name="smsc_dialog_message">"Make sure the number you enter is correct. Otherwise, you won't be able to send or receive SMS. Contact your carrier to confirm your SMSC number."</string>
     <string name="solar_term_autumn_begins">Autumn begins</string>
@@ -3218,6 +3240,7 @@ Credential storage might not enable"</string>
     <string name="wrong_password">The password you entered is incorrect</string>
     <string name="xcap_setting_summary">Call barring, Voicemail &amp; call forwarding, and Call waiting</string>
     <string name="xcap_setting_title">Call service settings</string>
+    <string name="xiaoai_assistant_setting_title">Mi AI Call Assistant</string>
     <string name="yesterday">Yesterday</string>
     <string name="zen_alarm_warning">"You won't hear your next alarm %1$s"</string>
     <string name="zen_alarm_warning_indef">"You won't hear your next alarm %1$s unless you turn this off before then"</string>

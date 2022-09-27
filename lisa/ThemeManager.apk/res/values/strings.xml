@@ -70,6 +70,7 @@
     <string name="already_latest_version">Up to date</string>
     <string name="already_newest_version">Current version is up to date</string>
     <string name="am">AM</string>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="anonymous_resource_link_error">"Couldn't add"</string>
     <string name="anonymous_resource_link_hint">"Some items aren't added to your account. Add now?"</string>
     <string name="anonymous_resource_link_now">Add</string>
@@ -93,6 +94,7 @@
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="application_list_permission_desc">For showing apps compatible with transparent wallpapers</string>
     <string name="application_notify_title">Attention</string>
+    <string name="apply_4k_video_wallpaper_warning">"4K and 8K videos can't be used as video wallpapers."</string>
     <string name="apply_choosen_type_resource">Apply selected items</string>
     <string name="apply_default_font_tip">"Keep using system's current font?"</string>
     <string name="apply_failed">"Couldn't apply"</string>
@@ -102,10 +104,14 @@
     <string name="apply_not_support_aod">"Always-on display isn't supported on this device"</string>
     <string name="apply_not_support_in_second_space">"Can't apply this item in Second space"</string>
     <string name="apply_not_support_maml_aod">"Can't combine Always-on display with themes on this device"</string>
+    <string name="apply_sensor_video_wallpaper_dialog_message">This wallpaper will be applied to the inner and outer Lock screens and Home screens.</string>
     <string name="apply_succeed">Applied successfully</string>
     <string name="apply_success_not_enable_aod">Turn on Always-on display in the Settings first</string>
     <string name="apply_success_not_support_aod">"Can't combine Always-on display with themes on this device. The rest of this theme's components were applied successfully."</string>
     <string name="apply_theme_with_ringtones">Use theme ringtones</string>
+    <string name="apply_wallpaper_after_three_theme">"You're currently using a third party theme. If you only change the wallpaper of your Lock screen, this may cause the Lock screen clock style to be restored to default. Apply now?"</string>
+    <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"You're currently using a Super wallpaper. If you select a new wallpaper, it'll be applied to both your Home and Lock screens, and Always-on display will be restored to its previous setting. Apply now?"</string>
+    <string name="apply_wallpaper_warning_use_super_wallpaper">"You're currently using a Super wallpaper. If you select a new wallpaper, it'll be applied to both your Home and Lock screens. Apply now?"</string>
     <string name="apply_warning_get_device_dialog_message">To be able to use downloaded content, allow this feature to access your device ID first. You can grant this permission in Settings > Privacy.</string>
     <string name="apply_warning_tip_get_device_status">Allow this app to access your device ID in Profile > Settings first.</string>
     <string name="audio_duration_minutes_format">%1$d minutes</string>
@@ -223,6 +229,7 @@
     <string name="classification_more_understand_you">Select your favorite category</string>
     <string name="clear_text_end_icon_content_description">Clear text</string>
     <string name="clearable_edittext_clear_description">Clear</string>
+    <string name="clock">Install Clock</string>
     <string name="close">Close</string>
     <string name="close_custom_permission_warning_text">"Without storage permissions, this app won't be able to download items and personalize your device. Turn off anyway?"</string>
     <string name="close_custom_permission_warning_text_above_eleven">"Without storage permissions, this app won't be able to personalize your device. Turn off anyway?"</string>
@@ -527,6 +534,7 @@
     <string name="fold_restore_default_theme_dialog_content">"Themes can't be used on this device now. If you changed your theme before, you can restore the default theme now. You won't be able to change your theme again after this."</string>
     <string name="fold_restore_default_theme_dialog_disagree">No thanks</string>
     <string name="fold_restore_default_theme_dialog_title">Restore default theme</string>
+    <string name="fold_sensor_video_wallpaper_group">Dynamic wallpapers for foldable devices</string>
     <string name="font_compat_dialog_buy_confirm">Buy</string>
     <string name="font_compat_dialog_buy_content">Third party fonts might not be supported by some apps. This compatibility issue will be fixed by an upcoming system update. Buy this font anyway?</string>
     <string name="font_compat_dialog_cancel">Cancel</string>
@@ -613,7 +621,10 @@ To turn this feature off, go to Settings > Sound &amp; vibration > Profile video
     <string name="incompatible_dialog_message">"This theme isn't fully compatible with this version of MIUI yet. Some pages might not work properly."</string>
     <string name="incompatible_dialog_ok">Got it</string>
     <string name="incompatible_dialog_title">Compatibility issues</string>
+    <string name="install_clock">"You haven't installed Clock yet. Download now?"</string>
     <string name="install_failed">"Couldn't install"</string>
+    <string name="install_gallery_content">"You haven't installed Gallery yet. Download now?"</string>
+    <string name="install_gallery_title">Install Gallery</string>
     <string name="is_setting_wallpaper_message">Setting wallpaper…</string>
     <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarms</string>
@@ -881,8 +892,6 @@ mm"</string>
     <string name="no_net_work_connection">Check your network settings and try again.</string>
     <string name="no_network_desc">"Couldn't connect to the network"</string>
     <string name="no_network_please_retry">Check your network settings and try again</string>
-    <string name="no_used_title">no used</string>
-    <string name="no_used_wallpaper">no used</string>
     <string name="no_wallpaper">No items here yet</string>
     <string name="noon">Midday</string>
     <string name="not_allow">Not granted</string>
@@ -1083,6 +1092,7 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="purchased">Orders</string>
     <string name="read_and_agree_account_privacy"><Data>"I've read and agreed to the Mi Account &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">User Agreement&lt;/a>&lt;/font> and &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Privacy Policy&lt;/a>&lt;/font>."</Data></string>
     <string name="recently_used">Recently used</string>
+    <string name="recommend_bottom_tips">已经到底部啦</string>
     <string name="recommend_trigger">Personalized recommendations</string>
     <string name="recommend_trigger_summary">Turn on to receive recommendations based on your preferences</string>
     <string name="refresh_footer_all_loaded">"That's all for now."</string>

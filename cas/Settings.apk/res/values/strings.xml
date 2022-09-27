@@ -69,6 +69,8 @@
     <string name="accelerometer_summary_off">Switch orientation automatically when rotating phone</string>
     <string name="accelerometer_summary_on">Switch orientation automatically when rotating phone</string>
     <string name="accelerometer_title">Auto-rotate screen</string>
+    <string name="accept_new_connection">Allow connecting to new devices</string>
+    <string name="accept_new_connection_detail">New connections were restricted in Control center</string>
     <string name="access_control_app_entry_multiple">Open %s</string>
     <string name="access_control_app_entry_single">Open app</string>
     <string name="access_control_need_password">"%s has been protected
@@ -591,6 +593,7 @@ If this permission is off, existing alarms and time-based events scheduled by th
     <string name="allow_mock_location_summary">Allow mock locations</string>
     <string name="allow_oaid_used">Use virtual ID</string>
     <string name="allow_oaid_used_desc">"MIUI won't provide a virtual ID (OAID) to installed apps. Some personal recommendation features might not work properly because of that."</string>
+    <string name="allow_ongoing_title">Allow permanent notifications</string>
     <string name="allow_overlay_description">Allow this app to display on top of other apps you’re using. This app will be able to see where you tap or change what’s displayed on the screen.</string>
     <string name="allow_sound_title">Allow playing sound</string>
     <string name="allow_vibrate_title">Allow vibration</string>
@@ -1894,6 +1897,7 @@ You can turn this feature off in the Settings > Bluetooth > Paired devices."</st
     <string name="bt_absVolume_open_dialog_title">Attention</string>
     <string name="bt_absVolume_pre_title">Absolute volume</string>
     <string name="bt_absVolume_summary">"Keep the volume of Bluetooth devices and the phone strictly consistent. You can turn this feature on and off when media isn't playing in the background."</string>
+    <string name="bt_always_show_icon">Always show status bar icon</string>
     <string name="bt_aptx_adaptive_open_dialog_summary">aptX Adaptive will provide high-quality playback and decrease audio latency for games and video while increasing power consumption. Playback may be stuttered due to Bluetooth hardware limitations and environmental interferance.</string>
     <string name="bt_aptx_adaptive_open_dialog_title">Switch to aptX Adaptive?</string>
     <string name="bt_audio_repair_property">Fix audio issues</string>
@@ -2095,6 +2099,7 @@ If you install a CA certificate, the certificate owner could access your data, s
     <string name="captions_category_title">Captions</string>
     <string name="capture_system_heap_dump_title">Capture system heap dump</string>
     <string name="capturing_system_heap_dump_message">Capturing system heap dump</string>
+    <string name="card_holder_header_title">Wallet</string>
     <string name="card_main_hbassistant_title">Red envelope;Red packet;Money</string>
     <string name="cards_passes_lower">cards &amp; passes</string>
     <string name="cards_passes_sentence">Cards &amp; passes</string>
@@ -2290,6 +2295,7 @@ If you install a CA certificate, the certificate owner could access your data, s
     <string name="close_fod">"You won't be able to unlock your device using your fingerprint when the screen is off. Fingerprint unlock will only work when the screen is on."</string>
     <string name="close_fod_aod">"You won't be able to unlock your device using your fingerprint when the screen is off. \"Always on mode\" won't be available as well. Fingerprint unlock will only work when the screen is on."</string>
     <string name="close_hotspot_hint">Turn off portable hotspot before casting</string>
+    <string name="close_lid_display_settings_title">After folding</string>
     <string name="close_miui_optimization_title">Turn off MIUI optimization</string>
     <string name="close_optimization_message">Text layout, accounts, and other parts of MIUI might be affected after you turn this feature off.</string>
     <string name="close_optimization_option">Turn off</string>
@@ -2577,8 +2583,6 @@ Tap \"Wipe and convert…\" to continue."</string>
     <string name="copyable_slice_toast">%1$s copied to clipboard.</string>
     <string name="copyright">Copyright</string>
     <string name="copyright_title">Copyright</string>
-    <string name="corner_assistant_gesture_summary">Swipe up from bottom-left or bottom-right corner to wake Google Assistant</string>
-    <string name="corner_assistant_gesture_title">Swipe up from corner for Google Assistant</string>
     <string name="country_name">%s (system)</string>
     <string name="create">Create</string>
     <string name="creating_new_user_dialog_message">Creating new user…</string>
@@ -3317,7 +3321,7 @@ If this keeps happening, you may need to uninstall the app to improve battery pe
     <string name="dpp_sharing_wifi_summary">Sharing Wi-Fi…</string>
     <string name="dpp_theme_title">Shared Wi-Fi</string>
     <string name="draw_overlay">Display over other apps</string>
-    <string name="dsda_switch_summary">Allow both SIM cards to use mobile data and make calls simultaneously</string>
+    <string name="dsda_switch_summary">When in 5G network environment, allow both SIM cards to use mobile data and make calls simultaneously</string>
     <string name="dsda_switch_title">Dual active mode</string>
     <string name="dsds_activation_failure_body_msg1">Remove the SIM and insert it again. If the problem continues, restart your device.</string>
     <string name="dsds_activation_failure_body_msg2">Try turning on the SIM again. If the problem continues, restart your device.</string>
@@ -3421,6 +3425,7 @@ You can view generated logs in File Manager."</string>
     <string name="empty" />
     <string name="empty_networks_list">No networks found.</string>
     <string name="empty_title">" "</string>
+    <string name="emulate_sd_data">Emulated SD card data</string>
     <string name="enableNetwork">enableNetwork</string>
     <string name="enable_2g_summary">Use 2G cellular connections. For emergency calls, 2G is always turned on.</string>
     <string name="enable_2g_title">Allow 2G</string>
@@ -3624,6 +3629,7 @@ Restart your device and try again."</string>
     <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
     <string name="extended_power_menu">Extended power menu</string>
     <string name="exterior">Color scheme</string>
+    <string name="external_auto_rotate_title">Lock orientation for outer screen</string>
     <string name="external_code_size_label">USB storage app</string>
     <string name="external_data_size_label">USB storage data</string>
     <string name="external_ram_dialog_btn_cancel">Later</string>
@@ -4139,6 +4145,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
     <string name="global_locale_change_title">Change language</string>
     <string name="global_stylus_summary" />
     <string name="global_stylus_title" />
+    <string name="global_stylus_title_beta" />
     <string name="gmscore_settings_title">Basic Google services</string>
     <string name="go_back_button_label">Go back</string>
     <string name="go_to_sleep">Turn off screen</string>
@@ -4247,7 +4254,7 @@ The area where you can confirm your screen lock will move to the right."</string
     <string name="gxzw_quick_open_slow_summary">Press and hold the fingerprint icon to open shortcut menu. Swipe to use a shortcut.</string>
     <string name="gxzw_quick_open_slow_title">Press and hold</string>
     <string name="gxzw_quick_open_title">Shortcuts</string>
-    <string name="gxzw_vibrate_summary">Vibrate while Fingerprint unlock animation is played</string>
+    <string name="gxzw_vibrate_summary">"Vibration won't occur when no fingerprint animation is selected"</string>
     <string name="gxzw_vibrate_title">Vibrate while unlocking</string>
     <string name="handy_mode">One-handed mode</string>
     <string name="handy_mode_enable">One-handed mode</string>
@@ -4655,6 +4662,8 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="insufficient_storage">Not enough storage space.</string>
     <string name="intelligence_suppression_summary">Dynamically adjust the size of the area near the edges where accidental touch will be ignored based on your grip</string>
     <string name="intelligence_suppression_title">Auto (Recommended)</string>
+    <string name="intelligent_keep_screen_on">Keep screen on when necessary</string>
+    <string name="intelligent_keep_screen_on_summary">"Keep outer screen on when it's facing upwards"</string>
     <string name="intent_sender_account_label">Account:</string>
     <string name="intent_sender_action_label">Action:</string>
     <string name="intent_sender_data_label">Data:</string>
@@ -4686,6 +4695,7 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="interconnection">Interconnectivity</string>
     <string name="interesting_text">Realistic tactile sensations make your interaction with the screen more clear and articulated.</string>
     <string name="interesting_title">Realistic touch</string>
+    <string name="internal_auto_rotate_title">Lock orientation for inner screen</string>
     <string name="internal_memory">Internal storage</string>
     <string name="internal_storage">Internal storage</string>
     <string name="internet_connectivity_panel_title">Internet Connectivity</string>
@@ -4703,7 +4713,7 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="kddi_nfc_secure_settings_title">Lock while on Lock screen</string>
     <string name="kddi_nfc_secure_toggle_summary">Keep NFC/Osaifu-keitai on only when the device is unlocked</string>
     <string name="keep_legacy_fingerprint">Keep</string>
-    <string name="keep_screen_on">"Don't lock screen"</string>
+    <string name="keep_screen_on">Keep screen on</string>
     <string name="keep_screen_on_after_folding_off_summary">Keep outer screen on after folding during calls or when camera is being used</string>
     <string name="keep_screen_on_after_folding_on_summary">Keep outer screen on after folding to continue with your current tasks</string>
     <string name="keep_screen_on_after_folding_text">Keep outer screen on after folding to continue with your current tasks</string>
@@ -4946,6 +4956,11 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="last_synced">Last synced %1$s</string>
     <string name="last_time_used_label">Last time used</string>
     <string name="lattice_smartcover_title">Lattice front cover</string>
+    <string name="launch_accessibility_environmental_speech_recognition">Ambient sound recognition</string>
+    <string name="launch_accessibility_hear_sound">Mi Ditto</string>
+    <string name="launch_accessibility_hear_sound_subtitle">Mi Ditto subtitles</string>
+    <string name="launch_accessibility_talkback">TalkBack</string>
+    <string name="launch_accessibility_voice_control">Voice controls</string>
     <string name="launch_ai_shortcut">Mi AI shortcut</string>
     <string name="launch_alipay_health_code">Alipay health code</string>
     <string name="launch_alipay_health_code_auto_close">Alipay health code shortcut is no longer available. You can switch to a different shortcut.</string>
@@ -5189,6 +5204,7 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="lock_screen_notifs_show_all">Show conversations, default, and silent</string>
     <string name="lock_screen_notifs_show_none">Don’t show any notifications</string>
     <string name="lock_screen_notifs_title">Notifications on lock screen</string>
+    <string name="lock_screen_now">Lock screen</string>
     <string name="lock_screen_password_skip_biometrics_message">"A password is required to set up Face Unlock and Fingerprint Unlock.
 
 A password protects the phone if it’s lost or stolen."</string>
@@ -5830,6 +5846,7 @@ You won't be able to reverse this action."</string>
     <string name="miheadset_ok_device">OK</string>
     <string name="miheadset_openAnc">Noise cancellation</string>
     <string name="miheadset_openAnc2">Noise cancellation</string>
+    <string name="miheadset_open_closeAnc">Noise cancellation on/off</string>
     <string name="miheadset_play_pause">Play/Pause</string>
     <string name="miheadset_plus">Volume up</string>
     <string name="miheadset_preferences">Preferences</string>
@@ -9361,6 +9378,8 @@ Try using a faster ^3, or use this ^4 for portable storage instead."</string>
     <string name="swipe_direction_ltr">Swipe right to dismiss, left to show menu</string>
     <string name="swipe_direction_rtl">Swipe left to dismiss, right to show menu</string>
     <string name="swipe_direction_title">Swipe actions</string>
+    <string name="swipe_up_to_continue_using">Swipe up to continue</string>
+    <string name="swipe_up_to_continue_using_summary">Lock after %d secs of inactivity</string>
     <string name="swipe_up_to_switch_apps_suggestion_summary">Turn on the new gesture to switch apps</string>
     <string name="swipe_up_to_switch_apps_suggestion_title">Try the new Home button</string>
     <string name="swipe_up_to_switch_apps_summary">To switch apps, swipe up on the Home button. To see all apps, swipe up again. To go back, tap the back button.</string>
