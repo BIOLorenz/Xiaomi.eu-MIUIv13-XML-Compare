@@ -231,6 +231,8 @@ Collega il caricabatterie e disattiva lo schermo per far apparire i ricordi."</s
     <string name="assistant_page_discovery">Scopri</string>
     <string name="assistant_page_label">Assistente</string>
     <string name="assistant_page_server_error">Controlla le tue impostazioni di rete</string>
+    <string name="assistant_today_of_year_function_closed_tip">Attiva</string>
+    <string name="assistant_today_of_year_function_no_photo_tip">Avvia</string>
     <string name="associate_face_album">Scegli un album</string>
     <string name="asus">Asus</string>
     <string name="asus_phone">Asus</string>
@@ -251,7 +253,6 @@ Collega il caricabatterie e disattiva lo schermo per far apparire i ricordi."</s
     <string name="baby_album_change_background">Cambia lo sfondo della foto</string>
     <string name="baby_album_needs_auto_backup_tip">"Impossibile disattivare il backup automatico per gli album dei bambini"</string>
     <string name="baby_album_new_photo_remind">Ci sono nuove foto nell\'album del tuo bambino.</string>
-    <string name="baby_album_setting_title">Info bambino</string>
     <string name="baby_album_settings">Impostazioni album bambino</string>
     <string name="baby_album_sharer_accept_dialog_msg">"%2$s di %1$s,
 %4$s di %3$s ha condiviso l'album di %5$s con te"</string>
@@ -268,7 +269,6 @@ Collega il caricabatterie e disattiva lo schermo per far apparire i ricordi."</s
     <string name="baby_name_cannot_start_with">"Il nome non può iniziare con '%s'"</string>
     <string name="baby_name_contain_invalidate_char">"Il nome non può contenere '%s'"</string>
     <string name="baby_name_reserved">Questo nome è utilizzato per un altro album</string>
-    <string name="baby_nick_name">Soprannome</string>
     <string name="baby_sexy">Genere</string>
     <string name="baby_suffix">piccolo</string>
     <string name="back">Indietro</string>
@@ -365,7 +365,6 @@ Collega il caricabatterie e disattiva lo schermo per far apparire i ricordi."</s
     <string name="by_sms">SMS</string>
     <string name="byteShort">B</string>
     <string name="camera_needs_auto_backup_tip">Backup album fotocamera eseguito</string>
-    <string name="can_authorize_owner_albums_share_to_tv">Autorizza la visualizzazione degli album sulla tua TV</string>
     <string name="can_not_transfer_when_screening">"Impossibile proiettare durante i trasferimenti"</string>
     <string name="cancel">Annulla</string>
     <string name="cancel_authorize_to_device_failed">"Impossibile annullare l'autorizzazione"</string>
@@ -1290,7 +1289,6 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="impunity_declaration_summary">Mostra gli avvisi di rete ad ogni avvio dell\'applicazione</string>
     <string name="initializing_cloud">Inizializzazione...</string>
     <string name="input_a_name">Inserisci il nome</string>
-    <string name="input_baby_name">Inserisci il nome</string>
     <string name="input_baby_nick_name">Inserisci soprannome</string>
     <string name="input_nickname_toast">"Inserisci il nome del bambino"</string>
     <string name="input_or_select_a_name">Inserisci o scegli un nome</string>
@@ -2131,7 +2129,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="projection_cancel">Annulla</string>
     <string name="projection_checkbox_text">Ricorda questo schermo</string>
     <string name="projection_device_connection_failed">"Impossibile collegare il proiettore"</string>
-    <string name="projection_local_mobile">Mobile</string>
+    <string name="projection_local_mobile">Questo dispositivo</string>
     <string name="projection_multi_title">Dispositivi</string>
     <string name="projection_screen_project_in_screening">"Stai usando il tuo dispositivo per la proiezione"</string>
     <string name="projection_single_title">Trasmetti a %s</string>
