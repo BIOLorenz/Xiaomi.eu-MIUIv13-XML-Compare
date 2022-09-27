@@ -169,6 +169,7 @@
     <string name="icon_remove_description_content">"\"Servizi e Feedback\" è un'app di sistema. Sarai comunque in grado di utilizzarla tramite Impostazioni dopo aver rimosso il collegamento sulla schermata iniziale."</string>
     <string name="icon_remove_description_title">Rimuovere \"Servizi e Feedback\" dalla schermata Home?</string>
     <string name="mi_service_app_name">Servizi e feedback</string>
+    <string name="mi_service_back">Indietro</string>
     <string name="midnight">Notte</string>
     <string name="miservice_channel_boot_name">avvio</string>
     <string name="miservice_channel_guide_name">guida</string>
