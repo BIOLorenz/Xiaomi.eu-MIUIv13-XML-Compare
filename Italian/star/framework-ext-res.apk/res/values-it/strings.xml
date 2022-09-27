@@ -48,6 +48,9 @@
     <string name="autofill_save_sub_message">"Puoi visualizzare e gestire le password salvate in Impostazioni &gt; Password &amp; Sicurezza &gt; %s."</string>
     <string name="autofill_save_title">Salva le password automaticamente</string>
     <string name="autofill_service_name">Gestisci le password</string>
+    <string name="back_double_tap">Doppio tocco posteriore</string>
+    <string name="back_tap">Tocco posteriore</string>
+    <string name="back_triple_tap">Triplo tocco posteriore</string>
     <string name="battery_authentic_failed_button">Ok</string>
     <string name="battery_authentic_failed_title">Attenzione</string>
     <string name="beep">Beep</string>
@@ -87,6 +90,7 @@
     <string name="candy">Caramella</string>
     <string name="carousel">Carosello</string>
     <string name="celesta">Celesta</string>
+    <string name="change_brightness">Regola la luminosità</string>
     <string name="child">Infanzia</string>
     <string name="childhood">Infanzia</string>
     <string name="chimes">Campanelle</string>
@@ -95,6 +99,7 @@
     <string name="citylight">Luci della città</string>
     <string name="clank">Tintinnio</string>
     <string name="close">Disattivato</string>
+    <string name="close_app">Chiudi app in uso</string>
     <string name="configure_input_methods">Scegli la tastiera</string>
     <string name="confirm_cancel_task_files">Annullare l\'invio di file a %1$s?</string>
     <string name="confirm_cancel_task_images">Annullare l\'invio di immagini a %1$s?</string>
@@ -163,6 +168,10 @@
     <string name="dock_tip_splitscreen_landscape_float">Premi e trascina verso il basso per passare a una finestra fluttuante.</string>
     <string name="dock_tip_splitscreen_portrait_drag">Trascina la barra verticalmente per scambiare le posizioni delle app.</string>
     <string name="dock_tip_splitscreen_portrait_float">Premi e trascina sul lato sinistro o destro dello schermo per passare a una finestra fluttuante.</string>
+    <string name="double_click_power_key">Premi due volte il tasto accensione</string>
+    <string name="double_click_volume_down_when_lock">Premi due volte il tasto volume giù quando lo schermo è bloccato</string>
+    <string name="double_knock">Doppio tocco nocca</string>
+    <string name="dump_log">Raccogli log basati sui problemi</string>
     <string name="echo">Eco</string>
     <string name="eighthours">8 ore</string>
     <string name="enable_livetalk_summary">Risparmia il 70% sulle chiamate</string>
@@ -182,6 +191,7 @@
     <string name="file_cannot_print">"Impossibile stampare questo elemento."</string>
     <string name="file_cannot_screen_throw">"Impossibile proiettare questo elemento."</string>
     <string name="file_sending">Trasferimento file…</string>
+    <string name="fingerprint_double_tap">Doppio tocco sul sensore di impronte</string>
     <string name="fireflies">Lucciole</string>
     <string name="first_back_long_press_message">Per impostare la pressione personalizzata e e le azioni dei tasti di navigazione, vai in Impostazioni &gt;; Impostazioni aggiuntive &gt; Tasti</string>
     <string name="flip_screen_camera_tip">Ruota il dispositivo per usare la Fotocamera</string>
@@ -202,6 +212,7 @@
     <string name="frog">Rana</string>
     <string name="functions_are_being_developed">Questa funzionalità sarà presto disponibile! Resta sintonizzato!</string>
     <string name="game">Gioco</string>
+    <string name="gesture_function_dialog_message">%1$s è usato per \"%2$s\". Sostituirlo con \"%3$s\"?</string>
     <string name="glee">Gioia</string>
     <string name="global_actions_airplane_mode">Mod. aereo</string>
     <string name="global_actions_reboot">Riavvia</string>
@@ -212,6 +223,7 @@
     <string name="global_phone">Il mio telefono</string>
     <string name="glockenspiel">Carillon</string>
     <string name="glorious">Gloria</string>
+    <string name="go_to_sleep">Disattiva schermo</string>
     <string name="greenandblue">Arcobaleno</string>
     <string name="guitar">Chitarra</string>
     <string name="hallofmemories">Assistente</string>
@@ -229,6 +241,8 @@
     <string name="help_content">"Se non riesci a trovare il dispositivo che cerchi, chiedi all'altra persona di attivare Mi Share."</string>
     <string name="hisense">Hisense</string>
     <string name="hisense_phone">Hisense</string>
+    <string name="hs_guide_dialog_button_confirm">Ok</string>
+    <string name="hs_guide_dialog_title">Attenzione</string>
     <string name="icelatte">Latte ghiacciato</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">Posiziona il dito sul tasto Home</string>
     <string name="incomingmessage">Messaggio in arrivo</string>
@@ -237,6 +251,11 @@
     <string name="kb_reset_toast">Reimposta tastiera con successo</string>
     <string name="key_btn_ok">OK</string>
     <string name="key_btn_space">Spazio</string>
+    <string name="key_combination_power_back">Tasto accensione + Tasti Indietro</string>
+    <string name="key_combination_power_home">Tasto accensione + Tasto Home</string>
+    <string name="key_combination_power_menu">Tasto accensione + Tasto Menu</string>
+    <string name="key_combination_power_volume_down">Volume giù + Accensione</string>
+    <string name="key_none">Nessuno</string>
     <string name="keyboard_connect_failed">"Impossibile riconoscere la tastiera. Ricollegala."</string>
     <string name="keyboard_identity_reject_confirm">Ok</string>
     <string name="keyboard_identity_reject_message">"Sembra che la tua tastiera non sia compatibile con questo dispositivo."</string>
@@ -244,6 +263,9 @@
     <string name="keyboard_upgrade_failed">"Impossibile aggiornare la tastiera"</string>
     <string name="keyboard_upgrade_start">Aggiornamento tastiera…</string>
     <string name="keyboard_upgrade_success">Tastiera aggiornata</string>
+    <string name="knock_gesture_v">Disegna una V con la nocca</string>
+    <string name="knock_long_press_horizontal_slid">Premi e scorri orizzontalmente con una nocca</string>
+    <string name="knock_slide_shape">Disegna un cerchio con la nocca</string>
     <string name="ks_back_home">Schermata Home</string>
     <string name="ks_close_window">Chiudi la finestra attuale</string>
     <string name="ks_launch_control_center">Centro di controllo</string>
@@ -253,6 +275,21 @@
     <string name="ks_regional_screen_shot">Screenshot (parziale)</string>
     <string name="ks_screenshot">Screenshot (schermo intero)</string>
     <string name="kungfu">Kung fu</string>
+    <string name="launch_ai_shortcut">Collegamento Mi IA</string>
+    <string name="launch_alipay_health_code">Codice sanitario Alipay</string>
+    <string name="launch_alipay_payment_code">Codice pagamento Alipay</string>
+    <string name="launch_alipay_scanner">Scansiona codice Alipay</string>
+    <string name="launch_calculator">Calcolatrice</string>
+    <string name="launch_camera">Apri fotocamera</string>
+    <string name="launch_control_center">Centro di controllo</string>
+    <string name="launch_google_search">Apri Ricerca Google</string>
+    <string name="launch_notification_center">Area di notifica</string>
+    <string name="launch_recents">Apri Recenti</string>
+    <string name="launch_smarthome">Xiaomi Magic Control</string>
+    <string name="launch_voice_assistant">Lancia Assistente Vocale</string>
+    <string name="launch_wechat_health_code">Codice sanitario WeChat</string>
+    <string name="launch_wechat_payment_code">Codice pagamento WeChat</string>
+    <string name="launch_wechat_scanner">Scansiona codice Wechat</string>
     <string name="leisure">Piacere</string>
     <string name="lenovo">Lenovo</string>
     <string name="lenovo_phone">Telefono Lenovo</string>
@@ -265,6 +302,14 @@
     <string name="lockscreen_access_pattern_start">Sequenza avviata</string>
     <string name="lockscreen_carrier_customized">Servizio limitato</string>
     <string name="lollipop">Lecca-lecca</string>
+    <string name="long_press_back_key">Tieni premuto il tasto Indietro</string>
+    <string name="long_press_buttom_key">Tieni premuto il tasto Basso quando bloccato</string>
+    <string name="long_press_home_key">Tieni premuto il tasto Home</string>
+    <string name="long_press_menu_key">Tieni premuto il tasto Menu</string>
+    <string name="long_press_menu_key_when_lock">Tieni premuto il tasto Menu quando bloccato</string>
+    <string name="long_press_power_key">Tieni premuto il tasto power</string>
+    <string name="long_press_power_key_half_second">Tieni premuto il pulsante di accensione per %ss</string>
+    <string name="long_press_volume_down">Tieni premuto il tasto volume basso</string>
     <string name="magic_window_toast">Clonazione app abilitata.</string>
     <string name="makewishes">Desiderio di compleanno</string>
     <string name="maml_component_customization_title">Impostazioni</string>
@@ -279,6 +324,7 @@
     <string name="mi_9t_pro">Mi 9T Pro</string>
     <string name="mi_a3">Mi A3</string>
     <string name="mi_drop">Mi Share</string>
+    <string name="mi_pay">Mi Wallet</string>
     <string name="miaudiovisual_notification_summary">Attiva per visualizzare gli effetti sulla Schermata di blocco</string>
     <string name="miaudiovisual_notification_title">Effetti audio e video</string>
     <string name="mihouse">Mi Electronic</string>
@@ -305,6 +351,7 @@
     <string name="morning">Mattina</string>
     <string name="mountainspring">Sorgente di montagna</string>
     <string name="multi_file_name">%1$s，%2$s</string>
+    <string name="mute">Mod. silenziosa</string>
     <string name="mw_guide_dialog_button_confirm">Ok</string>
     <string name="name_with_ellipsize">%1$s…%2$s</string>
     <string name="nearby_share">Condivisione nelle vicinanze</string>
@@ -325,6 +372,7 @@
     <string name="package_delete_confirm_step_1">Disinstallare %s?</string>
     <string name="package_delete_confirm_step_2">Eliminare quest\'applicazione potrebbe causare instabilità al sistema.</string>
     <string name="package_delete_confirm_step_3">"Non sarai più in grado di aprire quest'applicazione dopo averla disinstallata."</string>
+    <string name="partial_screen_shot">Screenshot parziale</string>
     <string name="passionflower">Passione</string>
     <string name="paste">Incolla</string>
     <string name="pc_device_model_name">Computer</string>
@@ -418,6 +466,7 @@
     <string name="screen_on_proximity_sensor_title">Mod. tasca</string>
     <string name="screen_paper_mode_enter_toast">Mod. lettura attivata. Puoi disattivare questa funzionalità in Impostazioni &gt; Schermo &gt; Mod. lettura.</string>
     <string name="screen_rotation_freeze_message">Rotazione automatica disattivata.</string>
+    <string name="screen_shot">Esegui screenshot</string>
     <string name="screenshot_gesture_detect_alert_button">Attiva nelle Impostazioni</string>
     <string name="screenshot_gesture_detect_alert_dont_again">"Non chiedere più"</string>
     <string name="screenshot_gesture_detect_alert_msg">Scorrere verso il basso con tre dita per catturate uno screenshot?</string>
@@ -440,6 +489,7 @@
     <string name="set_password_message">Imposta una password per usare questa funzionalità.</string>
     <string name="set_password_title">Imposta la password</string>
     <string name="shortcut_no_support_on_pc_mode">"Questo gesto non è supportato in mod. PC"</string>
+    <string name="show_menu">Mostra menù</string>
     <string name="shutdown_confirm_title">Spegnere il dispositivo ora?</string>
     <string name="shutdown_progress">Spegnimento…</string>
     <string name="silence_mode">Mod. silenziosa</string>
@@ -465,6 +515,7 @@
     <string name="softap_notifif_title">Hotspot \"%s\" attivo</string>
     <string name="southwestmountain_preview">Montagne</string>
     <string name="spaceage">Era spaziale</string>
+    <string name="split_screen">Attiva Schermo diviso</string>
     <string name="spring">Primavera</string>
     <string name="standard">Silenzioso</string>
     <string name="standard_description">Silenzia le suonerie per le chiamate e le notifiche in arrivo</string>
@@ -511,11 +562,13 @@
     <string name="takeback_camera_front_failed">"Impossibile chiudere la fotocamera frontale. Riprova."</string>
     <string name="talk_back_water_mark_string1">TalkBack attivo</string>
     <string name="talk_back_water_mark_string2">Tieni premuto \"Volume+\" e \"Volume-\" per 3 secondi per disattivare</string>
+    <string name="three_gesture_down">Scorri con tre dita</string>
+    <string name="three_gesture_horizontal">Scorri orizzontalmente con %d dita</string>
+    <string name="three_gesture_long_press">Tieni premuto con %d dita</string>
+    <string name="three_gesture_pc_mode">Attiva la mod. PC</string>
     <string name="throwing_print">Stampa</string>
     <string name="throwing_screen">Proiezione</string>
     <string name="tip_close_screen_phone">Passa a mani libere o piega il dispositivo per utilizzare l\'altoparlante incorporato</string>
-    <string name="tip_for_phone_and_camera">Piegare il dispositivo per utilizzare l\'altoparlante o la fotocamera anteriore incorporata</string>
-    <string name="tip_use_front_camera">Piega il dispositivo per utilizzare la fotocamera frontale</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="total">ND</string>
     <string name="total_description">Silenzia e disattiva la vibrazione per tutti gli elementi ad eccezione della sveglia</string>
@@ -525,7 +578,9 @@
     <string name="translation_query_error">"Nessun risultato trovato"</string>
     <string name="translation_query_error_network">"Impossibile ottenere informazioni, controlla la connessione di rete e riprova"</string>
     <string name="turn_off">Spegni</string>
+    <string name="turn_on_torch">Attiva la Torcia</string>
     <string name="twohours">1 ora</string>
+    <string name="under_keyguard">Schermo disattivato</string>
     <string name="unknown_caller">Numero sconosciuto</string>
     <string name="unrecognized_manufacture">Sconosciuto</string>
     <string name="unrecognized_model">Dispositivo sconosciuto</string>
@@ -537,6 +592,7 @@
     <string name="vigor">Vigore</string>
     <string name="vivo">Vivo</string>
     <string name="vivo_phone">Vivo</string>
+    <string name="voice_assist">Mi IA</string>
     <string name="wallpaper_group_black_gobi_title">Sabbie del Gobi</string>
     <string name="wallpaper_group_black_white_title">Bianco e nero</string>
     <string name="wallpaper_group_color_move_title">Colori liquidi</string>
