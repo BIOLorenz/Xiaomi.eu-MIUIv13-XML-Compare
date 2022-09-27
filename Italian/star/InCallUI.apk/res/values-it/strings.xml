@@ -95,6 +95,9 @@
     <string name="call_recording_notification_title_error">"Non è stato possibile registrare la chiamata"</string>
     <string name="caller_info_name_delimiter">" o "</string>
     <string name="caller_manage_header">Audioconferenza %s</string>
+    <string name="camera_on_agree">Consenti</string>
+    <string name="camera_on_refuse">"Non consentire"</string>
+    <string name="camera_on_title">Fotocamera</string>
     <string name="can_not_use">"Impossibile utilizzare"</string>
     <string name="cancel">Annulla</string>
     <string name="card_title_answering">Risposta</string>
@@ -422,6 +425,8 @@
     <string name="onscreen_change_to_video">Videochiamata</string>
     <string name="onscreen_change_to_voice">Chiamata vocale</string>
     <string name="onscreen_close_preview_camera">Chiudi</string>
+    <string name="onscreen_collapsed">Riduci</string>
+    <string name="onscreen_expand">Altro</string>
     <string name="onscreen_hold_text">In attesa</string>
     <string name="onscreen_merge_calls_text">Unisci chiamate</string>
     <string name="onscreen_message_text">SMS</string>
@@ -460,6 +465,9 @@ Tocca \"%1$s\" e quindi seleziona \"%2$s\"."</string>
     <string name="saturday">Sabato</string>
     <string name="saturday_short">Sab</string>
     <string name="saturday_shortest">Sab</string>
+    <string name="screen_share_agree">Consenti</string>
+    <string name="screen_share_connecting">Connessione…</string>
+    <string name="screen_share_refuse">Annulla</string>
     <string name="search_menu_title">Cerca</string>
     <string name="select_audio_dialog_title">Scegli la mod. di risposta</string>
     <string name="select_one_sim_title">Puoi utilizzare solo la SIM %1$d</string>
