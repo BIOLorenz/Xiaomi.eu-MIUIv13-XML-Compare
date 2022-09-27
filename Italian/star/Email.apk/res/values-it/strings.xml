@@ -273,6 +273,8 @@ path prefix"</string>
     <string name="attachment_unknown">File %s</string>
     <string name="attachment_video">Video</string>
     <string name="attachments_header">Allegati</string>
+    <string name="attachments_security_alert_install_title">Attenzione</string>
+    <string name="attachments_security_install">Installa</string>
     <string name="attendee_needed">Aggiungi almeno un invitato.</string>
     <string name="auto_advance_help_title">Dopo un\'eliminazione, mostra…</string>
     <string name="auto_advance_label">Avanzamento automatico</string>
@@ -760,6 +762,7 @@ path prefix"</string>
     <string name="folder_junk_name_en2">Posta Indesiderata</string>
     <string name="folder_junk_name_en3">Posta Indesiderata</string>
     <string name="folder_junk_name_en4">Indesiderata</string>
+    <string name="folder_junk_name_en5">Posta indesiderata</string>
     <string name="folder_list_current_account">Account attuale</string>
     <string name="folder_list_display_all">Mostra tutte le cartelle</string>
     <string name="folder_list_display_only_import">Mostra solo le cartelle importanti</string>
@@ -1569,9 +1572,6 @@ Attendi che sia completamente sincronizzata o visualizza il messaggio sul comput
     <string name="show_password">Mostra password</string>
     <string name="show_server_cet">Visualizza certificato</string>
     <string name="shrink">Riduci</string>
-    <string name="sign_in_dialog_office365">Office 365</string>
-    <string name="sign_in_dialog_outlook_enterprise">Outlook per le imprese (senza calendario)</string>
-    <string name="sign_in_dialog_outlook_exchange">EXCHANGE (con calendario)</string>
     <string name="sign_in_dialog_outlook_imap">IMAP (senza calendario)</string>
     <string name="sign_in_graph_error">"È possibile accedere utilizzando i protocolli IMAP o EXCHANGE solo quando la vostra organizzazione non ha cambiato la configurazione generale del server. Se l'indirizzo del server è personalizzato dall'organizzazione o i relativi protocolli sono disabilitati, accedi utilizzando il nuovo protocollo di Microsoft."</string>
     <string name="sign_in_no_useful_provider_error">"Impossibile ottenere le configurazioni di protocollo da Microsoft. Usa un protocollo diverso o aggiorna il protocollo da Microsoft."</string>
