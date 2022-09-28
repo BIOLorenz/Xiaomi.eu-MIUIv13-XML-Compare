@@ -920,6 +920,7 @@ Invia questo codice al supervisore."</string>
     <string name="general__end_page_exchange">Aggiorna</string>
     <string name="general__end_page_same_authors">Stesso autore</string>
     <string name="general__make_purchase_rule_reminder">Attenzione</string>
+    <string name="general__make_purchase_total">Importo totale: %1$d = %2$s + %3$s</string>
     <string name="general__shared__about">Informazioni</string>
     <string name="general__shared__about_us">Chi siamo</string>
     <string name="general__shared__cancel">Annulla</string>
