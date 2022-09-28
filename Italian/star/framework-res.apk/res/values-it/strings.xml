@@ -1830,6 +1830,7 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
     <string name="sipAddressTypeOther">Altro</string>
     <string name="sipAddressTypeWork">Lavoro</string>
     <string name="skip_button_label">Ignora</string>
+    <string name="slice_more_content">+ %1$d</string>
     <string name="slices_permission_request">L\'app %1$s vuole mostrare porzioni dell\'app %2$s</string>
     <string name="sms_control_message">&lt;b&gt;%1$s&lt;/b&gt; sta inviando molti SMS. Vuoi consentire all\'applicazione di continuare a inviare messaggi?</string>
     <string name="sms_control_no">Rifiuta</string>
