@@ -56,6 +56,7 @@
     <string name="activity_not_found_notice">"Impossibile trovare l'app"</string>
     <string name="add_to_trust_device">Questo device è affidabile</string>
     <string name="afternoon">Pomeriggio</string>
+    <string name="am">AM</string>
     <string name="app_empty">"Impossibile trovare app."</string>
     <string name="app_label">Segnalazione</string>
     <string name="app_name">Segnalazione</string>
@@ -63,6 +64,8 @@
     <string name="auth_fail_warning">Sessione scaduta, accedi di nuovo.</string>
     <string name="back">Indietro</string>
     <string name="btn_send">Invia</string>
+    <string name="bugreport_dialog_informed_consent_content">"Abbiamo rilevato un errore nella password della schermata di blocco. Puoi inviare i log del tuo dispositivo per aiutarci a individuare e risolvere il problema. Le informazioni di registro verranno caricate in modo anonimo, verranno utilizzate solo per la risoluzione dei problemi e verranno eliminate una volta che la risoluzione dei problemi sarà completata."</string>
+    <string name="bugreport_dialog_informed_consent_title">Consenso informato</string>
     <string name="bugreport_dialog_not_show_again">"Non mostrare più"</string>
     <string name="bugreport_dialog_submit_content"><Data>\"Stai salvando i registri software su questo dispositivo. I log possono contenere informazioni personali e i dati della tua posizione. Non condividere i log con nessun altro se non vuoi che queste informazioni siano esposte. Selezionando \"Accetta\" significa che hai letto e accettato la nostra &lt;a href=\"%1$s\"&gt;Informativa sulla privacy&lt;/a&gt; e &lt;a href=\"%2$s\"&gt;Accordo utente&lt;/a&gt;.\"</Data></string>
     <string name="bugreport_dump_complete_notification_summary">Tocca per vedere.</string>
@@ -102,11 +105,13 @@
     <string name="catch_full_log_notification_content">Tocca per tornare ai log</string>
     <string name="catch_full_log_notification_title">Generazione log…</string>
     <string name="catch_full_log_privacy_content_audio">"Stai generando i log e salvandoli sul dispositivo. I log potrebbero contenere informazioni sull'audio del tuo dispositivo, compresa la cronologia di riproduzione e la cronologia delle registrazioni. Fai attenzione e non divulgare questi log ad altre persone. Toccando \"Accetta\" qui sotto, accetti che raccoglieremo i dati sopra durante la generazione di log, e quindi caricheremo i log sui nostri server per individuare e risolvere i problemi che hai segnalato."</string>
+    <string name="catch_full_log_privacy_content_audio_pad">"Stai generando log e salvandoli sul tuo dispositivo. I registri possono contenere informazioni sull'audio sul dispositivo, tra cui la cronologia di riproduzione e la cronologia di registrazione. Fai attenzione e non rivelare questi registri ad altre persone. Toccando \"Accetta\" qui sotto, accetti che raccoglieremo i dati di cui sopra durante la generazione dei registri, e quindi caricare i log sui nostri server per individuare e risolvere i problemi che segnali."</string>
     <string name="catch_full_log_privacy_content_bt">"Stai generando log e salvandoli sul dispositivo. I log potrebbero contenere informazioni sull'utilizzo del dispositivo Bluetooth (incluso il registro chiamate, i messaggi, i file trasferiti ecc.) Fai attenzione e non divulgare questi log ad altre persone. Toccando \"Accetta\" qui sotto, accetti che raccoglieremo i dati sopra durante la generazione dei log e che li caricheremo sui nostri server per individuare e risolvere i problemi che hai segnalato."</string>
     <string name="catch_full_log_privacy_content_camera">"Stai generando log e salvandoli sul tuo dispositivo. I log possono contenere informazioni sull'utilizzo della fotocamera (inclusa frequenza CPU, chiamate di sistema, utilizzo della memoria ecc.). Fai attenzione e non rivelare questi registri ad altre persone. Cliccando su \"Accetto\" qui sotto, accetti che raccoglieremo i dati di cui sopra durante la generazione dei registri, e quindi caricheremo i registri sui nostri server per individuare e risolvere i problemi che segnali."</string>
     <string name="catch_full_log_privacy_content_charge">"Stai generando log e salvandoli sul dispositivo. I log potrebbero contenere info sulla ricarica. Fai attenzione e non mostrare questi log ad altre persone. Toccando \"Accetta\", raccoglieremo i dati di cui sopra durante la generazione dei log, e caricheremo i log sui nostri server per individuare e risolvere i problemi che segnali."</string>
     <string name="catch_full_log_privacy_content_gps">"Stai generando log e salvandoli sul dispositivo. I log potrebbero contenere informazioni personali e sulla posizione. Fai attenzione e non divulgare questi log ad altre persone. Toccando \"Accetta\" qui sotto, accetti che raccoglieremo i dati sopra durante la generazione dei log e che li caricheremo sui nostri server per individuare e risolvere i problemi che hai segnalato."</string>
     <string name="catch_full_log_privacy_content_sensor">"Stai generando i log e salvandoli sul dispositivo. I log potrebbero contenere informazioni raccolte dai sensori del dispositivo (incluso sensore di luce ambientale, barometro, pedomometro, magnetometro, ecc.). Fai attenzione e non divulgare questi log ad altre persone. Toccando \"Accetta\" qui sotto, accetti che raccoglieremo i dati sopra durante la generazione di log, e quindi caricheremo i log sui nostri server per individuare e risolvere i problemi che hai segnalato."</string>
+    <string name="catch_full_log_privacy_content_sensor_pad">"Stai generando log e salvandoli sul tuo dispositivo. I registri possono contenere informazioni raccolte dai sensori del dispositivo (tra cui sensore di luce ambiente, barometro, pedometro, magnetometro, ecc.). Fai attenzione e non rivelare questi registri ad altre persone. Toccando \"Accetta\" qui sotto, accetti che raccoglieremo i dati di cui sopra durante la generazione dei registri, e quindi caricare i log sui nostri server per individuare e risolvere i problemi che segnali."</string>
     <string name="catch_full_log_privacy_content_signal">"Stai generando log e salvandoli sul dispositivo. I log potrebbero contenere messaggi, registro chiamate, info sulla rete e dati sulle comunicazioni. Fai attenzione e non divulgare questi log ad altre persone. Toccando \"Accetta\" qui sotto, accetti che raccoglieremo i dati sopra durante la generazione dei log e che li caricheremo sui nostri server per individuare e risolvere i problemi che hai segnalato."</string>
     <string name="catch_full_log_privacy_content_trace">"Stai generando log e salvandoli sul tuo dispositivo. I log possono contenere statistiche di utilizzo delle app (tra cui frequenza CPU, chiamata di sistema, utilizzo della memoria, ecc.). Fai attenzione e non rivelare questi registri ad altre persone. Cliccando su \"Accetto\" qui sotto, accetti che raccoglieremo i dati di cui sopra durante la generazione dei registri, e quindi caricheremo i log sui nostri server per individuare e risolvere i problemi che segnali."</string>
     <string name="catch_full_log_privacy_content_wifi">"Stai generando i log e salvandoli sul tuo dispositivo. I log possono contenere le tue informazioni personali, le informazioni sulla posizione, nonché gli indirizzi IP e MAC del tuo dispositivo. Se sei connesso a una rete Wi-Fi non protetta, potremmo anche essere in grado di accedere a parti dei tuoi dati di comunicazione. Fai attenzione e non divulgare questi log ad altre persone. Toccando \"Accetta\" qui sotto, accetti che raccoglieremo i dati sopra durante la generazione di log, e quindi cheremo i log sui nostri server per individuare e risolvere i problemi che hai segnalato."</string>
@@ -193,6 +198,7 @@
     <string name="cta_confirm">OK</string>
     <string name="cta_dialog_content">Questo servizio deve accedere ad internet per funzionare correttamente.</string>
     <string name="cta_dialog_title">Termini e Condizioni</string>
+    <string name="cta_message"><Data>Per essere in grado di funzionare normalmente, Feedback deve connettersi a internet. Questa app potrebbe anche richiedere l\'autorizzazione per accedere alla tua posizione. Leggi e accetti il nostro &lt;a href=\"%1$s\"&gt;Privacy Policy&lt;/a&gt; e &lt;a href=\"%2$s\"&gt;User Agreement&lt;/a&gt; prima di continuare.</Data></string>
     <string name="cta_not_show_again">"Non mostrare più"</string>
     <string name="customer_service_apply">Richiedi assistenza clienti</string>
     <string name="customer_service_complain">Segnala il servizio clienti</string>
@@ -396,6 +402,7 @@ Invia questo codice al supervisore."</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
     <string name="get_phone_verifycode_exceed_limit">Troppi codici di verifica sono stati inviati a questo numero. Attendere 24 ore e riprovare.</string>
+    <string name="getverifycode_seconde">s</string>
     <string name="google_login_btn_content_description">Accedi con Google</string>
     <string name="goon_feedback_main">Continua</string>
     <string name="header_help">Guida</string>
@@ -571,15 +578,21 @@ Invia questo codice al supervisore."</string>
     <string name="passport_account_name">"Account: %1$s"</string>
     <string name="passport_area_code_title">Codice regionale</string>
     <string name="passport_bad_authentication">Nome utente o password non validi</string>
+    <string name="passport_can_not_recevie_verify_code">"Non hai ricevuto un codice?"</string>
     <string name="passport_checking_account">Controlla la password…</string>
+    <string name="passport_clear_input">Cancella contenuto inserito</string>
     <string name="passport_copy_link">Copia URL link</string>
     <string name="passport_copy_to_clipboard_successful">Copiato con successo</string>
+    <string name="passport_country_area_china">CN</string>
     <string name="passport_country_code_china">+39</string>
     <string name="passport_dialog_captcha_title">Codice</string>
     <string name="passport_dialog_doing_login">Accesso…</string>
     <string name="passport_dialog_doing_register">Creazione account…</string>
     <string name="passport_dialog_is_my_account">Sì</string>
+    <string name="passport_dialog_is_your_mi_account">Questo è il tuo account Xiaomi?</string>
     <string name="passport_dialog_loading">Attendi…</string>
+    <string name="passport_dialog_nick_name_prefix">Soprannome: %s</string>
+    <string name="passport_dialog_phone_number_prefix">Numero di telefono: %s</string>
     <string name="passport_dialog_register_other">"No, ne creerò uno"</string>
     <string name="passport_email">Indirizzo email</string>
     <string name="passport_empty_password">"La password non può essere vuota"</string>
@@ -590,15 +603,21 @@ Invia questo codice al supervisore."</string>
     <string name="passport_error_empty_email">Inserisci il tuo indirizzo email</string>
     <string name="passport_error_empty_password">Inserisci la password</string>
     <string name="passport_error_empty_pwd">"La password non può essere vuota"</string>
+    <string name="passport_error_empty_user_id">Inserisci il tuo nome utente</string>
     <string name="passport_error_length_limit">Il testo inserito è troppo lungo</string>
     <string name="passport_error_network">"Impossibile connettersi alla rete"</string>
     <string name="passport_error_no_password_user">"Non hai ancora impostato la password. Accedi con SMS"</string>
     <string name="passport_error_phone">Numero di telefono non valido</string>
     <string name="passport_error_server">Errore Server</string>
+    <string name="passport_error_sms_limit">Troppi codici di verifica sono stati inviati a questo numero. Riprova più tardi.</string>
+    <string name="passport_error_ticket_invalid">Questo codice non è corretto</string>
+    <string name="passport_error_timeout_network_error">La richiesta è scaduta</string>
+    <string name="passport_error_token_expired">Codice scaduto. Riprova.</string>
     <string name="passport_error_unknow_error">Si è verificato un errore</string>
     <string name="passport_error_unknow_host_network_error">"Impossibile connettersi alla rete"</string>
     <string name="passport_error_unknow_network_error">Siamo spiacenti, si è verificato un errore di rete</string>
     <string name="passport_error_unknown">Errore sconosciuto</string>
+    <string name="passport_error_user_agreement">Prima accetti il nostro Accordo Utente</string>
     <string name="passport_error_user_name">Il nome utente immesso non è valido</string>
     <string name="passport_error_user_password">"Le password non corrispondono"</string>
     <string name="passport_get_login_type_next">Successivo</string>
@@ -611,11 +630,13 @@ Invia questo codice al supervisore."</string>
     <string name="passport_input_voice_captcha_hint"> Inserisci il codice di verifica vocale</string>
     <string name="passport_input_voice_hint">Inserisci il codice vocale</string>
     <string name="passport_mi_account_first_title">"Creeremo automaticamente un account se utilizzi il numero di telefono per la prima volta."</string>
+    <string name="passport_mi_account_title">Accedi con l\'account Xiaomi</string>
     <string name="passport_network_error">Si è verificato un errore di rete.</string>
     <string name="passport_network_error_hint">Controllare l\'URL e riprovare, o copiare l\'URL e aprirlo nel browser.</string>
     <string name="passport_next">Successivo</string>
     <string name="passport_page_load_failed">"Impossibile aprire la pagina"</string>
     <string name="passport_password_login_btn">Accedi</string>
+    <string name="passport_password_not_show">"Non mostrare la password"</string>
     <string name="passport_password_req_notice">La password deve avere una lunghezza di 8-16 caratteri e includere sia numeri che lettere (maiuscole e minuscole).</string>
     <string name="passport_password_show">Mostra password</string>
     <string name="passport_querying_phone_info">Richiesta informazioni telefono utente…</string>
@@ -623,7 +644,9 @@ Invia questo codice al supervisore."</string>
     <string name="passport_reging">Creazione account…</string>
     <string name="passport_register_restricted">Troppi account sono stati associati a questo numero, provane un altro</string>
     <string name="passport_relogin_notice">Devi accedere di nuovo</string>
+    <string name="passport_resend_ticket">Reinvia codice</string>
     <string name="passport_retry">Riprova</string>
+    <string name="passport_send_sms_to">Codice inviato a %1$s</string>
     <string name="passport_send_too_many_code">Troppi codici di verifica sono stati inviati a questo numero. Attendere 24 ore e riprovare.</string>
     <string name="passport_sending_vcode">Invio codice…</string>
     <string name="passport_set_password">Imposta password</string>
@@ -632,10 +655,12 @@ Invia questo codice al supervisore."</string>
     <string name="passport_talkback_switch_image_captcha">Passa al codice di verifica con immagine</string>
     <string name="passport_talkback_switch_voice_captcha">Passa al codice di verifica vocale</string>
     <string name="passport_talkback_voice_captcha">Riproduci codice vocale</string>
+    <string name="passport_ticket_send_by_second">Invia tra %d</string>
     <string name="passport_to_forget_password">Password dimenticata?</string>
     <string name="passport_to_password_login">Accedi con password</string>
     <string name="passport_to_verify_code_login">Accedi via SMS</string>
     <string name="passport_unknow_host_network_error">Controlla le tue impostazioni di rete e prova di nuovo</string>
+    <string name="passport_user_id_hint">Email/numero di telefono/ID account Xiaomi</string>
     <string name="passport_user_id_intro">Accedi con %1$s</string>
     <string name="passport_user_password_hint">Password</string>
     <string name="passport_wechat_not_install">Installa prima WeChat</string>
@@ -646,6 +671,8 @@ Invia questo codice al supervisore."</string>
     <string name="phone_auto_login_register_with_local_number">Crea account</string>
     <string name="photoPickerNotFoundText">Nessuna foto disponibile.</string>
     <string name="please_agree_protocal">Si prega di accettare il protocollo</string>
+    <string name="please_download_gallery">Installa Galleria per visualizzare</string>
+    <string name="pm">PM</string>
     <string name="post_miui_bbs_failed">"Impossibile postare nel forum MIUI"</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="privacy_category_title">Privacy</string>
@@ -657,6 +684,7 @@ Leggi e accetta la nuova versione di %3$s prima di continuare."</string>
     <string name="progressbar_title">Verifica falle di sicurezza…</string>
     <string name="protocal_dialog_confirm">Accetto</string>
     <string name="protocal_dialog_title">Attenzione</string>
+    <string name="qq_login_btn_content_description">Accedi con QQ</string>
     <string name="refresh">Aggiorna</string>
     <string name="register_by_local_phone_long_text">Crea account</string>
     <string name="register_by_local_phone_short_text">Crea account</string>
@@ -717,6 +745,7 @@ Leggi e accetta la nuova versione di %3$s prima di continuare."</string>
     <string name="solar_term_white_dews">Rugiada</string>
     <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_full_log_dialog_cancel">Non adesso</string>
     <string name="stop_full_log_dialog_confirm">Carica</string>
     <string name="stop_full_log_dialog_content">Raccolta log in corso. Smettere di generarli e caricare quelli già pronti?</string>
@@ -734,6 +763,7 @@ Leggi e accetta la nuova versione di %3$s prima di continuare."</string>
     <string name="suggest_upload_log_dialog_content">"Per aiutare i nostri ingegneri a individuare e risolvere il problema che hai riscontrato al più presto, ti consigliamo di caricare i relativi log. I log vengono utilizzati solo per analizzare i problemi e non verranno utilizzati per altri scopi."</string>
     <string name="suggest_upload_log_dialog_title">Carica log correlati</string>
     <string name="suggestion_description">Aggiungi una descrizione</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
@@ -818,6 +848,7 @@ Leggi e accetta la nuova versione di %3$s prima di continuare."</string>
     <string name="toast_report_copied_to_clipboard">Segnalazione copiata negli appunti</string>
     <string name="toast_report_sent_failed">"Impossibile inviare la segnalazione"</string>
     <string name="toast_report_sent_succeed">La segnalazione è stata inviata</string>
+    <string name="toast_screenshot_too_large">"Impossibile caricare immagini o video più grandi di %d MB."</string>
     <string name="toast_third_packagename_required">Inserisci nome app</string>
     <string name="today">Oggi</string>
     <string name="tomorrow">domani</string>
@@ -856,6 +887,7 @@ Dimensioni: %2$s"</string>
     <string name="wednesday">Mercoledì</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
+    <string name="weibo_login_btn_content_description">Accedi con Weibo</string>
     <string name="weixin_login_btn_content_description">Accedi con WeChat</string>
     <string name="withdraw">Revoca</string>
     <string name="withdraw_consent">Revoca autorizzazione...</string>
