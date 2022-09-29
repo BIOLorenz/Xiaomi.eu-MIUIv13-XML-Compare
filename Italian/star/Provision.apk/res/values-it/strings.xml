@@ -46,6 +46,7 @@
     <string name="ai_button_single_press_desc">Attivazione Mi IA</string>
     <string name="ai_button_title">A proposito del pulsante IA</string>
     <string name="album_introduction">Galleria ti permette di gestire, ottimizzare e modificare foto e video sul tuo dispositivo e di sincronizzarli con Xiaomi Cloud.</string>
+    <string name="am">AM</string>
     <string name="app_name">Introduzione</string>
     <string name="application_package_introduction">Questa app consente di installare applicazioni di terze parti, scansionarle prima dell\'installazione e fornire consigli dopo l\'installazione.</string>
     <string name="application_permissions">Autorizzazioni app</string>
@@ -277,6 +278,8 @@
     <string name="locale_picker_title">Scegli il paese</string>
     <string name="location_U">U+ GPSnWPS</string>
     <string name="location_content">Ai sensi della legge, gli operatori possono ottenere le informazioni sulla posizionedei dispositivi mobili per soddisfare i requisiti delle agenzie di soccorso di emergenza (vigili del fuoco e polizia) che perseguono scopi di sicurezza e soccorso di emergenza.</string>
+    <string name="location_introduction">I servizi di localizzazione utilizzano il posizionamento per fornire servizi specifici di localizzazione.</string>
+    <string name="location_introduction_qcom">I servizi di localizzazione utilizzano il posizionamento per fornire servizi specifici di localizzazione. Quando i servizi di localizzazione sono utilizzati dal dispositivo, il modulo QCC si connetterà alla rete per velocizzare il processo di posizionamento.</string>
     <string name="location_location">Le agenzie di soccorso possono ottenere la tua posizione attuale su richiesta</string>
     <string name="lockscreen_introduction">Il Carosello Sfondo ti permette di ricevere nuove immagini per la schermata di blocco ogni giorno.</string>
     <string name="message_introduction">È possibile utilizzare questa app per inviare e ricevere SMS.</string>
@@ -514,6 +517,7 @@ Puoi controllare questa funzione da Impostazioni &gt; Password e sicurezza &gt; 
     <string name="permission_write_device_store">Salvare gli elementi nella memoria del dispositivo</string>
     <string name="permission_write_device_store_summary">Per cachare i file sorgente di configurazione scaricati.</string>
     <string name="permission_xunlei_introduction">Per accedere e gestire gli account di sistema in modo da fornire i servizi Xunlei</string>
+    <string name="pm">PM</string>
     <string name="poco_agree_terms_other">(Inclusi l\'Informativa sulla Privacy ed l\'Accordo Utente di POCO Launcher)</string>
     <string name="poco_launcher_privacy_policy">Informativa sulla privacy di POCO Launcher</string>
     <string name="poco_launcher_user_agreement">Accordo utente di POCO Launcher</string>
@@ -642,6 +646,8 @@ Puoi controllare questa funzione da Impostazioni &gt; Password e sicurezza &gt; 
     <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
     <string name="start_up_slogan">Solo tua</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_not_set">Non impostato</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
@@ -650,6 +656,7 @@ Puoi controllare questa funzione da Impostazioni &gt; Password e sicurezza &gt; 
     <string name="systemdesktop_introduction">Il Plugin servizi schermata Home fornisce funzionalità di base come schermata Home, interfaccia utente di sistema e screenshot.</string>
     <string name="term_condition_detail">"Ottieni ogni giorno immagini straordinarie e storie emozionanti sulla tua schermata di blocco. Questa funzionalità non utilizzerà i tuoi dati per la personalizzazione senza il tuo consenso. Leggi e accetta l'&lt;a href =%1$s&gt;Informativa sulla privacy&lt;/a&gt; e l'&lt;a href =%2$s&gt;Accordo utente&lt;/a&gt; del fornitore di contenuti di terze parti prima di utilizzare questa funzionalità."</string>
     <string name="terms_of_label_period">". "</string>
+    <string name="terms_of_label_separator">", "</string>
     <string name="terms_of_use">Termini e condizioni</string>
     <string name="terms_of_use_label_MSA">MSA</string>
     <string name="terms_of_use_label_Mistore">, plugin di sistema Mi Store</string>
