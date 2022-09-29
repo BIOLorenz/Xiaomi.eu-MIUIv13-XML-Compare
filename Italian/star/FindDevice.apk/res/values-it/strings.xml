@@ -26,6 +26,7 @@
     <string name="activate_xiaomi_account">Attiva questo dispositivo</string>
     <string name="adding_or_updating_account">Aggiornamento account…</string>
     <string name="afternoon">Pomeriggio</string>
+    <string name="am">AM</string>
     <string name="app_name">Trova Telefono</string>
     <string name="captcha">Captcha</string>
     <string name="change_find_device_status_failed">"Impossibile sbloccare. %s."</string>
@@ -143,6 +144,7 @@ Contatta il tuo venditore per ulteriori informazioni."</string>
     <string name="find_device_error_access_denied">Accesso negato.</string>
     <string name="find_device_error_account_sys_timeout">"Impossibile collegarsi al Mi Account"</string>
     <string name="find_device_error_account_unknown_error">Errore Mi Account (%s)</string>
+    <string name="find_device_error_custom">%s</string>
     <string name="find_device_error_network">Cerca la tua connessione e riprova.</string>
     <string name="find_device_error_password_changed">La password account è stata cambiata di recente.</string>
     <string name="find_device_error_server">Errore server (%s). </string>
@@ -164,6 +166,7 @@ Contatta il tuo venditore per ulteriori informazioni."</string>
     <string name="fmt_date_long_year_month">MMMM, yyyy</string>
     <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
     <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
     <string name="fmt_date_numeric_year_month">M/yyyy</string>
@@ -178,12 +181,19 @@ Contatta il tuo venditore per ulteriori informazioni."</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time_12hour">"hh"</string>
     <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
     <string name="fmt_time_12hour_minute_second">h:mm:ss</string>
     <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ha</string>
     <string name="fmt_time_24hour">"HH"</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
+    <string name="fmt_time_millis">"S'ms'"</string>
+    <string name="fmt_time_minute">"m'min'"</string>
     <string name="fmt_time_minute_second">"m:s"</string>
     <string name="fmt_time_minute_second_millis">"m:s.S"</string>
+    <string name="fmt_time_second">"s's'"</string>
     <string name="fmt_time_second_millis">"s.S"</string>
     <string name="fmt_time_timezone">zT</string>
     <string name="fmt_weekday_date">DW</string>
@@ -292,6 +302,7 @@ Contatta il tuo venditore per ulteriori informazioni."</string>
     <string name="phone_locked">Questo dispositivo è associato ad un Mi Account (%s). Esegui l\'accesso per attivare il dispositivo.</string>
     <string name="phone_locked_account_email">, email associata: %s</string>
     <string name="phone_locked_account_phone">, numero associato: %s</string>
+    <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="return_to_call">Premi per tornare alla chiamata</string>
     <string name="saturday">Sabato</string>
@@ -323,6 +334,7 @@ Contatta il tuo venditore per ulteriori informazioni."</string>
     <string name="solar_term_white_dews">Rugiada</string>
     <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_on_empty_captcha">"Il captcha non può essere vuoto"</string>
     <string name="stop_on_empty_password">"La password non può essere vuota"</string>
     <string name="sunday">Domenica</string>
