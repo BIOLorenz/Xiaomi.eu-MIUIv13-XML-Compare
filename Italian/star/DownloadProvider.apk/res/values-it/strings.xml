@@ -24,13 +24,16 @@
     <string name="abc_toolbar_collapse_description">Riduci</string>
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="afternoon">Pomeriggio</string>
+    <string name="am">AM</string>
     <string name="app_label">Download</string>
+    <string name="app_name">blur</string>
     <string name="auto_restart_under_wifi">Il Wi-Fi scaricherà automaticamente il file</string>
     <string name="button_cancel_download">Annulla</string>
     <string name="button_download_now">Scarica adesso</string>
     <string name="button_queue_for_wifi">Playlist attuale</string>
     <string name="button_start_now">Avvia adesso</string>
     <string name="button_wait_for_wifi">Attendi</string>
+    <string name="byteShort">B</string>
     <string name="channel_active">Download attivo</string>
     <string name="channel_complete">Download completato</string>
     <string name="channel_insufficient_space">Spazio insufficiente</string>
@@ -177,6 +180,7 @@
     <string name="eras_bc">DC</string>
     <string name="evening">Pomeriggio</string>
     <string name="expand_button_title">Avanzate</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="fmt_chinese_date">dd/MM</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -339,9 +343,12 @@
     <string name="permlab_downloadWithoutNotification">download file senza notifica</string>
     <string name="permlab_seeAllExternal">Tutti i download in archivio USB</string>
     <string name="petabyteShort">PB</string>
+    <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="privacy_notif_content">Tocca per vedere i dettagli.</string>
     <string name="privacy_notif_title">Xunlei Download Accelerator attivato</string>
+    <string name="recall_tip">"Installa \"Download\"
+per utilizzare tutte le funzionalità"</string>
     <string name="recommend_installing">Installazione…</string>
     <string name="recommend_open">Apri</string>
     <string name="recommended_file_size_download_in_mobile">Utilizzare %s di dati su rete cellulare per scaricare questo file?</string>
@@ -378,6 +385,7 @@
     <string name="solar_term_white_dews">Rugiada</string>
     <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
@@ -429,6 +437,7 @@
     <string name="time_picker_dialog_title">Imposta ora</string>
     <string name="toast_net_error">"Impossibile connettersi alla rete. Verifica le impostazioni di rete e riprova."</string>
     <string name="today">Oggi</string>
+    <string name="today_download">Scaricati oggi</string>
     <string name="tomorrow">domani</string>
     <string name="tuesday">Martedì</string>
     <string name="tuesday_short">Mar</string>
