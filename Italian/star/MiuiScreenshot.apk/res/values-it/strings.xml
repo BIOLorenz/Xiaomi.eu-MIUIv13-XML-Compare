@@ -28,6 +28,8 @@
     <string name="accessible_rect">Rettangolo</string>
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="afternoon">Pomeriggio</string>
+    <string name="am">AM</string>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="app_name">Screenshot</string>
     <string name="asus">Asus</string>
     <string name="asus_phone">Asus</string>
@@ -324,6 +326,7 @@ uno screenshot esteso"</string>
     <string name="month_september_shortest">Set</string>
     <string name="more">Altro</string>
     <string name="morning">Mattina</string>
+    <string name="multi_file_name">%1$s, %2$s</string>
     <string name="name_split">,</string>
     <string name="name_with_ellipsize">%1$s…%2$s</string>
     <string name="nearby_share">Condivisione nelle vicinanze</string>
@@ -367,6 +370,7 @@ uno screenshot esteso"</string>
     <string name="photo_editor_text">Testo</string>
     <string name="photo_font_download_failed_for_notwork">"Impossibile scaricare. Collegati alla rete e prova di nuovo."</string>
     <string name="photo_save_to_msg">Salvato in %s</string>
+    <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="realme">Realme</string>
     <string name="realme_phone">Realme</string>
@@ -403,6 +407,7 @@ uno screenshot esteso"</string>
     <string name="redmi_note_9_pro_max">Redmi Note 9 Pro Max</string>
     <string name="redmi_note_9s">Redmi Note 9S</string>
     <string name="remover_menu_processing">In lavorazione</string>
+    <string name="required_permissions">;</string>
     <string name="rog">ROG</string>
     <string name="rog_phone">ROG</string>
     <string name="samsung">Samsung</string>
@@ -455,10 +460,12 @@ uno screenshot esteso"</string>
     <string name="send_files_to">Invia elementi a</string>
     <string name="share_and_delete_picture">Elimina dopo aver condiviso</string>
     <string name="share_and_delete_screenshot">Elimina dopo aver condiviso</string>
+    <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="smartisan">Smartisan</string>
     <string name="smartisan_phone">Smartisan</string>
@@ -486,6 +493,8 @@ uno screenshot esteso"</string>
     <string name="solar_term_white_dews">Rugiada</string>
     <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
@@ -572,6 +581,8 @@ uno screenshot esteso"</string>
     <string name="v7_preference_on">ATTIVATO</string>
     <string name="vivo">Vivo</string>
     <string name="vivo_phone">Vivo</string>
+    <string name="wave_path_1">M120,40 A80,80,0,0,0,1,120,200 A80,80,0,0,1,120,40</string>
+    <string name="wave_path_2">M120,0 A120,120,0,0,1,120,240 A120,120,0,0,1,120,0</string>
     <string name="wednesday">Mercoledì</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
