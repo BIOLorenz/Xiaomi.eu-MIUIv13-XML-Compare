@@ -68,6 +68,10 @@
         <item quantity="other">%d nuove notifiche</item>
         <item quantity="one">%d nuova notifica</item>
     </plurals>
+    <plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">La tua sessione di potenziamento della velocità di rete terminerà tra %d giorno. Potresti iniziare a sperimentare ritardi di rete. Rinnova la sessione ora?</item>
+        <item quantity="one">La tua sessione di potenziamento della velocità di rete terminerà tra %d giorno. Potresti iniziare a sperimentare ritardi di rete. Rinnova la sessione ora?</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuti fa</item>
         <item quantity="one">1 minuto fa</item>
@@ -79,5 +83,9 @@
     <plurals name="power_battery_minute">
         <item quantity="other">%s min</item>
         <item quantity="one">%s min</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">%s minuti dello schermo rimanenti</item>
+        <item quantity="one">%s min del tempo rimanente dello schermo</item>
     </plurals>
 </resources>
