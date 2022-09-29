@@ -36,6 +36,22 @@
         <item quantity="other">%d minuti fa</item>
         <item quantity="one">1 minuto fa</item>
     </plurals>
+    <plurals name="app_info_permission_count">
+        <item quantity="other">%1$s permessi</item>
+        <item quantity="one">%1$s permesso</item>
+    </plurals>
+    <plurals name="app_info_permission_count_">
+        <item quantity="other">%1$s autorizzazioni,</item>
+        <item quantity="one">%1$s permesso,</item>
+    </plurals>
+    <plurals name="app_info_private_permission_count">
+        <item quantity="other">%1$s autorizzazioni legate alla privacy</item>
+        <item quantity="one">%1$s autorizzazione relativa alla privacy</item>
+    </plurals>
+    <plurals name="comment_count">
+        <item quantity="other">%1$s recensioni</item>
+        <item quantity="one">%1$s recensione</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">mezz\'ora fa</item>
         <item quantity="other">mezz\'ora fa</item>
@@ -71,5 +87,29 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuti fa</item>
         <item quantity="one">1 minuto fa</item>
+    </plurals>
+    <plurals name="password_wrong_retry_msg">
+        <item quantity="other">Troppi tentativi non riusciti. Riprova tra %1$S secondi.</item>
+        <item quantity="one">Troppi tentativi non riusciti. Riprova tra %1$S secondi.</item>
+    </plurals>
+    <plurals name="pure_mode_guard_day">
+        <item quantity="other">La modalità sicura è stata attivata per %d giorni</item>
+        <item quantity="one">La modalità sicura è stata attivata per %d giorno</item>
+    </plurals>
+    <plurals name="settings_security_mode_enable_count">
+        <item quantity="other">La modalità sicura sta lavorando sui dispositivi &lt;font color=#0D84FF&gt;%1$s&lt;/font&gt;</item>
+        <item quantity="one">La modalità sicura sta lavorando sul dispositivo &lt;font color=#0D84FF&gt;%1$s&lt;/font&gt;</item>
+    </plurals>
+    <plurals name="settings_security_mode_protect_count">
+        <item quantity="other">Rischi neutralizzati &lt;font color=#0D84FF&gt;%1$s&lt;/font&gt;</item>
+        <item quantity="one">Rischio neutralizzato &lt;font color=#0D84FF&gt;%1$s&lt;/font&gt;</item>
+    </plurals>
+    <plurals name="settings_security_mode_protect_days">
+        <item quantity="other">La modalità sicura è stata attivata per &lt;font color=#0D84FF&gt;%1$s&lt;/font&gt; giorni</item>
+        <item quantity="one">La modalità sicura è stata attivata per &lt;font color=#0D84FF&gt;%1$s&lt;/font&gt; giorno</item>
+    </plurals>
+    <plurals name="settings_security_mode_title_on_msg">
+        <item quantity="other">La modalità sicura è stata attivata da %1$s giorni</item>
+        <item quantity="one">La modalità sicura è stata attivata per %1$s giorni</item>
     </plurals>
 </resources>
