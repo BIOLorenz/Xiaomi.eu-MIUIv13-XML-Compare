@@ -244,8 +244,8 @@
   </string-array>
   <string-array name="prefEntries_alerts_popup_new">
     <item>Spenta</item>
-    <item>For all events</item>
-    <item>For time-sensitive events</item>
+    <item>Per tutti gli eventi</item>
+    <item>Per eventi a tempo</item>
   </string-array>
   <string-array name="prefEntries_alerts_vibrateWhen">
     <item>Sempre</item>
@@ -589,5 +589,14 @@
   <string-array name="widget_style_list">
     <item>Trasparente</item>
     <item>Sfondo bianco</item>
+  </string-array>
+  <string-array name="year_view_week_header_name">
+    <item>S</item>
+    <item>M</item>
+    <item>T</item>
+    <item>W</item>
+    <item>T</item>
+    <item>F</item>
+    <item>S</item>
   </string-array>
 </resources>
