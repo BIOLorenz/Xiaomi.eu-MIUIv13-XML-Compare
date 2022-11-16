@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="today">questi giorni</string>
     <string name="weather_type_6">Acquazzone</string>
     <string name="weather_type_13">Bufera di neve</string>
     <string name="weather_type_15">Forti nevicate</string>
