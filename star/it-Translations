@@ -1,127 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="settings_search_earth">
-        <item>Casa</item>
-        <item>Sfondo/Super Sfondi/Home</item>
-        <item>Terra;Super Sfondi;Edizione Terra;Sfondo</item>
+    <string-array name="animation_rate_entries">
+        <item>Rilassato</item>
+        <item>Bilanciato</item>
+        <item>Veloce</item>
     </string-array>
-    <string-array name="settings_search_geometry">
-        <item>Geometria</item>
-        <item>Sfondi/Super Sfondi/Geometria</item>
-        <item>Geometria;Astratto;Super Sfondi;Sfondo</item>
+    <string-array name="cell_layout_size_entries">
+        <item>4x4</item>
+        <item>4x5</item>
     </string-array>
-    <string-array name="settings_search_mars">
-        <item>Il Pianeta Rosso</item>
-        <item>Sfondo/Super Sfondi/Il pianeta rosso</item>
-        <item>Marte;Edizione Marte;Super Sfondi;Sfondo</item>
+    <string-array name="cell_layout_size_values">
+        <item>4x4</item>
+        <item>4x5</item>
     </string-array>
-    <string-array name="settings_search_saturn">
-        <item>Anelli di Saturno</item>
-        <item>Sfondi/Super Sfondi/Anelli di Saturno</item>
-        <item>Pianeta;Saturno;Super Sfondi;Sfondo</item>
+    <string-array name="drawer_alpha">
+        <item>0%</item>
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
     </string-array>
-    <string-array name="settings_search_snowmountain">
-        <item>Cime innevate</item>
-        <item>Sfondi/Super Sfondi/Picchi nevosi</item>
-        <item>Terra;Montagne;Super Sfondi;Sfondo</item>
+    <string-array name="editing_mode_entries">
+        <item>Sfondo</item>
+        <item>Widget</item>
+        <item>Impostazioni</item>
     </string-array>
-    <string-array name="settings_search_superwp">
-        <item>Super Sfondi</item>
-        <item>Sfondi/Super Sfondi</item>
-        <item>Super Sfondi;Sfondo;Sfondo dinamico;Sfondo 3D</item>
+    <string-array name="gadget_weather_image">
+        <item>Cancella</item>
+        <item>Nuvoloso</item>
+        <item>Nebbioso</item>
+        <item>Nebbioso</item>
+        <item>Forte pioggia</item>
+        <item>Temporale</item>
+        <item>Temporale</item>
+        <item>Forte temporale</item>
+        <item>Acquazzoni</item>
+        <item>Pioggia intensa</item>
+        <item>Pioggia</item>
+        <item>Pioggerella</item>
+        <item>Nevischio</item>
+        <item>Bufera di neve</item>
+        <item>Neve a tratti</item>
+        <item>Nevicata Intensa</item>
+        <item>Nevicata</item>
+        <item>Nevicata leggera</item>
+        <item>Forte tempesta di sabbia</item>
+        <item>Tempesta di sabbia</item>
+        <item>Tempesta di sabbia leggera</item>
+        <item>Tempesta di sabbia</item>
+        <item>Grandine</item>
+        <item>Polveroso</item>
+        <item>Foschia</item>
     </string-array>
-    <string-array name="settings_search_weather">
-        <item>Meteo</item>
-        <item>Sfondo/Super Sfondi/Meteo</item>
-        <item>Meteo;Informazioni meteo;Super Sfondi;Sfondo</item>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Predefinita</item>
+        <item>Classico</item>
     </string-array>
-    <string-array name="super_wallpaper_list_ids">
-        <item>snowmountain</item>
-        <item>geometry</item>
-        <item>saturn</item>
-        <item>earth</item>
-        <item>mars</item>
+    <string-array name="icon_size">
+        <item>XS</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
     </string-array>
-    <string-array name="super_wallpaper_res_scale_075_devices">
-        <item>andromeda</item>
-        <item>cepheus</item>
-        <item>crux</item>
-        <item>raphaelin</item>
-        <item>raphael</item>
-        <item>polaris</item>
-        <item>dipper</item>
-        <item>equuleus</item>
-        <item>perseus</item>
-        <item>ursa</item>
-        <item>beryllium</item>
-        <item>sagit</item>
-        <item>chiron</item>
-        <item>monetin</item>
-        <item>monet</item>
-        <item>vangogh</item>
-        <item>atom</item>
-        <item>bomb</item>
+    <string-array name="transformation_entries">
+        <item>Classico 2</item>
+        <item>Dissolvenza</item>
+        <item>Inclinazione</item>
+        <item>Pagina</item>
+        <item>Cascata</item>
+        <item>Ruotare</item>
+        <item>Cubo</item>
     </string-array>
-    <string-array name="super_wallpaper_res_scale_080_devices">
-        <item>cmi</item>
-        <item>thyme</item>
-        <item>haydn</item>
-        <item>haydnin</item>
-        <item>asterisco</item>
-        <item>starin</item>
-        <item>mars</item>
-        <item>marsin</item>
-        <item>renoir</item>
-        <item>renoirin</item>
-        <item>alioth</item>
-        <item>aliothin</item>
-        <item>umi</item>
-        <item>lmiin</item>
-        <item>lmi</item>
-        <item>lmipro</item>
-        <item>cas</item>
-        <item>venus</item>
-        <item>ares</item>
+    <string-array name="wallpaper_scroll_entries">
+        <item>Tema predefinito</item>
+        <item>Centro</item>
+        <item>Sinistra</item>
+        <item>Destra</item>
     </string-array>
-    <string-array name="support_super_wallpaper_devices">
-        <item>cmi</item>
-        <item>umi</item>
-        <item>lmiin</item>
-        <item>lmi</item>
-        <item>lmipro</item>
-        <item>cepheus</item>
-        <item>crux</item>
-        <item>raphaelin</item>
-        <item>raphael</item>
-        <item>polaris</item>
-        <item>dipper</item>
-        <item>equuleus</item>
-        <item>perseus</item>
-        <item>ursa</item>
-        <item>beryllium</item>
-        <item>sagit</item>
-        <item>chiron</item>
-        <item>monetin</item>
-        <item>monet</item>
-        <item>vangogh</item>
-        <item>atom</item>
-        <item>bomb</item>
-        <item>cas</item>
-        <item>surya</item>
-        <item>apollo</item>
-        <item>klein</item>
-        <item>cezanne</item>
-        <item>venus</item>
-        <item>haydn</item>
-        <item>haydnin</item>
-        <item>asterisco</item>
-        <item>starin</item>
-        <item>mars</item>
-        <item>marsin</item>
-        <item>renoir</item>
-        <item>renoirin</item>
-        <item>alioth</item>
-        <item>aliothin</item>
-        <item>thyme</item>
+    <string-array name="wallpaper_scroll_values">
+        <item>per Tema</item>
+        <item>centro</item>
+        <item>sinistra</item>
+        <item>destra</item>
     </string-array>
 </resources>
